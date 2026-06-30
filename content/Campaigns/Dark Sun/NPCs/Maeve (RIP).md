@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Maeve
-created: 2026-06-28T01:28:19.302+10:00
-modified: 2026-06-28T01:28:19.303+10:00
+created: 2026-06-30T14:24:09.122+10:00
+modified: 2026-06-30T14:24:09.123+10:00
 tags:
   - npc
   - companion

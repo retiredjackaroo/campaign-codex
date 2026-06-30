@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T01:21:53.908+10:00
-modified: 2026-06-28T01:21:53.908+10:00
+created: 2026-06-30T14:19:34.328+10:00
+modified: 2026-06-30T14:19:34.329+10:00
 tags:
   - npc
   - companion

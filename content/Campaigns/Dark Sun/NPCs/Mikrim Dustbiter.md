@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Mikrim
-created: 2026-06-27T21:38:56.202+10:00
-modified: 2026-06-28T01:09:15.892+10:00
+created: 2026-06-30T14:24:23.923+10:00
+modified: 2026-06-30T14:24:23.923+10:00
 tags:
   - npc
   - wardens

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Kell
   - Cel
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-28T18:08:15.923+10:00
+created: 2026-06-30T14:04:29.064+10:00
+modified: 2026-06-30T14:04:29.065+10:00
 tags:
   - npc
   - kabels-hill

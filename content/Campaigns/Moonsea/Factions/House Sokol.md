@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T17:40:06.465+10:00
-modified: 2026-06-28T17:40:06.465+10:00
+created: 2026-06-30T13:46:22.868+10:00
+modified: 2026-06-30T13:46:22.869+10:00
 tags:
   - faction
   - noble-house

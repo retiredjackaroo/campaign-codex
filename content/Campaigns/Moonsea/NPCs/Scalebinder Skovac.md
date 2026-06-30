@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T17:35:46.176+10:00
-modified: 2026-06-28T17:35:46.177+10:00
+created: 2026-06-30T14:07:29.181+10:00
+modified: 2026-06-30T14:07:29.185+10:00
 tags:
   - npc
   - cult-of-the-dragon

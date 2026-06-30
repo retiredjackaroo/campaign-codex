@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T17:34:42.383+10:00
-modified: 2026-06-28T17:34:42.383+10:00
+created: 2026-06-30T14:04:17.721+10:00
+modified: 2026-06-30T14:04:17.721+10:00
 tags:
   - npc
   - house-sokol

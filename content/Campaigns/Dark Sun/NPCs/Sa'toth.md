@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Satoth
-created: 2026-06-27T21:38:50.526+10:00
-modified: 2026-06-28T01:09:35.383+10:00
+created: 2026-06-30T14:26:08.478+10:00
+modified: 2026-06-30T14:26:08.478+10:00
 tags:
   - npc
   - wardens

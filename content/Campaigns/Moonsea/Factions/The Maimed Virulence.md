@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Maimed Virulence
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-28T18:08:15.901+10:00
+created: 2026-06-30T13:46:39.207+10:00
+modified: 2026-06-30T13:46:39.207+10:00
 tags:
   - faction
   - antagonist

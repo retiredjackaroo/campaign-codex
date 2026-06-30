@@ -4,8 +4,8 @@ aliases:
   - Seranolla the Whisperer
   - Serranolla the Whisperer
   - Serenola
-created: 2026-06-28T18:35:49.765+10:00
-modified: 2026-06-28T18:35:49.765+10:00
+created: 2026-06-30T14:07:34.976+10:00
+modified: 2026-06-30T14:07:34.977+10:00
 tags:
   - npc
   - ally

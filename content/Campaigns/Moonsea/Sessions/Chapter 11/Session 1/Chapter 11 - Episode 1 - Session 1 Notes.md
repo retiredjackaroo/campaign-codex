@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-06-22T17:48:17.000+10:00
-modified: 2026-06-28T20:41:11.472+10:00
+created: 2026-06-30T14:13:48.807+10:00
+modified: 2026-06-30T14:13:48.808+10:00
 tags:
   - session
   - chapter-11

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Templars
-created: 2026-06-27T12:27:42.820+10:00
-modified: 2026-06-27T12:27:42.820+10:00
+created: 2026-06-30T14:15:36.487+10:00
+modified: 2026-06-30T14:15:36.487+10:00
 tags:
   - faction
   - enemy

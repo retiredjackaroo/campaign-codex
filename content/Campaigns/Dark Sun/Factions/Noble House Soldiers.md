@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Noble Houses
   - House Soldiers
-created: 2026-06-27T12:27:47.700+10:00
-modified: 2026-06-27T12:27:47.701+10:00
+created: 2026-06-30T14:15:23.809+10:00
+modified: 2026-06-30T14:15:23.809+10:00
 tags:
   - faction
   - enemy

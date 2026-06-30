@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Corno
-created: 2026-06-28T00:46:55.957+10:00
-modified: 2026-06-28T01:05:30.214+10:00
+created: 2026-06-30T14:23:46.788+10:00
+modified: 2026-06-30T14:23:46.788+10:00
 tags:
   - npc
   - slums

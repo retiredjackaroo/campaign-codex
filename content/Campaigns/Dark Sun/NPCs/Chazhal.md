@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Pitch
   - Chazhal the Pitch
-created: 2026-06-27T21:40:13.122+10:00
-modified: 2026-06-27T21:40:13.122+10:00
+created: 2026-06-30T14:20:23.354+10:00
+modified: 2026-06-30T14:20:23.355+10:00
 tags:
   - npc
   - elven-market

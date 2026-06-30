@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Fire Ant
   - Hushad Fire Ant
-created: 2026-06-27T21:39:48.322+10:00
-modified: 2026-06-27T21:39:48.322+10:00
+created: 2026-06-30T14:23:33.436+10:00
+modified: 2026-06-30T14:23:33.436+10:00
 tags:
   - npc
   - gulbadan-estate

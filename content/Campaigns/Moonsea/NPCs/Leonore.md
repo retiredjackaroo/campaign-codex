@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T20:27:34.075+10:00
-modified: 2026-06-28T20:27:34.075+10:00
+created: 2026-06-30T14:05:11.135+10:00
+modified: 2026-06-30T14:05:11.135+10:00
 tags:
   - npc
   - fallen-aasimar

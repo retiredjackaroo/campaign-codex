@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.296+10:00
+created: 2026-06-30T13:46:26.079+10:00
+modified: 2026-06-30T13:46:26.079+10:00
 tags:
   - faction
   - mercenary

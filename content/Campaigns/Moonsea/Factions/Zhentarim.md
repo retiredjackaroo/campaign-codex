@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Black Network
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.318+10:00
+created: 2026-06-30T13:48:09.327+10:00
+modified: 2026-06-30T13:48:09.328+10:00
 tags:
   - faction
 ---

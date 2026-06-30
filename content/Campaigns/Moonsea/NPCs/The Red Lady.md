@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - The Red Lady
-created: 2026-06-28T17:08:39.511+10:00
-modified: 2026-06-28T20:04:42.896+10:00
+created: 2026-06-30T14:12:56.910+10:00
+modified: 2026-06-30T14:12:56.911+10:00
 tags:
   - npc
   - mysterious

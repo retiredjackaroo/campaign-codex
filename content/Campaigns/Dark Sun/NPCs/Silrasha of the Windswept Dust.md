@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Silrasha
-created: 2026-06-27T21:42:05.048+10:00
-modified: 2026-06-27T21:42:05.048+10:00
+created: 2026-06-30T14:27:01.069+10:00
+modified: 2026-06-30T14:27:01.069+10:00
 tags:
   - npc
   - the-moot

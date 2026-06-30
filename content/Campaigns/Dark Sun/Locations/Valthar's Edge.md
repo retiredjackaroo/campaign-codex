@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Valthars Edge
-created: 2026-06-27T21:34:12.995+10:00
-modified: 2026-06-27T21:34:12.995+10:00
+created: 2026-06-30T14:18:29.667+10:00
+modified: 2026-06-30T14:18:29.668+10:00
 tags:
   - location
 ---

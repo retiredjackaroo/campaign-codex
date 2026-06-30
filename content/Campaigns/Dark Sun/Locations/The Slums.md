@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Slums
   - Slum Ruins
-created: 2026-06-27T22:02:55.472+10:00
-modified: 2026-06-27T22:02:55.473+10:00
+created: 2026-06-30T14:17:52.072+10:00
+modified: 2026-06-30T14:17:52.072+10:00
 tags:
   - location
   - urban

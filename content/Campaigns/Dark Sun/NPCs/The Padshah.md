@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Padshah
   - Nur Hamida Gulbadan
-created: 2026-06-27T21:43:31.646+10:00
-modified: 2026-06-27T21:43:31.646+10:00
+created: 2026-06-30T14:28:31.178+10:00
+modified: 2026-06-30T14:28:31.179+10:00
 tags:
   - npc
   - ruler

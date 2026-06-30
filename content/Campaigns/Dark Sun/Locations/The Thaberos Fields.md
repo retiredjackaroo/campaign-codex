@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Thaberos Fields
-created: 2026-06-27T21:37:11.938+10:00
-modified: 2026-06-27T21:37:11.938+10:00
+created: 2026-06-30T14:18:23.492+10:00
+modified: 2026-06-30T14:18:23.493+10:00
 tags:
   - location
   - thaberos

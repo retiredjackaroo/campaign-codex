@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Lord Sage
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-28T20:04:42.851+10:00
+created: 2026-06-30T14:12:53.766+10:00
+modified: 2026-06-30T14:12:53.766+10:00
 tags:
   - npc
   - phlan

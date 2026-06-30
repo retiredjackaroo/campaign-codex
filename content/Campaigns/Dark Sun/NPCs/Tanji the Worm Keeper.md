@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tanji
   - Worm Keeper
-created: 2026-06-27T21:39:04.972+10:00
-modified: 2026-06-28T01:08:40.883+10:00
+created: 2026-06-30T14:27:49.031+10:00
+modified: 2026-06-30T14:27:49.032+10:00
 tags:
   - npc
   - wardens

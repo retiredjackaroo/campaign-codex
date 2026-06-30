@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Hammer of Impiltur
-created: 2026-06-28T18:34:43.852+10:00
-modified: 2026-06-28T18:34:43.852+10:00
+created: 2026-06-30T14:13:24.706+10:00
+modified: 2026-06-30T14:13:24.706+10:00
 tags:
   - npc
   - paladin

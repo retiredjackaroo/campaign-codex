@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Venerants of Dust
-created: 2026-06-27T21:42:36.352+10:00
-modified: 2026-06-27T21:42:36.353+10:00
+created: 2026-06-30T14:15:50.623+10:00
+modified: 2026-06-30T14:15:50.623+10:00
 tags:
   - faction
   - religious

@@ -5,8 +5,8 @@ aliases:
   - Kastra
   - Cassra
   - Scribe Master Cassra Brandywine
-created: 2026-06-28T20:46:55.721+10:00
-modified: 2026-06-28T20:46:55.722+10:00
+created: 2026-06-30T14:04:46.104+10:00
+modified: 2026-06-30T14:04:46.104+10:00
 tags:
   - npc
   - phlan

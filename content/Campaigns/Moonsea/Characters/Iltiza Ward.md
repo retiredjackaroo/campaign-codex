@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tiz
   - Iltiza
-created: 2026-06-28T20:27:26.460+10:00
-modified: 2026-06-28T20:27:26.460+10:00
+created: 2026-06-30T13:40:05.968+10:00
+modified: 2026-06-30T13:40:05.968+10:00
 tags:
   - pc
   - party

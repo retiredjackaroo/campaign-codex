@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Greycastle
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.377+10:00
+created: 2026-06-30T14:03:48.826+10:00
+modified: 2026-06-30T14:03:48.826+10:00
 tags:
   - npc
   - phlan

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jahandar Shah
   - High Kuatogagh
-created: 2026-06-27T21:41:51.786+10:00
-modified: 2026-06-27T21:41:51.786+10:00
+created: 2026-06-30T14:23:29.048+10:00
+modified: 2026-06-30T14:23:29.048+10:00
 tags:
   - npc
   - the-moot

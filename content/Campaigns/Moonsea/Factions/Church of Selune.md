@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Selune
   - Church of Selûne
-created: 2026-06-28T18:48:26.513+10:00
-modified: 2026-06-28T18:48:26.513+10:00
+created: 2026-06-30T13:44:03.688+10:00
+modified: 2026-06-30T13:44:03.688+10:00
 tags:
   - faction
   - religion

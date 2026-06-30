@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Pug
-created: 2026-06-28T20:11:52.923+10:00
-modified: 2026-06-28T20:11:52.924+10:00
+created: 2026-06-30T13:41:43.575+10:00
+modified: 2026-06-30T13:41:43.575+10:00
 tags:
   - pc
   - party

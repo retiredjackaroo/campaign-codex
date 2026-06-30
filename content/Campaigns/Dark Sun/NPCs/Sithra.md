@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-27T21:40:21.459+10:00
-modified: 2026-06-27T21:40:21.459+10:00
+created: 2026-06-30T14:27:09.124+10:00
+modified: 2026-06-30T14:27:09.124+10:00
 tags:
   - npc
   - elven-market

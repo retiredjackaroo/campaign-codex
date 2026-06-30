@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Lord Yellowcrest
-created: 2026-06-28T17:56:00.991+10:00
-modified: 2026-06-28T20:04:42.849+10:00
+created: 2026-06-30T14:03:07.692+10:00
+modified: 2026-06-30T14:03:07.692+10:00
 tags:
   - npc
   - antagonist

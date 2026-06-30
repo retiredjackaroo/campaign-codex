@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Thylren
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.386+10:00
+created: 2026-06-30T14:13:04.536+10:00
+modified: 2026-06-30T14:13:04.536+10:00
 tags:
   - npc
   - zhentarim

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Leviathan
-created: 2026-06-27T21:43:50.200+10:00
-modified: 2026-06-28T01:39:27.404+10:00
+created: 2026-06-30T14:24:02.403+10:00
+modified: 2026-06-30T14:24:02.403+10:00
 tags:
   - npc
   - ally

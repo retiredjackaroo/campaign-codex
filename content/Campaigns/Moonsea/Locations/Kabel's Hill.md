@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Cobbles Hill
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.356+10:00
+created: 2026-06-30T13:54:10.852+10:00
+modified: 2026-06-30T13:54:10.853+10:00
 tags:
   - location
   - village

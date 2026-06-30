@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.362+10:00
+created: 2026-06-30T14:01:14.768+10:00
+modified: 2026-06-30T14:01:14.768+10:00
 tags:
   - location
   - wilderness

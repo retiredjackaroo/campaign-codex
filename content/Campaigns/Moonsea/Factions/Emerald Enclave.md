@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T18:34:51.468+10:00
-modified: 2026-06-28T18:34:51.469+10:00
+created: 2026-06-30T13:45:08.476+10:00
+modified: 2026-06-30T13:45:08.477+10:00
 tags:
   - faction
   - druidic

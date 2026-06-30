@@ -1,8 +1,8 @@
 ---
 publish: true
 title: The Silver Pyramid
-created: 2026-06-22T17:48:17.000+10:00
-modified: 2026-06-28T20:07:04.983+10:00
+created: 2026-06-30T14:13:52.893+10:00
+modified: 2026-06-30T14:13:52.893+10:00
 tags:
   - session
   - chapter-11

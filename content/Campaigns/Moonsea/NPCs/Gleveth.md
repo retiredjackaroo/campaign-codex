@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Glevith
-created: 2026-06-28T17:54:48.694+10:00
-modified: 2026-06-28T17:54:48.694+10:00
+created: 2026-06-30T14:03:52.832+10:00
+modified: 2026-06-30T14:03:52.832+10:00
 tags:
   - npc
   - phlan

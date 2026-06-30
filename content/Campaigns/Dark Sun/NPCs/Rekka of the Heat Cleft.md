@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Rekka
-created: 2026-06-27T21:38:45.737+10:00
-modified: 2026-06-28T01:09:51.280+10:00
+created: 2026-06-30T14:25:44.507+10:00
+modified: 2026-06-30T14:25:44.508+10:00
 tags:
   - npc
   - wardens

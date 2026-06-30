@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Wardens
-created: 2026-06-27T21:37:53.932+10:00
-modified: 2026-06-28T01:10:37.350+10:00
+created: 2026-06-30T14:15:55.537+10:00
+modified: 2026-06-30T14:15:55.538+10:00
 tags:
   - faction
 ---

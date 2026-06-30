@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Order of the Gauntlet
-created: 2026-06-28T18:48:14.161+10:00
-modified: 2026-06-28T18:48:14.161+10:00
+created: 2026-06-30T13:47:58.469+10:00
+modified: 2026-06-30T13:47:58.470+10:00
 tags:
   - faction
 ---

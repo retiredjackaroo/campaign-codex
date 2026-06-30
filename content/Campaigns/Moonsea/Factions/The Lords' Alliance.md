@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lords Alliance
   - Lords' Alliance
-created: 2026-06-28T18:48:08.801+10:00
-modified: 2026-06-28T18:48:08.801+10:00
+created: 2026-06-30T13:46:33.244+10:00
+modified: 2026-06-30T13:46:33.244+10:00
 tags:
   - faction
 ---

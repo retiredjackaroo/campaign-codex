@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Kellenwar
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.294+10:00
+created: 2026-06-30T13:43:52.670+10:00
+modified: 2026-06-30T13:43:52.670+10:00
 tags:
   - faction
   - religion

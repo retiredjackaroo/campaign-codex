@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Cultists
   - Dregoth Cult
-created: 2026-06-27T12:27:53.525+10:00
-modified: 2026-06-27T12:27:53.525+10:00
+created: 2026-06-30T14:15:13.006+10:00
+modified: 2026-06-30T14:15:13.007+10:00
 tags:
   - faction
   - enemy

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Flan
   - Flann
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-28T18:34:02.977+10:00
+created: 2026-06-30T14:01:07.571+10:00
+modified: 2026-06-30T14:01:07.572+10:00
 tags:
   - location
   - city

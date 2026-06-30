@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Grimshackle Jail
-created: 2026-06-28T17:38:13.404+10:00
-modified: 2026-06-28T17:38:13.404+10:00
+created: 2026-06-30T13:53:59.795+10:00
+modified: 2026-06-30T13:53:59.795+10:00
 tags:
   - location
 ---

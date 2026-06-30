@@ -4,8 +4,8 @@ aliases:
   - Alliance
   - Veiled Alliance
   - The Veiled Alliance
-created: 2026-06-28T00:50:36.149+10:00
-modified: 2026-06-28T00:50:36.150+10:00
+created: 2026-06-30T14:15:28.702+10:00
+modified: 2026-06-30T14:15:28.702+10:00
 tags:
   - faction
   - resistance

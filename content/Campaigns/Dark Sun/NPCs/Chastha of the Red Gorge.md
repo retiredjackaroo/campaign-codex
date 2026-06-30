@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Chastha
-created: 2026-06-27T21:38:04.216+10:00
-modified: 2026-06-28T01:07:49.362+10:00
+created: 2026-06-30T14:20:17.961+10:00
+modified: 2026-06-30T14:20:17.961+10:00
 tags:
   - npc
   - wardens

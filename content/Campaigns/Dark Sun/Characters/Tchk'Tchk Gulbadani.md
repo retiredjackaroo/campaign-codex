@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tchk Tchk
   - Tchk'Tchk
-created: 2026-06-28T02:08:48.248+10:00
-modified: 2026-06-28T02:08:48.249+10:00
+created: 2026-06-30T14:15:04.335+10:00
+modified: 2026-06-30T14:15:04.335+10:00
 tags:
   - pc
   - party

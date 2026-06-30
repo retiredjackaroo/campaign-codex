@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-27T21:35:57.768+10:00
-modified: 2026-06-27T21:35:57.769+10:00
+created: 2026-06-30T14:25:37.854+10:00
+modified: 2026-06-30T14:25:37.854+10:00
 tags:
   - npc
   - shazlim-oasis

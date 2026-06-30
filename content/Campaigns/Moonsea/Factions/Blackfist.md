@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Black Fist
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-28T18:29:02.295+10:00
+created: 2026-06-30T13:42:35.830+10:00
+modified: 2026-06-30T13:42:35.832+10:00
 tags:
   - faction
   - phlan

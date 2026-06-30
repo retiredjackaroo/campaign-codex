@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tazrim
   - Bright Tongue
-created: 2026-06-27T21:40:05.132+10:00
-modified: 2026-06-27T21:40:05.133+10:00
+created: 2026-06-30T14:28:18.023+10:00
+modified: 2026-06-30T14:28:18.023+10:00
 tags:
   - npc
   - elven-market

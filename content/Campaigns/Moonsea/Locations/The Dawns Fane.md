@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-28T18:35:09.673+10:00
-modified: 2026-06-28T18:35:09.674+10:00
+created: 2026-06-30T14:01:38.478+10:00
+modified: 2026-06-30T14:01:38.478+10:00
 tags:
   - location
   - shrine

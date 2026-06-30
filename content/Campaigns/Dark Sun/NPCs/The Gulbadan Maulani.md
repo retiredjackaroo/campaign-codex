@@ -4,8 +4,8 @@ aliases:
   - Gulbadan Maulani
   - Maulani
   - Grand Vizier
-created: 2026-06-27T21:59:39.871+10:00
-modified: 2026-06-27T21:59:39.871+10:00
+created: 2026-06-30T14:28:24.489+10:00
+modified: 2026-06-30T14:28:24.489+10:00
 tags:
   - npc
   - gulbadan-estate

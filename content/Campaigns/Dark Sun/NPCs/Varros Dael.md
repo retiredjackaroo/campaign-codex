@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Varros
-created: 2026-06-27T21:42:20.226+10:00
-modified: 2026-06-27T21:42:20.227+10:00
+created: 2026-06-30T14:29:17.758+10:00
+modified: 2026-06-30T14:29:17.758+10:00
 tags:
   - npc
   - the-moot

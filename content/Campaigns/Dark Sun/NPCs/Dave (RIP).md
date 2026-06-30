@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Dave
-created: 2026-06-27T12:21:34.534+10:00
-modified: 2026-06-27T12:54:49.828+10:00
+created: 2026-06-30T14:23:02.269+10:00
+modified: 2026-06-30T14:23:02.270+10:00
 tags:
   - npc
   - companion

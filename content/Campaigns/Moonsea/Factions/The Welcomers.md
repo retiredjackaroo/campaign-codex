@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Welcomers
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.317+10:00
+created: 2026-06-30T13:48:06.326+10:00
+modified: 2026-06-30T13:48:06.327+10:00
 tags:
   - faction
   - phlan

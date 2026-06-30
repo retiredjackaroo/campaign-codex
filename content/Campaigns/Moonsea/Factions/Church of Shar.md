@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Shar
-created: 2026-06-28T20:06:23.276+10:00
-modified: 2026-06-28T20:06:23.277+10:00
+created: 2026-06-30T13:44:59.792+10:00
+modified: 2026-06-30T13:44:59.792+10:00
 tags:
   - faction
   - religion

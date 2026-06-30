@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-27T21:34:46.459+10:00
-modified: 2026-06-27T21:34:46.460+10:00
+created: 2026-06-30T14:23:42.083+10:00
+modified: 2026-06-30T14:23:42.084+10:00
 tags:
   - npc
   - valthar's-edge

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.295+10:00
+created: 2026-06-30T13:45:02.816+10:00
+modified: 2026-06-30T13:45:02.821+10:00
 tags:
   - faction
   - antagonist

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Elemental Skull
   - Sand Elemental Skull
-created: 2026-06-28T01:44:22.418+10:00
-modified: 2026-06-28T01:44:22.419+10:00
+created: 2026-06-30T14:16:04.327+10:00
+modified: 2026-06-30T14:16:04.328+10:00
 tags:
   - item
   - loot

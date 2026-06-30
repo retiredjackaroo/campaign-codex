@@ -4,8 +4,8 @@ aliases:
   - Welsey Tarantay
   - Welsea
   - Welsey
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.387+10:00
+created: 2026-06-30T14:13:11.674+10:00
+modified: 2026-06-30T14:13:11.675+10:00
 tags:
   - npc
   - zhentarim

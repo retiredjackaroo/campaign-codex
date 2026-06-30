@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-22T17:48:18.000+10:00
-modified: 2026-06-22T19:57:57.388+10:00
+created: 2026-06-30T14:13:18.192+10:00
+modified: 2026-06-30T14:13:18.193+10:00
 tags:
   - npc
   - historical

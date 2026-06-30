@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Elven Market
-created: 2026-06-27T21:39:57.096+10:00
-modified: 2026-06-27T21:39:57.097+10:00
+created: 2026-06-30T14:16:59.324+10:00
+modified: 2026-06-30T14:16:59.324+10:00
 tags:
   - location
   - elven

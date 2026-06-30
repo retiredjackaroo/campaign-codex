@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - The Moot
-created: 2026-06-27T21:41:48.707+10:00
-modified: 2026-06-27T21:41:48.709+10:00
+created: 2026-06-30T14:17:13.935+10:00
+modified: 2026-06-30T14:17:13.935+10:00
 tags:
   - location
 ---
