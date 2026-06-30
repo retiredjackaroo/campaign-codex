@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-30T14:14:38.234+10:00
-modified: 2026-06-30T17:55:18.423+10:00
+modified: 2026-06-30T17:58:01.222+10:00
 tags:
   - pc
   - party
@@ -10,7 +10,7 @@ tags:
 # Her
 
 ![[Pasted image 20260627123930.png]]
-]
+
 A mute Mul gladiator and the party's tank. Cannot speak but communicates through body language and action. Despite her background as a bred fighter, she has formed a wordless bond with [[Brave]], [[Derfel]]'s companion dog. Brave responds to her in ways he does not with others, reading her moods and body language instinctively.
 
 **Status:** Alive\
