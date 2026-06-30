@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-30T14:14:31.992+10:00
-modified: 2026-06-30T14:14:31.993+10:00
+modified: 2026-06-30T16:46:16.592+10:00
 tags:
   - pc
   - party
@@ -9,6 +9,7 @@ tags:
 
 # Anselem
 
+![[Pasted image 20260630164615.png]]
 A Fire Urokite, the Dark Sun equivalent of a fire genasi. On Athas, where defiling magic has scorched the land and elemental forces are venerated as the primary alternative to the sorcerer-kings, a being of elemental fire carries both power and political weight.
 
 **Status:** Alive\
