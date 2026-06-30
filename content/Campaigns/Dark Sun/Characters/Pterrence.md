@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-30T14:14:47.880+10:00
-modified: 2026-06-30T14:14:47.880+10:00
+modified: 2026-06-30T17:55:33.777+10:00
 tags:
   - pc
   - party
@@ -10,6 +10,7 @@ tags:
 # Pterrence
 
 ![[Pasted image 20260627194021.png]]
+
 A Pterran party member. Pterrans are native to the Hinterlands of Athas: a reptilian species rarely seen in the city-states, which makes Pterrence a notable presence wherever the party travels.
 
 **Status:** Alive\
