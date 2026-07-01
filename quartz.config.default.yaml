@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Team You Should know the name of
+  pageTitle: The Team You've Definitely Heard of
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
