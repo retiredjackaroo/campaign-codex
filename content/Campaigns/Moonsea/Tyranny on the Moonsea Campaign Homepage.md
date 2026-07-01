@@ -1,23 +1,76 @@
 ---
 publish: true
-created: 2026-07-01T14:31:16.096+10:00
-modified: 2026-07-01T14:31:16.096+10:00
+created: 2026-07-01T18:02:27.614+10:00
+modified: 2026-07-01T18:02:27.615+10:00
 tags:
   - index
   - moc
 ---
 
-π![[Pasted image 20260622200441.png]]
+![[Pasted image 20260622200441.png]]
 
-Home page for the campaign wiki. Start with the chapter overview, then follow the links.
+Home page for the campaign wiki. This page always reflects the latest session only — for the full history, see the [[Archive]].
 
-## Sessions
+## Hall of Fame
+
+| Session | Biggest Success | Funniest Mistake |
+|---|---|---|
+| Chapter 11, Episode 1, Session 1 | **Jaag Nixon's ambush** — opened by dropping an orc outright for 31 damage on the way down the stairs, then closed by carving 28 damage into Verthak and cleanly disengaging with Fancy Footwork, capped off with a raised middle finger to a half-dragon commander. | **Tiz's Guiding Bolt misfire** — aiming for Verthak mid-melee, she instead put 17 points of divine light straight into Lavinia's back. The banishment held; Lavinia turned round, took in Tiz's expression of pure horror, and just smiled. |
+
+## Latest Session — Chapter 11, Episode 1, Session 1
 
 - [[Chapter 11 - Episode 1 - Session 1 (Overview)]]
 - [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 - [[Chapter 11 - Episode 1 - Session 1 Notes]]
 - [[Chapter 11 - Episode 1 - Jaag's Journal|Jaag's Journal]]
 - [[Chapter 11 - Episode 1 - Session 1 - Transcript]]
+
+## NPCs Encountered This Session
+
+- [[Aleyd Burral]]
+- [[Captain Donella Azurite]]
+- [[Captain Walharrow]]
+- [[Cassit]]
+- [[Delacrae Gentleblossom]]
+- [[Denlor]]
+- [[Doomguide Yovir Glandon]]
+- [[Giselle Greycastle]]
+- [[Gleveth]]
+- [[Igan Sokol]]
+- [[Ixusaxa Terrorsong]]
+- [[James Cel]]
+- [[Kastra Brandywine]]
+- [[Knight Lieutenant Bolver]]
+- [[Kral]]
+- [[Lord Hector]]
+- [[Riek]]
+- [[Scalebinder Skovac]]
+- [[Serenola the Whisperer]]
+- [[Stormbringer Azalcar]]
+- [[The Lord Sage]]
+- [[The Red Lady]]
+- [[Thylren Saj]]
+- [[Vurthak]]
+- [[Welsea Parenthe]]
+- [[Wren O'The Blade]]
+- [[Yarish]]
+
+## Locations This Session
+
+- [[Cinnabar Throne]]
+- [[Denlor's Tower]]
+- [[Kabel's Hill]]
+- [[Mantor's Library]]
+- [[Moon Sea]]
+- [[Phlan]]
+- [[Ring Islands]]
+- [[Sorcerer's Isle]]
+- [[Storgenau]]
+- [[The Leaky Bucket]]
+- [[The Lyceum]]
+- [[The Quivering Wood]]
+- [[Twilight Marsh]]
+- [[Yarish's Pyramid]]
 
 ## Player Characters
 
@@ -27,78 +80,6 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 - [[Petra Hillockburrow]]
 - [[Pug D'Astibar]]
 - [[Iltiza Ward]]
-
-## NPCs
-
-- [[Aleyd Burral]]
-- [[Captain Donella Azurite]]
-- [[Captain Walharrow]]
-- [[Cassit]]
-- [[Crudo]]
-- [[Delacrae Gentleblossom]]
-- [[Denlor]]
-- [[Doomguide Yovir Glandon]]
-- [[Fenrik Softpaw]]
-- [[Giselle Greycastle]]
-- [[Gleveth]]
-- [[Gralie]]
-- [[Igan Sokol]]
-- [[Ixusaxa Terrorsong]]
-- [[James Cel]]
-- [[Jhessail Greycastle]]
-- [[Kastra Brandywine]]
-- [[Knight Lieutenant Bolver]]
-- [[Kral]]
-- [[Leonore]]
-- [[Levith]]
-- [[Lord Hector]]
-- [[Madam Freona]]
-- [[Riek]]
-- [[Scalebinder Skovac]]
-- [[Serenola the Whisperer]]
-- [[Stormbringer Azalcar]]
-- [[The Lord Sage]]
-- [[The Red Lady]]
-- [[Throstulgrael]]
-- [[Thylren Saj]]
-- [[Vurthak]]
-- [[Welsea Parenthe]]
-- [[Wren O'The Blade]]
-- [[Yarish]]
-- [[Zern Xerkstil]]
-
-## Locations
-
-- [[All Questions Answered]]
-- [[Cinnabar Throne]]
-- [[Denlor's Tower]]
-- [[Greenhall]]
-- [[Grimshackle Prison]]
-- [[Hillsfar]]
-- [[Kabel's Hill]]
-- [[Kingspire]]
-- [[Madam Freona's Tea Kettle]]
-- [[Mantor's Library]]
-- [[Melvaunt]]
-- [[Moon Sea]]
-- [[Phlan]]
-- [[Podol Plaza]]
-- [[Ring Islands]]
-- [[Scholar's Square]]
-- [[Sokol Keep]]
-- [[Sorcerer's Isle]]
-- [[Stojanow Gate]]
-- [[Storgenau]]
-- [[The Dawns Fane]]
-- [[The Laughing Goblin]]
-- [[The Leaky Bucket]]
-- [[The Lyceum]]
-- [[The Quivering Wood]]
-- [[Thentia]]
-- [[Twilight Marsh]]
-- [[Valejo Castle]]
-- [[Valhingen Graveyard]]
-- [[Yarish's Pyramid]]
 
 ## Factions
 
@@ -136,3 +117,7 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 - [[Jimson Brew]]
 - [[Thylren's Sending Ring]]
 - [[Transmutation Arrow]]
+
+## Full Archive
+
+Every session, every NPC, and every location the campaign has ever touched lives in the [[Archive]] — this page only ever shows the most recent session.
