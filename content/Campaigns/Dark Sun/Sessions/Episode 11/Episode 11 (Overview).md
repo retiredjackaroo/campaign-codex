@@ -2,7 +2,7 @@
 publish: true
 title: Rescue Operation in the Slums & Sand Elemental Encounter
 created: 2026-06-30T14:30:06.419+10:00
-modified: 2026-06-30T14:30:06.423+10:00
+modified: 2026-07-01T13:06:52.102+10:00
 tags:
   - session
   - episode-11
@@ -20,7 +20,7 @@ Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], an
 
 They reached [[Korno]]'s safe house too late. The fight was over, the Templars were consolidating, and [[Korno]] had been taken prisoner. While the party assessed their options, [[Derfel]] found [[Leviath]] in a hidden hollow in the rubble, guarding a dozen more refugees.
 
-Leviath revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated. [[Salt]] and [[Tchk'Tchk Gulbadani]] argued against the central well, where fifty soldiers and Enix lizard patrols made it suicide with fifteen refugees in tow. [[Derfel]] and [[Salt]] weighed the fog option. The consensus went to the outer well.
+[[Levith]] revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated. [[Salt]] and [[Tchk'Tchk Gulbadani]] argued against the central well, where fifty soldiers and Enix lizard patrols made it suicide with fifteen refugees in tow. [[Derfel]] and [[Salt]] weighed the fog option. The consensus went to the outer well.
 
 [[Kit-Chac]] and [[Salt]] donated two water skins each to [[Leviath]] for the refugees. [[Pterrence]] took the form of a Mansivar Templar guard via Disguise Self. [[Salt]] conjured a false wall with Minor Illusion and kept an invisible Mage Hand ready for diversions. [[Pterrence]] webbed a corridor behind them. [[Derfel]] used Animal Handling to call a Templar Enix lizard's release command, dropping it harmlessly into the dust and drawing its handlers off the column; [[Brave]] worked the edges. [[Her]] and [[Tchk'Tchk Gulbadani]] held the column together while [[Anselem]] supported from the middle. [[Kit-Chac]] and [[Derfel]] scouted, and [[Salt]] watched the rear.
 

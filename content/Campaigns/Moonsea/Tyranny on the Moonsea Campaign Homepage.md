@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T13:39:19.973+10:00
-modified: 2026-07-01T10:39:20.710+10:00
+created: 2026-07-01T13:09:26.735+10:00
+modified: 2026-07-01T13:09:26.736+10:00
 tags:
   - index
   - moc
@@ -51,7 +51,7 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 - [[Knight Lieutenant Bolver]]
 - [[Kral]]
 - [[Leonore]]
-- [[Levith]]
+- [[Leviath]]
 - [[Lord Hector]]
 - [[Madam Freona]]
 - [[Riek]]
