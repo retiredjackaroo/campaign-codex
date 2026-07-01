@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Petra Hillockburrow
   - Petra
-created: 2026-06-30T13:41:40.724+10:00
-modified: 2026-06-30T18:30:37.982+10:00
+created: 2026-07-01T14:31:29.877+10:00
+modified: 2026-07-01T14:31:29.877+10:00
 tags:
   - pc
   - party
@@ -21,4 +21,4 @@ A Harengon Barbarian. Fights with rage and the Stasis Strike. One of only two pa
 
 ## Relationships
 
-- [[Seranolla the Whisperer]]: her contact, the shaman of the [[Emerald Enclave]] at the edge of [[The Quivering Wood]]
+- [[Serenola the Whisperer]]: her contact, the shaman of the [[Emerald Enclave]] at the edge of [[The Quivering Wood]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-07-01T13:09:19.928+10:00
-modified: 2026-07-01T13:09:19.928+10:00
+created: 2026-07-01T14:30:38.635+10:00
+modified: 2026-07-01T14:30:38.635+10:00
 tags:
   - session
   - chapter-11
@@ -14,9 +14,9 @@ tags:
 
 **Previously On... (DM Recap)**
 
-The party defeated [[Crudo]] and freed [[Lord Hector|Lord Commander]] Hector, [[Leviath]], [[Fenrik Softpaw]], and [[Grayley]] from imprisonment at the [[The Lyceum|Lyceum of the Black Lord]].
+The party defeated [[Crudo]] and freed [[Lord Hector|Lord Commander]] Hector, [[Levith]], [[Fenrik Softpaw]], and [[Grayley]] from imprisonment at the [[The Lyceum|Lyceum of the Black Lord]].
 
-- **Leviath and Fenric** chose to remain in [[Phlan]] to organise resistance against the [[Cult of the Dragon]] and the [[The Maimed Virulence|Maimed Virulence]].
+- **Levith and Fenric** chose to remain in [[Phlan]] to organise resistance against the [[Cult of the Dragon]] and the [[The Maimed Virulence|Maimed Virulence]].
 
 - **Lord Hector** departed to gather the city's survivors and build forces for a retaking of the city.
 

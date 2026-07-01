@@ -4,14 +4,14 @@ aliases:
   - Seranolla the Whisperer
   - Serranolla the Whisperer
   - Serenola
-created: 2026-06-30T14:07:34.976+10:00
-modified: 2026-06-30T14:07:34.977+10:00
+created: 2026-07-01T14:31:24.970+10:00
+modified: 2026-07-01T14:31:24.970+10:00
 tags:
   - npc
   - ally
 ---
 
-# Seranolla the Whisperer
+# Serenola the Whisperer
 
 A shapechanger who appears as a great owl, and the shaman who represents the [[Emerald Enclave]] in the region. She hardly ever comes into the city, spending most of her time around her grove at the edge of [[The Quivering Wood]]. She serves as [[Petra Hillockburrow|Petra]]'s contact, and descended during a night watch to give the party their instructions for [[Kabel's Hill]].
 

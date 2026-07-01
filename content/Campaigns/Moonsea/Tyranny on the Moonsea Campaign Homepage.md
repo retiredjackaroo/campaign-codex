@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-01T13:09:26.735+10:00
-modified: 2026-07-01T13:09:26.736+10:00
+created: 2026-07-01T14:31:16.096+10:00
+modified: 2026-07-01T14:31:16.096+10:00
 tags:
   - index
   - moc
@@ -14,7 +14,7 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 ## Sessions
 
 - [[Chapter 11 - Episode 1 - Session 1 (Overview)]]
-- [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]]
+- [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 - [[Chapter 11 - Episode 1 - Session 1 Notes]]
 - [[Chapter 11 - Episode 1 - Jaag's Journal|Jaag's Journal]]
 - [[Chapter 11 - Episode 1 - Session 1 - Transcript]]
@@ -33,16 +33,15 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 - [[Aleyd Burral]]
 - [[Captain Donella Azurite]]
 - [[Captain Walharrow]]
-- [[Cassyt]]
+- [[Cassit]]
 - [[Crudo]]
 - [[Delacrae Gentleblossom]]
 - [[Denlor]]
 - [[Doomguide Yovir Glandon]]
 - [[Fenrik Softpaw]]
 - [[Giselle Greycastle]]
-- [[Glevith]]
+- [[Gleveth]]
 - [[Gralie]]
-- [[Grayley]]
 - [[Igan Sokol]]
 - [[Ixusaxa Terrorsong]]
 - [[James Cel]]
@@ -51,12 +50,12 @@ Home page for the campaign wiki. Start with the chapter overview, then follow th
 - [[Knight Lieutenant Bolver]]
 - [[Kral]]
 - [[Leonore]]
-- [[Leviath]]
+- [[Levith]]
 - [[Lord Hector]]
 - [[Madam Freona]]
 - [[Riek]]
 - [[Scalebinder Skovac]]
-- [[Seranolla the Whisperer]]
+- [[Serenola the Whisperer]]
 - [[Stormbringer Azalcar]]
 - [[The Lord Sage]]
 - [[The Red Lady]]
