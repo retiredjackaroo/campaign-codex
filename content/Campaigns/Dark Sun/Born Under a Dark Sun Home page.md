@@ -1,14 +1,13 @@
 ---
 publish: true
 created: 2026-07-01T18:02:43.666+10:00
-modified: 2026-07-01T18:02:43.667+10:00
+modified: 2026-07-01T18:09:54.766+10:00
 tags:
   - index
   - moc
 ---
 
-# Born Under a Dark Sun
-
+![[verdant_passage_1-1.jpg.webp]]
 Home page for the Dark Sun campaign wiki. This page always reflects the latest session only — for the full history, see the [[Archive]].
 
 ## Hall of Fame
