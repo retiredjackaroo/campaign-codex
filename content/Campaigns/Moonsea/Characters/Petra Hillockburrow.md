@@ -4,7 +4,7 @@ aliases:
   - Petra Hillockburrow
   - Petra
 created: 2026-06-30T13:41:40.724+10:00
-modified: 2026-06-30T13:41:40.725+10:00
+modified: 2026-06-30T18:30:37.982+10:00
 tags:
   - pc
   - party
@@ -13,6 +13,7 @@ tags:
 # Petra Hillockburrow
 
 ![[Pasted image 20260628161536.png]]
+
 A Harengon Barbarian. Fights with rage and the Stasis Strike. One of only two party members to resist [[Welsea Parenthe]]'s charm, and the one who checked [[The Lord Sage]] for compulsion. An absolute bad arse.
 
 **Status:** Alive

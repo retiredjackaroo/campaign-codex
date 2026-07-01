@@ -4,7 +4,7 @@ aliases:
   - Kit Chac
   - Kreen
 created: 2026-06-30T14:14:41.757+10:00
-modified: 2026-06-30T14:14:41.757+10:00
+modified: 2026-06-30T17:55:27.306+10:00
 tags:
   - pc
   - party
@@ -13,6 +13,7 @@ tags:
 # Kit-Chac
 
 ![[Pasted image 20260627143224.png]]
+
 A Thri-Kreen Warrior of the Open Hand Monk and the brother of [[Derfel]]. Four-armed, chitinous, requiring no sleep. Found Derfel in the wastes and taught him to hunt, an act of adoption across species lines that on Athas is not a small thing.
 
 Kit-Chac refers to himself simply as Kreen, the Thri-Kreen word for "People." From his perspective this is straightforward: Kreen are people, and he is Kreen. The interesting implication, which he holds without apparent irony, is that the rest of the party are not Kreen and therefore occupy a different category. The party largely view Kit-Chac as the monster in the group. Kit-Chac returns the favour.
