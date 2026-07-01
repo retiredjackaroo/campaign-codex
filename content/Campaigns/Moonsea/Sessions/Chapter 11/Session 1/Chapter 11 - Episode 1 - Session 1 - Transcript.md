@@ -2,7 +2,7 @@
 publish: true
 title: Transcript
 created: 2026-06-30T14:13:43.509+10:00
-modified: 2026-06-30T14:13:43.514+10:00
+modified: 2026-07-01T13:00:40.055+10:00
 tags:
   - session
   - chapter-11
