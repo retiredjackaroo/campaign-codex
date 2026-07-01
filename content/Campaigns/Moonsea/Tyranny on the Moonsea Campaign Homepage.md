@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-01T18:02:27.614+10:00
-modified: 2026-07-01T18:02:27.615+10:00
+created: 2026-07-01T19:04:34.626+10:00
+modified: 2026-07-01T19:04:34.627+10:00
 tags:
   - index
   - moc
@@ -19,7 +19,6 @@ Home page for the campaign wiki. This page always reflects the latest session on
 
 ## Latest Session — Chapter 11, Episode 1, Session 1
 
-- [[Chapter 11 - Episode 1 - Session 1 (Overview)]]
 - [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 - [[Chapter 11 - Episode 1 - Session 1 Notes]]
 - [[Chapter 11 - Episode 1 - Jaag's Journal|Jaag's Journal]]

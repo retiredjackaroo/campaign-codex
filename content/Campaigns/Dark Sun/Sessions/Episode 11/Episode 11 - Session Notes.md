@@ -1,15 +1,31 @@
 ---
 publish: true
 title: Rescue Operation in the Slums & Sand Elemental Encounter
-created: 2026-06-30T14:30:15.017+10:00
-modified: 2026-06-30T14:30:15.017+10:00
+created: 2026-07-01T19:03:38.076+10:00
+modified: 2026-07-01T19:03:38.076+10:00
 tags:
   - session
   - episode-11
 ---
 
-z# Episode 11 – Session Notes
+# Episode 11 – Session Notes
+
 ![[Pasted image 20260628021440.png]]
+
+**Date played:** 27 June 2026
+**XP awarded:** 1,243 per character (943 base + 200 encounter bonus + 100 skill checks)
+
+## Summary
+
+Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
+
+They reached [[Korno]]'s safe house too late. The fight was over, the Templars were consolidating, and [[Korno]] had been taken prisoner. While the party assessed their options, [[Derfel]] found [[Leviath]] in a hidden hollow in the rubble, guarding a dozen more refugees.
+
+[[Leviath]] revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated, and the consensus went to the outer well.
+
+Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Her]] recovered [[The Skull]] from the wreckage.
+
+The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Alliance]].
 
 ## Party present
 

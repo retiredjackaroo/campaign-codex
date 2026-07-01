@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-01T18:02:43.666+10:00
-modified: 2026-07-01T18:58:48.803+10:00
+created: 2026-07-01T19:05:28.949+10:00
+modified: 2026-07-01T19:05:28.949+10:00
 tags:
   - index
   - moc
@@ -18,7 +18,6 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 
 ## Latest Session — Episode 11
 
-- [[Episode 11 (Overview)]] – Rescue Operation in the Slums & Sand Elemental Encounter
 - [[Episode 11 - Narrative]]
 - [[Episode 11 - Session Notes]]
 

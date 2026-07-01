@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-07-01T14:30:38.635+10:00
-modified: 2026-07-01T14:30:38.635+10:00
+created: 2026-07-01T19:03:00.008+10:00
+modified: 2026-07-01T19:03:00.008+10:00
 tags:
   - session
   - chapter-11
@@ -11,6 +11,8 @@ tags:
 **Session Notes: Chapter 11, Episode 1, Session 1**
 
 **"****Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerer's Isle]]****"**
+
+**Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlor's Tower]] by [[Kastra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarish's Pyramid]] on [[Sorcerer's Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
 
 **Previously On... (DM Recap)**
 
