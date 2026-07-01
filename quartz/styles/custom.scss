@@ -1,3 +1,43 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+@use "./variables.scss" as *;
+
+/* ===========================================================
+   Campaign Codex Theme v1
+   =========================================================== */
+
+:root {
+  --codex-max-width: 1500px;
+}
+
+.page {
+  max-width: var(--codex-max-width);
+}
+
+.page-title {
+  font-size: 3rem;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.5rem;
+}
+
+blockquote {
+  font-style: italic;
+  opacity: 0.8;
+  border-left: 3px solid var(--secondary);
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 0.02em;
+}
+
+img {
+  border-radius: 12px;
+  transition: transform 0.2s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
+}// put your custom CSS here!
+Start Codex Theme
