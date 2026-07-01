@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:04:17.721+10:00
-modified: 2026-06-30T14:04:17.721+10:00
+created: 2026-07-01T12:00:44.007+10:00
+modified: 2026-07-01T12:00:44.008+10:00
 tags:
   - npc
   - house-sokol
 ---
 
 # Igan Sokol
+
+![[Campaigns/Moonsea/Assets/Igan Sokol.png]]
 
 A member of [[House Sokol]], recorded in the campaign journal (with an associated bedroom and journal among the materials).
 

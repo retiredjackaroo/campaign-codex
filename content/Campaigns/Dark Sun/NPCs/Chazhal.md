@@ -3,14 +3,16 @@ publish: true
 aliases:
   - The Pitch
   - Chazhal the Pitch
-created: 2026-06-30T14:20:23.354+10:00
-modified: 2026-06-30T14:20:23.355+10:00
+created: 2026-07-01T12:38:51.304+10:00
+modified: 2026-07-01T12:38:51.304+10:00
 tags:
   - npc
   - elven-market
 ---
 
 # Chazhal
+
+![[Campaigns/Dark Sun/Assets/Chazhal.png]]
 
 Known as "The Pitch." Encountered at [[The Elven Market]].
 

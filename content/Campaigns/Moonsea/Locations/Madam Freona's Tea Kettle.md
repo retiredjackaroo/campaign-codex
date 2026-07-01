@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T13:54:18.540+10:00
-modified: 2026-06-30T13:54:18.540+10:00
+created: 2026-07-01T12:01:09.332+10:00
+modified: 2026-07-01T12:01:09.333+10:00
 tags:
   - location
   - phlan
@@ -9,6 +9,8 @@ tags:
 ---
 
 # Madam Freona's Tea Kettle
+
+![[Campaigns/Moonsea/Assets/Madam Freona's Tea Kettle.png]]
 
 A tea house in [[Phlan]] run by [[Madam Freona]]. Recorded in the campaign journal.
 

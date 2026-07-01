@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:24:38.884+10:00
-modified: 2026-06-30T14:24:38.885+10:00
+created: 2026-07-01T12:42:00.294+10:00
+modified: 2026-07-01T12:42:00.294+10:00
 tags:
   - npc
   - enforcer
@@ -9,6 +9,8 @@ tags:
 ---
 
 # Neith
+
+![[Campaigns/Dark Sun/Assets/Neith.png]]
 
 Lead enforcer to [[The Padshah]], head of the Gulbadan faction. Status unknown following the Inundation of Raam and the Padshah's death.
 

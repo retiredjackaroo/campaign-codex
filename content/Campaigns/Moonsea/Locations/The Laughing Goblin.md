@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:01:41.708+10:00
-modified: 2026-06-30T14:01:41.709+10:00
+created: 2026-07-01T12:02:22.126+10:00
+modified: 2026-07-01T12:02:22.126+10:00
 tags:
   - location
   - phlan
@@ -9,6 +9,8 @@ tags:
 ---
 
 # The Laughing Goblin
+
+![[Campaigns/Moonsea/Assets/The Laughing Goblin.png]]
 
 An establishment in [[Phlan]], recorded in the campaign journal (appears to be a tavern or inn).
 

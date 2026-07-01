@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:25:33.790+10:00
-modified: 2026-06-30T14:25:33.790+10:00
+created: 2026-07-01T12:43:04.044+10:00
+modified: 2026-07-01T12:43:04.046+10:00
 tags:
   - npc
   - shazlim-oasis
 ---
 
 # Ravash
+
+![[Campaigns/Dark Sun/Assets/Ravash.png]]
 
 Encountered at [[Shazlim Oasis]].
 

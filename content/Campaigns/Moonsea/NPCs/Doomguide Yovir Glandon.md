@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:03:26.854+10:00
-modified: 2026-06-30T14:03:26.854+10:00
+created: 2026-07-01T11:58:19.221+10:00
+modified: 2026-07-01T11:58:19.221+10:00
 tags:
   - npc
   - kelemvor
 ---
 
 # Doomguide Yovir Glandon
+
+![[Campaigns/Moonsea/Assets/Doomguide Yovir Glandon.png]]
 
 A doomguide (a priest of Kelemvor, god of the dead), associated with the Cloister of Kelemvor. Recorded in the campaign journal.
 

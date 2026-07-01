@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:07:29.181+10:00
-modified: 2026-06-30T14:07:29.185+10:00
+created: 2026-07-01T12:01:31.544+10:00
+modified: 2026-07-01T12:01:31.544+10:00
 tags:
   - npc
   - cult-of-the-dragon
 ---
 
 # Scalebinder Skovac
+
+![[Campaigns/Moonsea/Assets/Scalebinder Skovac.png]]
 
 A named figure recorded in the campaign journal. The "Scalebinder" title points to ties with the [[Cult of the Dragon]] or the dragon's forces.
 

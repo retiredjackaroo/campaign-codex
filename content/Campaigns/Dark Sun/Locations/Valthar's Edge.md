@@ -2,13 +2,15 @@
 publish: true
 aliases:
   - Valthars Edge
-created: 2026-06-30T14:18:29.667+10:00
-modified: 2026-06-30T14:18:29.668+10:00
+created: 2026-07-01T12:38:05.888+10:00
+modified: 2026-07-01T12:38:05.888+10:00
 tags:
   - location
 ---
 
 # Valthar's Edge
+
+![[Campaigns/Dark Sun/Assets/Valthar's Edge.png]]
 
 A settlement encountered during the campaign.
 

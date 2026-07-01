@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:27:09.124+10:00
-modified: 2026-06-30T14:27:09.124+10:00
+created: 2026-07-01T12:44:21.290+10:00
+modified: 2026-07-01T12:44:21.290+10:00
 tags:
   - npc
   - elven-market
 ---
 
 # Sithra
+
+![[Campaigns/Dark Sun/Assets/Sithra.png]]
 
 Encountered at [[The Elven Market]].
 

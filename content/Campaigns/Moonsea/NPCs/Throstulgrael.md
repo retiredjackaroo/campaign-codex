@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:13:01.270+10:00
-modified: 2026-06-30T14:13:01.270+10:00
+created: 2026-07-01T12:02:31.864+10:00
+modified: 2026-07-01T12:02:31.864+10:00
 tags:
   - npc
   - undead
 ---
 
 # Throstulgrael
+
+![[Campaigns/Moonsea/Assets/Throstulgrael.png]]
 
 A lich recorded in the campaign journal ("Throstulgrael, the Lich").
 

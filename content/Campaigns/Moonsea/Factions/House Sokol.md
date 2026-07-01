@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T13:46:22.868+10:00
-modified: 2026-06-30T13:46:22.869+10:00
+created: 2026-07-01T12:03:11.086+10:00
+modified: 2026-07-01T12:03:11.087+10:00
 tags:
   - faction
   - noble-house
@@ -9,6 +9,8 @@ tags:
 ---
 
 # House Sokol
+
+![[Campaigns/Moonsea/Assets/House Sokol.png]]
 
 A noble house of [[Phlan]], recorded in the campaign journal. Associated with [[Sokol Keep]] on Thorn Island and with [[Igan Sokol]].
 

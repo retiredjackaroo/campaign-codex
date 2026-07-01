@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:01:38.478+10:00
-modified: 2026-06-30T14:01:38.478+10:00
+created: 2026-07-01T12:02:05.583+10:00
+modified: 2026-07-01T12:02:05.583+10:00
 tags:
   - location
   - shrine
 ---
 
 # The Dawns Fane
+
+![[Campaigns/Moonsea/Assets/The Dawns Fane.png]]
 
 An old shrine to Lathander, the Morninglord. [[Zern Xerkstil]], the Hammer of Impiltur, spends much of his time here in prayer.
 

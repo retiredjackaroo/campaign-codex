@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Slums
   - Slum Ruins
-created: 2026-06-30T14:17:52.072+10:00
-modified: 2026-06-30T14:17:52.072+10:00
+created: 2026-07-01T12:38:02.621+10:00
+modified: 2026-07-01T12:38:02.621+10:00
 tags:
   - location
   - urban
@@ -13,6 +13,8 @@ tags:
 ---
 
 # The Slums
+
+![[Campaigns/Dark Sun/Assets/The Slums.png]]
 
 A labyrinthine district of ruined buildings within [[Raam]], forming a maze of narrow passages and collapsed structures. During Episode 11 the slums were active with enemy patrols and other unspecified hazards, making navigation difficult even for the party alone. Moving fifteen peasants, including children and the elderly, through them under pressure presented a significant challenge.
 
