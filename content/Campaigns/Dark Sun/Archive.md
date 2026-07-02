@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-02T10:30:52.307+10:00
-modified: 2026-07-02T10:30:52.308+10:00
+created: 2026-07-02T15:13:28.830+10:00
+modified: 2026-07-02T15:13:28.831+10:00
 tags:
   - archive
   - moc
@@ -13,9 +13,9 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ## All Sessions
 
-- [[Act II - Session 4 - Narrative]]
-- [[Act II - Session 4 - Session Notes]]
-- [[Act II - Session 4 - Transcript]]
+- [[Session 4 - Narrative]]
+- [[Session 4 - Notes]]
+- [[Session 4 - Transcript]]
 
 ## All NPCs
 

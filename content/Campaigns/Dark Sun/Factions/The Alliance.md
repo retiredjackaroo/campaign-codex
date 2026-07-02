@@ -4,8 +4,8 @@ aliases:
   - Alliance
   - Veiled Alliance
   - The Veiled Alliance
-created: 2026-07-02T10:11:12.575+10:00
-modified: 2026-07-02T10:11:12.575+10:00
+created: 2026-07-02T15:13:50.043+10:00
+modified: 2026-07-02T15:13:50.044+10:00
 tags:
   - faction
   - resistance
@@ -22,7 +22,7 @@ Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. T
 **Status:** Active; hidden beneath Raam
 **Base of operations:** [[The Cisterns]]
 **Known members:** [[Leviath]]
-**First appears:** [[Act II - Session 4 - Session Notes]]
+**First appears:** [[Session 4 - Notes]]
 
 ## Notes
 

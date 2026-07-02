@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Elemental Skull
   - Sand Elemental Skull
-created: 2026-07-02T14:36:10.739+10:00
-modified: 2026-07-02T14:36:10.739+10:00
+created: 2026-07-02T15:13:55.122+10:00
+modified: 2026-07-02T15:13:55.123+10:00
 tags:
   - item
   - loot
@@ -20,7 +20,7 @@ On the elemental's defeat the skull fell free from the collapsing mass. [[Her]] 
 
 **Status:** In party possession\
 **Origin:** Dregoth Cultists\
-**First appears:** [[Act II - Session 4 - Session Notes]]
+**First appears:** [[Session 4 - Notes]]
 
 ## Notes
 

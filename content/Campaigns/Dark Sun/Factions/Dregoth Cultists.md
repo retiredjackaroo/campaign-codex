@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Cultists
   - Dregoth Cult
-created: 2026-07-02T10:10:56.996+10:00
-modified: 2026-07-02T10:10:56.996+10:00
+created: 2026-07-02T15:14:05.738+10:00
+modified: 2026-07-02T15:14:05.738+10:00
 tags:
   - faction
   - enemy
@@ -18,4 +18,4 @@ Followers of Dregoth, the undead sorcerer-king of Giustenal, a city-state destro
 Their presence in the plaza field camp alongside [[The Templars]] and [[Noble House Soldiers]] makes them one of three hostile factions the party must navigate in Act II, Session 4.
 
 **Status:** Active; hostile\
-**First appears:** [[Act II - Session 4 - Narrative]]
+**First appears:** [[Session 4 - Narrative]]

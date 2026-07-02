@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Slums
   - Slum Ruins
-created: 2026-07-02T10:11:55.434+10:00
-modified: 2026-07-02T10:11:55.434+10:00
+created: 2026-07-02T15:14:29.444+10:00
+modified: 2026-07-02T15:14:29.444+10:00
 tags:
   - location
   - urban
@@ -22,4 +22,4 @@ The further entrance to [[The Cisterns]] is accessed through this district. Home
 
 **Status:** Active; patrolled
 **City:** [[Raam]]
-**First appears:** [[Act II - Session 4 - Narrative]]
+**First appears:** [[Session 4 - Narrative]]

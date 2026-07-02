@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Templars
-created: 2026-07-02T10:11:24.824+10:00
-modified: 2026-07-02T10:11:24.824+10:00
+created: 2026-07-02T15:14:19.048+10:00
+modified: 2026-07-02T15:14:19.048+10:00
 tags:
   - faction
   - enemy
@@ -17,4 +17,4 @@ Agents of the sorcerer-kings of Athas, the Templars serve as the administrative 
 During Act II, Session 4 a contingent of Templars formed part of the field camp occupying the plaza above [[The Alliance]]'s hidden network, with patrols moving in and out of the camp. Their discovering the cistern entrance would be catastrophic for the resistance below.
 
 **Status:** Active; hostile\
-**First appears:** [[Act II - Session 4 - Narrative]]
+**First appears:** [[Session 4 - Narrative]]

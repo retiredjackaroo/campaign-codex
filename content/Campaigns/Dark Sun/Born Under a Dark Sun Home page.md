@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-02T14:36:06.134+10:00
-modified: 2026-07-02T14:36:06.134+10:00
+created: 2026-07-02T15:13:33.329+10:00
+modified: 2026-07-02T15:13:33.329+10:00
 tags:
   - index
   - moc
@@ -18,8 +18,8 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 
 ## Latest Session: Act II, Session 4
 
-- [[Act II - Session 4 - Narrative]]
-- [[Act II - Session 4 - Session Notes]]
+- [[Session 4 - Narrative]]
+- [[Session 4 - Notes]]
 
 ## NPCs Encountered This Session
 

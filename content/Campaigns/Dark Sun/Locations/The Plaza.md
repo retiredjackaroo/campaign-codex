@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-02T10:11:49.704+10:00
-modified: 2026-07-02T10:11:49.705+10:00
+created: 2026-07-02T15:14:26.409+10:00
+modified: 2026-07-02T15:14:26.409+10:00
 tags:
   - location
   - urban
@@ -17,7 +17,7 @@ Beneath the plaza lies the secret entrance to [[The Cisterns]], the underground 
 
 **Status:** Occupied by enemy field camp
 **City:** [[Raam]]
-**First appears:** [[Act II - Session 4 - Narrative]]
+**First appears:** [[Session 4 - Narrative]]
 
 ## Strategic notes
 

@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Leviathan
-created: 2026-07-02T10:12:53.532+10:00
-modified: 2026-07-02T10:12:53.532+10:00
+created: 2026-07-02T15:14:34.378+10:00
+modified: 2026-07-02T15:14:34.378+10:00
 tags:
   - npc
   - ally
@@ -18,7 +18,7 @@ A half-giant and representative of [[The Alliance]], the hidden resistance opera
 
 **Status:** Alive
 **Affiliation:** [[The Alliance]]
-**First appears:** [[Act II - Session 4 - Narrative]]
+**First appears:** [[Session 4 - Narrative]]
 
 ## Relationships
 
