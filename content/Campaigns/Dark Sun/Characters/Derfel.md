@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:14:35.192+10:00
-modified: 2026-06-30T14:14:35.192+10:00
+created: 2026-07-02T10:10:32.473+10:00
+modified: 2026-07-02T10:10:32.475+10:00
 tags:
   - pc
   - party
@@ -28,7 +28,7 @@ Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between th
 
 ## Notable moments
 
-- **Episode 11:** Spotted the combined Templar, Noble, and Dregoth force leaving the Templar Quarter, prompting the move to warn [[Korno]]. Scouted the slums crossing with [[Kit-Chac]]. Turned a Templar Enix lizard mid-crossing by calling out its Animal Handling release command, dropping it harmlessly into the dust and pulling its handlers off the column. Kept Searing Smite burning on the sand elemental rather than switch to Hunter's Mark, and was pulled back from near-death by [[Salt]]'s Cure Wounds.
+- **Act II, Session 4:** Spotted the combined Templar, Noble, and Dregoth force leaving the Templar Quarter, prompting the move to warn [[Korno]]. Scouted the slums crossing with [[Kit-Chac]]. Turned a Templar Enix lizard mid-crossing by calling out its Animal Handling release command, dropping it harmlessly into the dust and pulling its handlers off the column. Kept Searing Smite burning on the sand elemental rather than switch to Hunter's Mark, and was pulled back from near-death by [[Salt]]'s Cure Wounds.
 
 ## Character notes
 

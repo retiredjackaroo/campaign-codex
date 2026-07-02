@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:14:31.992+10:00
-modified: 2026-06-30T17:54:03.987+10:00
+created: 2026-07-02T10:10:29.303+10:00
+modified: 2026-07-02T10:10:29.303+10:00
 tags:
   - pc
   - party
@@ -18,11 +18,11 @@ A Fire Urokite, the Dark Sun equivalent of a fire genasi. On Athas, where defili
 
 ## Relationships
 
-- [[Her]]: kept her and the rest of the front line standing with repeated Healing Word during the Episode 11 elemental fight
+- [[Her]]: kept her and the rest of the front line standing with repeated Healing Word during the Act II, Session 4 elemental fight
 
 ## Notable moments
 
-- **Episode 11:** Fought almost entirely with his fire rather than his glaive, which he has never swung. Tried Command (HALT) on the sand elemental via Magic Initiate, but it made the save that cast. His first Guiding Bolt missed and the elemental turned it on [[Her]]; his second connected for radiant damage. Spent much of the fight as the party's second healer, landing Healing Word again and again (including a 2nd-level cast on [[Her]]) to hold the line.
+- **Act II, Session 4:** Fought almost entirely with his fire rather than his glaive, which he has never swung. Tried Command (HALT) on the sand elemental via Magic Initiate, but it made the save that cast. His first Guiding Bolt missed and the elemental turned it on [[Her]]; his second connected for radiant damage. Spent much of the fight as the party's second healer, landing Healing Word again and again (including a 2nd-level cast on [[Her]]) to hold the line.
 
 ## Notes
 

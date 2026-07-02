@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:14:38.234+10:00
-modified: 2026-06-30T18:03:05.983+10:00
+created: 2026-07-02T10:10:35.020+10:00
+modified: 2026-07-02T10:10:35.020+10:00
 tags:
   - pc
   - party
@@ -24,6 +24,6 @@ A mute Mul gladiator and the party's tank. Cannot speak but communicates through
 
 ## Notable moments
 
-- **Episode 11:** Held the front line in the sand elemental fight as the party's tank, absorbing its multi-attack between the creature and the refugees. The elemental bent [[Pterrence]]'s webbing to drag her into the path of a Guiding Bolt, and she took 27 damage to the back. Her bone shield, already chipped and weakening, took further punishment. Also helped lower the refugees down the outer well. When the elemental finally collapsed, it was Her who moved in and took [[The Skull]] from the wreckage.
+- **Act II, Session 4:** Held the front line in the sand elemental fight as the party's tank, absorbing its multi-attack between the creature and the refugees. The elemental bent [[Pterrence]]'s webbing to drag her into the path of a Guiding Bolt, and she took 27 damage to the back. Her bone shield, already chipped and weakening, took further punishment. Also helped lower the refugees down the outer well. When the elemental finally collapsed, it was Her who moved in and took [[The Skull]] from the wreckage.
 - Brave regularly seeks out Her during conversation, nuzzling and licking her hand; she pets him in return without comment. One of the few moments of uncomplicated affection in her life.
 - Joined Derfel in taking revenge after [[Maeve (RIP)]] was killed by ranged attackers in Episode 10.

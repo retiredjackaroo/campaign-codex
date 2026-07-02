@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:19:34.328+10:00
-modified: 2026-06-30T14:19:34.329+10:00
+created: 2026-07-02T10:12:18.535+10:00
+modified: 2026-07-02T10:12:18.535+10:00
 tags:
   - npc
   - companion
@@ -25,4 +25,4 @@ tags:
 
 - **Dave**: Derfel's first companion dog. Lost on Athas.
 - **Maeve**: Derfel's second companion dog. Killed in Episode 10 when three ranged attackers focused her down in two rounds. Derfel got revenge.
-- **Brave**: Current companion. Ten episodes in. In Episode 11 he was sent ahead during the slums crossing as a distraction and early warning, the plan being that a bark in the distance would signal trouble.
+- **Brave**: Current companion. Ten episodes in. In Act II, Session 4 he was sent ahead during the slums crossing as a distraction and early warning, the plan being that a bark in the distance would signal trouble.

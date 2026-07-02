@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Kit Chac
   - Kreen
-created: 2026-06-30T14:14:41.757+10:00
-modified: 2026-06-30T17:55:27.306+10:00
+created: 2026-07-02T10:10:37.563+10:00
+modified: 2026-07-02T10:10:37.563+10:00
 tags:
   - pc
   - party
@@ -29,4 +29,4 @@ Kit-Chac refers to himself simply as Kreen, the Thri-Kreen word for "People." Fr
 
 ## Notable moments
 
-- **Episode 11:** Picked the routes through the ruined slums and scouted the crossing alongside [[Derfel]]. Donated two water skins to [[Leviath]]'s refugees. In the sand elemental fight he tried his new Stunning Strike (the creature was immune to stunned) and a Flurry of Blows with Tavern Brawler to topple it (earth instability meant it could not be knocked prone), and kept hammering away with what damage would land. Stood over the medium elemental after the split until he was sure it had dispersed.
+- **Act II, Session 4:** Picked the routes through the ruined slums and scouted the crossing alongside [[Derfel]]. Donated two water skins to [[Leviath]]'s refugees. In the sand elemental fight he tried his new Stunning Strike (the creature was immune to stunned) and a Flurry of Blows with Tavern Brawler to topple it (earth instability meant it could not be knocked prone), and kept hammering away with what damage would land. Stood over the medium elemental after the split until he was sure it had dispersed.

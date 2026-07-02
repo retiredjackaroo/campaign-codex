@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:17:45.090+10:00
-modified: 2026-06-30T14:17:45.093+10:00
+created: 2026-07-02T10:11:49.704+10:00
+modified: 2026-07-02T10:11:49.705+10:00
 tags:
   - location
   - urban
@@ -17,11 +17,11 @@ Beneath the plaza lies the secret entrance to [[The Cisterns]], the underground 
 
 **Status:** Occupied by enemy field camp
 **City:** [[Raam]]
-**First appears:** <!-- link to Episode 11 once built -->
+**First appears:** [[Act II - Session 4 - Narrative]]
 
 ## Strategic notes
 
-Three routes were available to the party during Episode 11 for moving [[Leviath]] and fifteen peasants through or past the plaza:
+Three routes were available to the party during Act II, Session 4 for moving [[Leviath]] and fifteen peasants through or past the plaza:
 
 - Through the plaza under fog or obscurement, risking enemies lifting the fog
 - The close cistern entrance, accessed via the plaza itself

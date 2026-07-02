@@ -4,8 +4,8 @@ aliases:
   - Cisterns
   - The Aqueducts
   - Aqueduct Channels
-created: 2026-06-30T14:16:41.593+10:00
-modified: 2026-06-30T14:16:41.593+10:00
+created: 2026-07-02T10:12:14.630+10:00
+modified: 2026-07-02T10:12:14.630+10:00
 tags:
   - location
   - underground
@@ -23,7 +23,7 @@ Two known surface access points: a close entrance near [[The Plaza]], and a furt
 **Status:** Active; Alliance-controlled
 **City:** [[Raam]]
 **Controlled by:** [[The Alliance]]
-**First appears:** [[Episode 11 (Overview)]]
+**First appears:** [[Act II - Session 4 - Session Notes]]
 
 ## Notes
 

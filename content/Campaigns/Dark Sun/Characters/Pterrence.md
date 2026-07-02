@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:14:47.880+10:00
-modified: 2026-06-30T17:55:33.777+10:00
+created: 2026-07-02T10:10:41.318+10:00
+modified: 2026-07-02T10:10:41.318+10:00
 tags:
   - pc
   - party
@@ -18,12 +18,12 @@ A Pterran party member. Pterrans are native to the Hinterlands of Athas: a repti
 
 ## Relationships
 
-- [[Salt]]: fellow caster; the two coordinated illusions and battlefield control during the Episode 11 crossing and elemental fight
+- [[Salt]]: fellow caster; the two coordinated illusions and battlefield control during the Act II, Session 4 crossing and elemental fight
 - [[Derfel]]: a faint, background friction. Pterrence's wordiness wears on the terse, practical Derfel; Pterrence seems largely unbothered by it. Low-key for now, a thread that may surface later.
 
 ## Notable moments
 
-- **Episode 11:** The party's battlefield engine. Cast Disguise Self to pose as a Mansivar Templar guard during the slums crossing, and Web to block a corridor against pursuit. In the sand elemental fight his Web proved useless (the creature was largely immune), so he pivoted to Cloud of Daggers, upcast to 3rd level, for sixteen slashing damage a round, then Ray of Frost to slow the elemental so it could not walk clear of the blades. The Cloud of Daggers did the bulk of the damage that killed it. Also used Portent to help land [[Salt]]'s opening Mind Whip, and mended his own cracked Obsidian Warhammer with Mending. Credited [[Tchk'Tchk Gulbadani]] with winning the fight.
+- **Act II, Session 4:** The party's battlefield engine. Cast Disguise Self to pose as a Mansivar Templar guard during the slums crossing, and Web to block a corridor against pursuit. In the sand elemental fight his Web proved useless (the creature was largely immune), so he pivoted to Cloud of Daggers, upcast to 3rd level, for sixteen slashing damage a round, then Ray of Frost to slow the elemental so it could not walk clear of the blades. The Cloud of Daggers did the bulk of the damage that killed it. Also used Portent to help land [[Salt]]'s opening Mind Whip, and mended his own cracked Obsidian Warhammer with Mending. Credited [[Tchk'Tchk Gulbadani]] with winning the fight.
 
 ## Notes
 

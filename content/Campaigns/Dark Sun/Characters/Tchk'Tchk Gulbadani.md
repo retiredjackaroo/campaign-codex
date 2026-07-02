@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tchk Tchk
   - Tchk'Tchk
-created: 2026-06-30T14:15:04.335+10:00
-modified: 2026-06-30T16:45:49.653+10:00
+created: 2026-07-02T10:10:48.988+10:00
+modified: 2026-07-02T10:10:48.988+10:00
 tags:
   - pc
   - party
@@ -29,7 +29,7 @@ Where [[Salt]] favours utility and healing, Tchk'Tchk is the party's control spe
 
 ## Notable moments
 
-- **Episode 11:** Won the sand elemental fight. The creature was immune to stunned, could not be knocked prone or pushed (earth instability), and shrugged off Web, but it had no defence against Command. Tchk'Tchk exploited that gap ruthlessly, casting Command turn after turn to pin the elemental inside [[Pterrence]]'s Cloud of Daggers, and using Telekinetic Propel to lift it five feet above the daggers and drop it back in when it tried to leave. [[Pterrence]] credited him with the win outright.
+- **Act II, Session 4:** Won the sand elemental fight. The creature was immune to stunned, could not be knocked prone or pushed (earth instability), and shrugged off Web, but it had no defence against Command. Tchk'Tchk exploited that gap ruthlessly, casting Command turn after turn to pin the elemental inside [[Pterrence]]'s Cloud of Daggers, and using Telekinetic Propel to lift it five feet above the daggers and drop it back in when it tried to leave. [[Pterrence]] credited him with the win outright.
 
 ## Notes
 

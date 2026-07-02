@@ -4,8 +4,8 @@ aliases:
   - Alliance
   - Veiled Alliance
   - The Veiled Alliance
-created: 2026-06-30T14:15:28.702+10:00
-modified: 2026-06-30T14:15:28.702+10:00
+created: 2026-07-02T10:11:12.575+10:00
+modified: 2026-07-02T10:11:12.575+10:00
 tags:
   - faction
   - resistance
@@ -17,12 +17,12 @@ tags:
 
 Also known as the Veiled Alliance. A clandestine resistance network operating beneath [[Raam]] in the cistern and aqueduct channel systems below the slums. The Alliance has gone to considerable lengths to remain hidden and unsuspected by the city's surface factions. Their underground network connects through secret entrances: a dry well in the central [[The Plaza|plaza]] and another near the city walls at the edge of [[The Slums]].
 
-Their existence was revealed to the party by [[Leviath]] in Episode 11. They had been providing her with sanctuary while [[Korno]]'s slums faction operated above.
+Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. They had been providing her with sanctuary while [[Korno]]'s slums faction operated above.
 
 **Status:** Active; hidden beneath Raam
 **Base of operations:** [[The Cisterns]]
 **Known members:** [[Leviath]]
-**First appears:** [[Episode 11 (Overview)]]
+**First appears:** [[Act II - Session 4 - Session Notes]]
 
 ## Notes
 

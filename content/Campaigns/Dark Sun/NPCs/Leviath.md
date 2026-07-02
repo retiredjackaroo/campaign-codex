@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Leviathan
-created: 2026-06-30T14:24:02.403+10:00
-modified: 2026-06-30T14:24:02.403+10:00
+created: 2026-07-02T10:12:53.532+10:00
+modified: 2026-07-02T10:12:53.532+10:00
 tags:
   - npc
   - ally
@@ -14,11 +14,11 @@ tags:
 # Leviath
 
 ![[Pasted image 20260628013925.png]]
-A half-giant and representative of [[The Alliance]], the hidden resistance operating beneath the city in the cisterns and aqueduct channels. Wife of [[Korno]], head of the Slums faction. Was guiding the party and approximately fifteen peasants, including children and elderly, through the occupied plaza during Episode 11.
+A half-giant and representative of [[The Alliance]], the hidden resistance operating beneath the city in the cisterns and aqueduct channels. Wife of [[Korno]], head of the Slums faction. Was guiding the party and approximately fifteen peasants, including children and elderly, through the occupied plaza during Act II, Session 4.
 
 **Status:** Alive
 **Affiliation:** [[The Alliance]]
-**First appears:** <!-- link to episode once built -->
+**First appears:** [[Act II - Session 4 - Narrative]]
 
 ## Relationships
 
