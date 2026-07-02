@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Rescue Operation in the Slums & Sand Elemental Encounter
-created: 2026-07-02T15:13:17.984+10:00
-modified: 2026-07-02T15:13:17.984+10:00
+title: "Session 4: Notes"
+created: 2026-07-02T15:34:12.595+10:00
+modified: 2026-07-02T15:34:12.595+10:00
 tags:
   - session
   - act-2
