@@ -2,7 +2,7 @@
 publish: true
 title: Session Notes
 created: 2026-07-01T19:03:00.008+10:00
-modified: 2026-07-01T19:03:00.008+10:00
+modified: 2026-07-05T20:24:26.965+10:00
 tags:
   - session
   - chapter-11
@@ -223,3 +223,5 @@ The session ended mid-combat at midnight (in real time) with:
 - Welsea's motives remain unclear. Lavinia is convinced she is being used.
 
 - Pug is still in Phlan, near Denlor's Tower.
+
+When we return to moosea the intiative order yoiu are in Keith - 20, VUthac 17, Lavinia 17, Petra 15, Tiz 12, Orange 10, jaag, 9, BLue 7, Cel 3
