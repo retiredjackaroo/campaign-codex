@@ -1,0 +1,1 @@
+This page has been renamed to [[Sylune]]. The Roll20 prep art for this session titles the scene "Tea with El and Syl", which strongly suggests Sylune rather than the placeholder "Saloon" used previously. Please delete this file manually; my filesystem access doesn't include a delete operation.

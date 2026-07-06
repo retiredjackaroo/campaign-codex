@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Pug's Side Quest Notes
-created: 2026-07-06T01:24:56.214+10:00
-modified: 2026-07-06T13:37:08.610+10:00
+created: 2026-07-06T14:42:48.066+10:00
+modified: 2026-07-06T14:42:48.067+10:00
 tags:
   - session
   - chapter-11
@@ -10,7 +10,7 @@ tags:
 ---
 
 **Session Notes: Chapter 11, Pug's Side Quest**
-![[Campaigns/Moonsea/Sessions/Chapter 11/Pug's Side Quest/Assets/Pasted image 20260706133706.png]]
+
 **"Escort to Myth Drannor"**
 
 **Summary:** With [[Pug D'Astibar]] left behind in Phlan at the end of Session 1, this side quest fills in what his "personal business" actually was: a secretive mission for [[Elminster]] of [[Shadowdale]], escorted through [[Cormanthor]] towards [[Myth Drannor]] by a separate band of characters. The escort runs into a were-boar hunting party partway through the forest, and the session ends mid-combat. Played by the same table, but with everyone (bar Pug) on secondary side quest characters: see [[Chapter 11 - Pug's Side Quest|the narrative]] for the full story, and the new character pages in Characters/Pug's Side Quest/ for who's who.
@@ -23,7 +23,7 @@ Pug stayed behind near [[Denlor's Tower]] at the end of Session 1, promising to 
 
 Secreted away from his clan, Pug travelled the Iron Road, ferried to two other towns along the way, and finally arrived at [[Shadowdale]]. He knocked the dirt from his hair, straightened his robes, and knocked on a tower door that swung open before his knuckles landed.
 
-Inside, he met [[Elminster]] and a translucent woman, [[Saloon]] (a name that doesn't look right; see her page for a flagged note on that). Saloon handed over a [[Silver Brooch]] that turned solid the moment Pug took hold of it, meant to mark him as a friend to whoever recognised it. Elminster produced six [[Crystal Vials]] in a blue velvet case, intended to hold the waters Pug was being sent to collect, with one condition repeated more than once: the water must never touch his skin. Cake and tea were served. Pug ate eagerly.
+Inside, he met [[Elminster]] and [[Sylune]], a spectral woman. Sylune handed over a [[Silver Brooch]] that turned solid the moment Pug took hold of it, meant to mark him as a friend to whoever recognised it. Elminster produced six [[Crystal Vials]] in a blue velvet case, intended to hold the waters Pug was being sent to collect, with one condition repeated more than once: the water must never touch his skin. Cake and tea were served. Pug ate eagerly.
 
 **Into Cormanthor**
 
@@ -58,7 +58,7 @@ Several players had vision drop out briefly during the fight (a technical glitch
 | **NPC** | **Role** | **Status** |
 | --- | --- | --- |
 | [[Elminster]] | Archmage of [[Shadowdale]] | At his tower |
-| [[Saloon]] | Translucent woman in Elminster's tower | Unconfirmed identity |
+| [[Sylune]] | Spectral woman in Elminster's tower | Alive, as a spectral presence |
 | [[Nick Timoney]] | Pug's owl familiar | Alive, scouting |
 
 **Loose Threads and Things to Remember**
@@ -68,4 +68,4 @@ Several players had vision drop out briefly during the fight (a technical glitch
 - The silver brooch hasn't been used yet, only received.
 - Nick Timoney won't fly into dead-magic zones; worth remembering if the shrine itself turns out to be one.
 - "Mithranor", the name the party uses for themselves as guardians of, may or may not be the same place as Myth Drannor; flagged on the [[Myth Drannor]] page rather than assumed.
-- No Roll20 export or portrait art was supplied for this session, so none of the new pages above have images yet. That's a genuine gap, not a missed match, worth flagging in case you want to add art for these five side quest characters and the new NPCs later.
+- Images from your session prep are now on the Shadowdale, Cormanthor, Elminster, Sylune, Crystal Vials and Morwyn Sabbath pages. A few more (the journey itself, a group shot of the five escort characters, an alternate forest shot, and what's almost certainly the shrine you haven't reached yet) weren't a clean fit for any single page, so I've left those out rather than force them in.
