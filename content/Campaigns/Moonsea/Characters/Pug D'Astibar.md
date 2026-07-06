@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Pug
-created: 2026-06-30T13:41:43.575+10:00
-modified: 2026-06-30T13:41:43.575+10:00
+created: 2026-07-06T00:19:25.779+10:00
+modified: 2026-07-06T00:19:25.780+10:00
 tags:
   - pc
   - party
@@ -15,3 +15,9 @@ A wizard who worked at [[Mantor's Library]] under [[Kastra Brandywine]]. Stayed 
 
 **Status:** In Phlan\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
+
+## Side quest: escort to Myth Drannor
+
+Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]. Secreted away from his clan, he travelled the Iron Road and on to Shadowdale, where Elminster and [[Saloon]] equipped him with the [[Silver Brooch]] and [[Crystal Vials]] and sent him, escorted by a separate group, toward [[Myth Drannor]] to collect sacred waters from an old elven shrine. He summoned his owl familiar, [[Nick Timoney]], to scout ahead through [[Cormanthor]]. During this trip he cast Counterspell to shut down a were-boar shaman's lightning spell, and landed a heavy Chromatic Orb that bounced between two targets for a combined 87 lightning damage.
+
+**First appears (this thread):** [[Chapter 11 - Pug's Side Quest]]
