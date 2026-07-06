@@ -1,15 +1,1 @@
----
-publish: true
-created: 2026-06-30T14:01:25.406+10:00
-modified: 2026-06-30T14:01:25.406+10:00
-tags:
-  - location
-  - wilderness
-  - corruption
----
-
-# Sorcerer's Isle
-
-A corrupted island on the northern [[Moon Sea]], upriver along the [[Storgenau]]. Site of [[Yarish's Pyramid]]. The old corruption is spreading again, faster and stranger than before: upside-down trees, fish in the air.
-
-**First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
+This page has been renamed to [[Sorcerors Isle]]. Roll20's own handout title drops the apostrophe: "Sorcerors Isle", so that's now canonical, with "Sorcerer's Isle" kept as an alias. Please delete this file manually; my filesystem access doesn't include a delete operation.

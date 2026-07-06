@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Pug
-created: 2026-07-06T14:42:57.621+10:00
-modified: 2026-07-06T14:42:57.622+10:00
+created: 2026-07-06T20:22:50.757+10:00
+modified: 2026-07-06T20:22:50.758+10:00
 tags:
   - pc
   - party
@@ -11,7 +11,7 @@ tags:
 
 # Pug D'Astibar
 
-A wizard who worked at [[Mantor's Library]] under [[Kastra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
+A wizard who worked at [[Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
 
 **Status:** In Phlan\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

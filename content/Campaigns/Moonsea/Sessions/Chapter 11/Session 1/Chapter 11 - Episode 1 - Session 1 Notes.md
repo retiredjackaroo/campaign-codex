@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-07-01T19:03:00.008+10:00
-modified: 2026-07-05T20:24:26.965+10:00
+created: 2026-07-06T20:26:02.715+10:00
+modified: 2026-07-06T20:26:02.716+10:00
 tags:
   - session
   - chapter-11
@@ -10,9 +10,9 @@ tags:
 
 **Session Notes: Chapter 11, Episode 1, Session 1**
 
-**"****Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerer's Isle]]****"**
+**"****Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerors Isle]]****"**
 
-**Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlor's Tower]] by [[Kastra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarish's Pyramid]] on [[Sorcerer's Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
+**Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlor's Tower]] by [[Cassra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarish's Pyramid]] on [[Sorcerors Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
 
 **Previously On... (DM Recap)**
 
@@ -50,7 +50,7 @@ The one entity that responded without conditions was the **[[Bondclaw]] and the 
 
 - **Captain [[Giselle Greycastle]]** (Blackfist, organising surviving soldiers in the city)
 
-- **[[Gleveth]]** (organising the [[The Welcomers|Welcomers]] as an underground network)
+- **[[Glevith]]** (organising the [[The Welcomers|Welcomers]] as an underground network)
 
 - **[[The Lord Sage]]** of [[Mantor's Library]]
 
@@ -68,7 +68,7 @@ The one entity that responded without conditions was the **[[Bondclaw]] and the 
 
 The party was summoned to **Lord Hector's War Council tent**, a heavily guarded military pavilion with minimal furnishings: the crests of Phlan and the Blackfist, a large round table with a map of Phlan and surroundings, and water and juice (no alcohol; Hector runs sober meetings).
 
-Waiting with Hector was **[[Kastra Brandywine]]**, a cherubic halfling in travelling clothes whom the party recognised as Pug's direct supervisor at Mantor's Library. She informed the party that the Lord Sage needed to meet with them urgently at **Denlor's Tower**, that very night at midnight, to share concerning intelligence about the cult's activities outside Phlan.
+Waiting with Hector was **[[Cassra Brandywine]]**, a cherubic halfling in travelling clothes whom the party recognised as Pug's direct supervisor at Mantor's Library. She informed the party that the Lord Sage needed to meet with them urgently at **Denlor's Tower**, that very night at midnight, to share concerning intelligence about the cult's activities outside Phlan.
 
 She provided a **crystal shard** to reveal the door in the outer wall of the tower (beyond the city wall, across from the Lyceum). The password to open the door: **"****Mountain Laurel.****"**
 
@@ -88,9 +88,9 @@ Inside, a young man named **[[Kral]]** (in a dark grey tunic and leather trouser
 
 **[[Lavinia Zafir]] left her familiar (a spider, invisible) behind when the party departed**, to eavesdrop on post-meeting conversation. When recalled in the tunnel afterwards, it relayed that the Lord Sage had addressed the spider directly, saying he hoped the party would "take this a bit more seriously than they did the briefing."
 
-**The Lord Sage's Briefing: Sorcerer's Isle**
+**The Lord Sage's Briefing: Sorcerors Isle**
 
-The Lord Sage briefed the party on the situation at **Sorcerer's Isle**, a location on the northern Moon Sea upriver along the [[Storgenau]]. Key history:
+The Lord Sage briefed the party on the situation at **Sorcerors Isle**, a location on the northern Moon Sea upriver along the [[Storgenau]]. Key history:
 
 - **[[Yarish]]** was a transmutation archmage, part of Phlan's founding history. He became obsessed with wild experimentation on the island's flora and fauna, causing severe corruption of the surrounding waters and wildlife, endangering the expanding population.
 
@@ -104,7 +104,7 @@ The Lord Sage briefed the party on the situation at **Sorcerer's Isle**, a locat
 
 - The Cult is sending a mission to the pyramid.
 
-**The Lord Sage's request:** Journey to [[Yarish's Pyramid]] on Sorcerer's Isle, prevent the cult from succeeding, and if possible retrieve Yarish's research and keep it from enemy hands.
+**The Lord Sage's request:** Journey to [[Yarish's Pyramid]] on Sorcerors Isle, prevent the cult from succeeding, and if possible retrieve Yarish's research and keep it from enemy hands.
 
 Additional note: The interior of the pyramid is known (from the memoirs of Wren O'The Blade) to be a large, confusing maze that appeared to change as they moved through it. Every group known to have explored it since Wren's time has not returned.
 
@@ -136,19 +136,19 @@ The party accepted, though scepticism about the vampire's motives remains (Lavin
 
 **Departing Phlan**
 
-Kral brought a bundle containing 20 days of dried rations and a map. The Lord Sage outlined two routes to Sorcerer's Isle:
+Kral brought a bundle containing 20 days of dried rations and a map. The Lord Sage outlined two routes to Sorcerors Isle:
 
 - **Western route (Farmstead):** 4 days by steed, staying west of the Storgenau. Secure river transport from a farmer north of the river who has "made a good living ferrying doomed adventurers to the isle."
 
-- **Eastern route via [[Kabel's Hill]]:** Faster, but more dangerous. Cult forces and their orc garrisons have occupied hub villages along the river. Strong cult presence at Kabel’s Hill. The Zhentarim have agents there who can arrange a ferrier upriver.
+- **Eastern route via [[Kabel's Hill]]:** Faster, but more dangerous. Cult forces and their orc garrisons have occupied hub villages along the river. Strong cult presence at Kabel's Hill. The Zhentarim have agents there who can arrange a ferrier upriver.
 
-The party chose **the eastern/Kabel’s Hill route** for speed, noting the cult's party had already departed via the overland route. The aim is to arrive at the pyramid first, or at minimum not far behind.
+The party chose **the eastern/Kabel's Hill route** for speed, noting the cult's party had already departed via the overland route. The aim is to arrive at the pyramid first, or at minimum not far behind.
 
-**Exit from the city:** A member of the Shroud (the Lord Sage's surviving clandestine operative network), accompanied by **[[Cassit]]** (former novice of the [[Church of Kellenwar]], who previously guided the party through the city crypts), escorted the party through tunnels beneath Phlan and out to mounts waiting outside the city. They rode for a full day, staying clear of the road and keeping close to the forest.
+**Exit from the city:** A member of the Shroud (the Lord Sage's surviving clandestine operative network), accompanied by **[[Cassyt]]** (former novice of the [[Church of Kellenwar]], who previously guided the party through the city crypts), escorted the party through tunnels beneath Phlan and out to mounts waiting outside the city. They rode for a full day, staying clear of the road and keeping close to the forest.
 
-**Kabel’s Hill**
+**Kabel's Hill**
 
-The party arrived at **Kabel’s Hill** at dusk. The village is occupied by the **[[Burning Banner]]** orc company, the same insignia the party encountered at [[Kingspire]]. The occupation is characterised more by drinking and gambling than attentive guard duty.
+The party arrived at **Kabel's Hill** at dusk. The village is occupied by the **[[Burning Banner]]** orc company, the same insignia the party encountered at [[Kingspire]]. The occupation is characterised more by drinking and gambling than attentive guard duty.
 
 A young boy in a red cloak ([[Riek]], a local contact) met them at the northern sally port at the appointed time, signalling with his cloak on a staff. He guided them along the palisade wall to the river docks, past two orcs at the main gate who had drunk themselves unconscious, and past a lively tavern (the [[The Leaky Bucket|Leaky Bucket]]) still in full swing.
 
@@ -193,30 +193,30 @@ The session ended mid-combat at midnight (in real time) with:
 | **NPC** | **Role** | **Status** |
 | --- | --- | --- |
 | [[Lord Hector]] | [[Lord Hector\|Lord Commander]], leader of the refugee camp | At camp in the [[Ring Islands]] |
-| [[Kastra Brandywine]] | Halfling, [[Pug D'Astibar]]'s supervisor at [[Mantor's Library]] | Alive; delivered the summons |
+| [[Cassra Brandywine]] | Halfling, [[Pug D'Astibar]]'s supervisor at [[Mantor's Library]] | Alive; delivered the summons |
 | [[The Lord Sage]] | Head of [[Mantor's Library]]; resistance contact | In [[Phlan]]; clandestine |
 | [[Welsea Parenthe]] | Vampire; Viper of the [[Zhentarim]] | Present at [[Denlor's Tower]] meeting |
 | [[Thylren Saj]] | [[Zhentarim]] agent embedded in cult expedition | Location unknown; has a one-way [[Thylren's Sending Ring\|sending ring]] |
-| [[Cassit]] | Former novice of the [[Church of Kellenwar]] | Guided the party out of the city |
+| [[Cassyt]] | Former novice of the [[Church of Kellenwar]] | Guided the party out of the city |
 | [[Riek]] | Local boy; [[Kabel's Hill]] contact | At [[Kabel's Hill]] |
 | [[James Cel]] | Riverman; captain of the [[The Arbitus\|Arbitus]] | Fighting [[Vurthak]] on deck |
 | [[Vurthak]] | Half-dragon; commands the [[Burning Banner]] | Mid-combat; bloodied |
 
 **Loose Threads and Things to Remember**
 
-- The party is mid-combat on the Arbitus at Kabel’s Hill. Verthak is still standing.
+- The party is mid-combat on the Arbitus at Kabel's Hill. Verthak is still standing.
 
 - One orc below is unconscious (non-lethal): potential opportunity for disguise/deception?
 
 - Tiz has Calm Emotions available and a whirlpool in reserve.
 
-- Tiz cast Aid before entering Kabel’s Hill: +5 maximum HP on up to 3 party members (8-hour duration).
+- Tiz cast Aid before entering Kabel's Hill: +5 maximum HP on up to 3 party members (8-hour duration).
 
 - Lavinia is under the effect of Tiz's Guiding Bolt misfire: next attack against her has advantage.
 
 - Lavinia's familiar was used to spy on the Lord Sage and Welsea post-meeting. The Lord Sage addressed it directly, which may be worth discussing.
 
-- The cult's expedition is taking the overland route. The party is aiming to arrive at Sorcerer's Isle first via the river route.
+- The cult's expedition is taking the overland route. The party is aiming to arrive at Sorcerors Isle first via the river route.
 
 - Two mystery arrows: one enchantment (Kei), one transmutation (Jaag). Not yet identified beyond school of magic.
 
@@ -224,4 +224,4 @@ The session ended mid-combat at midnight (in real time) with:
 
 - Pug is still in Phlan, near Denlor's Tower.
 
-When we return to moosea the intiative order yoiu are in Keith - 20, VUthac 17, Lavinia 17, Petra 15, Tiz 12, Orange 10, jaag, 9, BLue 7, Cel 3
+When we return to Moonsea, the initiative order you are in: Keith 20, Verthak 17, Lavinia 17, Petra 15, Tiz 12, Orange 10, Jaag 9, Blue 7, Cel 3.

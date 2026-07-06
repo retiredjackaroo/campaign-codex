@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Kellenwar
-created: 2026-06-30T13:43:52.670+10:00
-modified: 2026-06-30T13:43:52.670+10:00
+created: 2026-07-07T09:14:27.838+10:00
+modified: 2026-07-07T09:14:27.838+10:00
 tags:
   - faction
   - religion
@@ -11,6 +11,6 @@ tags:
 
 # Church of Kellenwar
 
-The faith [[Cassit]] once trained in as a novice.
+The faith [[Cassyt]] once trained in as a novice.
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

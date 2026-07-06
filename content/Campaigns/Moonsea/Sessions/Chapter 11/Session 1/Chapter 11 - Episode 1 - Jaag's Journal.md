@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Jaag's Journal
-created: 2026-06-30T14:13:35.761+10:00
-modified: 2026-06-30T14:13:35.761+10:00
+created: 2026-07-06T20:26:50.283+10:00
+modified: 2026-07-06T20:26:50.283+10:00
 tags:
   - session
   - chapter-11
@@ -18,11 +18,11 @@ Let me write this down while I still can.
 
 We've been in this marsh for about a month now. I've slept in worse places. Brixton prepared me well. The lizardfolk keep their distance and we keep ours, which suits everyone. [[Lord Hector]] runs the camp like a garrison, which means it functions, but nobody's exactly laughing. Morale is what it is. We got out of a city that was eaten by a dragon. You don't bounce back from that overnight.
 
-The resistance inside the city has three heads worth mentioning: a [[Blackfist]] captain named [[Giselle Greycastle|Greycastle]] who's kept some soldiers together; a man called [[Gleveth]] running the [[The Welcomers|Welcomers]] underground; and the [[The Lord Sage|Lord Sage]], who runs [[Mantor's Library]] and, as it turns out, knows rather more than he lets on. Communication with all three is patchy and dangerous. We have fewer than sixty fighters we can actually count on. The occasional adventuring company swings through looking for dragon-slaying glory and then swings back out again when they clock the odds.
+The resistance inside the city has three heads worth mentioning: a [[Blackfist]] captain named [[Giselle Greycastle|Greycastle]] who's kept some soldiers together; a man called [[Glevith]] running the [[The Welcomers|Welcomers]] underground; and the [[The Lord Sage|Lord Sage]], who runs [[Mantor's Library]] and, as it turns out, knows rather more than he lets on. Communication with all three is patchy and dangerous. We have fewer than sixty fighters we can actually count on. The occasional adventuring company swings through looking for dragon-slaying glory and then swings back out again when they clock the odds.
 
 It's fine. I've worked with less.
 
-[[Kastra Brandywine]] turned up at Hector's war tent. [[Pug D'Astibar]]'s old supervisor at the library. Cheerful, ink-stained halfling energy. She said the Lord Sage needed to see us urgently, that very night, at [[Denlor's Tower]].
+[[Cassra Brandywine]] turned up at Hector's war tent. [[Pug D'Astibar]]'s old supervisor at the library. Cheerful, ink-stained halfling energy. She said the Lord Sage needed to see us urgently, that very night, at [[Denlor's Tower]].
 
 Hector doesn't drink at meetings, I'll give him that. The man has discipline if nothing else.
 
@@ -30,7 +30,7 @@ We picked up supplies from the camp stores. I found two magical arrows buried in
 
 Getting into [[Phlan|Flan]] was easier than expected. The crystal shard, the password, a wall that stopped being a wall. [[Kral]] let us in. Tea was offered. The Lord Sage arrived looking exhausted and unwell, cough like wet gravel, but his eyes were sharp.
 
-He told us about [[Sorcerer's Isle]]. Short version: a transmutation archmage named [[Yarish]] did experiments that corrupted half the island's wildlife and water a few centuries back. The hero of Flan eventually had to go up there and kill him. Most of the damage was patched up. The permanent bits they learned to live with.
+He told us about [[Sorcerors Isle]]. Short version: a transmutation archmage named [[Yarish]] did experiments that corrupted half the island's wildlife and water a few centuries back. The hero of Flan eventually had to go up there and kill him. Most of the damage was patched up. The permanent bits they learned to live with.
 
 Now it's happening again. Worse this time. Trees growing upside down. Fish swimming through the air. The cult is sending a party to the pyramid on the island, and the Lord Sage wants us to get there first and stop whatever they're planning.
 
@@ -72,7 +72,7 @@ Lavinia is convinced Welsey is using us entirely for her own ends. She's probabl
 
 Tiz cast Calm Emotions on everyone, which broke the charm. Welsey took it as a compliment, I think.
 
-Left the city through tunnels. [[Cassit]] led us. She used to be terrified of the crypts under the city. She said, with everything that's happened, she's not sure anyone has time to be afraid anymore. Fair point.
+Left the city through tunnels. [[Cassyt]] led us. She used to be terrified of the crypts under the city. She said, with everything that's happened, she's not sure anyone has time to be afraid anymore. Fair point.
 
 Lavinia left her spider familiar invisible in the kitchen to eavesdrop after we left. The Lord Sage addressed it directly and said he hoped we'd take things more seriously than we had during the briefing. Which, I think is fair. We were not at our most focused. In our defence: vampire.
 
@@ -82,7 +82,7 @@ Rolled a four. With advantage. My passive perception is 21. I would like to take
 
 I could hear Draconic on the road. Armoured convoy moving south toward the city. Cult, most likely, or their allies. Too far away to understand. Too exposed to move closer. So I sat there and listened to the sounds of a language I speak, coming from people I couldn't reach, and noted it in my head and kept watch.
 
-An owl appeared in the tree above Petra during her watch. It turned out to be [[Serenola the Whisperer]], who gave us our contact instructions for [[Kabel's Hill|Cobbles Hill]]: find a keelboat captain named [[James Cel|Kell]], his nephew [[Riek|Briek]] would meet us at the northern gate after sundown, and we shouldn't try to enter through the village itself. The [[Burning Banner]] orcs were occupying the town.
+An owl appeared in the tree above Petra during her watch. It turned out to be [[Seranolla the Whisperer]], who gave us our contact instructions for [[Kabel's Hill|Cobbles Hill]]: find a keelboat captain named [[James Cel|Kell]], his nephew [[Riek|Briek]] would meet us at the northern gate after sundown, and we shouldn't try to enter through the village itself. The [[Burning Banner]] orcs were occupying the town.
 
 Good to have allies. Even ones that materialise in tree branches at two in the morning.
 

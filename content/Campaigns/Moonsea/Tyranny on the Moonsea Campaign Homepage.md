@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-01T19:04:34.626+10:00
-modified: 2026-07-01T19:04:34.627+10:00
+created: 2026-07-07T09:14:46.833+10:00
+modified: 2026-07-07T09:14:46.833+10:00
 tags:
   - index
   - moc
@@ -29,22 +29,22 @@ Home page for the campaign wiki. This page always reflects the latest session on
 - [[Aleyd Burral]]
 - [[Captain Donella Azurite]]
 - [[Captain Walharrow]]
-- [[Cassit]]
+- [[Cassyt]]
 - [[Delacrae Gentleblossom]]
 - [[Denlor]]
 - [[Doomguide Yovir Glandon]]
 - [[Giselle Greycastle]]
-- [[Gleveth]]
+- [[Glevith]]
 - [[Igan Sokol]]
 - [[Ixusaxa Terrorsong]]
 - [[James Cel]]
-- [[Kastra Brandywine]]
+- [[Cassra Brandywine]]
 - [[Knight Lieutenant Bolver]]
 - [[Kral]]
 - [[Lord Hector]]
 - [[Riek]]
 - [[Scalebinder Skovac]]
-- [[Serenola the Whisperer]]
+- [[Seranolla the Whisperer]]
 - [[Stormbringer Azalcar]]
 - [[The Lord Sage]]
 - [[The Red Lady]]
@@ -63,7 +63,7 @@ Home page for the campaign wiki. This page always reflects the latest session on
 - [[Moon Sea]]
 - [[Phlan]]
 - [[Ring Islands]]
-- [[Sorcerer's Isle]]
+- [[Sorcerors Isle]]
 - [[Storgenau]]
 - [[The Leaky Bucket]]
 - [[The Lyceum]]
