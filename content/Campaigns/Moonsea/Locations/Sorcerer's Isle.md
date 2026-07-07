@@ -1,1 +1,0 @@
-This page has been renamed to [[Sorcerors Isle]]. Roll20's own handout title drops the apostrophe: "Sorcerors Isle", so that's now canonical, with "Sorcerer's Isle" kept as an alias. Please delete this file manually; my filesystem access doesn't include a delete operation.
