@@ -1,1 +1,0 @@
-This page has been renamed to [[Seranolla the Whisperer]]. Roll20's own handouts favour "Seranolla" (two of three instances), so that's now canonical, with Serenola and Serranolla kept as aliases. Please delete this file manually; my filesystem access doesn't include a delete operation.

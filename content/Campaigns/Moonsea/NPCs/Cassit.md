@@ -1,1 +1,0 @@
-This page has been renamed to [[Cassyt]]. Roll20's own handout title uses "Cassyt" (twice), so that's now canonical, with Cassit kept as an alias. Please delete this file manually; my filesystem access doesn't include a delete operation.

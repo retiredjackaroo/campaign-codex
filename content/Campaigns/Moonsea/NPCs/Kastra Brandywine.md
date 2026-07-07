@@ -1,1 +1,0 @@
-This page has been renamed to [[Cassra Brandywine]]. Roll20's own handout calls her Scribe Master Cassra Brandywine; Kastra is kept as an alias since that's what the table has mostly called her. Please delete this file manually; my filesystem access doesn't include a delete operation.

@@ -1,1 +1,0 @@
-This page has been renamed to [[Glevith]]. Roll20's own handout title uses "Glevith" (twice), so that's now canonical, with Gleveth kept as an alias. Please delete this file manually; my filesystem access doesn't include a delete operation.
