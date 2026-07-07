@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Pug's Side Quest Notes
-created: 2026-07-06T14:42:48.066+10:00
-modified: 2026-07-06T14:42:48.067+10:00
+created: 2026-07-08T09:35:01.855+10:00
+modified: 2026-07-08T09:35:01.856+10:00
 tags:
   - session
   - chapter-11
@@ -21,17 +21,51 @@ Pug stayed behind near [[Denlor's Tower]] at the end of Session 1, promising to 
 
 **Pug's Journey to Shadowdale**
 
+![[Campaigns/Moonsea/Assets/Shadowdale.webp]]
+
 Secreted away from his clan, Pug travelled the Iron Road, ferried to two other towns along the way, and finally arrived at [[Shadowdale]]. He knocked the dirt from his hair, straightened his robes, and knocked on a tower door that swung open before his knuckles landed.
 
-Inside, he met [[Elminster]] and [[Sylune]], a spectral woman. Sylune handed over a [[Silver Brooch]] that turned solid the moment Pug took hold of it, meant to mark him as a friend to whoever recognised it. Elminster produced six [[Crystal Vials]] in a blue velvet case, intended to hold the waters Pug was being sent to collect, with one condition repeated more than once: the water must never touch his skin. Cake and tea were served. Pug ate eagerly.
+Inside, he met [[Elminster]] and [[Sylune]], a spectral woman. The two of them spent most of the visit on comic double-act rather than exposition: Elminster's opener was to ask whether Pug's parents had lost a wager naming him "Pugnacious," Sylune introduced herself as "Syl, and despite my appearance, not that Syl," and the two of them traded a string of gently ridiculous questions between mouthfuls of cake (had he been chased by an angry goose, had he ever set his own eyebrows on fire, what frightened him most). The one serious question, what gives you hope, got a real answer about Phlan pulling together against the Maimed Virulence, and got no jokes back.
+
+![[Campaigns/Moonsea/Assets/Elminster.png]]
+
+Sylune handed over a [[Silver Brooch]] that turned solid the moment Pug took hold of it, meant to mark him as a friend to whoever recognised it. Elminster produced six [[Crystal Vials]] in a blue velvet case, intended to hold the waters Pug was being sent to collect, with one condition repeated more than once: the water must never touch his skin. Cake and tea were served, in absurd quantities. Pug ate eagerly.
+
+![[Campaigns/Moonsea/Assets/Crystal Vials.png]]
+
+**Pug Alone in the Rimwood**
+
+This is worth its own section: Pug spent a long stretch of the session solo, and it turned out to be a deliberate test set by the escort party, who watched the whole thing without helping.
+
+![[Campaigns/Moonsea/Assets/Cormanthor.webp]]
+
+Once into the forest, the path behind Pug closed over on its own (a transmutation effect, confirmed with Detect Magic), and pine needles began sticking to his robes in increasing numbers, adding weight and eventually forcing a Dexterity save. He dropped a dagger that had become welded to a clump of needles, fell flat on his face trying to run, then cast Levitate and pushed himself tree to tree until the needles fell away at a ravine's edge. The Levitate spell then switched itself off apparently of its own accord, right as he reached solid ground.
+
+A rope bridge across the ravine came apart mid-crossing, the ropes untying themselves rather than breaking, turning into a curtain of hanging vines. An acrobatics check let Pug swing the rest of the way across rather than fall. Nick Timoney refused to cross the ravine at all, which the DM later confirmed was because the area is a dead-magic zone, one of several scattered around Cormanthor since the Time of Troubles.
+
+**Meeting the Escort**
+
+The escort revealed themselves only once Pug was across, and immediately admitted the entire ordeal, the vanishing path, the pine needles, the collapsing bridge, had been a test they'd been watching the whole time rather than any genuine local hazard. Ripper found it "funny as hell." Kjeorn was visibly uneasy about how close it had come to actually killing him. Herschel had been standing in plain sight, disguised in moss and fungus, the entire time. Morwen made an entrance and declared the whole affair, if he were to write it up, "the comedy of errors."
+
+![[Campaigns/Moonsea/Assets/Your New Friends.webp]]
+
+Introductions were a mess in the best way: names half-heard and immediately mangled (Kion, Bjorn, and finally Kjeorn all got tried before one stuck), Herschel's name settled on after a couple of guesses, and Morwen appointing himself note-taker on the spot. Pug, delighted to have company at all, launched into an unprompted comparison with his old Phlan adventuring party, insisting several times that this lot would surely pull their weight better, while carefully not confirming whether the old lot were even still alive. He was cleared of being a Red Wizard on the grounds of being dressed entirely in brown, and cheerfully compared to Radagast for his trouble. Morwen offered, for a fee, to turn the whole misadventure into a song.
+
+The escort identified themselves as the guardians of Mithranor, a loose coalition of several different local groups (Knights who prefer the daytime, Sylvan warriors, and others) rather than a single organisation.
 
 **Into Cormanthor**
 
-The party (Pug, plus five secondary side quest characters standing in for the usual crew) set out from Shadowdale towards the shrine. Pug summoned his owl familiar, [[Nick Timoney]], to scout 50 to 60 feet overhead. The forest shifted underfoot as they went, from the sparse pines of the Rimwood to a denser mid-wood of ash, cedar and cherry blossom, thick with wildlife. Pine needles started clinging to clothing and gear, adding weight and forcing a Dexterity save; Pug tried to scrape them off with a dagger, which promptly got stuck to the blade for his trouble.
+![[Campaigns/Moonsea/Assets/The Journey Begins.png]]
+
+The party set out from Shadowdale towards the shrine as one group. Pug summoned his owl familiar, Nick Timoney, to scout 50 to 60 feet overhead once she'd made it back over the ravine. The forest shifted underfoot as they went, from the sparse pines of the Rimwood to a denser mid-wood of ash, cedar and cherry blossom, thick with wildlife.
+
+![[Campaigns/Moonsea/Assets/Cormanthor - The Midwood.png]]
 
 **The Were-Boar Glade**
 
 Further in, the party found a glade where six upright, boar-faced creatures were butchering a stag alongside two larger boars. Nature and history checks placed them as were-boars, lycanthropes tied to the deity Malar. A debate over fighting versus bypassing leaned towards avoidance, right up until two giant boars charged and several armed were-boars followed. The DM granted advantage on initiative to the whole party.
+
+![[Campaigns/Moonsea/Assets/Cormanthor - The Stalkers.png]]
 
 **Spells and Highlights**
 
@@ -66,6 +100,6 @@ Several players had vision drop out briefly during the fight (a technical glitch
 - The were-boar fight was still going when the session ended. Nobody's down, but Ripper is badly hurt and prone.
 - The six crystal vials haven't reached the shrine yet. Water still hasn't touched Pug's skin, and it needs to stay that way.
 - The silver brooch hasn't been used yet, only received.
-- Nick Timoney won't fly into dead-magic zones; worth remembering if the shrine itself turns out to be one.
-- "Mithranor", the name the party uses for themselves as guardians of, may or may not be the same place as Myth Drannor; flagged on the [[Myth Drannor]] page rather than assumed.
-- Images from your session prep are now on the Shadowdale, Cormanthor, Elminster, Sylune, Crystal Vials and Morwyn Sabbath pages. A few more (the journey itself, a group shot of the five escort characters, an alternate forest shot, and what's almost certainly the shrine you haven't reached yet) weren't a clean fit for any single page, so I've left those out rather than force them in.
+- Nick Timoney won't fly into dead-magic zones, and there's a confirmed one right at the ravine crossing behind them.
+- "Mithranor" is the name the escort uses for themselves and the place both; treated as an alias for Myth Drannor on that page.
+- All the imagery from this session's prep is now in place across the Shadowdale, Cormanthor, Elminster, Sylune, Crystal Vials and Morwyn Sabbath pages, plus the narrative itself.

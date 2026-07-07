@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 4: Narrative"
-created: 2026-07-02T15:34:05.810+10:00
-modified: 2026-07-02T15:34:05.811+10:00
+created: 2026-07-08T09:32:47.110+10:00
+modified: 2026-07-08T09:32:47.113+10:00
 tags:
   - session
   - act-2
@@ -15,6 +15,8 @@ tags:
 
 ## The Slums After the Storm
 
+![[Campaigns/Dark Sun/Assets/The Slums.png]]
+
 The party moved fast when they saw the force leave the Templar Quarter. [[Derfel]] clocked them first: Templars, Noble house soldiers, and Dregoth cultists, all moving together towards [[The Slums]]. [[Korno]] needed warning, so they changed direction.
 
 The slums were barely navigable. The tear storm had brought down the towering stacks of hovels that had once defined the district, leaving a maze of rubble with no clear paths and no sight lines. [[Kit-Chac]] picked the routes. [[Her]] cleared what needed clearing. [[Tchk'Tchk Gulbadani]] watched the angles. They moved.
@@ -22,6 +24,8 @@ The slums were barely navigable. The tear storm had brought down the towering st
 Then they found the gang.
 
 Children were being held, and the gang was taking offers. On Athas this is not unusual. The party, very uncommonly for this world, had a moral problem with it. They engaged the gang, fought them, and won. The children came with them, all but one. It cost the party time they did not have.
+
+![[Campaigns/Dark Sun/Assets/Cricket.png]]
 
 ## Too Late
 

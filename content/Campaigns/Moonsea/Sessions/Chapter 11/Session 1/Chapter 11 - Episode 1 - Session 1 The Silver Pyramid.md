@@ -1,8 +1,8 @@
 ---
 publish: true
 title: The Silver Pyramid
-created: 2026-07-06T20:24:51.487+10:00
-modified: 2026-07-06T20:24:51.487+10:00
+created: 2026-07-08T09:32:11.769+10:00
+modified: 2026-07-08T09:32:11.770+10:00
 tags:
   - session
   - chapter-11
@@ -15,6 +15,8 @@ tags:
 ## **Part One: The Marsh**
 
 A month is a long time to spend in a swamp.
+
+![[Campaigns/Moonsea/Assets/Twilight Marsh.webp]]
 
 The [[Ring Islands]] sit where the [[Twilight Marsh]] empties into the [[Moon Sea]], a labyrinth of fog and reed and still dark water. The mist never quite lifts. The lizardfolk keep to their end of the estuary, and the refugees of [[Phlan]] keep to theirs, and a mutual, wordless agreement hangs between them like the damp in the air. The [[Bondclaw]] had offered what the city-states of the Moon Sea would not: a place to set down and breathe, and the reasonable expectation that no one would come to move them on.
 
@@ -58,6 +60,8 @@ The Lord Sage did not stand on ceremony. He thanked them for coming, settled int
 
 ## **Part Three: The Man Who Talked to Fish**
 
+![[Campaigns/Moonsea/Assets/The Lord Sage.png]]
+
 [[Yarish]], the Lord Sage explained, was a transmutation archmage who had been part of Phlan's history for longer than most people realised. He had built a pyramid on the island to the north, along the [[Storgenau]], and devoted himself to experimentation with the living things that surrounded him. Flora. Fauna. Water. The wild and patient mechanics of natural life. Some of what he created had been extraordinary. Much of it had been reckless. For years, the waters around [[Sorcerors Isle]] had run corrupted, poisonous to anything that swam through them, and the creatures that lived nearby had changed in ways that made them dangerous to the expanding population of Phlan. Trees grew wrong. Animals behaved badly.
 
 [[Wren O'The Blade]] had led a company to the pyramid to ask Yarish to stop. They had not been able to ask. They had been forced to kill him instead.
@@ -81,6 +85,8 @@ It was at this point that the cloaked figure at the back of the room stood up.
 She moved the way some people move when they have learned, over a very long time, exactly how much space they occupy in other people's attention. Her cloak came down. Her name came with it.
 
 _[[Welsea Parenthe]]. Viper of the [[Zhentarim]]._
+
+![[Campaigns/Moonsea/Assets/Welsea Parenthe.webp]]
 
 Her voice was low. Unhurried. Each word placed where it would do the most work. She moved around the table as she spoke, and the room changed in the subtle way that rooms change when someone walking through them is exerting a quality of attention so concentrated it functions like physical pressure.
 
@@ -142,7 +148,11 @@ Then she was an owl again, and remained so until dawn.
 
 ## **Part Five: The Arbitus**
 
+![[Campaigns/Moonsea/Assets/Kabel's Hill.png]]
+
 Kabel'ss Hill at dusk. The Burning Banner shields at the gate, the same insignia they had encountered before. Two of the orcs assigned to keep watch had drunk themselves unconscious and lay beside their overturned jugs with an air of professional commitment to their unconsciousness. Through the palisade, chimney smoke and firelight and the muffled roar of a tavern in full swing. [[The Leaky Bucket]] was apparently untroubled by occupation.
+
+![[Campaigns/Moonsea/Assets/The Leaky Bucket.webp]]
 
 A small boy in a red cloak appeared at the northern sally port at the appointed time, holding his cloak up on a staff and waving it until he was sure they had seen him. [[Riek]]. He moved quickly and quietly, keeping to the inside of the palisade wall, past the snoring gate guards, down through the shadows toward the river.
 

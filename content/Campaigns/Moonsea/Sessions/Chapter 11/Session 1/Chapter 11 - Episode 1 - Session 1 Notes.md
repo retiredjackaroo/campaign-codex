@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-07-06T20:26:02.715+10:00
-modified: 2026-07-06T20:26:02.716+10:00
+created: 2026-07-08T09:32:42.508+10:00
+modified: 2026-07-08T09:32:42.508+10:00
 tags:
   - session
   - chapter-11
@@ -90,6 +90,8 @@ Inside, a young man named **[[Kral]]** (in a dark grey tunic and leather trouser
 
 **The Lord Sage's Briefing: Sorcerors Isle**
 
+![[Campaigns/Moonsea/Assets/The Lord Sage.png]]
+
 The Lord Sage briefed the party on the situation at **Sorcerors Isle**, a location on the northern Moon Sea upriver along the [[Storgenau]]. Key history:
 
 - **[[Yarish]]** was a transmutation archmage, part of Phlan's founding history. He became obsessed with wild experimentation on the island's flora and fauna, causing severe corruption of the surrounding waters and wildlife, endangering the expanding population.
@@ -109,6 +111,8 @@ The Lord Sage briefed the party on the situation at **Sorcerors Isle**, a locati
 Additional note: The interior of the pyramid is known (from the memoirs of Wren O'The Blade) to be a large, confusing maze that appeared to change as they moved through it. Every group known to have explored it since Wren's time has not returned.
 
 **Surprise Guest: [[Welsea Parenthe]], Viper of the [[Zhentarim]]**
+
+![[Campaigns/Moonsea/Assets/Welsea Parenthe.webp]]
 
 As the Lord Sage finished, the cloaked figure at the table rose, removed her hood, and introduced herself as **Welsea Parenthe, Viper of the Zhentarim** (the Black Network). Her manner was low, deliberate, and intensely seductive.
 
@@ -147,6 +151,8 @@ The party chose **the eastern/Kabel's Hill route** for speed, noting the cult's 
 **Exit from the city:** A member of the Shroud (the Lord Sage's surviving clandestine operative network), accompanied by **[[Cassyt]]** (former novice of the [[Church of Kellenwar]], who previously guided the party through the city crypts), escorted the party through tunnels beneath Phlan and out to mounts waiting outside the city. They rode for a full day, staying clear of the road and keeping close to the forest.
 
 **Kabel's Hill**
+
+![[Campaigns/Moonsea/Assets/Kabel's Hill.png]]
 
 The party arrived at **Kabel's Hill** at dusk. The village is occupied by the **[[Burning Banner]]** orc company, the same insignia the party encountered at [[Kingspire]]. The occupation is characterised more by drinking and gambling than attentive guard duty.
 

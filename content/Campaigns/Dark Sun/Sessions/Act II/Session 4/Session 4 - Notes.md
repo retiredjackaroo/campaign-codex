@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 4: Notes"
-created: 2026-07-02T15:34:12.595+10:00
-modified: 2026-07-02T15:34:12.595+10:00
+created: 2026-07-08T09:32:55.225+10:00
+modified: 2026-07-08T09:32:55.237+10:00
 tags:
   - session
   - act-2
@@ -17,6 +17,8 @@ tags:
 **XP awarded:** 1,243 per character (943 base + 200 encounter bonus + 100 skill checks)
 
 ## Summary
+
+![[Campaigns/Dark Sun/Assets/The Slums.png]]
 
 Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
 
@@ -47,6 +49,8 @@ All seven party members were active this session:
 | [[Korno]] | Captured | Taken prisoner by Templars; safe house overrun before the party arrived |
 | [[Leviath]] | Alive | Found by [[Derfel]] guarding refugees in a hidden hollow; revealed [[The Alliance]] |
 | [[Cricket]] | Alive | Among the refugees rescued earlier from the child-trafficking gang |
+
+![[Campaigns/Dark Sun/Assets/Cricket.png]]
 
 ## Factions
 
