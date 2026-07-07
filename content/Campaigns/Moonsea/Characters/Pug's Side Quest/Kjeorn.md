@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Kjeorn
   - Kjeron
-created: 2026-07-06T00:16:56.899+10:00
-modified: 2026-07-06T14:47:26.874+10:00
+created: 2026-07-07T15:18:08.912+10:00
+modified: 2026-07-07T15:18:08.912+10:00
 tags:
   - pc
   - side-quest
@@ -25,7 +25,3 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 
 - Used Thunderous Smite, adding 2d6 thunder damage and pushing the target back.
 - Used Shield Bash to knock a were-boar prone after a successful hit.
-
-## Notes for James
-
-- The uploaded character file spells this name two ways: "Kjeron" in the header line and "Kjeorn" in the body (used twice). This page uses Kjeorn as canonical, since it's the spelling used more often, with Kjeron kept as an alias. Worth confirming which one you actually want at the table.

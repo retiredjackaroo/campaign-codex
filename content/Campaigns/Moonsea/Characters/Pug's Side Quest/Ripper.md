@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Ripper
-created: 2026-07-06T00:15:46.460+10:00
-modified: 2026-07-06T14:47:01.674+10:00
+created: 2026-07-07T15:18:24.035+10:00
+modified: 2026-07-07T15:18:24.035+10:00
 tags:
   - pc
   - side-quest
@@ -23,6 +23,5 @@ A former bandit captain who once terrorised the lands around these parts with he
 ## This Session
 
 - Opened with Hunter's Mark.
-- Landed a critical hit with her whip on a red were-boar, reducing its speed and imposing disadvantage on its attacks.
+- Landed a critical hit with her whip on the marked red were-boar, reducing its speed and imposing disadvantage on its attacks.
 - Took roughly 47 points of damage from a charging boar and was knocked prone, the heaviest single hit taken by the party this session.
-- Also recorded as using an ability called "Hunter's Bark" (adding force damage and reducing enemy speed); this is very likely a mis-transcription of an actual Ranger ability rather than a real spell name, flagged here rather than guessed at.
