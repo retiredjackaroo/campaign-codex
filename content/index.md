@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Campaign Codex
+title: Your Journey Begins
 created: 2026-07-08T10:41:45.386+10:00
-modified: 2026-07-08T10:41:45.387+10:00
+modified: 2026-07-08T11:01:54.467+10:00
 tags:
   - index
   - moc
