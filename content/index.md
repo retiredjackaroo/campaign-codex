@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-07-01T11:04:35.217+10:00
-modified: 2026-07-01T11:46:48.773+10:00
+title: Campaign Codex
+created: 2026-07-08T10:41:45.386+10:00
+modified: 2026-07-08T10:41:45.387+10:00
 tags:
   - index
   - moc
