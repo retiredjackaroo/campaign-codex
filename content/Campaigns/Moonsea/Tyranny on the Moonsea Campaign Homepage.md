@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-07T09:14:46.833+10:00
-modified: 2026-07-07T09:14:46.833+10:00
+created: 2026-07-08T14:39:12.693+10:00
+modified: 2026-07-08T14:39:12.693+10:00
 tags:
   - index
   - moc
@@ -116,6 +116,10 @@ Home page for the campaign wiki. This page always reflects the latest session on
 - [[Jimson Brew]]
 - [[Thylren's Sending Ring]]
 - [[Transmutation Arrow]]
+
+## Side Quests
+
+- [[Pug's Side Quest Homepage|Pug's Side Quest: Escort to Myth Drannor]]
 
 ## Full Archive
 
