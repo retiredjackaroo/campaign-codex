@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-02T15:13:28.830+10:00
-modified: 2026-07-02T15:13:28.831+10:00
+created: 2026-07-12T13:40:44.454+10:00
+modified: 2026-07-12T13:40:44.458+10:00
 tags:
   - archive
   - moc
@@ -16,6 +16,9 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Session 4 - Narrative]]
 - [[Session 4 - Notes]]
 - [[Session 4 - Transcript]]
+- [[Session 5 - Narrative]]
+- [[Session 5 - Notes]]
+- [[Session 5 - Transcript]]
 
 ## All NPCs
 
@@ -66,6 +69,10 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 - [[Leviath]], [[High Kuatogagh Jahandar Shah]], [[Bilal]], [[Satrap Dovren M'Ke]], [[Ruvasha M'ke]], [[Silrasha of the Windswept Dust]], [[Rak of the Wastes]], [[Chiyata Veilstep]], [[Varros Dael]], [[Lady Asetra of House Veyal]], [[Hashtan the Ledgered]]
 
+### The Hidden Spring
+
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek "Cricket" Silvertwig]]
+
 ## All Locations
 
 - [[Raam]] - primary city; all campaign action to date
@@ -81,3 +88,4 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[The Elven Market]]
 - [[The Moot]]
 - [[The Furnace]]
+- [[The Hidden Spring]]

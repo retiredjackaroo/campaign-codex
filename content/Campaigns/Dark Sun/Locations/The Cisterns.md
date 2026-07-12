@@ -4,8 +4,8 @@ aliases:
   - Cisterns
   - The Aqueducts
   - Aqueduct Channels
-created: 2026-07-02T15:14:00.954+10:00
-modified: 2026-07-02T15:14:00.954+10:00
+created: 2026-07-12T13:39:32.888+10:00
+modified: 2026-07-12T13:39:32.888+10:00
 tags:
   - location
   - underground
@@ -28,3 +28,5 @@ Two known surface access points: a close entrance near [[The Plaza]], and a furt
 ## Notes
 
 The Alliance's entire operation depends on [[The Templars]] never having reason to search these channels.
+
+In Act II, Session 5 the party travelled far deeper into the network than previously mapped: through long-abandoned drainage tunnels of cracked buttressed archways and faded glyph-work into a natural cave system, and onto a wide ledge overlooking a vast, luminescent pale-blue aquifer lake fed by two waterfalls. The narrow ledge crossing was the site of a cloaker ambush. Beyond it, a psionically-sealed rock wall opens onto the hidden [[The Hidden Spring]] sanctuary.

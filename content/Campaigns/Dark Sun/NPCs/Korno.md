@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Corno
-created: 2026-07-02T15:13:57.819+10:00
-modified: 2026-07-02T15:13:57.819+10:00
+created: 2026-07-12T13:39:51.179+10:00
+modified: 2026-07-12T13:39:51.179+10:00
 tags:
   - npc
   - slums
@@ -21,3 +21,7 @@ Head of the Slums faction. Husband of [[Leviath]]. Captured by [[The Templars]] 
 ## Relationships
 
 - [[Leviath]]: wife
+
+## Notes
+
+His rescue remains unresolved. In Act II, Session 5 the party deferred it again while sheltering at [[The Hidden Spring]]; [[Koresh Ironblood]] implied that helping the Alliance with its own problems first would go a long way toward the cell agreeing to help free him.
