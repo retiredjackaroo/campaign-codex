@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Narrative"
-created: 2026-07-12T14:22:28.468+10:00
-modified: 2026-07-12T14:22:28.472+10:00
+created: 2026-07-12T17:06:28.673+10:00
+modified: 2026-07-12T17:06:28.673+10:00
 tags:
   - session
   - act-2
@@ -28,9 +28,9 @@ The ledge was narrow, wet, and treacherous, winding for over a hundred feet arou
 ![[Campaigns/Dark Sun/Assets/Cloaker.jpg]]
 _A cloaker: winged, rubbery, and toothed, each one shrouded in shifting duplicate images._
 
-They were most of the way across when something dropped from the darkness overhead and snatched a refugee off the ledge without a sound. Five winged, rubbery shapes descended after it: cloakers, each surrounded by shifting duplicate images. One seized a commoner mid-flight, later established dead. The party scattered into the fight that followed: Kit-Chac fled along the ledge first, then doubled back to grapple one of the creatures clear of a captured refugee, freeing him from its grip with a bite. Pterrence laid down Cloud of Daggers in a single square and held it in place turn after turn, the party manoeuvring cloakers into it whenever they could, while Tchk'Tchk flung stones and force damage in support and briefly caught a Psionic Backlash off an incoming tail strike.
+They were most of the way across when something dropped from the darkness overhead and snatched a refugee off the ledge without a sound. Five winged, rubbery shapes descended after it: cloakers, each surrounded by shifting duplicate images. The refugee taken in that first silent strike could not be saved; mid-fight, the creature carrying him opened its wings and let the body fall, limp and already gone. The party scattered into the fight that followed: Kit-Chac fled along the ledge first, then doubled back to grapple one of the creatures clear of a captured refugee, freeing him from its grip with a bite. Pterrence laid down Cloud of Daggers in a single square and held it in place turn after turn, the party manoeuvring cloakers into it whenever they could, while Tchk'Tchk flung stones and force damage in support and briefly caught a Psionic Backlash off an incoming tail strike.
 
-One of the creatures wrapped around Salt and dragged him bodily out over open water; unable to break its grip even with a Luck Point, he was eventually just dropped in, though as a being of water himself he was in no real danger and simply surfaced. It was Salt who had been holding Water Walk in reserve: when a cloaker dropped Pterrence from above moments later, Salt triggered the spell, and Pterrence hit what was now, to him, solid ground and landed flat on his back rather than plunging into drowning water. A second, purple cloaker seized Leviath, who is technically classed as Large for grappling purposes despite her medium-sized token, and had to be hauled free by Kit-Chac while she drowned inside its wrap.
+One of the creatures wrapped around Salt and dragged him bodily out over open water; unable to break its grip even with a Luck Point, he was eventually just dropped in, though as a being of water himself he was in no real danger and simply surfaced. It was Salt who had been holding Water Walk in reserve: when a cloaker dropped Pterrence from above moments later, Salt triggered the spell, and Pterrence hit what was now, to him, solid ground and landed flat on his back rather than plunging into drowning water. A second, purple cloaker seized Leviath, wrapping even her half-giant frame whole, and she had to be hauled free by Kit-Chac while she drowned inside its wrap.
 
 It was in the middle of this that Salt's hood came away. Kit-Chac, Her and Tchk'Tchk, for the first time, saw the blue-tinged hair, the finned ears, and the faint glistening ripple across his skin that marks him as something other than human underwater. Kit-Chac and Her could tell only that he was not human; Tchk'Tchk, drawing on old study, recognised the signs of an elemental being of water. None pressed the point in the middle of a fight, though Her, at least, clearly filed it away for later. Pterrence, who had known for some time, said nothing new.
 

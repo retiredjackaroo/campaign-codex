@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-12T14:23:16.017+10:00
-modified: 2026-07-12T14:23:16.017+10:00
+created: 2026-07-12T17:06:15.664+10:00
+modified: 2026-07-12T17:06:15.665+10:00
 tags:
   - index
   - moc
@@ -49,7 +49,7 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 
 - [[Brave]] - current companion dog
 - [[Maeve]] - deceased, Episode 10
-- [[Dave]] - deceased
+- [[Dave (RIP)|Dave]] - deceased
 
 ## Factions
 

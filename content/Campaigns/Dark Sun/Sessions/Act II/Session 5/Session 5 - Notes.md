@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Notes"
-created: 2026-07-12T14:23:06.723+10:00
-modified: 2026-07-12T14:23:06.723+10:00
+created: 2026-07-12T17:06:14.322+10:00
+modified: 2026-07-12T17:06:14.323+10:00
 tags:
   - session
   - act-2
@@ -13,6 +13,7 @@ tags:
 
 **XP awarded:** ~860 per character (GM-reported totals varied slightly between 850 and 860 across characters in the session; treat as approximate)
 ![[Campaigns/Dark Sun/Sessions/Act II/Session 5/Assets/Pasted image 20260712141419.png]]
+_The Roll20 map of the ledge crossing: the party, [[Leviath]] and the refugee column strung out single file above the aquifer lake._
 
 ## Summary
 
@@ -98,7 +99,7 @@ Four of the five cloakers survived: all four within Leviath's calming radius rel
 ## Resources expended
 
 - [[Pterrence]]: Cloud of Daggers (upcast), Ray of Frost (missed), Tenser's Floating Disk (ritual cast pre-crossing)
-- [[Tchk'Tchk Gulbadani]]: Psionic/Ironic Backlash, thrown-rock force attack, Tensor's Floating Disk (rode, did not cast)
+- [[Tchk'Tchk Gulbadani]]: Psionic/Ironic Backlash, thrown-rock force attack, Tenser's Floating Disk (rode, did not cast)
 - [[Salt]]: Water Walk (held in reserve, triggered to catch Pterrence), Telekinetic Propel, Flesh Maul, Luck Point (failed to escape grapple)
 - [[Kit-Chac]]: Stunning Strike, Flurry of Blows, multiple grapple attempts (mixed success)
 - [[Her]]: Longsword strikes to destroy [[The Skull]], multiple attacks against cloakers, Savage Attacker re-roll
