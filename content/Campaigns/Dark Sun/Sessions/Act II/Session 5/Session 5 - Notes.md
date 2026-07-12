@@ -2,7 +2,7 @@
 publish: true
 title: "Session 5: Notes"
 created: 2026-07-12T14:08:21.492+10:00
-modified: 2026-07-12T14:10:12.844+10:00
+modified: 2026-07-12T14:14:20.977+10:00
 tags:
   - session
   - act-2
@@ -12,6 +12,7 @@ tags:
 # Session 5: Notes
 
 **XP awarded:** ~860 per character (GM-reported totals varied slightly between 850 and 860 across characters in the session; treat as approximate)
+![[Campaigns/Dark Sun/Sessions/Act II/Session 5/Assets/Pasted image 20260712141419.png]]
 
 ## Summary
 
