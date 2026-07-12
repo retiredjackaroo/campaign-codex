@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Notes"
-created: 2026-07-12T14:08:21.492+10:00
-modified: 2026-07-12T14:14:20.977+10:00
+created: 2026-07-12T14:23:06.723+10:00
+modified: 2026-07-12T14:23:06.723+10:00
 tags:
   - session
   - act-2
@@ -18,7 +18,7 @@ tags:
 
 Picking up immediately after the sand elemental fight, the party identified [[The Skull]]'s active transmutation ritual, learned it would reactivate within 24 hours, and destroyed it rather than risk it reforming. [[Pterrence]] kept a fragment as a keepsake/experiment. The party then rejoined [[Leviath]] and her column of refugees and followed her deeper into [[The Cisterns]], through abandoned drainage tunnels into a natural cavern housing a large luminescent aquifer lake.
 
-Crossing the lake's narrow ledge, the party was ambushed by five cloakers dropping from the cavern ceiling. One refugee was killed early. The fight that followed saw [[Salt]] and [[Leviath]] both grappled and dragged out over open water, [[Pterrence]]'s held Water Walk spell saving both Salt and, later, Pterrence himself from drowning, and [[Pterrence]]'s Cloud of Daggers doing the bulk of sustained damage across the fight. Leviath ended the encounter by pulsing calming psionic/divine energy in a 30-foot radius; the four cloakers within reach all failed their saves, released their captives and were allowed to retreat, while the fifth (outside the radius) stayed hostile and was killed by the party.
+Crossing the lake's narrow ledge, the party was ambushed by five cloakers dropping from the cavern ceiling. One refugee was killed early. The fight that followed saw [[Salt]] and [[Leviath]] both grappled and dragged out over open water; [[Salt]]'s held Water Walk spell caught [[Pterrence]] when a cloaker dropped him over the lake (Salt himself, a water being, was never at drown risk), and [[Pterrence]]'s Cloud of Daggers did the bulk of sustained damage across the fight. Leviath ended the encounter by pulsing calming psionic/divine energy in a 30-foot radius; the four cloakers within reach all failed their saves, released their captives and were allowed to retreat, while the fifth (outside the radius) stayed hostile and was killed by the party.
 
 During the fight, Salt's hood came loose, and [[Kit-Chac]], [[Her]] and [[Tchk'Tchk Gulbadani]] saw for the first time the physical signs of his true nature underwater (blue-tinged hair, finned ears, a faint glistening ripple to his skin). Kit-Chac and Her could tell only that he was not human; Tchk'Tchk recognised it as an elemental being of water from old study. None pressed him on it in the moment. **See flag below.**
 
@@ -29,9 +29,9 @@ Beyond the lake, Leviath led the party to a concealed, psionically-warded entran
 Five of seven party members were active this session. **[[Derfel]] and [[Anselem]] were both absent** (not referenced as present or acting at any point in the source recording); the narrative reflects this rather than inventing scenes for them, per standing instruction to flag rather than silently override.
 
 - [[Her]] (Mul, mute) – frontline
-- [[Pterrence]] (Pterran) – battlefield control, Water Walk
+- [[Pterrence]] (Pterran) – battlefield control (Cloud of Daggers), Tenser's Floating Disk
 - [[Kit-Chac]] (Thri-Kreen, Open Hand Monk)
-- [[Salt]] (Water Genasi, Psion) – grappled and dragged over the lake
+- [[Salt]] (Water Genasi, Psion) – grappled and dragged over the lake; held the Water Walk that saved Pterrence
 - [[Tchk'Tchk Gulbadani]] (Thri-Kreen, Psion)
 
 ## NPCs encountered
@@ -71,7 +71,7 @@ Five cloakers descended from the cavern ceiling onto the party mid-crossing of t
 ### What worked
 
 - **Cloud of Daggers** ([[Pterrence]], upcast) held a single square and became the fight's main damage engine; the party manoeuvred cloakers in and out of it repeatedly, including moving it directly onto a stunned target.
-- **Held Water Walk** ([[Pterrence]]) was cast in reserve and triggered twice: once saving [[Salt]] when he was dropped over the lake, and once catching Pterrence himself when he was dropped from above.
+- **Held Water Walk** ([[Salt]]) was held in reserve and triggered to catch [[Pterrence]] when a cloaker dropped him over the lake, turning a drowning into a soft landing on solid water. (Salt himself, a water being, was never at drown risk when dropped.)
 - **Psionic Backlash / Ironic Backlash** ([[Tchk'Tchk Gulbadani]]) punished an incoming tail attack, reducing it and dealing return psychic damage.
 - **Grappling to free captives** ([[Kit-Chac]], [[Her]]) freed a trapped refugee and later Leviath herself from cloaker wraps.
 - **Stunning Strike + Flurry of Blows** ([[Kit-Chac]]) stunned and downed one cloaker outright, allowing a follow-up beating with advantage.
@@ -79,7 +79,7 @@ Five cloakers descended from the cavern ceiling onto the party mid-crossing of t
 
 ### What did not go to plan
 
-- **Salt's escape attempts** – multiple failed Athletics checks to break free of a grapple, including one burned Luck Point, before Water Walk saved him rather than his own effort.
+- **Salt's escape attempts** – multiple failed Athletics checks to break free of the grapple, including one burned Luck Point, none of which worked; the cloaker eventually just dropped him to drown, which does nothing to a water being.
 - **Leviath's own grapple** – despite her size and status as an ally NPC, she was seized the same as any party member and had to be physically hauled free by Kit-Chac while drowning inside the wrap.
 - **Mirror Image confusion** – repeated table debate over whether grapples, Cloud of Daggers, and other non-attack-roll effects bypassed Mirror Image; ultimately ruled that saving-throw and automatic-damage effects bypass the duplicates, but grapples (an unarmed strike-as-save) risked grabbing a duplicate rather than the real creature.
 
@@ -97,9 +97,9 @@ Four of the five cloakers survived: all four within Leviath's calming radius rel
 
 ## Resources expended
 
-- [[Pterrence]]: Cloud of Daggers (upcast), Water Walk held and triggered twice, Ray of Frost (missed), Tenser's Floating Disk (ritual cast pre-crossing)
+- [[Pterrence]]: Cloud of Daggers (upcast), Ray of Frost (missed), Tenser's Floating Disk (ritual cast pre-crossing)
 - [[Tchk'Tchk Gulbadani]]: Psionic/Ironic Backlash, thrown-rock force attack, Tensor's Floating Disk (rode, did not cast)
-- [[Salt]]: Water Walk cast on allies, Telekinetic Propel, Flesh Maul, Luck Point (failed to escape grapple)
+- [[Salt]]: Water Walk (held in reserve, triggered to catch Pterrence), Telekinetic Propel, Flesh Maul, Luck Point (failed to escape grapple)
 - [[Kit-Chac]]: Stunning Strike, Flurry of Blows, multiple grapple attempts (mixed success)
 - [[Her]]: Longsword strikes to destroy [[The Skull]], multiple attacks against cloakers, Savage Attacker re-roll
 

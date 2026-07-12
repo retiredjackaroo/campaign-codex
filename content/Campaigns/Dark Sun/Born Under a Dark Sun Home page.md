@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-12T13:40:26.082+10:00
-modified: 2026-07-12T14:09:40.592+10:00
+created: 2026-07-12T14:23:16.017+10:00
+modified: 2026-07-12T14:23:16.017+10:00
 tags:
   - index
   - moc
@@ -15,7 +15,7 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 | Session | Biggest Success | Funniest Mistake |
 |---|---|---|
 | Act II, Session 4 | **Tchk'Tchk Gulbadani's Command lock**: the sand elemental had no defence against Command, so he pinned it turn after turn inside Pterrence's Cloud of Daggers, using Telekinetic Propel to drop it straight back in whenever it tried to break loose. Pterrence's own words: "well played with the command, you won us this fight pretty much." | **Kit-Chac's toppling attempts**: Flurry of Blows aimed at knocking the elemental down, completely wasted on a creature immune to prone via earth instability. Capped by burning a Tavern Brawler re-roll on a natural 1, which came up a 2. |
-| Act II, Session 5 | **Pterrence's held Water Walk**: with nobody in the party able to swim, he cast Water Walk in reserve before the crossing and held it. When a cloaker dragged [[Salt]] under, then dropped Pterrence himself over the lake, the held spell triggered on each in turn, turning two near-drownings into a soft landing on solid water. | **Salt's escape that wasn't**: dragged over the water by a cloaker, he blew multiple Athletics checks to break the grapple, including a burned Luck Point, and freed himself exactly never; someone else's spell saved him, and his hood came off in the process, flashing his best-kept secret to half the party. |
+| Act II, Session 5 | **Salt's held Water Walk**: with nobody else in the party able to swim, [[Salt]] held Water Walk in reserve through the crossing. When a cloaker dropped [[Pterrence]] over the lake, Salt triggered it and turned a drowning into a soft landing on solid water. | **Salt's escape that wasn't**: dragged over the water by a cloaker, he blew multiple Athletics checks to break the grapple, including a burned Luck Point, and freed himself exactly never; the cloaker just dropped him to drown, which did nothing to a water being, but his hood came off in the process, flashing his best-kept secret to half the party. |
 
 ## Latest Session: Act II, Session 5
 
