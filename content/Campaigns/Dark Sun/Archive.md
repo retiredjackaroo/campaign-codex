@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T17:22:45.320+10:00
-modified: 2026-07-13T17:22:45.320+10:00
+created: 2026-07-14T09:39:14.761+10:00
+modified: 2026-07-14T09:39:14.761+10:00
 tags:
   - archive
   - moc
@@ -9,7 +9,7 @@ tags:
 
 # Born Under a Dark Sun: Full Archive
 
-The complete cumulative record for the campaign: every session, every NPC, every location encountered to date. The [[Born Under a Dark Sun Home page|home page]] only shows the latest session; this page grows every session and never gets pruned.
+The complete cumulative record for the campaign: every session, every NPC, every location encountered to date. The [[Campaigns/Dark Sun/index|home page]] only shows the latest session; this page grows every session and never gets pruned.
 
 ## All Sessions
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T17:23:28.259+10:00
-modified: 2026-07-13T17:23:28.260+10:00
+created: 2026-07-14T09:39:36.545+10:00
+modified: 2026-07-14T09:39:36.546+10:00
 tags:
   - index
   - moc
@@ -9,7 +9,7 @@ tags:
 
 ![[Campaigns/Moonsea/Assets/Your New Friends.webp]]
 
-Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always reflects the latest session only. For the wider campaign, see the [[Tyranny on the Moonsea Campaign Homepage|Main Campaign Homepage]].
+Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always reflects the latest session only. For the wider campaign, see the [[Campaigns/Moonsea/index|Main Campaign Homepage]].
 
 ## Hall of Fame
 
@@ -61,4 +61,4 @@ With [[Pug DAstibar|Pug D'Astibar]] left behind in Phlan at the end of Session 1
 
 ## Back to the Main Campaign
 
-This is a side thread off the main Moonsea story. For the full campaign, return to the [[Tyranny on the Moonsea Campaign Homepage|Main Campaign Homepage]].
+This is a side thread off the main Moonsea story. For the full campaign, return to the [[Campaigns/Moonsea/index|Main Campaign Homepage]].
