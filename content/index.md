@@ -2,7 +2,7 @@
 publish: true
 title: Your Journey Begins
 created: 2026-07-13T09:45:24.910+10:00
-modified: 2026-07-13T09:45:24.911+10:00
+modified: 2026-07-13T10:39:26.015+10:00
 tags:
   - index
   - moc
@@ -26,7 +26,7 @@ Whether you're catching up after missing a session or diving into years of campa
 
 A sprawling adventure across the Moonsea, where ancient powers stir beneath the surface and every decision leaves its mark.
 
-➡️ [[Campaigns/Moonsea/index|Enter the Moonsea]]
+➡️ [[Tyranny on the Moonsea Campaign Homepage|Enter the Moonsea]]
 
 ---
 
@@ -36,7 +36,7 @@ A sprawling adventure across the Moonsea, where ancient powers stir beneath the 
 
 A harsh world of survival, intrigue and forgotten secrets beneath an unforgiving sun.
 
-➡️ [[Campaigns/Dark Sun/index|Enter Dark Sun]]
+➡️ [[Born Under a Dark Sun Home page|Enter Dark Sun]]
 
 ---
 

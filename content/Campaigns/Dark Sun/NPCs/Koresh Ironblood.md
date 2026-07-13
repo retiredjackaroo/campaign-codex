@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Koresh
-created: 2026-07-12T13:53:25.148+10:00
-modified: 2026-07-12T13:53:25.149+10:00
+created: 2026-07-13T10:37:57.623+10:00
+modified: 2026-07-13T10:37:57.623+10:00
 tags:
   - npc
   - ally
@@ -26,8 +26,8 @@ When the party first arrived he sized them up in silence. He later offered to ta
 ## Relationships
 
 - [[Sarath]]: cell leader
-- [[Nisat of the Cavern Moss]], [[Tarek "Cricket" Silvertwig]]: fellow officers
+- [[Nisat of the Cavern Moss]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: fellow officers
 
 ## Notes
 
-Distinct from "Koresh of the Screaming Hollow," another Koresh referenced by [[Tchk'Tchk Gulbadani]] at the table; any relation is unconfirmed and treated as coincidence for now.
+Distinct from "Koresh of the Screaming Hollow," another Koresh referenced by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] at the table; any relation is unconfirmed and treated as coincidence for now.

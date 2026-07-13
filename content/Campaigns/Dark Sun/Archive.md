@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T09:45:44.442+10:00
-modified: 2026-07-13T09:45:44.443+10:00
+created: 2026-07-13T10:36:19.421+10:00
+modified: 2026-07-13T10:39:19.142+10:00
 tags:
   - archive
   - moc
@@ -9,7 +9,7 @@ tags:
 
 # Born Under a Dark Sun: Full Archive
 
-The complete cumulative record for the campaign: every session, every NPC, every location encountered to date. The [[Campaigns/Dark Sun/index|home page]] only shows the latest session; this page grows every session and never gets pruned.
+The complete cumulative record for the campaign: every session, every NPC, every location encountered to date. The [[Born Under a Dark Sun Home page|home page]] only shows the latest session; this page grows every session and never gets pruned.
 
 ## All Sessions
 
@@ -67,11 +67,11 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Moot
 
-- [[Leviath]], [[High Kuatogagh Jahandar Shah]], [[Bilal]], [[Satrap Dovren M'Ke]], [[Ruvasha M'ke]], [[Silrasha of the Windswept Dust]], [[Rak of the Wastes]], [[Chiyata Veilstep]], [[Varros Dael]], [[Lady Asetra of House Veyal]], [[Hashtan the Ledgered]]
+- [[Leviath]], [[High Kuatogagh Jahandar Shah]], [[Bilal]], [[Satrap Dovren MKe|Satrap Dovren M'Ke]], [[Ruvasha Mke|Ruvasha M'ke]], [[Silrasha of the Windswept Dust]], [[Rak of the Wastes]], [[Chiyata Veilstep]], [[Varros Dael]], [[Lady Asetra of House Veyal]], [[Hashtan the Ledgered]]
 
 ### The Hidden Spring
 
-- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek "Cricket" Silvertwig]]
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]
 
 ## All Locations
 

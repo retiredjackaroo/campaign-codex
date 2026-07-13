@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Nisat
   - Nyssat
-created: 2026-07-12T14:01:54.713+10:00
-modified: 2026-07-12T14:01:54.713+10:00
+created: 2026-07-13T10:38:05.407+10:00
+modified: 2026-07-13T10:38:05.407+10:00
 tags:
   - npc
   - ally
@@ -26,7 +26,7 @@ A half-elf druid of the spores and one of the four officers of the [[The Allianc
 ## Relationships
 
 - [[Sarath]]: cell leader
-- [[Koresh Ironblood]], [[Tarek "Cricket" Silvertwig]]: fellow officers
+- [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: fellow officers
 
 ## Notes
 

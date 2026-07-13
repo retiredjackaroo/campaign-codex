@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - The Moot
-created: 2026-07-01T12:37:59.330+10:00
-modified: 2026-07-01T12:37:59.331+10:00
+created: 2026-07-13T10:34:46.967+10:00
+modified: 2026-07-13T10:34:46.967+10:00
 tags:
   - location
 ---
@@ -21,8 +21,8 @@ A gathering place or council location encountered during the campaign. A signifi
 - [[Leviath]]
 - [[High Kuatogagh Jahandar Shah]]
 - [[Bilal]]
-- [[Satrap Dovren M'Ke]]
-- [[Ruvasha M'ke]]
+- [[Satrap Dovren MKe|Satrap Dovren M'Ke]]
+- [[Ruvasha Mke|Ruvasha M'ke]]
 - [[Silrasha of the Windswept Dust]]
 - [[Rak of the Wastes]]
 - [[Chiyata Veilstep]]
