@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-12T13:39:56.138+10:00
-modified: 2026-07-12T13:39:56.138+10:00
+created: 2026-07-13T16:11:47.944+10:00
+modified: 2026-07-13T16:11:47.944+10:00
 tags:
   - npc
   - shazlim-oasis
@@ -25,4 +25,4 @@ A child the party has helped on multiple occasions. Last encountered after a suc
 
 ## Notes
 
-**Name collision:** distinct from [[Tarek "Cricket" Silvertwig]], the halfling Alliance ranger the party met at [[The Hidden Spring]] in Act II, Session 5, who is also nicknamed "Cricket." The two share only the nickname.
+**Name collision:** distinct from [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], the halfling Alliance ranger the party met at [[The Hidden Spring]] in Act II, Session 5, who is also nicknamed "Cricket." The two share only the nickname.

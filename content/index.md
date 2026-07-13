@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Your Journey Begins
-created: 2026-07-13T09:45:24.910+10:00
-modified: 2026-07-13T10:39:26.015+10:00
+created: 2026-07-13T17:21:46.008+10:00
+modified: 2026-07-13T17:21:46.008+10:00
 tags:
   - index
   - moc
@@ -22,7 +22,7 @@ Whether you're catching up after missing a session or diving into years of campa
 
 ## 🌙 Tyranny on the Moonsea
 
-<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/">![[Campaigns/Moonsea/Assets/Pasted image 20260627125411.png]]</a>
+<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/tyranny-on-the-moonsea-campaign-homepage">![[Campaigns/Moonsea/Assets/Pasted image 20260627125411.png]]</a>
 
 A sprawling adventure across the Moonsea, where ancient powers stir beneath the surface and every decision leaves its mark.
 
@@ -32,7 +32,7 @@ A sprawling adventure across the Moonsea, where ancient powers stir beneath the 
 
 ## ☀️ Born Under a Dark Sun
 
-<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/dark-sun/">![[Campaigns/Dark Sun/Assets/Pasted image 20260627125348.png]]</a>
+<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/dark-sun/born-under-a-dark-sun-home-page">![[Campaigns/Dark Sun/Assets/Pasted image 20260627125348.png]]</a>
 
 A harsh world of survival, intrigue and forgotten secrets beneath an unforgiving sun.
 

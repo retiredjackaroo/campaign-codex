@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Hidden Spring
   - The Hidden Sanctuary
-created: 2026-07-12T13:45:55.240+10:00
-modified: 2026-07-12T13:45:55.240+10:00
+created: 2026-07-13T16:11:32.350+10:00
+modified: 2026-07-13T16:11:32.350+10:00
 tags:
   - location
   - underground
@@ -32,7 +32,7 @@ The sanctuary houses an Alliance cell of ten, four of them officers:
 - [[Sarath]] – human preserver, cell leader
 - [[Nisat of the Cavern Moss]] – half-elf druid of the spores
 - [[Koresh Ironblood]] – mole warrior
-- [[Tarek "Cricket" Silvertwig]] – halfling ranger
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
 
 ## Notes
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-02T10:10:32.473+10:00
-modified: 2026-07-02T10:10:32.475+10:00
+created: 2026-07-13T16:13:05.767+10:00
+modified: 2026-07-13T16:13:05.767+10:00
 tags:
   - pc
   - party
@@ -9,8 +9,8 @@ tags:
 
 # Derfel
 
-![[Pasted image 20260627123854.png]]
-An Elf Beast Master Ranger. Outlander background. Carries a Longbow and twin Shortswords +1. Defined by his bond with his companion dog [[Brave]], the third in a line following [[Dave (RIP)]] and [[Maeve (RIP)]]. Quietly protective of Brave in a way that is deliberate rather than sentimental: he has learned the cost.
+![[Campaigns/Dark Sun/Assets/Pasted image 20260627123854.png]]
+An Elf Beast Master Ranger. Outlander background. Carries a Longbow and twin Shortswords +1. Defined by his bond with his companion dog [[Brave]], the third in a line following [[Dave]] and [[Maeve]]. Quietly protective of Brave in a way that is deliberate rather than sentimental: he has learned the cost.
 
 Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between them is foundational: everything Derfel knows about surviving Athas traces back to his Thri-Kreen brother. Derfel does not think of Kit-Chac as Thri-Kreen. He thinks of him as his brother. The distinction matters enormously to Derfel and would confuse him if pointed out.
 
@@ -22,7 +22,7 @@ Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between th
 - [[Kit-Chac]]: brother; found Derfel in the wastes and taught him to hunt; Derfel is entirely blind to the fact that Kit-Chac is Thri-Kreen
 - [[Brave]]: devoted companion; third dog after Dave and Maeve were lost on Athas
 - [[Her]]: unspoken alliance; both share a fierce protectiveness of Brave
-- [[Tchk'Tchk Gulbadani]]: Thri-Kreen; Derfel's feelings here are considerably less warm
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: Thri-Kreen; Derfel's feelings here are considerably less warm
 - [[Pterrence]]: a faint, background friction. Derfel is quiet and practical and finds Pterrence's verbosity wearing. His needling stays dry and low-key (a bowstring remark with a subtle edge, a sarcastic "hand of friendship"), nothing overt. A thread to watch rather than a feud.
 - [[Kit-Chac]]: Thri-Kreen who Derfel has somehow exempted from being Thri-Kreen in his own mind
 
@@ -36,6 +36,6 @@ Derfel is deeply racist by the standards of Athas, which is saying something. As
 
 ## Companion history
 
-- [[Dave (RIP)]]: first companion dog. Lost on Athas.
-- [[Maeve (RIP)]]: second companion dog. Killed in Episode 10 by two ranged attackers while the party rescued children. She bit the big bastard first. Derfel got revenge.
+- [[Dave]]: first companion dog. Lost on Athas.
+- [[Maeve]]: second companion dog. Killed in Episode 10 by two ranged attackers while the party rescued children. She bit the big bastard first. Derfel got revenge.
 - [[Brave]]: current companion. Ten episodes in and counting.

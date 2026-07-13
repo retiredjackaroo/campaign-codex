@@ -1,8 +1,8 @@
 ---
 publish: true
 title: The Silver Pyramid
-created: 2026-07-08T09:32:11.769+10:00
-modified: 2026-07-08T09:32:11.770+10:00
+created: 2026-07-13T17:12:06.458+10:00
+modified: 2026-07-13T17:12:06.459+10:00
 tags:
   - session
   - chapter-11
@@ -24,7 +24,7 @@ It was not, by any measure, comfortable. But it was safe, and in the weeks since
 
 [[Lord Hector]] had organised the camp the way Lord Hector organised everything: with efficiency, with discipline, and with a bluntness that inspired compliance rather than loyalty. The same qualities that had made him a divisive ruler from the [[Cinnabar Throne]] served him well enough in a military camp on a misty island. The fires were tended. The watches were kept. The stores were rationed and tracked. And the mood, which had burned so fiercely in the first days after the escape, had cooled over those weeks into something harder to name. Not despair. Not quite. More like the particular exhaustion of people who have been waiting long enough to begin wondering whether waiting is all there is.
 
-Three voices inside Phlan gave them reason to believe otherwise. Captain [[Giselle Greycastle]] was keeping what remained of the [[Blackfist]] alive in the city's shadows. [[Glevith]] had turned the [[The Welcomers|Welcomers]] into an underground network, moving information and people through the occupied streets. And the [[The Lord Sage|Lord Sage]] of [[Mantor's Library]] had not, as the dragon and its cult would have preferred, gone quietly to ground. Communication with all three was difficult, and dangerous, and fragile in the way that all clandestine things are fragile. But it existed. And that was enough, for now.
+Three voices inside Phlan gave them reason to believe otherwise. Captain [[Giselle Greycastle]] was keeping what remained of the [[Blackfist]] alive in the city's shadows. [[Glevith]] had turned the [[The Welcomers|Welcomers]] into an underground network, moving information and people through the occupied streets. And the [[The Lord Sage|Lord Sage]] of [[Mantors Library|Mantor's Library]] had not, as the dragon and its cult would have preferred, gone quietly to ground. Communication with all three was difficult, and dangerous, and fragile in the way that all clandestine things are fragile. But it existed. And that was enough, for now.
 
 The adventuring companies came and went, drawn by the notion of dragon-slaying and put off by the reality of the odds. The mercenary attachés kept their presence in camp and kept their ears open for any sign of Hector's intentions. In total, across the island and the occupied city both, there were fewer than sixty fighters who could be counted on for anything. It was not nearly enough to take back Phlan. Not yet.
 
@@ -32,11 +32,11 @@ It was into this stalled and waiting camp that [[Cassra Brandywine]] arrived.
 
 ## **Part Two: Mountain Laurel**
 
-She was exactly as they remembered her: small, cheerful, ink-stained in the way of someone who had spent a great deal of time around Mantor's Library and very little time worrying about her clothing. [[Pug D'Astibar]]'s direct supervisor. Alive, somehow, against all sensible probability.
+She was exactly as they remembered her: small, cheerful, ink-stained in the way of someone who had spent a great deal of time around Mantor's Library and very little time worrying about her clothing. [[Pug DAstibar|Pug D'Astibar]]'s direct supervisor. Alive, somehow, against all sensible probability.
 
 Lord Hector's war tent was sober in every sense. No alcohol. No ornamentation beyond the crests of Phlan and the Blackfist above the entrance. A round table. A map. Water and juice in plain pitchers, because Hector did not believe in loosening one's thinking before important conversations.
 
-Cassra got straight to it. The Lord Sage had learned something, she said, about the cult's activities beyond Phlan's walls. The dragon's occupation had placed the library under a kind of magical curfew, and the Lord Sage could not risk sending anything through the ether. But there were ways. There were always ways, if you were willing to spend the social capital of the Welcomers and the allied soldiers still loyal enough to man certain walls on certain nights. The Lord Sage wanted to meet with them. Tonight. Midnight. [[Denlor's Tower]].
+Cassra got straight to it. The Lord Sage had learned something, she said, about the cult's activities beyond Phlan's walls. The dragon's occupation had placed the library under a kind of magical curfew, and the Lord Sage could not risk sending anything through the ether. But there were ways. There were always ways, if you were willing to spend the social capital of the Welcomers and the allied soldiers still loyal enough to man certain walls on certain nights. The Lord Sage wanted to meet with them. Tonight. Midnight. [[Denlors Tower|Denlor's Tower]].
 
 She placed a crystal shard on the table. There was a door in the outer face of the tower, where it extended beyond the city wall. The shard would reveal it. The password would open it. _Mountain Laurel._
 
@@ -64,7 +64,7 @@ The Lord Sage did not stand on ceremony. He thanked them for coming, settled int
 
 [[Yarish]], the Lord Sage explained, was a transmutation archmage who had been part of Phlan's history for longer than most people realised. He had built a pyramid on the island to the north, along the [[Storgenau]], and devoted himself to experimentation with the living things that surrounded him. Flora. Fauna. Water. The wild and patient mechanics of natural life. Some of what he created had been extraordinary. Much of it had been reckless. For years, the waters around [[Sorcerors Isle]] had run corrupted, poisonous to anything that swam through them, and the creatures that lived nearby had changed in ways that made them dangerous to the expanding population of Phlan. Trees grew wrong. Animals behaved badly.
 
-[[Wren O'The Blade]] had led a company to the pyramid to ask Yarish to stop. They had not been able to ask. They had been forced to kill him instead.
+[[Wren OThe Blade|Wren O'The Blade]] had led a company to the pyramid to ask Yarish to stop. They had not been able to ask. They had been forced to kill him instead.
 
 Most of the damage had been repaired or contained, the Lord Sage said. Most. Some things proved permanent. The library had kept a watch on the site in the years since, maintaining the kind of quiet vigilance that is the business of institutions that understand what it means to let something go unwatched.
 
@@ -76,7 +76,7 @@ He paused to let that settle. Trees growing upside down, roots in the air, branc
 
 He looked around the table.
 
-He needed them to go to [[Yarish's Pyramid]], prevent the cult from succeeding, and retrieve whatever research they could before it fell into enemy hands. A straightforward mission, he said, in the way that people say things are straightforward when they know perfectly well they aren't.
+He needed them to go to [[Yarishs Pyramid|Yarish's Pyramid]], prevent the cult from succeeding, and retrieve whatever research they could before it fell into enemy hands. A straightforward mission, he said, in the way that people say things are straightforward when they know perfectly well they aren't.
 
 He mentioned, almost as a postscript, that the pyramid's interior was known to be a large and confusing maze, one that appeared to reconfigure itself as you moved through it. He mentioned, rather more quietly, that every group known to have explored it since Wren's time had never returned.
 
@@ -116,7 +116,7 @@ They let Welsea continue.
 
 The Zhentarim, she explained, had an agent already embedded in the cult's expedition to the pyramid. His name was [[Thylren Saj]]. He was one of her best. He was also, she admitted with what might have been fondness or might have been professional resignation, a risk-taker.
 
-He had been sending intelligence through a one-way [[Thylren's Sending Ring|sending ring]], which meant the Zhentarim could receive his messages but could not reply. He had gone quiet.
+He had been sending intelligence through a one-way [[Thylrens Sending Ring|sending ring]], which meant the Zhentarim could receive his messages but could not reply. He had gone quiet.
 
 What she needed from them, on top of what the Lord Sage needed:
 
@@ -128,7 +128,7 @@ Jaag pointed out that one thousand gold was not worth their lives at this partic
 
 Jaag looked back at the party. They were no help. He turned around and accepted the platinum.
 
-The Lord Sage unrolled a map and described two routes to Sorcerors Isle. The western farmstead route: four days by horse, then river transport from a farmer who had made, he said dryly, a good living ferrying doomed adventurers to the island. The eastern route through [[Kabel's Hill|Kabel'ss Hill]]: faster, more dangerous. Cult forces and their orc garrisons had occupied every significant hub village along the river. Kabel'ss Hill among them. But the Zhentarim had agents there who could arrange passage upriver.
+The Lord Sage unrolled a map and described two routes to Sorcerors Isle. The western farmstead route: four days by horse, then river transport from a farmer who had made, he said dryly, a good living ferrying doomed adventurers to the island. The eastern route through [[Kabels Hill|Kabel'ss Hill]]: faster, more dangerous. Cult forces and their orc garrisons had occupied every significant hub village along the river. Kabel'ss Hill among them. But the Zhentarim had agents there who could arrange passage upriver.
 
 The cult's party had already left, the Lord Sage added, taking the overland route.
 

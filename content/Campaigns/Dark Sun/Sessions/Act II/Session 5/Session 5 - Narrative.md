@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Narrative"
-created: 2026-07-12T17:06:28.673+10:00
-modified: 2026-07-12T17:06:28.673+10:00
+created: 2026-07-13T16:12:42.683+10:00
+modified: 2026-07-13T16:12:42.683+10:00
 tags:
   - session
   - act-2
@@ -11,7 +11,7 @@ tags:
 
 # Session 5: Narrative
 
-[[Kit-Chac]], [[Her]], [[Pterrence]], [[Salt]], and [[Tchk'Tchk Gulbadani]] stood over the wreckage of the sand elemental, its skull the only piece still intact. Neither [[Derfel]] nor [[Anselem]] were with them; both remained separated from the group, their whereabouts unknown to the others for now.
+[[Kit-Chac]], [[Her]], [[Pterrence]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] stood over the wreckage of the sand elemental, its skull the only piece still intact. Neither [[Derfel]] nor [[Anselem]] were with them; both remained separated from the group, their whereabouts unknown to the others for now.
 
 ![[Campaigns/Dark Sun/Assets/The Elemental.png]]
 _The sand elemental, its ritual-anchor skull embedded in the rubble: felled at the end of the last session and finished off at the start of this one._
@@ -41,7 +41,7 @@ The passage beyond smelled of moss and damp stone, the party's footsteps draggin
 ![[Campaigns/Dark Sun/Assets/The Hidden Spring.png]]
 _The Hidden Spring: a living aquifer sanctuary of vines and clear water, cloaked by illusion and psionic wards._
 
-On the other side was somewhere else entirely: a cavern of vines and clear pooled water, lit by lazily drifting motes of magelight, tended with obvious care by a preserver's hand. Four figures came forward to meet them. [[Sarath]], a human preserver in green-stitched robes, greeted Leviath as an old friend and welcomed the party and refugees into what she called the Hidden Spring. At her side stood [[Nisat of the Cavern Moss]], a half-elf druid of the spores whose skin was deliberately smeared with algae; [[Koresh Ironblood]], a mole warrior who said little and sized the party up in silence; and [[Tarek "Cricket" Silvertwig]], a sharp-tongued halfling ranger visibly put out to learn the party already knew another Cricket.
+On the other side was somewhere else entirely: a cavern of vines and clear pooled water, lit by lazily drifting motes of magelight, tended with obvious care by a preserver's hand. Four figures came forward to meet them. [[Sarath]], a human preserver in green-stitched robes, greeted Leviath as an old friend and welcomed the party and refugees into what she called the Hidden Spring. At her side stood [[Nisat of the Cavern Moss]], a half-elf druid of the spores whose skin was deliberately smeared with algae; [[Koresh Ironblood]], a mole warrior who said little and sized the party up in silence; and [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], a sharp-tongued halfling ranger visibly put out to learn the party already knew another Cricket.
 
 Sarath deflected any serious talk of plans for the moment, insisting the party rest and heal first. Over the following days, the party learned the shape of the cell they had fallen in with: ten members in total, four of them officers, bound by five aims — protect the Alliance above all, shelter preservers, protect the auxiliaries bound to their cause, oppose defilers of every stripe, and undermine the Sorcerer Kings, an aim they now apply chiefly to the Templar faction as the natural heirs to that ambition. Sarath, they learned, answers to someone higher still, rarely seen even by her own officers, who some among the cell believe may be close to Avangion transformation.
 

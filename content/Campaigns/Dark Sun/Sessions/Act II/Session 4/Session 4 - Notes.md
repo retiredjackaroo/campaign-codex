@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 4: Notes"
-created: 2026-07-08T09:32:55.225+10:00
-modified: 2026-07-08T09:32:55.237+10:00
+created: 2026-07-13T16:15:24.743+10:00
+modified: 2026-07-13T16:15:24.744+10:00
 tags:
   - session
   - act-2
@@ -11,7 +11,7 @@ tags:
 
 # Session 4: Notes
 
-![[Pasted image 20260628021440.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628021440.png]]
 
 **Date played:** 27 June 2026
 **XP awarded:** 1,243 per character (943 base + 200 encounter bonus + 100 skill checks)
@@ -20,13 +20,13 @@ tags:
 
 ![[Campaigns/Dark Sun/Assets/The Slums.png]]
 
-Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
+Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
 
 They reached [[Korno]]'s safe house too late. The fight was over, the Templars were consolidating, and [[Korno]] had been taken prisoner. While the party assessed their options, [[Derfel]] found [[Leviath]] in a hidden hollow in the rubble, guarding a dozen more refugees.
 
 [[Leviath]] revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated, and the consensus went to the outer well.
 
-Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Her]] recovered [[The Skull]] from the wreckage.
+Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Her]] recovered [[The Skull]] from the wreckage.
 
 The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Alliance]].
 
@@ -40,7 +40,7 @@ All seven party members were active this session:
 - [[Pterrence]] (Pterran)
 - [[Anselem]] (Fire Urokite)
 - [[Salt]] (Water Genasi, Psion)
-- [[Tchk'Tchk Gulbadani]] (Thri-Kreen, Psion)
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] (Thri-Kreen, Psion)
 
 ## NPCs encountered
 
@@ -78,8 +78,8 @@ The creature's defences reshaped the whole fight. It had **earth instability** (
 ### What worked
 
 - **Cloud of Daggers** ([[Pterrence]], upcast to 3rd level) was the engine of the fight. Sixteen slashing damage every round to anything inside it; well over thirty damage banked across the combat. Everything else existed to keep the elemental standing in it.
-- **Command** ([[Tchk'Tchk Gulbadani]], repeatedly, with [[Anselem]] assisting) was the win condition. Because the elemental had no resistance to it, Tchk'Tchk spammed Command to lock the creature in place inside the Cloud of Daggers turn after turn. [[Pterrence]] credited him directly: "well played with the command, you won us this fight pretty much."
-- **Telekinetic Propel** ([[Tchk'Tchk Gulbadani]]) was the standout combo. He teleported the elemental to five feet above the Cloud of Daggers and dropped it straight in, forcing maximum exposure to the slashing field.
+- **Command** ([[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]], repeatedly, with [[Anselem]] assisting) was the win condition. Because the elemental had no resistance to it, Tchk'Tchk spammed Command to lock the creature in place inside the Cloud of Daggers turn after turn. [[Pterrence]] credited him directly: "well played with the command, you won us this fight pretty much."
+- **Telekinetic Propel** ([[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]) was the standout combo. He teleported the elemental to five feet above the Cloud of Daggers and dropped it straight in, forcing maximum exposure to the slashing field.
 - **Ray of Frost** ([[Pterrence]]) cut the elemental's speed by ten feet, making it far harder for the creature to walk clear of the Cloud of Daggers.
 - **Searing Smite** ([[Derfel]]) added 1d6 fire each round the elemental acted. Derfel deliberately kept Searing Smite running rather than swap to Hunter's Mark.
 - **Tasha's Mind Whip** ([[Salt]]) opened the fight: 14 psychic damage, no opportunity attacks, and a turn where the creature could take an action or a bonus action but not both. [[Pterrence]]'s **Portent** helped land it by forcing the elemental's save to a 10.
@@ -111,7 +111,7 @@ The elemental's mass collapsed under sustained slashing, fire, forced movement, 
 - Shook a downed body so [[Anselem]] could search it, and his roll turned up the goods. ("I pick up the body and shake, Anselem finds the things.")
 - Floated a plan in chat: send the rescued children out with the fleeing crowd. ("send the kids with the fleeing people?")
 - A quiet ":(" when her bone shield's condition check came back and the DM told her it was weakening.
-- A "high five" to [[Tchk'Tchk Gulbadani]] amid the table banter, and a ":D" the moment [[Brave]] barked.
+- A "high five" to [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] amid the table banter, and a ":D" the moment [[Brave]] barked.
 - Deadpan in the middle of the elemental fight: "I just need a short rest," answered by Tchk'Tchk's "just a lil nap."
 - Took [[The Skull]] from the wreckage at the end, wordlessly, as she does everything.
 
@@ -121,14 +121,14 @@ The elemental's mass collapsed under sustained slashing, fire, forced movement, 
 - **Salt's opener was rigged to land.** [[Salt]] cast Tasha's Mind Whip (DC 15 Intelligence save) and [[Pterrence]] spent Portent to fix the elemental's save at a 10, guaranteeing the fail: 14 psychic (3d6) and no opportunity attacks.
 - **The DM turned the party's own Web against them.** On one of [[Anselem]]'s Guiding Bolts, the elemental used a limb to bend [[Pterrence]]'s webbing and drag [[Her]] into the blast, hitting her in the back for 27. The single nastiest moment of the fight.
 - **Cloud of Daggers carried the damage.** [[Pterrence]]'s upcast Cloud of Daggers did sixteen a round and had banked over thirty by mid-fight; it was the primary kill source.
-- **Command was the unlock.** With no defence against it, the elemental ate Command after Command from [[Tchk'Tchk Gulbadani]], who used Telekinetic Propel to drop it back into the daggers when it tried to leave. [[Pterrence]] credited him with the win.
+- **Command was the unlock.** With no defence against it, the elemental ate Command after Command from [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]], who used Telekinetic Propel to drop it back into the daggers when it tried to leave. [[Pterrence]] credited him with the win.
 - **Kit-Chac's luck ran cold.** [[Kit-Chac]]'s topple attempts were dead on arrival against an enemy immune to prone, and a Tavern Brawler re-roll turned a 1 into a 2.
 - **Clutch heal.** [[Salt]] extended his reach five feet to land Cure Wounds on a near-dead [[Derfel]] for roughly nineteen. An earlier heal landed for seventeen, "almost half" of what had been taken.
 - **Wear and reward.** Equipment checks: [[Anselem]]'s mail came up 12, [[Her]]'s bone shield 72 (weakening). End of session: 1,243 XP and 82 cp each.
 
 ## Resources expended
 
-- Multiple spell slots across all four casters ([[Pterrence]], [[Anselem]], [[Salt]], [[Tchk'Tchk Gulbadani]])
+- Multiple spell slots across all four casters ([[Pterrence]], [[Anselem]], [[Salt]], [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]])
 - Water skins to [[Leviath]] for the refugees: [[Kit-Chac]] donated 2, [[Salt]] donated 2. Salt noted his water-genasi summon produces slightly less per day than the party drinks, even before it is halved.
 - [[Her]]'s bone shield is weakening (rolled 72 on its condition check); still serviceable, many chips.
 - [[Pterrence]]'s Obsidian Warhammer cracked at the head (a -1 to damage, higher break chance on crit fail or crit success), then he mended it with Mending.

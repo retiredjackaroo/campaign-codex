@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Session Notes
-created: 2026-07-08T09:32:42.508+10:00
-modified: 2026-07-08T09:32:42.508+10:00
+created: 2026-07-13T17:12:47.850+10:00
+modified: 2026-07-13T17:12:47.850+10:00
 tags:
   - session
   - chapter-11
@@ -12,7 +12,7 @@ tags:
 
 **"****Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerors Isle]]****"**
 
-**Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlor's Tower]] by [[Cassra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarish's Pyramid]] on [[Sorcerors Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
+**Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlors Tower|Denlor's Tower]] by [[Cassra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarishs Pyramid|Yarish's Pyramid]] on [[Sorcerors Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabels Hill|Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
 
 **Previously On... (DM Recap)**
 
@@ -24,7 +24,7 @@ The party defeated [[Crudo]] and freed [[Lord Hector|Lord Commander]] Hector, [[
 
 - **Grayley** was just happy to get out.
 
-- **[[Pug D'Astibar]]** stayed behind near [[Denlor's Tower]] to handle some business, and will keep in touch via [[Iltiza Ward]] using Sending/Message spells.
+- **[[Pug DAstibar|Pug D'Astibar]]** stayed behind near [[Denlors Tower|Denlor's Tower]] to handle some business, and will keep in touch via [[Iltiza Ward]] using Sending/Message spells.
 
 The party escaped by skiff down the river and into the [[Moon Sea]], where they were picked up by the **[[Gilded Trophy]]**, which had already collected roughly 120 refugees from Phlan. By the time the party boarded, the refugee count had grown to 130-140.
 
@@ -52,7 +52,7 @@ The one entity that responded without conditions was the **[[Bondclaw]] and the 
 
 - **[[Glevith]]** (organising the [[The Welcomers|Welcomers]] as an underground network)
 
-- **[[The Lord Sage]]** of [[Mantor's Library]]
+- **[[The Lord Sage]]** of [[Mantors Library|Mantor's Library]]
 
 - Fewer than 20 fighters accompanied the initial group, with perhaps another 20 willing to fight in camp.
 
@@ -96,7 +96,7 @@ The Lord Sage briefed the party on the situation at **Sorcerors Isle**, a locati
 
 - **[[Yarish]]** was a transmutation archmage, part of Phlan's founding history. He became obsessed with wild experimentation on the island's flora and fauna, causing severe corruption of the surrounding waters and wildlife, endangering the expanding population.
 
-- **[[Wren O'The Blade]]**, the hero of Phlan, led a company to the pyramid on the island to convince Yarish to stop. They were forced to slay him instead.
+- **[[Wren OThe Blade|Wren O'The Blade]]**, the hero of Phlan, led a company to the pyramid on the island to convince Yarish to stop. They were forced to slay him instead.
 
 - Most of the damage was repaired or contained over time, though some changes proved permanent.
 
@@ -106,7 +106,7 @@ The Lord Sage briefed the party on the situation at **Sorcerors Isle**, a locati
 
 - The Cult is sending a mission to the pyramid.
 
-**The Lord Sage's request:** Journey to [[Yarish's Pyramid]] on Sorcerors Isle, prevent the cult from succeeding, and if possible retrieve Yarish's research and keep it from enemy hands.
+**The Lord Sage's request:** Journey to [[Yarishs Pyramid|Yarish's Pyramid]] on Sorcerors Isle, prevent the cult from succeeding, and if possible retrieve Yarish's research and keep it from enemy hands.
 
 Additional note: The interior of the pyramid is known (from the memoirs of Wren O'The Blade) to be a large, confusing maze that appeared to change as they moved through it. Every group known to have explored it since Wren's time has not returned.
 
@@ -120,7 +120,7 @@ She prompted Charisma saving throws from the party. [[Petra Hillockburrow]] and 
 
 Jaag and Kei spotted additional clues: Kei glimpsed possible fangs; Jaag spotted her absence from a mirror's reflection. She is a vampire.
 
-**Welsea's additional objectives:** The Zhentarim have an agent already embedded in the cult's expedition to the pyramid: **[[Thylren Saj]]**, described as one of her best agents and a risk-taker. He has been sending intelligence via a one-way [[Thylren's Sending Ring|sending ring]] (the Zhentarim cannot reply). Her requirements:
+**Welsea's additional objectives:** The Zhentarim have an agent already embedded in the cult's expedition to the pyramid: **[[Thylren Saj]]**, described as one of her best agents and a risk-taker. He has been sending intelligence via a one-way [[Thylrens Sending Ring|sending ring]] (the Zhentarim cannot reply). Her requirements:
 
 - Intercept the cult's party and rendezvous with Thylren.
 
@@ -144,7 +144,7 @@ Kral brought a bundle containing 20 days of dried rations and a map. The Lord Sa
 
 - **Western route (Farmstead):** 4 days by steed, staying west of the Storgenau. Secure river transport from a farmer north of the river who has "made a good living ferrying doomed adventurers to the isle."
 
-- **Eastern route via [[Kabel's Hill]]:** Faster, but more dangerous. Cult forces and their orc garrisons have occupied hub villages along the river. Strong cult presence at Kabel's Hill. The Zhentarim have agents there who can arrange a ferrier upriver.
+- **Eastern route via [[Kabels Hill|Kabel's Hill]]:** Faster, but more dangerous. Cult forces and their orc garrisons have occupied hub villages along the river. Strong cult presence at Kabel's Hill. The Zhentarim have agents there who can arrange a ferrier upriver.
 
 The party chose **the eastern/Kabel's Hill route** for speed, noting the cult's party had already departed via the overland route. The aim is to arrive at the pyramid first, or at minimum not far behind.
 
@@ -199,12 +199,12 @@ The session ended mid-combat at midnight (in real time) with:
 | **NPC** | **Role** | **Status** |
 | --- | --- | --- |
 | [[Lord Hector]] | [[Lord Hector\|Lord Commander]], leader of the refugee camp | At camp in the [[Ring Islands]] |
-| [[Cassra Brandywine]] | Halfling, [[Pug D'Astibar]]'s supervisor at [[Mantor's Library]] | Alive; delivered the summons |
-| [[The Lord Sage]] | Head of [[Mantor's Library]]; resistance contact | In [[Phlan]]; clandestine |
-| [[Welsea Parenthe]] | Vampire; Viper of the [[Zhentarim]] | Present at [[Denlor's Tower]] meeting |
-| [[Thylren Saj]] | [[Zhentarim]] agent embedded in cult expedition | Location unknown; has a one-way [[Thylren's Sending Ring\|sending ring]] |
+| [[Cassra Brandywine]] | Halfling, [[Pug DAstibar\|Pug D'Astibar]]'s supervisor at [[Mantors Library\|Mantor's Library]] | Alive; delivered the summons |
+| [[The Lord Sage]] | Head of [[Mantors Library\|Mantor's Library]]; resistance contact | In [[Phlan]]; clandestine |
+| [[Welsea Parenthe]] | Vampire; Viper of the [[Zhentarim]] | Present at [[Denlors Tower\|Denlor's Tower]] meeting |
+| [[Thylren Saj]] | [[Zhentarim]] agent embedded in cult expedition | Location unknown; has a one-way [[Thylrens Sending Ring\|sending ring]] |
 | [[Cassyt]] | Former novice of the [[Church of Kellenwar]] | Guided the party out of the city |
-| [[Riek]] | Local boy; [[Kabel's Hill]] contact | At [[Kabel's Hill]] |
+| [[Riek]] | Local boy; [[Kabels Hill\|Kabel's Hill]] contact | At [[Kabels Hill\|Kabel's Hill]] |
 | [[James Cel]] | Riverman; captain of the [[The Arbitus\|Arbitus]] | Fighting [[Vurthak]] on deck |
 | [[Vurthak]] | Half-dragon; commands the [[Burning Banner]] | Mid-combat; bloodied |
 
@@ -228,6 +228,6 @@ The session ended mid-combat at midnight (in real time) with:
 
 - Welsea's motives remain unclear. Lavinia is convinced she is being used.
 
-- Pug is still in Phlan, near Denlor's Tower.
+- Pug is still in Phlan, near [[Denlors Tower|Denlor's Tower]].
 
 When we return to Moonsea, the initiative order you are in: Keith 20, Verthak 17, Lavinia 17, Petra 15, Tiz 12, Orange 10, Jaag 9, Blue 7, Cel 3.

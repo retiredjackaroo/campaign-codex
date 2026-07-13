@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T10:36:19.421+10:00
-modified: 2026-07-13T10:39:19.142+10:00
+created: 2026-07-13T17:22:45.320+10:00
+modified: 2026-07-13T17:22:45.320+10:00
 tags:
   - archive
   - moc
@@ -55,7 +55,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Wardens
 
-- [[Chastha of the Red Gorge]], [[Derru]], [[Rekka of the Heat Cleft]], [[Sa'toth]], [[Mikrim Dustbiter]], [[Tanji the Worm Keeper]]
+- [[Chastha of the Red Gorge]], [[Derru]], [[Rekka of the Heat Cleft]], [[Satoth|Sa'toth]], [[Mikrim Dustbiter]], [[Tanji the Worm Keeper]]
 
 ### Gulbadan Estate
 
@@ -76,7 +76,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 ## All Locations
 
 - [[Raam]] - primary city; all campaign action to date
-- [[Valthar's Edge]]
+- [[Valthars Edge|Valthar's Edge]]
 - [[The Grotto]]
 - [[Shazlim Oasis]]
 - [[The Nightrunner Warehouse]]

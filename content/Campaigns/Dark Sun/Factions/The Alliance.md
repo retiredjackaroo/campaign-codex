@@ -4,8 +4,8 @@ aliases:
   - Alliance
   - Veiled Alliance
   - The Veiled Alliance
-created: 2026-07-12T13:39:14.568+10:00
-modified: 2026-07-12T13:39:14.572+10:00
+created: 2026-07-13T16:11:41.537+10:00
+modified: 2026-07-13T16:11:41.537+10:00
 tags:
   - faction
   - resistance
@@ -21,7 +21,7 @@ Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. T
 
 **Status:** Active; hidden beneath Raam
 **Base of operations:** [[The Cisterns]]; the [[The Hidden Spring]] sanctuary
-**Known members:** [[Leviath]], [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek "Cricket" Silvertwig]]
+**Known members:** [[Leviath]], [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]
 **First appears:** [[Session 4 - Notes]]
 
 ## The Hidden Spring cell
@@ -31,7 +31,7 @@ In Act II, Session 5 the party was brought into [[The Hidden Spring]], a conceal
 - [[Sarath]] – human preserver and cell leader
 - [[Nisat of the Cavern Moss]] – half-elf druid of the spores
 - [[Koresh Ironblood]] – mole warrior
-- [[Tarek "Cricket" Silvertwig]] – halfling ranger
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
 
 Most of the cell are not preservers or true members but auxiliaries bound to its aims. [[Sarath]] answers to a higher, rarely-seen figure in the Alliance, contacted only by animal messengers or occasional appearances, who is rumoured to be close to becoming an **Avangion**, a celestial counter to the Sorcerer Kings' draconic ambition.
 

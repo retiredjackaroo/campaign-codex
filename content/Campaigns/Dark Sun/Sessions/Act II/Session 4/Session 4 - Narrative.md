@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 4: Narrative"
-created: 2026-07-08T09:32:47.110+10:00
-modified: 2026-07-08T09:32:47.113+10:00
+created: 2026-07-13T16:15:55.301+10:00
+modified: 2026-07-13T16:15:55.302+10:00
 tags:
   - session
   - act-2
@@ -11,7 +11,7 @@ tags:
 
 # Session 4: Narrative
 
-![[Pasted image 20260628021445.png]]
+![[Campaigns/Dark Sun/Assets/Pasted image 20260628021445.png]]
 
 ## The Slums After the Storm
 
@@ -19,7 +19,7 @@ tags:
 
 The party moved fast when they saw the force leave the Templar Quarter. [[Derfel]] clocked them first: Templars, Noble house soldiers, and Dregoth cultists, all moving together towards [[The Slums]]. [[Korno]] needed warning, so they changed direction.
 
-The slums were barely navigable. The tear storm had brought down the towering stacks of hovels that had once defined the district, leaving a maze of rubble with no clear paths and no sight lines. [[Kit-Chac]] picked the routes. [[Her]] cleared what needed clearing. [[Tchk'Tchk Gulbadani]] watched the angles. They moved.
+The slums were barely navigable. The tear storm had brought down the towering stacks of hovels that had once defined the district, leaving a maze of rubble with no clear paths and no sight lines. [[Kit-Chac]] picked the routes. [[Her]] cleared what needed clearing. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] watched the angles. They moved.
 
 Then they found the gang.
 
@@ -31,7 +31,7 @@ Children were being held, and the gang was taking offers. On Athas this is not u
 
 By the time they reached the deep slums where [[Korno]]'s safe house had stood, it was over. People were fleeing. The Templars were consolidating. [[Her]] read the scene at a glance, frontline instinct making the shape of it obvious, and [[Kit-Chac]] confirmed what the air already told him. [[Korno]] had been taken prisoner. The fight had finished before they arrived.
 
-[[Tchk'Tchk Gulbadani]] assessed the Templar positioning. [[Anselem]] tracked the movement of the broader force. [[Salt]] read the fleeing crowd for anything useful. [[Pterrence]] stayed back with the children. The party pulled into the rubble to decide.
+[[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] assessed the Templar positioning. [[Anselem]] tracked the movement of the broader force. [[Salt]] read the fleeing crowd for anything useful. [[Pterrence]] stayed back with the children. The party pulled into the rubble to decide.
 
 ## The Hidden Hollow
 
@@ -43,7 +43,7 @@ The party took a long rest in the hollow and waited for night.
 
 ## The Debate
 
-[[Salt]] was clear on the central plaza: it was asking for trouble. [[Tchk'Tchk Gulbadani]] agreed. There were more than fifty soldiers, with patrols of six to eight Templars and Noble house guards, some mounted on Krodlu, others leading Enix lizards trained to sniff out anyone hiding in the rubble. Moving fifteen refugees (children, elderly, wounded, frightened) past that unseen was not a plan, it was a hope with a very short lifespan.
+[[Salt]] was clear on the central plaza: it was asking for trouble. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] agreed. There were more than fifty soldiers, with patrols of six to eight Templars and Noble house guards, some mounted on Krodlu, others leading Enix lizards trained to sniff out anyone hiding in the rubble. Moving fifteen refugees (children, elderly, wounded, frightened) past that unseen was not a plan, it was a hope with a very short lifespan.
 
 [[Derfel]] weighed the fog option, and [[Salt]] turned it over with him: throw obscurement across the plaza and push for the central well. [[Anselem]] ran the spell-slot maths against likely patrol response times. [[Her]] said nothing, but her expression said enough. [[Pterrence]] was already thinking about disguises.
 
@@ -53,7 +53,7 @@ The outer well won. [[Leviath]] knew where it was and would lead the refugees; t
 
 ## Through the Rubble
 
-The formation settled naturally. [[Kit-Chac]] and [[Derfel]] took the front to scout. [[Her]] anchored the middle of the column alongside [[Leviath]] and the refugees. [[Tchk'Tchk Gulbadani]] moved through the body of the group. [[Anselem]] and [[Pterrence]] supported from within the column. [[Salt]] watched the rear, having suggested the rear guard in the first place.
+The formation settled naturally. [[Kit-Chac]] and [[Derfel]] took the front to scout. [[Her]] anchored the middle of the column alongside [[Leviath]] and the refugees. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] moved through the body of the group. [[Anselem]] and [[Pterrence]] supported from within the column. [[Salt]] watched the rear, having suggested the rear guard in the first place.
 
 [[Pterrence]] cast Disguise Self and took the shape of a Mansivar Templar guard, a walking lie the party could lean on at a distance. [[Salt]] conjured a false, partially rubbled wall with Minor Illusion and kept an invisible Mage Hand drifting at the far edge of his range, flicking debris over to pull patrol attention away from the column. [[Pterrence]] threw a Web into a corridor behind them as they passed, buying time against pursuit.
 
@@ -69,7 +69,7 @@ The cover was heavy stone, half buried in rubble, but [[Leviath]] knew exactly w
 
 [[Leviath]]'s half-giant strength made lowering the children clean and sure. [[Salt]] went down among the first to steady the elderly and the children as they reached the bottom, checking them over with a rough, kindly bedside manner. [[Her]] helped at the rim. One by one the refugees descended, then the party followed. The last one down, the cover was resealed above them. Pitch black. The aqueduct stretched ahead in the dark.
 
-They were thinking about Templars, about the ambush they would set in this corridor: good chokepoints, the kind of fight they had prepared for. [[Salt]] and [[Pterrence]] discussed a false wall to seal the tunnel behind them. [[Tchk'Tchk Gulbadani]] kept his hands loose. [[Kit-Chac]] stood still.
+They were thinking about Templars, about the ambush they would set in this corridor: good chokepoints, the kind of fight they had prepared for. [[Salt]] and [[Pterrence]] discussed a false wall to seal the tunnel behind them. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] kept his hands loose. [[Kit-Chac]] stood still.
 
 Then something dropped down the other shaft, the central plaza well, and hit the floor in the dark some distance away. That shaft sealed too.
 
@@ -93,7 +93,7 @@ It assembled itself out of the aqueduct floor: a huge skull dragging itself upri
 
 [[Derfel]] got Searing Smite onto his blade and drove fire into the creature each round, choosing to keep the fire burning rather than swap to Hunter's Mark.
 
-Then [[Tchk'Tchk Gulbadani]] found the seam in the fight. The elemental had no defence against Command, and he used that without mercy: Command after Command to pin it in place, holding it inside the Cloud of Daggers while the blades ground it down. When it tried to break loose he reached for Telekinetic Propel, lifted the creature to five feet above the Cloud, and dropped it straight back into the spinning daggers. Round on round, the slashing did its work.
+Then [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] found the seam in the fight. The elemental had no defence against Command, and he used that without mercy: Command after Command to pin it in place, holding it inside the Cloud of Daggers while the blades ground it down. When it tried to break loose he reached for Telekinetic Propel, lifted the creature to five feet above the Cloud, and dropped it straight back into the spinning daggers. Round on round, the slashing did its work.
 
 [[Salt]] kept the party standing through it. When [[Derfel]] dropped low, Salt stretched his reach an extra five feet and put Cure Wounds into him, pulling him back up. [[Anselem]]'s second Guiding Bolt finally connected for radiant damage.
 
@@ -101,7 +101,7 @@ A section of the aqueduct ceiling came down under the accumulated violence of th
 
 [[Her]] moved in and took [[The Skull]].
 
-The party stood in the dark, heavily wounded, ears ringing. [[Anselem]] started counting spell slots. [[Her]] checked the refugees, still there, terrified but whole. [[Salt]] saw to the worst of the wounds. [[Kit-Chac]] stood over the spot where the medium elemental had been until he was sure it had gone. [[Pterrence]] mended what could be mended. [[Tchk'Tchk Gulbadani]] said something that translated roughly as: what sort of person sends a sand elemental after refugees. [[Salt]] answered: the sort who suspects those refugees include a leader who might start a rebellion.
+The party stood in the dark, heavily wounded, ears ringing. [[Anselem]] started counting spell slots. [[Her]] checked the refugees, still there, terrified but whole. [[Salt]] saw to the worst of the wounds. [[Kit-Chac]] stood over the spot where the medium elemental had been until he was sure it had gone. [[Pterrence]] mended what could be mended. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] said something that translated roughly as: what sort of person sends a sand elemental after refugees. [[Salt]] answered: the sort who suspects those refugees include a leader who might start a rebellion.
 
 Nobody had a better answer than that. They moved forward into the dark, towards [[The Alliance]].
 

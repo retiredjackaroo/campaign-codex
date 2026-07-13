@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-12T13:52:37.952+10:00
-modified: 2026-07-12T13:52:37.955+10:00
+created: 2026-07-13T16:11:25.452+10:00
+modified: 2026-07-13T16:11:25.453+10:00
 tags:
   - npc
   - ally
@@ -24,7 +24,7 @@ Sarath answers to someone higher in the Alliance whom even her own officers almo
 ## Relationships
 
 - [[Leviath]]: greeted as an old friend; provides sanctuary to her and the refugees she leads
-- [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek "Cricket" Silvertwig]]: her three fellow officers of the cell
+- [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: her three fellow officers of the cell
 - Unseen Alliance leadership: answers to a higher figure rumoured to be near Avangion transformation
 
 ## Notes
