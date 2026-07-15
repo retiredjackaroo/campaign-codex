@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-14T09:38:42.092+10:00
-modified: 2026-07-14T09:38:42.092+10:00
+created: 2026-07-16T09:11:52.714+10:00
+modified: 2026-07-16T09:11:52.714+10:00
 ---
 
 # Campaigns
@@ -12,4 +12,4 @@ modified: 2026-07-14T09:38:42.092+10:00
 
 [[Campaigns/Moonsea/index|Tyranny on the Moonsea]]
 
-![[Campaigns/Moonsea/Assets/Pasted image 20260627125411.png]]
+![[Campaigns/Moonsea/Assets/5f5dd57b-9a79-4cb3-bf28-890c41f6db9f.png]]

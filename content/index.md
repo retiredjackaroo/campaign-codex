@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Your Journey Begins
-created: 2026-07-14T09:38:28.370+10:00
-modified: 2026-07-14T09:38:28.370+10:00
+created: 2026-07-16T09:11:42.861+10:00
+modified: 2026-07-16T09:11:42.861+10:00
 tags:
   - index
   - moc
@@ -22,7 +22,7 @@ Whether you're catching up after missing a session or diving into years of campa
 
 ## 🌙 Tyranny on the Moonsea
 
-<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/">![[Campaigns/Moonsea/Assets/Pasted image 20260627125411.png]]</a>
+<a href="https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/">![[Campaigns/Moonsea/Assets/5f5dd57b-9a79-4cb3-bf28-890c41f6db9f.png]]</a>
 
 A sprawling adventure across the Moonsea, where ancient powers stir beneath the surface and every decision leaves its mark.
 
