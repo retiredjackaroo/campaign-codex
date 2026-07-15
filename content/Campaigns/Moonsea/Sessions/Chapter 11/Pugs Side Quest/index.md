@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
-created: 2026-07-15T20:13:16.668+10:00
-modified: 2026-07-15T20:13:16.668+10:00
+created: 2026-07-15T20:47:51.970+10:00
+modified: 2026-07-15T20:48:34.146+10:00
 tags:
   - index
   - moc
@@ -14,15 +14,15 @@ tags:
 
 Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always reflects the latest session only. For the wider campaign, see the [[Campaigns/Moonsea/index|Main Campaign Homepage]].
 
+## Where We Are Now
+
+With [[Pug DAstibar|Pug D'Astibar]] left behind in Phlan at the end of Session 1, this side quest follows his real business: a secretive errand for [[Elminster]] of [[Shadowdale]], escorting sacred water vials through [[Cormanthor]] towards [[Myth Drannor]] with a separate band of characters. The escort ran into a were-boar hunting party partway through the forest, and the fight was still going when the session ended, with Ripper down and hurt.
+
 ## Hall of Fame
 
-| Session                | Biggest Success                                                                                                                                                                                                                   | Funniest Mistake                                                                                                                                                                                                                                                                |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chapter 11, Side Quest | **Pug's Counterspell into Chromatic Orb** - shut down a were-boar shaman's lightning spell cold, then answered with a Chromatic Orb that arced for 68 damage into a green were-boar and a further 19 into a purple one behind it. | **The escort's silent test** - the vanishing path, the clinging pine needles, the bridge that dissolved into vines: all of it watched the entire time by the escort party, who never lifted a finger to help. Ripper's verdict afterwards was that it had been "funny as hell." |
-
-## Summary
-
-With [[Pug DAstibar|Pug D'Astibar]] left behind in Phlan at the end of Session 1, this side quest follows his real business: a secretive errand for [[Elminster]] of [[Shadowdale]], escorted through [[Cormanthor]] towards [[Myth Drannor]] by a separate band of characters. The escort runs into a were-boar hunting party partway through the forest, and the session ends mid-combat.
+| Session                | Biggest Success                                                                                                                                                                                                                    | Funniest Mistake    |                                                                                                                                                                                                                                                              |                     |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| Chapter 11, Side Quest | Pug's Counterspell shut down a were-boar shaman's lightning spell cold, then answered with a Chromatic Orb that arced for 68 damage into one were-boar and a further 19 into another behind it. See [[Chapter 11 - Pugs Side Quest \| the full session]]. | The escort party watched the vanishing path, the clinging pine needles, and the vine-dissolved bridge the entire time without lifting a finger to help; Ripper's verdict afterwards was that it had been "funny as hell." See [[Chapter 11 - Pugs Side Quest \| the full session]]. |
 
 ## Latest Session (Chapter 11, Side Quest)
 
