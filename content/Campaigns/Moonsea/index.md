@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
-created: 2026-07-15T20:13:43.910+10:00
-modified: 2026-07-15T20:13:43.910+10:00
+created: 2026-07-15T20:39:06.301+10:00
+modified: 2026-07-15T20:39:06.301+10:00
 tags:
   - index
   - moc
@@ -14,13 +14,17 @@ tags:
 
 Home page for the campaign wiki. This page always reflects the latest session only — for the full history, see the [[Campaigns/Moonsea/Archive|Archive]].
 
+## Where We Are Now
+
+The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been sent by the Lord Sage and Cassra Brandywine to reach Yarish's Pyramid on Sorcerors Isle before the Cult of the Dragon gets there, find the missing Zhentarim agent Thylren Saj, and stop the spreading corruption. Travelling east through Kabel's Hill, they boarded James Cel's keelboat The Arbitus, only to be ambushed mid-river by the half-dragon Vurthak, a fight still live as of the latest session. Pug D'Astibar has stayed behind in Phlan on business of his own, reachable only by Sending.
+
 ![[Campaigns/Moonsea/Assets/Pasted image 20260715144552.png]]
 
 ## Hall of Fame
 
 | Session | Biggest Success | Funniest Mistake |
 |---|---|---|
-| Chapter 11, Episode 1, Session 1 | **Jaag Nixon's ambush** — opened by dropping an orc outright for 31 damage on the way down the stairs, then closed by carving 28 damage into Verthak and cleanly disengaging with Fancy Footwork, capped off with a raised middle finger to a half-dragon commander. | **Tiz's Guiding Bolt misfire** — aiming for Verthak mid-melee, she instead put 17 points of divine light straight into Lavinia's back. The banishment held; Lavinia turned round, took in Tiz's expression of pure horror, and just smiled. |
+| Chapter 11, Episode 1, Session 1 | Jaag Nixon opened with a 31-damage sneak attack on the way down the stairs and closed by carving 28 damage into Vurthak before cleanly disengaging with Fancy Footwork, capped by a raised middle finger to a half-dragon commander. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid\|the full session]]. | Tiz's Guiding Bolt, aimed at Vurthak mid-melee, went straight into Lavinia's back instead. The banishment held; Lavinia turned round, saw Tiz's horror, and just smiled. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid\|the full session]]. |
 
 ## Latest Session — Chapter 11, Episode 1, Session 1
 
