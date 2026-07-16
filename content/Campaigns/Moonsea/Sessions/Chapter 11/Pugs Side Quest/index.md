@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
-created: 2026-07-15T20:47:51.970+10:00
-modified: 2026-07-15T20:48:34.146+10:00
+created: 2026-07-16T10:50:30.053+10:00
+modified: 2026-07-16T10:50:30.053+10:00
 tags:
   - index
   - moc
 ---
 
-![[Campaigns/Moonsea/Assets/Your New Friends.webp]]
+![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
 
 Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always reflects the latest session only. For the wider campaign, see the [[Campaigns/Moonsea/index|Main Campaign Homepage]].
 

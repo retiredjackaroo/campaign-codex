@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
-created: 2026-07-15T20:39:06.301+10:00
-modified: 2026-07-15T20:39:06.301+10:00
+created: 2026-07-16T10:50:34.653+10:00
+modified: 2026-07-16T10:50:34.654+10:00
 tags:
   - index
   - moc
@@ -128,7 +128,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ## Side Quests
 
-![[Campaigns/Moonsea/Assets/Your New Friends.webp]]
+![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
 
 **Pug's Side Quest: Escort to Myth Drannor** — while Pug D'Astibar's business kept him from Session 1, this thread follows him escorting Elminster's crystal vials through Cormanthor towards Myth Drannor.
 
