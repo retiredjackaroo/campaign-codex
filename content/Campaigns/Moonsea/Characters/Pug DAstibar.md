@@ -4,14 +4,16 @@ aliases:
   - Pug
   - Pug D'Astibar
 title: Pug D'Astibar
-created: 2026-07-13T16:17:09.502+10:00
-modified: 2026-07-13T16:17:09.502+10:00
+created: 2026-07-16T10:10:56.277+10:00
+modified: 2026-07-16T10:10:56.277+10:00
 tags:
   - pc
   - party
 ---
 
 # Pug D'Astibar
+
+![[Campaigns/Moonsea/Assets/Pug D'astibar.jpg]]
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlors Tower|Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
 
