@@ -4,7 +4,7 @@ aliases:
   - Born Under a Dark Sun Home page
 title: Born Under a Dark Sun
 created: 2026-07-15T20:39:23.277+10:00
-modified: 2026-07-15T20:39:23.277+10:00
+modified: 2026-07-16T10:22:11.382+10:00
 tags:
   - index
   - moc
@@ -16,6 +16,8 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 ## Where We Are Now
 
 Having fought their way into The Hidden Spring, a hidden Alliance sanctuary within a living aquifer, the party has allied with Sarath's resistance cell against House Gulbadan and the Templars. During the crossing, Salt's hood came loose, and the rest of the party learned for the first time that he isn't human, he's a water elemental being, a secret he'd kept from them for the whole campaign. The party is currently resting at the sanctuary alongside Sarath, Nisat of the Cavern Moss, Koresh Ironblood, and Tarek "Cricket" Silvertwig before their next move.
+
+![[Campaigns/Dark Sun/Assets/Pasted image 20260716102209.png]]
 
 ## Hall of Fame
 
