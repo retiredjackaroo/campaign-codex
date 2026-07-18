@@ -4,7 +4,7 @@ aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
 created: 2026-07-16T10:50:34.653+10:00
-modified: 2026-07-16T10:50:34.654+10:00
+modified: 2026-07-17T17:22:24.774+10:00
 tags:
   - index
   - moc
@@ -22,9 +22,9 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ## Hall of Fame
 
-| Session | Biggest Success | Funniest Mistake |
-|---|---|---|
-| Chapter 11, Episode 1, Session 1 | Jaag Nixon opened with a 31-damage sneak attack on the way down the stairs and closed by carving 28 damage into Vurthak before cleanly disengaging with Fancy Footwork, capped by a raised middle finger to a half-dragon commander. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid\|the full session]]. | Tiz's Guiding Bolt, aimed at Vurthak mid-melee, went straight into Lavinia's back instead. The banishment held; Lavinia turned round, saw Tiz's horror, and just smiled. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid\|the full session]]. |
+| Session                          | Biggest Success                                                                                                                                                                                                                                                                                  | Funniest Mistake    |                                                                                                                                                                                                                                      |                     |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
+| Chapter 11, Episode 1, Session 1 | Jaag Nixon opened with a 31-damage sneak attack on the way down the stairs and closed by carving 28 damage into Vurthak before cleanly disengaging with Fancy Footwork, capped by a raised middle finger to a half-dragon commander. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid \| the full session]]. | Tiz's Guiding Bolt, aimed at Vurthak mid-melee, went straight into Lavinia's back instead. The banishment held; Lavinia turned round, saw Tiz's horror, and just smiled. See [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid \| the full session]]. |
 
 ## Latest Session — Chapter 11, Episode 1, Session 1
 
