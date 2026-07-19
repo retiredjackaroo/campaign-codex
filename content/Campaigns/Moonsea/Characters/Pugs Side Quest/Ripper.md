@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Ripper
-created: 2026-07-13T17:27:18.024+10:00
-modified: 2026-07-13T17:27:18.025+10:00
+created: 2026-07-19T21:10:16.825+10:00
+modified: 2026-07-19T21:10:16.826+10:00
 tags:
   - pc
   - side-quest
@@ -19,6 +19,12 @@ A former bandit captain who once terrorised the lands around these parts with he
 
 **Status:** Alive (heavily wounded)
 **First appears:** [[Chapter 11 - Pugs Side Quest]]
+
+## Alter Ego
+
+![[Campaigns/Moonsea/Characters/Pugs Side Quest/Assets/Ripper - Alter Ego.png]]
+
+When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form warps into something barely recognisable: a single horn curling back from a skull half-consumed by teeth and bone, one eye burned red, her limbs lengthening into scaled, claw-tipped horrors. She keeps this side of herself buried as deeply as she keeps the secret itself, and dreads what happens if the Knights ever see it in full.
 
 ## This Session
 
