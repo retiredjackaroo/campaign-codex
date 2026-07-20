@@ -4,7 +4,7 @@ aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
 created: 2026-07-20T10:40:34.661+10:00
-modified: 2026-07-20T10:40:34.662+10:00
+modified: 2026-07-20T11:09:09.385+10:00
 tags:
   - index
   - moc
@@ -25,7 +25,7 @@ The were-boar ambush is over. The escort finished the fight in the Midwood, revi
 | Chapter 11, Side Quest, Session 1 | Pug's Counterspell shut down a were-boar shaman's lightning spell cold, then answered with a Chromatic Orb that arced for 68 damage into one were-boar and a further 19 into another behind it. See [[Session 1 - Escort to Myth Drannor - Narrative\|the full session]]. | The escort party watched the vanishing path, the clinging pine needles, and the vine-dissolved bridge the entire time without lifting a finger to help; Ripper's verdict afterwards was that it had been "funny as hell." See [[Session 1 - Escort to Myth Drannor - Narrative\|the full session]]. |
 | Chapter 11, Side Quest, Session 2 | [[Ripper]] blanketed the glade in smoke from her ever-smoking bottle, hunted the were-boar shaman down half-blind, and finished it with a dagger to the eye, closing out the fight the escort had been dragged into at the end of Session 1. See [[Session 2 - The Grove of Mercy - Narrative\|the full session]]. | [[Kjeorn]] shoved at the misaligned bench hiding the Harper cache hard enough to trigger its hidden mechanism, and face-planted into the moss when it swung clean around beneath him. See [[Session 2 - The Grove of Mercy - Narrative\|the full session]]. |
 
-## Latest Session (Chapter 11, Side Quest, Session 2)
+## Latest Session (Session 2)
 
 - [[Session 2 - The Grove of Mercy - Narrative|The Narrative]]
 - [[Session 2 - Notes|Session Notes]]
