@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-13T17:28:06.376+10:00
-modified: 2026-07-13T17:28:06.377+10:00
+modified: 2026-07-20T10:09:37.799+10:00
 tags:
   - npc
   - shadowdale
@@ -14,7 +14,7 @@ tags:
 An old wizard who keeps a tower in [[Shadowdale]]. Met [[Pug DAstibar|Pug D'Astibar]] there, along with [[Sylune]], plied him with cake and tea, and sent him on toward [[Myth Drannor]] with the [[Silver Brooch]] and the [[Crystal Vials]] in hand. Did not allow Pug to touch the vials' intended contents directly.
 
 **Status:** At his tower in Shadowdale
-**First appears:** [[Chapter 11 - Pugs Side Quest]]
+**First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
 
 ## Realms Lore
 

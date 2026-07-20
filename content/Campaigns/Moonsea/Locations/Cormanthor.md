@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Cormanther
   - The Rimwood
-created: 2026-07-13T17:34:12.630+10:00
-modified: 2026-07-13T17:34:12.630+10:00
+created: 2026-07-20T00:13:29.917+10:00
+modified: 2026-07-20T10:09:37.795+10:00
 tags:
   - location
   - forest
@@ -24,4 +24,6 @@ Pine needles here cling stubbornly to clothing and gear, adding weight over time
 
 Further in, the party found a glade where a band of were-boars, lycanthropes tied to the deity Malar, were butchering a stag.
 
-**First appears:** [[Chapter 11 - Pugs Side Quest]]
+Beyond that glade, once the [[Were-Boars of Cormanthor|were-boar]] fight was won, the escort travelled the rest of the day toward [[Myth Drannor]] and made camp at the [[Shrine of Eilistraee]], an old refuge grove within the perimeter they normally guard, roughly half a day short of the city.
+
+**First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]

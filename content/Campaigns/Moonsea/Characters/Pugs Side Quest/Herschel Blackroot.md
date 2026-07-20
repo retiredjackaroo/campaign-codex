@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Herschel Blackroot
-created: 2026-07-13T17:25:27.112+10:00
-modified: 2026-07-13T17:25:27.112+10:00
+created: 2026-07-20T00:09:51.705+10:00
+modified: 2026-07-20T10:09:37.790+10:00
 tags:
   - pc
   - side-quest
@@ -13,13 +13,20 @@ tags:
 # Herschel Blackroot
 
 ![[Campaigns/Moonsea/Characters/Pugs Side Quest/Assets/Pasted image 20260706144739.png]]
-A Forest Elf Spore Druid, played by [[Petra Hillockburrow]]'s player (recorded as "Adam" in the raw session notes) as a secondary side quest character for [[Chapter 11 - Pugs Side Quest|Pug's Side Quest]]. Not to be confused with Petra Hillockburrow (the same player's main Moonsea character) or Anselem (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
+A Forest Elf Spore Druid, played by [[Petra Hillockburrow]]'s player (recorded as "Adam" in the raw session notes) as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Petra Hillockburrow (the same player's main Moonsea character) or Anselem (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
 Character concept based on Jackson Lamb (the fictional Slough House spymaster). No further backstory supplied yet.
 
 **Status:** Alive
-**First appears:** [[Chapter 11 - Pugs Side Quest]]
+**First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
 
-## This Session
+## Session 1, Escort to Myth Drannor
 
 - Cast Spike Growth, turning a 20-foot radius of ground into thorny difficult terrain, dealing 2d4 piercing damage per 5 feet of movement through it (recorded doing 2d4 and 4d4 across multiple creatures crossing it during the fight).
+
+## Session 2, The Grove of Mercy
+
+- Dashed a full loop around his own Spike Growth (without clipping a single square of it, setting a precedent the GM had to honour) to reach [[Ripper]] with a Healing Word.
+- Gored and shoved back toward his own thorns, dropped concentration on Spike Growth as a free action to avoid the extra damage: very Br'er Rabbit.
+- Leaned into the Spore Druid's melee nature, awakening his spores for a wall of temporary hit points and a Shillelagh'd staff.
+- After the fight, cast Animate Dead on a reverted were-boar corpse and named the resulting spore-thrall **Snotty**, insisting he had not raised the dead but was "simply animating it with the healthy living spore mycelial growth within it."

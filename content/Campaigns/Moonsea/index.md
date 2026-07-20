@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
-created: 2026-07-16T10:50:34.653+10:00
-modified: 2026-07-17T17:22:24.774+10:00
+created: 2026-07-20T00:14:00.943+10:00
+modified: 2026-07-20T00:14:00.943+10:00
 tags:
   - index
   - moc
@@ -130,7 +130,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
 
-**Pug's Side Quest: Escort to Myth Drannor** — while Pug D'Astibar's business kept him from Session 1, this thread follows him escorting Elminster's crystal vials through Cormanthor towards Myth Drannor.
+**Pug's Side Quest: Escort to Myth Drannor** — while Pug D'Astibar's business kept him from the main table, this thread follows him escorting Elminster's crystal vials through Cormanthor towards Myth Drannor. Two sessions in: the escort has fought off a Malar-bound were-boar hunting party, uncovered a Harper cache at an ancient shrine of Eilistraee, and now follows a compass that points at Myth Drannor's Mythal, roughly half a day from the city.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 

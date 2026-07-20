@@ -4,7 +4,7 @@ aliases:
   - Syl
   - Saloon
 created: 2026-07-13T17:28:58.471+10:00
-modified: 2026-07-13T17:28:58.472+10:00
+modified: 2026-07-20T10:09:37.801+10:00
 tags:
   - npc
   - shadowdale
@@ -17,7 +17,7 @@ tags:
 A spectral, ghostlike woman encountered in [[Elminster]]'s tower in [[Shadowdale]]. One of the Seven Sisters, ghostlike since her death and closely tied to Elminster's household in Shadowdale. Identified as Sylune (Syl, for short) from the prep art for this session, titled "Tea with El and Syl", after initially being logged under the placeholder name "Saloon". Presented [[Pug DAstibar|Pug D'Astibar]] with the [[Silver Brooch]], which became solid once he took it from her.
 
 **Status:** Alive (as a spectral presence)
-**First appears:** [[Chapter 11 - Pugs Side Quest]]
+**First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
 
 ## Realms Lore
 
