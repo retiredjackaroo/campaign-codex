@@ -4,7 +4,7 @@ aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
 created: 2026-07-20T10:40:34.661+10:00
-modified: 2026-07-20T11:09:09.385+10:00
+modified: 2026-07-20T11:29:38.397+10:00
 tags:
   - index
   - moc
@@ -29,7 +29,6 @@ The were-boar ambush is over. The escort finished the fight in the Midwood, revi
 
 - [[Session 2 - The Grove of Mercy - Narrative|The Narrative]]
 - [[Session 2 - Notes|Session Notes]]
-- [[Session 2 - Transcript|Transcript]]
 
 For Session 1 and everything before, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
 
