@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Narrative"
-created: 2026-07-13T16:12:42.683+10:00
-modified: 2026-07-13T16:12:42.683+10:00
+created: 2026-07-27T08:28:12.420+10:00
+modified: 2026-07-27T08:28:12.420+10:00
 tags:
   - session
   - act-2
@@ -11,12 +11,12 @@ tags:
 
 # Session 5: Narrative
 
-[[Kit-Chac]], [[Her]], [[Pterrence]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] stood over the wreckage of the sand elemental, its skull the only piece still intact. Neither [[Derfel]] nor [[Anselem]] were with them; both remained separated from the group, their whereabouts unknown to the others for now.
+[[Kit-Chac]], [[Babs|Her]], [[Pterrence]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] stood over the wreckage of the sand elemental, its skull the only piece still intact. Neither [[Derfel]] nor [[Anselem]] were with them; both remained separated from the group, their whereabouts unknown to the others for now.
 
 ![[Campaigns/Dark Sun/Assets/The Elemental.png]]
 _The sand elemental, its ritual-anchor skull embedded in the rubble: felled at the end of the last session and finished off at the start of this one._
 
-[[Pterrence]] identified the skull as the anchor of a powerful elemental transmutation ritual, still active. Left alone, it would begin drawing sand and stone back into itself within a day and reform. The only way to stop it, short of finding whoever had cast the original ritual, was to destroy it outright. [[Her]] tried first, stamping and swinging with little effect, before Kit-Chac cracked it with his gythka. Finally Her hurled it into the air and met it with her longsword on the way down, shattering it into fragments across the tunnel floor. Pterrence kept a single fragment, threading it onto a cord like a keepsake, mostly curious whether it would show any sign of reactivating once the day was up.
+[[Pterrence]] identified the skull as the anchor of a powerful elemental transmutation ritual, still active. Left alone, it would begin drawing sand and stone back into itself within a day and reform. The only way to stop it, short of finding whoever had cast the original ritual, was to destroy it outright. [[Babs|Her]] tried first, stamping and swinging with little effect, before Kit-Chac cracked it with his gythka. Finally Her hurled it into the air and met it with her longsword on the way down, shattering it into fragments across the tunnel floor. Pterrence kept a single fragment, threading it onto a cord like a keepsake, mostly curious whether it would show any sign of reactivating once the day was up.
 
 With the skull dealt with, the party caught up with [[Leviath]] and the column of refugees she was leading deeper into [[The Cisterns]]. Leviath and [[Salt]] each spent healing on the worst of the party's wounds from the elemental fight before the group pressed on, following Leviath through a maze of long-abandoned drainage tunnels: cracked buttressed archways, faded glyph-work, storm damage sagging the ceilings in places. The tunnels eventually opened into a natural cave system, and from there onto a wide ledge overlooking a vast aquifer lake, luminescent pale blue, fed by two waterfalls on the far side. For refugees who had never seen open water, it was the first moment of wonder in what had otherwise been a flight for their lives.
 

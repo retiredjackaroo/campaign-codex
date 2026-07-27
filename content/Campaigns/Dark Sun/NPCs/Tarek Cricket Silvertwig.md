@@ -6,8 +6,8 @@ aliases:
   - Tarek Cricket Silvertwig
   - Tarek "Cricket" Silvertwig
 title: Tarek "Cricket" Silvertwig
-created: 2026-07-13T10:30:20.229+10:00
-modified: 2026-07-13T10:30:20.230+10:00
+created: 2026-07-26T17:22:37.684+10:00
+modified: 2026-07-26T17:22:37.684+10:00
 tags:
   - npc
   - ally
@@ -34,3 +34,5 @@ A halfling ranger and one of the four officers of the [[The Alliance|Alliance]] 
 ## Notes
 
 **Name collision:** distinct from [[Cricket]], the child NPC the party knows from [[Shazlim Oasis]]. The two share only the nickname; the transcript itself lampshades the coincidence.
+
+**Session 6:** volunteered the party for a search for two missing Alliance scouts, [[Narek]] and [[Scylla]], before Sarath had finished explaining the situation, treating it as a genuine search and an unstated test of the party's trustworthiness. Led the expedition north of [[The Hidden Spring]]'s territory, scraping a sample of cavern growth into a flask as a gift for [[Nisat of the Cavern Moss]] along the way. Took a claw hit from the [[Umber Hulk]] and, briefly, a critical hit and follow-up strike from a charmed [[Her]] during the fight with it and two [[Neogi]]. Later supplied Scylla's ceramic nose piercing as an identifying detail for a possible Locate Object attempt. See [[Session 6 - Notes]].

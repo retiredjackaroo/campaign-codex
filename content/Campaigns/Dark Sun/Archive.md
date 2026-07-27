@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-14T09:39:14.761+10:00
-modified: 2026-07-14T09:39:14.761+10:00
+created: 2026-07-26T17:26:06.672+10:00
+modified: 2026-07-26T17:26:06.672+10:00
 tags:
   - archive
   - moc
@@ -19,6 +19,9 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Session 5 - Narrative]]
 - [[Session 5 - Notes]]
 - [[Session 5 - Transcript]]
+- [[Session 6 - Narrative]]
+- [[Session 6 - Notes]]
+- [[Session 6 - Transcript]]
 
 ## All NPCs
 
@@ -71,7 +74,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Hidden Spring
 
-- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (missing), [[Scylla]] (missing), [[Squeaky]] (Pterrence's familiar)
 
 ## All Locations
 

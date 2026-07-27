@@ -4,8 +4,8 @@ aliases:
   - Alliance
   - Veiled Alliance
   - The Veiled Alliance
-created: 2026-07-13T16:11:41.537+10:00
-modified: 2026-07-13T16:11:41.537+10:00
+created: 2026-07-26T17:24:20.706+10:00
+modified: 2026-07-26T17:24:20.706+10:00
 tags:
   - faction
   - resistance
@@ -50,3 +50,5 @@ The cell lives by five laws, which explain its lack of urgency about surface eve
 The Alliance's secrecy is their primary asset and primary vulnerability. [[The Templars]] searching the cisterns would expose the entire network. The party is moving to formalise an alliance with them to counter the Templars and [[Dregoth Cultists]].
 
 As of Session 5, two Alliance scouts are overdue from an unexplored stretch of the aquifer beyond [[The Hidden Spring]]. [[Koresh Ironblood]] has offered to bring the party along to search, framed as a trust-building step toward the Alliance eventually helping free [[Korno]].
+
+**Session 6:** [[Tarek Cricket Silvertwig|Tarek]] and Koresh took the party north to search for the two missing scouts, [[Narek]] and [[Scylla]]. The search turned up a scrap of Scylla's clothing before the group was ambushed by an [[Umber Hulk]] and two [[Neogi]]; both scouts remain unaccounted for and, given cocoon-like remains found at the site, are feared dead or worse. The Alliance's own trust in the party has not yet been explicitly addressed as a result, but the expedition stands as the first real test of it.

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T16:13:35.218+10:00
-modified: 2026-07-13T16:13:35.218+10:00
+created: 2026-07-26T17:23:39.889+10:00
+modified: 2026-07-26T17:23:39.890+10:00
 tags:
   - pc
   - party
@@ -23,6 +23,10 @@ That secret broke in Act II, Session 5. During the cloaker fight over the aquife
 - [[Pterrence]]: knew Salt's true nature before the party did
 - [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: identified Salt as a water-elemental being when the secret came out; keen to discuss the party's "water problem" with him
 
+## Notable moments
+
+- **Act II, Session 6:** Learned that word of what he is has spread among the refugees sheltering at [[The Hidden Spring]], though no one there has confronted him directly. Misjudged a flooded pool during the tunnel skills challenge and picked up a level of exhaustion. Kept the party standing through the [[Umber Hulk]] and [[Neogi]] fight with a sustained Aura of Vitality and an upcast Cure Wounds, largely while blinded by [[Pterrence]]'s own Fog Cloud.
+
 ## Notes
 
-As of Act II, Session 5, Salt's non-human, water-elemental nature is known to the party (Kit-Chac and Her know he is not human; Tchk'Tchk knows he is a being of water; Pterrence already knew). He is not, however, openly known as a Water Genasi to NPCs, and still passes as human outside the group. Earlier session documents that predate the reveal correctly treat him as human in-character.
+As of Act II, Session 5, Salt's non-human, water-elemental nature is known to the party (Kit-Chac and Her know he is not human; Tchk'Tchk knows he is a being of water; Pterrence already knew). He is not, however, openly known as a Water Genasi to NPCs, and still passes as human outside the group. Earlier session documents that predate the reveal correctly treat him as human in-character. As of Act II, Session 6, word of his nature has also begun to spread among the refugees at [[The Hidden Spring]], though it remains unconfirmed and unaddressed directly.

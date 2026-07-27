@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - Koresh
-created: 2026-07-13T10:37:57.623+10:00
-modified: 2026-07-13T10:37:57.623+10:00
+created: 2026-07-26T17:22:28.613+10:00
+modified: 2026-07-26T17:22:28.613+10:00
 tags:
   - npc
   - ally
@@ -31,3 +31,5 @@ When the party first arrived he sized them up in silence. He later offered to ta
 ## Notes
 
 Distinct from "Koresh of the Screaming Hollow," another Koresh referenced by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] at the table; any relation is unconfirmed and treated as coincidence for now.
+
+**Session 6:** joined the scouting expedition north of [[The Hidden Spring]]'s territory alongside [[Tarek Cricket Silvertwig|Tarek]]. During the fight with an [[Umber Hulk]] and two [[Neogi]], he was charmed by the Neogi hive-mind for the entire encounter and made to attack [[Derfel]], including a natural 20 shield bash that broke Derfel's nose. Despite this, and without anyone realising in the moment he was still charmed, he landed the blow that killed the Umber Hulk outright. See [[Session 6 - Notes]].

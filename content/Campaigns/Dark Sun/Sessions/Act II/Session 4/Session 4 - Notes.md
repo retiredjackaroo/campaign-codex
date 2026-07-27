@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 4: Notes"
-created: 2026-07-13T16:15:24.743+10:00
-modified: 2026-07-13T16:15:24.744+10:00
+created: 2026-07-27T08:32:20.244+10:00
+modified: 2026-07-27T08:32:20.245+10:00
 tags:
   - session
   - act-2
@@ -20,13 +20,13 @@ tags:
 
 ![[Campaigns/Dark Sun/Assets/The Slums.png]]
 
-Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
+Spotting a combined [[The Templars|Templar]], [[Noble House Soldiers|Noble]], and [[Dregoth Cultists|Dregoth]] force leaving the Templar Quarter and heading for [[The Slums]], the party changed their plans and moved to warn [[Korno]]. On the way [[Derfel]], [[Kit-Chac]], [[Babs|Her]], [[Pterrence]], [[Anselem]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] came across a gang holding children prisoner and chose, very uncommonly for Athas, to have a moral problem with it. They engaged, defeated the gang, and gathered the surviving children.
 
 They reached [[Korno]]'s safe house too late. The fight was over, the Templars were consolidating, and [[Korno]] had been taken prisoner. While the party assessed their options, [[Derfel]] found [[Leviath]] in a hidden hollow in the rubble, guarding a dozen more refugees.
 
 [[Leviath]] revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated, and the consensus went to the outer well.
 
-Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Her]] recovered [[The Skull]] from the wreckage.
+Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Babs|Her]] recovered [[The Skull]] from the wreckage.
 
 The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Alliance]].
 
@@ -35,7 +35,7 @@ The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Al
 All seven party members were active this session:
 
 - [[Derfel]] (Elf, Beast Master Ranger) with [[Brave]]
-- [[Her]] (Mul, mute) – frontline
+- [[Babs|Her]] (Mul, mute) – frontline
 - [[Kit-Chac]] (Thri-Kreen, Open Hand Monk)
 - [[Pterrence]] (Pterran)
 - [[Anselem]] (Fire Urokite)
@@ -84,7 +84,7 @@ The creature's defences reshaped the whole fight. It had **earth instability** (
 - **Searing Smite** ([[Derfel]]) added 1d6 fire each round the elemental acted. Derfel deliberately kept Searing Smite running rather than swap to Hunter's Mark.
 - **Tasha's Mind Whip** ([[Salt]]) opened the fight: 14 psychic damage, no opportunity attacks, and a turn where the creature could take an action or a bonus action but not both. [[Pterrence]]'s **Portent** helped land it by forcing the elemental's save to a 10.
 - **Cure Wounds** ([[Salt]]) pulled [[Derfel]] back from the edge for roughly 16 to 19 hit points when he was about to drop.
-- **Healing Word** ([[Anselem]], cast several times including a 2nd-level version on [[Her]]) kept the front line upright through the elemental's multi-attack.
+- **Healing Word** ([[Anselem]], cast several times including a 2nd-level version on [[Babs|Her]]) kept the front line upright through the elemental's multi-attack.
 - **Guiding Bolt** ([[Anselem]]) missed on the first attempt but connected on the second for radiant damage.
 - **Animal Handling** ([[Derfel]], earlier, during the slums crossing) was a quiet success: he gave a Templar Enix lizard its "you are free" command word, the lizard rolled over and lolled in the dust, and its confused handlers were drawn off the column's path. The DM's words: "you are so lucky."
 - **The ceiling collapse** (environmental) dropped a section of the aqueduct roof onto the weakening mass and helped finish it.
@@ -95,18 +95,18 @@ The creature's defences reshaped the whole fight. It had **earth instability** (
 - **Stunning Strike** ([[Kit-Chac]]) – immune to the stunned condition.
 - **Flurry of Blows** with **Tavern Brawler** ([[Kit-Chac]]), trying to topple it – earth instability meant it could not be knocked prone, no matter the result.
 - **Command: HALT** ([[Anselem]], first cast via Magic Initiate) – the elemental made the save that time.
-- **First Guiding Bolt** ([[Anselem]]) – missed, and worse, the elemental bent the webbing to drag [[Her]] into the path of its own movement; Her took 27 damage to the back across that exchange.
+- **First Guiding Bolt** ([[Anselem]]) – missed, and worse, the elemental bent the webbing to drag [[Babs|Her]] into the path of its own movement; Her took 27 damage to the back across that exchange.
 - **Hunter's Mark** ([[Derfel]]) – never applied. It would have meant dropping Searing Smite (both need concentration), so Derfel kept the fire going instead.
 
 ### Outcome
 
-The elemental's mass collapsed under sustained slashing, fire, forced movement, and the falling ceiling. It fragmented: a medium sand elemental split away and dispersed, and the original skull dropped free. [[Her]] moved in and took [[The Skull]]. The party survived, heavily wounded, in the dark, with the refugees intact behind them.
+The elemental's mass collapsed under sustained slashing, fire, forced movement, and the falling ceiling. It fragmented: a medium sand elemental split away and dispersed, and the original skull dropped free. [[Babs|Her]] moved in and took [[The Skull]]. The party survived, heavily wounded, in the dark, with the refugees intact behind them.
 
 **Tactical note for next session:** Pete confirmed the next fight is built specifically to shut down the engine that won this one. The enemies will be high-Wisdom and "all wearing circlets of immunity to Command." The Cloud of Daggers plus Command lock will not save the party twice.
 
 ## Her at the table (she is mute)
 
-[[Her]] does not speak. Her Roll20 chat and her actions are the whole of her voice in a session, so they are worth recording in full. This session's moments:
+[[Babs|Her]] does not speak. Her Roll20 chat and her actions are the whole of her voice in a session, so they are worth recording in full. This session's moments:
 
 - Shook a downed body so [[Anselem]] could search it, and his roll turned up the goods. ("I pick up the body and shake, Anselem finds the things.")
 - Floated a plan in chat: send the rescued children out with the fleeing crowd. ("send the kids with the fleeing people?")
@@ -117,20 +117,20 @@ The elemental's mass collapsed under sustained slashing, fire, forced movement, 
 
 ## Rolls and dramatic moments
 
-- **The session's first roll was its luckiest.** Right after [[Her]] shook a corpse, [[Anselem]] rolled a natural 20 on Investigation and found the loot on it.
+- **The session's first roll was its luckiest.** Right after [[Babs|Her]] shook a corpse, [[Anselem]] rolled a natural 20 on Investigation and found the loot on it.
 - **Salt's opener was rigged to land.** [[Salt]] cast Tasha's Mind Whip (DC 15 Intelligence save) and [[Pterrence]] spent Portent to fix the elemental's save at a 10, guaranteeing the fail: 14 psychic (3d6) and no opportunity attacks.
-- **The DM turned the party's own Web against them.** On one of [[Anselem]]'s Guiding Bolts, the elemental used a limb to bend [[Pterrence]]'s webbing and drag [[Her]] into the blast, hitting her in the back for 27. The single nastiest moment of the fight.
+- **The DM turned the party's own Web against them.** On one of [[Anselem]]'s Guiding Bolts, the elemental used a limb to bend [[Pterrence]]'s webbing and drag [[Babs|Her]] into the blast, hitting her in the back for 27. The single nastiest moment of the fight.
 - **Cloud of Daggers carried the damage.** [[Pterrence]]'s upcast Cloud of Daggers did sixteen a round and had banked over thirty by mid-fight; it was the primary kill source.
 - **Command was the unlock.** With no defence against it, the elemental ate Command after Command from [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]], who used Telekinetic Propel to drop it back into the daggers when it tried to leave. [[Pterrence]] credited him with the win.
 - **Kit-Chac's luck ran cold.** [[Kit-Chac]]'s topple attempts were dead on arrival against an enemy immune to prone, and a Tavern Brawler re-roll turned a 1 into a 2.
 - **Clutch heal.** [[Salt]] extended his reach five feet to land Cure Wounds on a near-dead [[Derfel]] for roughly nineteen. An earlier heal landed for seventeen, "almost half" of what had been taken.
-- **Wear and reward.** Equipment checks: [[Anselem]]'s mail came up 12, [[Her]]'s bone shield 72 (weakening). End of session: 1,243 XP and 82 cp each.
+- **Wear and reward.** Equipment checks: [[Anselem]]'s mail came up 12, [[Babs|Her]]'s bone shield 72 (weakening). End of session: 1,243 XP and 82 cp each.
 
 ## Resources expended
 
 - Multiple spell slots across all four casters ([[Pterrence]], [[Anselem]], [[Salt]], [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]])
 - Water skins to [[Leviath]] for the refugees: [[Kit-Chac]] donated 2, [[Salt]] donated 2. Salt noted his water-genasi summon produces slightly less per day than the party drinks, even before it is halved.
-- [[Her]]'s bone shield is weakening (rolled 72 on its condition check); still serviceable, many chips.
+- [[Babs|Her]]'s bone shield is weakening (rolled 72 on its condition check); still serviceable, many chips.
 - [[Pterrence]]'s Obsidian Warhammer cracked at the head (a -1 to damage, higher break chance on crit fail or crit success), then he mended it with Mending.
 - [[Anselem]]'s Sout mail is holding up; he fights mostly with fire and has never swung his glaive.
 
@@ -149,3 +149,4 @@ The elemental's mass collapsed under sustained slashing, fire, forced movement, 
 - [[The Skull]] is in the party's possession; its origin and significance are unknown
 - The [[Dregoth Cultists]] know someone descended the well; they do not know who
 - Next encounter teased: high-Wisdom enemies immune to Command
+  </content>

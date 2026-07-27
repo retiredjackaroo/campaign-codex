@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-13T16:13:05.767+10:00
-modified: 2026-07-13T16:13:05.767+10:00
+created: 2026-07-26T17:23:09.182+10:00
+modified: 2026-07-26T17:23:09.182+10:00
 tags:
   - pc
   - party
@@ -29,6 +29,7 @@ Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between th
 ## Notable moments
 
 - **Act II, Session 4:** Spotted the combined Templar, Noble, and Dregoth force leaving the Templar Quarter, prompting the move to warn [[Korno]]. Scouted the slums crossing with [[Kit-Chac]]. Turned a Templar Enix lizard mid-crossing by calling out its Animal Handling release command, dropping it harmlessly into the dust and pulling its handlers off the column. Kept Searing Smite burning on the sand elemental rather than switch to Hunter's Mark, and was pulled back from near-death by [[Salt]]'s Cure Wounds.
+- **Act II, Session 6:** Somehow topped the party's group charisma check about patience with the Alliance, at least until the table decided [[Brave]] had actually scored higher. Took a natural 20 shield bash to the face from a charmed [[Koresh Ironblood]] mid-fight, breaking his nose. Fought in genuine coordination with [[Brave]] for the first time, Hunter's Mark guiding the dog's own bite. With [[Salt]]'s Enhance Ability lending him an edge, scouted ahead after the fight and spotted a lower chamber lined with silk-cocooned alcoves — "a hell of a lot of spiders."
 
 ## Character notes
 

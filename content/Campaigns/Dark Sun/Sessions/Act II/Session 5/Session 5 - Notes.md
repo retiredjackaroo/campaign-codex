@@ -1,8 +1,8 @@
 ---
 publish: true
 title: "Session 5: Notes"
-created: 2026-07-13T16:12:20.500+10:00
-modified: 2026-07-13T16:12:20.500+10:00
+created: 2026-07-27T08:28:52.199+10:00
+modified: 2026-07-27T08:28:52.200+10:00
 tags:
   - session
   - act-2
@@ -29,7 +29,7 @@ Beyond the lake, Leviath led the party to a concealed, psionically-warded entran
 
 Five of seven party members were active this session. **[[Derfel]] and [[Anselem]] were both absent** (not referenced as present or acting at any point in the source recording); the narrative reflects this rather than inventing scenes for them, per standing instruction to flag rather than silently override.
 
-- [[Her]] (Mul, mute) – frontline
+- [[Babs|Her]] (Mul, mute) – frontline
 - [[Pterrence]] (Pterran) – battlefield control (Cloud of Daggers), Tenser's Floating Disk
 - [[Kit-Chac]] (Thri-Kreen, Open Hand Monk)
 - [[Salt]] (Water Genasi, Psion) – grappled and dragged over the lake; held the Water Walk that saved Pterrence
@@ -74,7 +74,7 @@ Five cloakers descended from the cavern ceiling onto the party mid-crossing of t
 - **Cloud of Daggers** ([[Pterrence]], upcast) held a single square and became the fight's main damage engine; the party manoeuvred cloakers in and out of it repeatedly, including moving it directly onto a stunned target.
 - **Held Water Walk** ([[Salt]]) was held in reserve and triggered to catch [[Pterrence]] when a cloaker dropped him over the lake, turning a drowning into a soft landing on solid water. (Salt himself, a water being, was never at drown risk when dropped.)
 - **Psionic Backlash / Ironic Backlash** ([[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]) punished an incoming tail attack, reducing it and dealing return psychic damage.
-- **Grappling to free captives** ([[Kit-Chac]], [[Her]]) freed a trapped refugee and later Leviath herself from cloaker wraps.
+- **Grappling to free captives** ([[Kit-Chac]], [[Babs|Her]]) freed a trapped refugee and later Leviath herself from cloaker wraps.
 - **Stunning Strike + Flurry of Blows** ([[Kit-Chac]]) stunned and downed one cloaker outright, allowing a follow-up beating with advantage.
 - **Leviath's calming pulse** ended the fight early: the four cloakers within her 30-foot radius all failed their saves, released their captives and were allowed to retreat rather than be pursued. Only the fifth, which was outside the radius, stayed hostile.
 
@@ -90,9 +90,9 @@ Four of the five cloakers survived: all four within Leviath's calming radius rel
 
 ## Rolls and dramatic moments
 
-- **Skull's end.** [[Her]] made two attempts to destroy [[The Skull]] by stomping and swinging before [[Kit-Chac]]'s gythka cracked it and Her finished it with an airborne longsword strike, shattering it into dozens of pieces.
+- **Skull's end.** [[Babs|Her]] made two attempts to destroy [[The Skull]] by stomping and swinging before [[Kit-Chac]]'s gythka cracked it and Her finished it with an airborne longsword strike, shattering it into dozens of pieces.
 - **The vanishing refugee.** A cloaker took a commoner in near-total silence at the very start of the ambush; the party did not register the loss until moments later.
-- **Salt exposed.** Salt's hood came off mid-fight while he was in the water; [[Kit-Chac]] and [[Her]] saw his blue hair, finned ears, and rippling, faintly glistening skin for the first time. See flag below — this is a significant in-fiction reveal the build instructions otherwise require treating as secret.
+- **Salt exposed.** Salt's hood came off mid-fight while he was in the water; [[Kit-Chac]] and [[Babs|Her]] saw his blue hair, finned ears, and rippling, faintly glistening skin for the first time. See flag below — this is a significant in-fiction reveal the build instructions otherwise require treating as secret.
 - **Leviath the MVP.** The table explicitly credited Leviath with saving the encounter via her calming pulse, joking she'd earned a spot in the party over the absent Derfel.
 - **XP discrepancy.** The GM read out slightly different totals per character (860, 860, 850) while awarding XP; noted here rather than silently corrected.
 
@@ -102,11 +102,11 @@ Four of the five cloakers survived: all four within Leviath's calming radius rel
 - [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: Psionic/Ironic Backlash, thrown-rock force attack, Tenser's Floating Disk (rode, did not cast)
 - [[Salt]]: Water Walk (held in reserve, triggered to catch Pterrence), Telekinetic Propel, Flesh Maul, Luck Point (failed to escape grapple)
 - [[Kit-Chac]]: Stunning Strike, Flurry of Blows, multiple grapple attempts (mixed success)
-- [[Her]]: Longsword strikes to destroy [[The Skull]], multiple attacks against cloakers, Savage Attacker re-roll
+- [[Babs|Her]]: Longsword strikes to destroy [[The Skull]], multiple attacks against cloakers, Savage Attacker re-roll
 
 ## Open threads
 
-- **Salt's reveal (resolved):** Salt's Water Genasi features (blue hair, finned ears, gill-glistening skin) were witnessed this session when his hood came off in the water. [[Kit-Chac]] and [[Her]] now know he is not human; [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] recognised him as an elemental being of water; [[Pterrence]] already knew. This is now treated as in-game canon: [[Salt]]'s character page has been updated to reflect that the party knows his water-elemental nature. He still passes as human to NPCs. Earlier session documents that predate the reveal continue to treat him as human, which is correct for their in-fiction timing.
+- **Salt's reveal (resolved):** Salt's Water Genasi features (blue hair, finned ears, gill-glistening skin) were witnessed this session when his hood came off in the water. [[Kit-Chac]] and [[Babs|Her]] now know he is not human; [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] recognised him as an elemental being of water; [[Pterrence]] already knew. This is now treated as in-game canon: [[Salt]]'s character page has been updated to reflect that the party knows his water-elemental nature. He still passes as human to NPCs. Earlier session documents that predate the reveal continue to treat him as human, which is correct for their in-fiction timing.
 - Two Alliance scouts are missing in an unexplored stretch of the aquifer; [[Koresh Ironblood]] has offered to take the party to investigate
 - [[Korno]]'s rescue remains unresolved and was explicitly deferred again this session
 - [[The Alliance]]'s five aims and the "Avangion" rumour about their unseen higher leadership are new lore threads
