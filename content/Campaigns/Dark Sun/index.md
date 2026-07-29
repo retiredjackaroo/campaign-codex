@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Born Under a Dark Sun Home page
 title: Born Under a Dark Sun
-created: 2026-07-26T17:31:50.599+10:00
-modified: 2026-07-27T09:05:30.531+10:00
+created: 2026-07-29T10:45:02.886+10:00
+modified: 2026-07-29T10:45:02.886+10:00
 tags:
   - index
   - moc
@@ -16,6 +16,8 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 ## Where We Are Now
 
 Sheltering at The Hidden Spring, a hidden Alliance sanctuary within a living aquifer, the party has been sent on its first real test of trust: searching for two missing Alliance scouts, Narek and Scylla, in unmapped tunnels to the north. The search turned into a brutal fight against an Umber Hulk and two Neogi, whose psionic hive-mind briefly turned Babs and Koresh Ironblood against their own allies. Both Neogi and the Umber Hulk are dead, but Narek and Scylla remain unaccounted for, and a chamber glimpsed below, thick with silk cocoons, suggests something much larger still waits in the dark. Salt, meanwhile, is aware that word of his true nature has begun to spread among the sanctuary's refugees, though no one has confronted him about it directly.
+
+One more thing changed for good this session: the moment she beheaded the second Neogi, Tarek called Her a "bad-ass bitch," and Derfel and Pterrence's players made the nickname official on the spot. She's Babs from here on; see [[Babs]].
 
 ![[Campaigns/Dark Sun/Assets/Pasted image 20260716102209.png]]
 
