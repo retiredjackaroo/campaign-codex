@@ -3,14 +3,16 @@ publish: true
 aliases:
   - Fire Ant
   - Hushad Fire Ant
-created: 2026-06-30T14:23:33.436+10:00
-modified: 2026-06-30T14:23:33.436+10:00
+created: 2026-07-01T12:40:41.557+10:00
+modified: 2026-07-01T12:40:41.557+10:00
 tags:
   - npc
   - gulbadan-estate
 ---
 
 # Hushad
+
+![[Campaigns/Dark Sun/Assets/Hushad.png]]
 
 Known as "Fire Ant." Encountered at [[Gulbadan Estate]].
 

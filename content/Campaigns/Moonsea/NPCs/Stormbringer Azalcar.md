@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:07:38.208+10:00
-modified: 2026-06-30T14:07:38.209+10:00
+created: 2026-07-01T12:01:59.555+10:00
+modified: 2026-07-01T12:01:59.555+10:00
 tags:
   - npc
   - cult-of-the-dragon
 ---
 
 # Stormbringer Azalcar
+
+![[Campaigns/Moonsea/Assets/Stormbringer Azalcar.png]]
 
 A named figure recorded in the campaign journal. The "Stormbringer" title points to ties with the [[Cult of the Dragon]] or the dragon's forces (possibly a blue/storm dragon connection).
 

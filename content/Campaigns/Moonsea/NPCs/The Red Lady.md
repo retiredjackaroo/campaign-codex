@@ -3,7 +3,7 @@ publish: true
 aliases:
   - The Red Lady
 created: 2026-06-30T14:12:56.910+10:00
-modified: 2026-06-30T14:12:56.911+10:00
+modified: 2026-07-05T21:53:53.001+10:00
 tags:
   - npc
   - mysterious
@@ -13,7 +13,8 @@ tags:
 # The Red Lady
 
 ![[Pasted image 20260628173144.png]]
-A mysterious figure first encountered in the Dread Realm, the domain run by [[Crudo]] and the origin of both [[Jaag Nixon]] and [[Lavinia Zafir]]. Both carry a strange affinity for her that neither has fully explained. [[Jaag Nixon]] is known to sing a strange song when she comes to mind, apparently without entirely meaning to.
+
+A mysterious figure first encountered in the Dread Realm, the domain run by [[Crudo]]and the origin of both [[Jaag Nixon]] and [[Lavinia Zafir]]. Both carry a strange affinity for her that neither has fully explained. [[Jaag Nixon]] is known to sing a strange song when she comes to mind, apparently without entirely meaning to.
 
 Her nature, intentions, and current whereabouts are unknown. The affinity she inspires in Jaag and Lavinia suggests a connection that runs deeper than a single encounter.
 

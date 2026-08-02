@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: The Team You've Definitely Heard of
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -61,7 +61,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      enableInHtmlEmbed: false
+      enableInHtmlEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
@@ -199,8 +199,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Campaign Codex: /
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -224,7 +223,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

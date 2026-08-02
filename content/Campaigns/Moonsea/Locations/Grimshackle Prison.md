@@ -2,13 +2,15 @@
 publish: true
 aliases:
   - Grimshackle Jail
-created: 2026-06-30T13:53:59.795+10:00
-modified: 2026-06-30T13:53:59.795+10:00
+created: 2026-07-01T12:03:41.277+10:00
+modified: 2026-07-01T12:03:41.277+10:00
 tags:
   - location
 ---
 
 # Grimshackle Prison
+
+![[Campaigns/Moonsea/Assets/Grimshackle Prison.png]]
 
 A prison (also recorded as Grimshackle Jail), associated with the Grimshackle name (see Ukharim and Bhevek Grimshackle). Recorded in the campaign journal.
 

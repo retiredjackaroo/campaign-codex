@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:01:11.674+10:00
-modified: 2026-06-30T14:01:11.675+10:00
+created: 2026-07-01T12:01:22.427+10:00
+modified: 2026-07-01T12:01:22.427+10:00
 tags:
   - location
   - phlan
 ---
 
 # Podol Plaza
+
+![[Campaigns/Moonsea/Assets/Podol Plaza.png]]
 
 A plaza in [[Phlan]]. Recorded in the campaign journal.
 

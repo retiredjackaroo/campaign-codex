@@ -2,14 +2,16 @@
 publish: true
 aliases:
   - Hammer of Impiltur
-created: 2026-06-30T14:13:24.706+10:00
-modified: 2026-06-30T14:13:24.706+10:00
+created: 2026-07-01T12:03:07.093+10:00
+modified: 2026-07-01T12:03:07.093+10:00
 tags:
   - npc
   - paladin
 ---
 
 # Zern Xerkstil
+
+![[Campaigns/Moonsea/Assets/Zern Xerkstil.png]]
 
 A paladin, also known as the **Hammer of Impiltur**. He spends much of his time in prayer at [[The Dawns Fane]], an old shrine to Lathander.
 

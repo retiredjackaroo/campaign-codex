@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:23:42.083+10:00
-modified: 2026-06-30T14:23:42.084+10:00
+created: 2026-07-01T12:40:48.931+10:00
+modified: 2026-07-01T12:40:48.931+10:00
 tags:
   - npc
   - valthar's-edge
 ---
 
 # Karesh
+
+![[Campaigns/Dark Sun/Assets/Karesh.png]]
 
 Resident of [[Valthar's Edge]].
 

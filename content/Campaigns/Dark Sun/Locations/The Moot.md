@@ -2,13 +2,15 @@
 publish: true
 aliases:
   - The Moot
-created: 2026-06-30T14:17:13.935+10:00
-modified: 2026-06-30T14:17:13.935+10:00
+created: 2026-07-13T10:34:46.967+10:00
+modified: 2026-07-13T10:34:46.967+10:00
 tags:
   - location
 ---
 
 # The Moot
+
+![[Campaigns/Dark Sun/Assets/The Moot.png]]
 
 A gathering place or council location encountered during the campaign. A significant political meeting point given the range of titled figures present.
 
@@ -19,8 +21,8 @@ A gathering place or council location encountered during the campaign. A signifi
 - [[Leviath]]
 - [[High Kuatogagh Jahandar Shah]]
 - [[Bilal]]
-- [[Satrap Dovren M'Ke]]
-- [[Ruvasha M'ke]]
+- [[Satrap Dovren MKe|Satrap Dovren M'Ke]]
+- [[Ruvasha Mke|Ruvasha M'ke]]
 - [[Silrasha of the Windswept Dust]]
 - [[Rak of the Wastes]]
 - [[Chiyata Veilstep]]

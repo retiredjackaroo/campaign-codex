@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Renown
   - Reputation
-created: 2026-06-30T13:46:28.978+10:00
-modified: 2026-06-30T13:46:28.978+10:00
+created: 2026-07-13T17:11:33.513+10:00
+modified: 2026-07-13T17:11:33.513+10:00
 tags:
   - tracker
   - factions
@@ -21,11 +21,11 @@ A running tally of where the party (and individual members) stand with the power
 | [[Blackfist]] | Renown | Confirmed |
 | [[Cult of the Dragon]] | Enmity | Confirmed |
 | [[Harpers]] | Renown or enmity unknown | To confirm |
-| [[The Lords' Alliance]] | Renown or enmity unknown | To confirm |
+| [[The Lords Alliance\|The Lords' Alliance]] | Renown or enmity unknown | To confirm |
 | [[Emerald Enclave]] | Renown or enmity unknown | To confirm |
 | [[The Order of the Gauntlet]] | Renown or enmity unknown | To confirm |
 | [[Zhentarim]] | Renown or enmity unknown | To confirm |
-| [[Mantor's Library]] | Renown or enmity unknown | To confirm |
+| [[Mantors Library\|Mantor's Library]] | Renown or enmity unknown | To confirm |
 
 ## Iltiza Ward (Tiz)
 

@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-06-30T14:05:03.965+10:00
-modified: 2026-06-30T14:05:03.965+10:00
+created: 2026-07-01T12:00:58.516+10:00
+modified: 2026-07-01T12:00:58.517+10:00
 tags:
   - npc
 ---
 
 # Knight Lieutenant Bolver
+
+![[Campaigns/Moonsea/Assets/Knight Lieutenant Bolver.png]]
 
 A knight lieutenant recorded in the campaign journal.
 

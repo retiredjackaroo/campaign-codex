@@ -1,13 +1,15 @@
 ---
 publish: true
-created: 2026-06-30T14:01:29.510+10:00
-modified: 2026-06-30T14:01:29.510+10:00
+created: 2026-07-01T12:01:55.821+10:00
+modified: 2026-07-01T12:01:55.821+10:00
 tags:
   - location
   - phlan
 ---
 
 # Stojanow Gate
+
+![[Campaigns/Moonsea/Assets/Stojanow Gate.png]]
 
 A gate associated with the Stojanow, in or around [[Phlan]]. Recorded in the campaign journal, including a "the Resistance Begins" handout.
 

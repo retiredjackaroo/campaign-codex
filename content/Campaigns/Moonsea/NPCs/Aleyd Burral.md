@@ -1,12 +1,14 @@
 ---
 publish: true
-created: 2026-06-30T14:02:44.886+10:00
-modified: 2026-06-30T14:02:44.887+10:00
+created: 2026-07-01T11:57:58.775+10:00
+modified: 2026-07-01T11:57:58.775+10:00
 tags:
   - npc
 ---
 
 # Aleyd Burral
+
+![[Campaigns/Moonsea/Assets/Aleyd Burral.png]]
 
 A named figure recorded in the campaign journal.
 

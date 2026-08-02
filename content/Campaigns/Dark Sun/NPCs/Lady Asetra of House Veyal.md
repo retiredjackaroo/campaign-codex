@@ -4,8 +4,8 @@ aliases:
   - Asetra
   - Lady Asetra
   - House Veyal
-created: 2026-06-30T14:23:56.884+10:00
-modified: 2026-06-30T14:23:56.884+10:00
+created: 2026-07-01T12:41:45.564+10:00
+modified: 2026-07-01T12:41:45.568+10:00
 tags:
   - npc
   - the-moot
@@ -14,6 +14,8 @@ tags:
 ---
 
 # Lady Asetra of House Veyal
+
+![[Campaigns/Dark Sun/Assets/Lady Asetra of House Veyal.png]]
 
 A noble encountered at [[The Moot]], representing House Veyal.
 
