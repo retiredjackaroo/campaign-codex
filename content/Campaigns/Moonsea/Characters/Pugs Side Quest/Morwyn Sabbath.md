@@ -6,7 +6,7 @@ aliases:
   - Morwen
   - Morwyn Dabbath
 created: 2026-07-20T10:39:37.513+10:00
-modified: 2026-07-20T10:39:37.514+10:00
+modified: 2026-08-03T00:30:25.951+10:00
 tags:
   - pc
   - side-quest
@@ -43,3 +43,9 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 
 > [!quote] For the record
 > "History is written by the victors, but I say that history is written by the archivists."
+
+## Session 3, Enter as Guests, Leave as Guardians
+
+- Tried to enchant [[Bullshit]] into licking Kjeorn's face for eight hours; Bullshit resisted.
+- Cast Slow across four ankhegs and affected two.
+- Ended the session grappled and being pulled toward a tunnel.

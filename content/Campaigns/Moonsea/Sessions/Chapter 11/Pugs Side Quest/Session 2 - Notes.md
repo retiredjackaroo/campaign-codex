@@ -2,7 +2,7 @@
 publish: true
 title: Session 2 Notes
 created: 2026-07-20T10:38:02.991+10:00
-modified: 2026-07-20T10:38:02.992+10:00
+modified: 2026-08-03T00:37:11.204+10:00
 tags:
   - session
   - chapter-11
@@ -13,7 +13,7 @@ tags:
 
 _Side Quest, Session 2 Notes_
 
-**Summary:** The escort finishes the were-boar fight it was caught in at the end of Session 1, then travels on to camp at an ancient shrine of [[Eilistraee]] deep in [[Cormanthor]]. There they uncover a [[Harpers|Harper]] drop site hidden beneath a stone bench, complete with the unsettling [[Aurelien Voxs Journal|journal of Aurelien Vox]] and a [[Harper Compass|compass]] that points straight at [[Myth Drannor]], and then witness a moonlit vision of drow refugees being welcomed by surface elves. Full story in [[Session 2 - The Grove of Mercy - Narrative|the narrative]]; verbatim table talk in [[Session 2 - Transcript|the transcript]].
+**Summary:** The escort finishes the were-boar fight it was caught in at the end of Session 1, then travels on to camp at an ancient shrine of [[Eilistraee]] deep in [[Cormanthor]]. There they uncover a [[Harpers|Harper]] drop site hidden beneath a stone bench, complete with the unsettling [[Aurelien Voxs Journal|journal of Aurelien Vox]] and a [[Harper Compass|compass]] that points straight at [[Myth Drannor]], and then witness a moonlit vision of drow refugees being welcomed by surface elves. Full story in [[Session 2 - The Grove of Mercy - Narrative|the narrative]].
 
 **Previously On...**
 

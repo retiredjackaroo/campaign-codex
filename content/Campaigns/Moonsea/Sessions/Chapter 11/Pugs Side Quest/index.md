@@ -4,7 +4,7 @@ aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
 created: 2026-07-20T10:40:34.661+10:00
-modified: 2026-07-20T11:29:38.397+10:00
+modified: 2026-08-03T00:37:11.200+10:00
 tags:
   - index
   - moc
@@ -16,7 +16,7 @@ Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always refle
 
 ## Where We Are Now
 
-The were-boar ambush is over. The escort finished the fight in the Midwood, revived [[Mar]] and [[Ripper]], drove the survivors off (the shaman and at least one boar fled), and pushed on to camp at an ancient [[Shrine of Eilistraee]] deep in [[Cormanthor]], a place they normally guard the approaches to but had never entered. There they uncovered a [[Harpers|Harper]] drop site hidden under a stone bench, recovered the unsettling [[Aurelien Voxs Journal|journal of Aurelien Vox]] and a [[Harper Compass]] that points straight at [[Myth Drannor]], and witnessed a moonlit vision of drow refugees welcomed by surface elves. [[Pug DAstibar|Pug]] now knows the pool he was sent for lies below the city itself, roughly half a day's travel ahead.
+The escort crossed [[The Starwood]], passed the tests of [[The Moon Arch]] and entered [[Myth Drannor]] as guests charged to leave as guardians. The city showed them a living memory of the [[Grand Avenue]], then four [[Ankhegs of Myth Drannor|ankhegs]] erupted beneath it. One is dead; [[Herschel Blackroot]] and [[Morwyn Sabbath]] are grappled at separate tunnel mouths, and the fight is still live. The pool of radiance remains somewhere below the city.
 
 ## Hall of Fame
 
@@ -24,27 +24,32 @@ The were-boar ambush is over. The escort finished the fight in the Midwood, revi
 | --- | --- | --- |
 | Chapter 11, Side Quest, Session 1 | Pug's Counterspell shut down a were-boar shaman's lightning spell cold, then answered with a Chromatic Orb that arced for 68 damage into one were-boar and a further 19 into another behind it. See [[Session 1 - Escort to Myth Drannor - Narrative\|the full session]]. | The escort party watched the vanishing path, the clinging pine needles, and the vine-dissolved bridge the entire time without lifting a finger to help; Ripper's verdict afterwards was that it had been "funny as hell." See [[Session 1 - Escort to Myth Drannor - Narrative\|the full session]]. |
 | Chapter 11, Side Quest, Session 2 | [[Ripper]] blanketed the glade in smoke from her ever-smoking bottle, hunted the were-boar shaman down half-blind, and finished it with a dagger to the eye, closing out the fight the escort had been dragged into at the end of Session 1. See [[Session 2 - The Grove of Mercy - Narrative\|the full session]]. | [[Kjeorn]] shoved at the misaligned bench hiding the Harper cache hard enough to trigger its hidden mechanism, and face-planted into the moss when it swung clean around beneath him. See [[Session 2 - The Grove of Mercy - Narrative\|the full session]]. |
+| Chapter 11, Side Quest, Session 3 | The escort satisfied the Moon Arch's tests of memory, purpose and stewardship and became the first of their company to enter Myth Drannor, with Pug leading them through. See [[Session 3 - Enter as Guests, Leave as Guardians\|the full session]]. | Morwyn spent a spell trying to make [[Bullshit]] lick Kjeorn's face for eight hours; Bullshit passed the save. See [[Session 3 - Enter as Guests, Leave as Guardians\|the full session]]. |
 
-## Latest Session (Session 2)
+## Latest Session (Session 3)
 
-- [[Session 2 - The Grove of Mercy - Narrative|The Narrative]]
-- [[Session 2 - Notes|Session Notes]]
+- [[Session 3 - Enter as Guests, Leave as Guardians|The Narrative]]
+- [[Session 3 - Notes|Session Notes]]
 
-For Session 1 and everything before, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
+For Sessions 1–2, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
 
-## NPCs and Powers This Session
+## NPCs, Companions and Creatures This Session
 
-- [[Eilistraee]]
-- [[Sehanine Moonbow]]
-- [[Malar]]
-- [[Aurelien Vox]]
-- [[Were-Boars of Cormanthor]]
+- [[Bullshit]]
+- [[Snotty]]
+- [[Nick Timoney]]
+- [[Ankhegs of Myth Drannor]]
 
 ## Locations This Session
 
-- [[Shrine of Eilistraee]]
 - [[Cormanthor]]
 - [[Myth Drannor]]
+- [[The Starwood]]
+- [[The Moon Arch]]
+- [[Grand Avenue]]
+- [[Hall of Scrolls]]
+- [[Garden of Long Memory]]
+- [[House of Song]]
 
 ## Side Quest Cast
 
@@ -65,13 +70,11 @@ For Session 1 and everything before, see the [[Sessions/Chapter 11/Pugs Side Que
 
 ## Loose Ends
 
-- The were-boar shaman and at least one boar fled the fight; they know the escort is in the forest, and the GM confirmed they would have tracked a captured Ripper back to a shrine of [[Malar]].
-- The six [[Crystal Vials]] are still empty. Pug now knows the pool of radiance lies below [[Myth Drannor]], about half a day ahead, and the water still must not touch his skin.
-- The [[Harper Compass]] points at the city and its [[Myth Drannor|Mythal]].
-- [[Aurelien Voxs Journal]] warns that the ruins ignore maps and "returns", and that a Harper named Aranis was lost beneath the temple of [[Sehanine Moonbow]].
-- [[Nick Timoney]] still refuses dead-magic zones, one of which sits at the ravine behind them.
-- Herschel's spore-thrall "Snotty" is travelling with the party for now.
-- The GM owes the group the English translation of the vision's hymn; the original Espruar is recorded at [[Hymn of the Moon's Welcome]].
+- The ankheg fight is live: Herschel and Morwyn are grappled at separate tunnel mouths.
+- Mar heard chains northeast of the Grand Avenue immediately before the attack.
+- The six [[Crystal Vials]] remain empty; the pool lies below Myth Drannor and its water must not touch Pug.
+- The party intends to seek the underground stairs at the temple of [[Sehanine Moonbow]].
+- Myth Drannor is reacting to spellcasting and building memories of its visitors.
 
 ## Back to the Main Campaign
 

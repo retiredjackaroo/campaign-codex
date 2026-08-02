@@ -4,7 +4,7 @@ aliases:
   - Kjeorn
   - Kjeron
 created: 2026-07-20T00:09:20.542+10:00
-modified: 2026-07-20T10:09:37.790+10:00
+modified: 2026-08-03T00:30:25.944+10:00
 tags:
   - pc
   - side-quest
@@ -33,3 +33,9 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 - Forced the misaligned marble bench that concealed the Harper cache, hearing the click that turned it 180 degrees, and face-planted the ground when it gave way.
 - Took the [[Potion of Heroism]] from the drop site, plus a healing potion.
 - Reconciled looting a spore-thrall with his Oath of the Ancients on the grounds that "fungus and mushrooms are part of nature", and asked not to be corrected on it.
+
+## Session 3, Enter as Guests, Leave as Guardians
+
+- Summoned his celestial elk, [[Bullshit]].
+- Satisfied the Moon Arch's test of purpose by pledging to protect nature, Pug and Myth Drannor.
+- Marked an ankheg with Shining Smite, survived being dragged into its tunnel, and later tried to pull Herschel free.

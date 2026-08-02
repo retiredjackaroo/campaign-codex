@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Herschel Blackroot
 created: 2026-07-20T00:09:51.705+10:00
-modified: 2026-07-20T10:09:37.790+10:00
+modified: 2026-08-03T00:30:25.946+10:00
 tags:
   - pc
   - side-quest
@@ -30,3 +30,9 @@ Character concept based on Jackson Lamb (the fictional Slough House spymaster). 
 - Gored and shoved back toward his own thorns, dropped concentration on Spike Growth as a free action to avoid the extra damage: very Br'er Rabbit.
 - Leaned into the Spore Druid's melee nature, awakening his spores for a wall of temporary hit points and a Shillelagh'd staff.
 - After the fight, cast Animate Dead on a reverted were-boar corpse and named the resulting spore-thrall **Snotty**, insisting he had not raised the dead but was "simply animating it with the healthy living spore mycelial growth within it."
+
+## Session 3, Enter as Guests, Leave as Guardians
+
+- Entrusted his quarterstaff to [[The Moon Arch]] as an act of stewardship; the city returned it after entry.
+- Brought [[Snotty]] through [[The Starwood]] without alarming the forest.
+- Ended the session grappled by a badly wounded ankheg after fighting it with Symbiotic Entity and Shillelagh.

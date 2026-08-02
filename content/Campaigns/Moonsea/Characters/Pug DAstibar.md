@@ -5,7 +5,7 @@ aliases:
   - Pug D'Astibar
 title: Pug D'Astibar
 created: 2026-07-20T00:10:33.171+10:00
-modified: 2026-07-20T10:09:37.789+10:00
+modified: 2026-08-03T00:30:25.941+10:00
 tags:
   - pc
   - party
@@ -33,3 +33,11 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Worked the [[Harpers|Harper]] cache: Detect Magic and Identify flagged the auras, and he identified the [[Harper Compass]] as a divination-keyed direction finder pointing at the city's [[Myth Drannor|Mythal]]. He took the compass as the party's navigation aid and, correctly, left the journal and field notes in place so the drop site would stay stocked.
 - Worked out that the pool of radiance he was sent for lies below Myth Drannor itself, roughly half a day ahead, and that the water still must not touch his skin.
 - Warded the camp with Mordenkainen's Private Sanctum, a spell he had "been carrying for bloody ages" without a chance to cast, and dropped its darkening effect at [[Mar]]'s request so she could see the stars.
+
+### Session 3, Enter as Guests, Leave as Guardians
+
+- Led the escort through [[The Starwood]] while animals appeared to herald him.
+- Offered the Moon Arch his dream of [[Phlan]] falling: the memory that committed him to saving his city.
+- Entered [[Myth Drannor]] first and recognised its great landmarks from years of study.
+- Saw the full living city return briefly when his failed Polymorph triggered Myth Drannor's magic.
+- Jumped into an ankheg tunnel and killed [[Kjeorn]]'s captor with a lightning Chromatic Orb.

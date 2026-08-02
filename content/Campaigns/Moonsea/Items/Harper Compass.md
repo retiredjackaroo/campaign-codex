@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Harper Compass
 created: 2026-07-20T00:12:27.664+10:00
-modified: 2026-07-20T10:08:02.652+10:00
+modified: 2026-08-03T00:30:25.939+10:00
 tags:
   - item
   - harpers
@@ -18,3 +18,5 @@ Given the warning in [[Aurelien Voxs Journal]] that the ruins ignore maps and "r
 
 **Held by:** [[Pug DAstibar|Pug D'Astibar]]
 **First appears:** [[Session 2 - The Grove of Mercy - Narrative]]
+
+The compass successfully guided the escort through [[The Starwood]] to [[The Moon Arch]]. Its useful direction after entering [[Myth Drannor]] was not established before the ankheg attack.

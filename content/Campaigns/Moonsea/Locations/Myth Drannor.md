@@ -5,7 +5,7 @@ aliases:
   - Myth Drunner
   - Mithranor
 created: 2026-07-20T00:13:50.586+10:00
-modified: 2026-07-20T10:09:37.795+10:00
+modified: 2026-08-03T00:30:25.931+10:00
 tags:
   - location
   - ruins
@@ -24,3 +24,9 @@ The city's name comes from its **Mythal**, a powerful magical enchantment of the
 The **pool of radiance** Pug was sent to sample is said to have formed after the city fell, and lies below the city itself rather than at the surface shrine. From the [[Shrine of Eilistraee]] the party sits roughly half a day's travel from the city's edge, after which they will need to go underground to reach the pool. The [[Harper Compass]] recovered at the shrine points straight at the city and its Mythal.
 
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
+
+## Entry through the Moon Arch
+
+The escort reached [[The Moon Arch]] through [[The Starwood]] and was tested by memory, purpose and stewardship. The arch admitted them with the charge _Enter as guests, leave as guardians_ and asked them to _Remember us kindly_.
+
+Inside, [[Pug DAstibar|Pug]] recognised the [[Hall of Scrolls]], [[Garden of Long Memory]] and [[House of Song]]. The [[Grand Avenue]] showed the party a memory of the living city and later reacted individually to spellcasting. Four [[Ankhegs of Myth Drannor|ankhegs]] then erupted beneath the avenue, leaving the party mid-combat.

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ripper
 created: 2026-07-20T00:10:12.406+10:00
-modified: 2026-07-20T10:09:37.792+10:00
+modified: 2026-08-03T00:30:25.953+10:00
 tags:
   - pc
   - side-quest
@@ -38,3 +38,10 @@ When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form
 - Uncorked her ever-smoking bottle to fill the glade with a 60-foot cloud, cast Jump, and leapt through the smoke to reposition and draw the boars off the rest of the party.
 - Ran the shaman down in the fog: whip crit (Hunter's Mark, speed reduction, disadvantage), healed off it with Hungering Might, then drove a dagger into its eye ("oink oink, piggy").
 - Came out of the smoke shaken and back in human form, eyepatch on, hands trembling too hard to light a cigarette. The GM later revealed that, had she not escaped, she would have been strapped to a shrine of [[Malar]] and made to choose between drinking the shaman's blood to become one of them or becoming their feast.
+
+## Session 3, Enter as Guests, Leave as Guardians
+
+- Transformed immediately when ankhegs erupted beneath the [[Grand Avenue]].
+- Used her whip to control their movement and cast Magic Weapon on it.
+- Followed Kjeorn's captor into its tunnel and tore open its shell, enabling Pug's killing Chromatic Orb.
+- Helped batter the ankheg holding Herschel through Prowling Retribution.

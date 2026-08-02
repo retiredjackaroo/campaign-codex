@@ -4,7 +4,7 @@ aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
 created: 2026-07-20T00:14:00.943+10:00
-modified: 2026-07-20T00:14:00.943+10:00
+modified: 2026-08-03T00:37:11.190+10:00
 tags:
   - index
   - moc
@@ -31,7 +31,6 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 - [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 - [[Chapter 11 - Episode 1 - Session 1 Notes]]
 - [[Chapter 11 - Episode 1 - Jaags Journal|Jaag's Journal]]
-- [[Chapter 11 - Episode 1 - Session 1 - Transcript]]
 
 ## NPCs Encountered This Session
 
@@ -130,7 +129,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
 
-**Pug's Side Quest: Escort to Myth Drannor** — while Pug D'Astibar's business kept him from the main table, this thread follows him escorting Elminster's crystal vials through Cormanthor towards Myth Drannor. Two sessions in: the escort has fought off a Malar-bound were-boar hunting party, uncovered a Harper cache at an ancient shrine of Eilistraee, and now follows a compass that points at Myth Drannor's Mythal, roughly half a day from the city.
+**Pug's Side Quest: Enter Myth Drannor** — Pug and his escort have crossed the Moon Arch after passing its tests of memory, purpose and stewardship. Inside, Myth Drannor showed them a living memory of the Grand Avenue before ankhegs erupted from beneath it; the fight is live, with Herschel and Morwyn being dragged toward separate tunnels.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 
