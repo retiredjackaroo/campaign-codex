@@ -3,6 +3,8 @@ publish: true
 aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
+socialImage: https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/assets/social-pugs-side-quest.png
+socialDescription: Pug and his unlikely guardians enter Myth Drannor—and discover what waits beneath its streets.
 created: 2026-07-20T10:40:34.661+10:00
 modified: 2026-08-03T00:41:09.572+10:00
 tags:

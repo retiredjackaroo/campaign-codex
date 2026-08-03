@@ -15,13 +15,10 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 - [[Session 4 - Narrative]]
 - [[Session 4 - Notes]]
-- [[Session 4 - Transcript]]
 - [[Session 5 - Narrative]]
 - [[Session 5 - Notes]]
-- [[Session 5 - Transcript]]
 - [[Session 6 - Narrative]]
 - [[Session 6 - Notes]]
-- [[Session 6 - Transcript]]
 
 ## All NPCs
 

@@ -1,6 +1,8 @@
 ---
 publish: true
 title: "Session 3: Enter as Guests, Leave as Guardians"
+socialImage: https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/assets/social-session-3-narrative.png
+socialDescription: The escort passes the Moon Arch, enters Myth Drannor and discovers what waits beneath the Grand Avenue.
 created: 2026-08-03T00:28:38.538+10:00
 modified: 2026-08-03T00:28:38.539+10:00
 tags:

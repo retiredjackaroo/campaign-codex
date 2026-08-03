@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Session 3 Notes
+socialImage: https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/assets/social-session-3-notes.png
+socialDescription: The tactical record of Session 3, ending mid-battle with two guardians in the ankhegs' grasp.
 created: 2026-08-03T00:28:38.541+10:00
 modified: 2026-08-03T00:37:11.207+10:00
 tags:

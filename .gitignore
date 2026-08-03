@@ -10,4 +10,5 @@ private/
 .replit
 replit.nix
 .quartz/
+**/*Transcript*.md
 quartz/cli/tui/dist/

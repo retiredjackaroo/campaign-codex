@@ -1,5 +1,8 @@
 ---
 publish: true
+title: Bullshit
+socialImage: https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/assets/social-bullshit.png
+socialDescription: Kjeorn's celestial elk, enthusiastic combatant and the subject of Morwyn's finest field sketch.
 created: 2026-08-03T00:28:38.562+10:00
 modified: 2026-08-03T00:45:32.088+10:00
 tags:
