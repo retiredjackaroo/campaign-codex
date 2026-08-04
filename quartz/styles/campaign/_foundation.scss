@@ -1,0 +1,200 @@
+/* Shared palette, mastheads, typography and campaign-page treatments. */
+
+:root {
+  --codex-gold: #c99a49;
+  --codex-gold-soft: color-mix(in srgb, var(--codex-gold) 20%, transparent);
+  --codex-surface: color-mix(in srgb, var(--light) 92%, var(--dark) 8%);
+  --codex-border: color-mix(in srgb, var(--dark) 16%, transparent);
+  --codex-shadow: 0 18px 48px color-mix(in srgb, #000 24%, transparent);
+}
+
+body {
+  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/the-journey-begins.png");
+  --campaign-masthead-position: center 42%;
+  position: relative;
+  overflow-x: clip;
+}
+
+body[data-slug^="campaigns/moonsea"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+  --campaign-masthead-position: center 8%;
+}
+
+body[data-slug*="pugs-side-quest"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/pugs-side-quest-team.png");
+  --campaign-masthead-position: center 28%;
+}
+
+body[data-slug^="campaigns/dark-sun"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+  --campaign-masthead-position: center 6%;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: 0 0 auto;
+  height: 17rem;
+  pointer-events: none;
+  background-image:
+    linear-gradient(
+      to bottom,
+      color-mix(in srgb, var(--light) 8%, transparent) 0%,
+      color-mix(in srgb, var(--light) 45%, transparent) 52%,
+      var(--light) 100%
+    ),
+    var(--campaign-masthead);
+  background-position: var(--campaign-masthead-position);
+  background-size: cover;
+  filter: saturate(0.82) contrast(1.04);
+}
+
+.page {
+  position: relative;
+  z-index: 1;
+}
+
+.page-title,
+.article-title,
+.breadcrumb-container {
+  text-shadow: 0 1px 10px var(--light), 0 1px 2px var(--light);
+}
+
+/* Prevent grid children and long wiki names from forcing horizontal overflow. */
+.page > #quartz-body,
+.page > #quartz-body > *,
+.center,
+.center > article,
+.page-header,
+.popover-hint {
+  min-width: 0;
+}
+
+article {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 72ch;
+  margin-inline: auto;
+  font-size: 1.04rem;
+  line-height: 1.75;
+}
+
+article p {
+  margin-bottom: 1rem;
+}
+
+article li {
+  line-height: 1.65;
+}
+
+article h1 {
+  margin-bottom: 1rem;
+}
+
+article h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+}
+
+article h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Campaign landing pages need room for the three-column Hall of Fame table. */
+body[data-slug="campaigns/moonsea"] article,
+body[data-slug="campaigns/dark-sun"] article {
+  max-width: 920px;
+}
+
+body[data-slug="campaigns/moonsea"] .table-container,
+body[data-slug="campaigns/dark-sun"] .table-container {
+  width: 100%;
+  margin: 1.25rem 0 2rem;
+  border: 1px solid var(--codex-border);
+  border-radius: 12px;
+}
+
+body[data-slug="campaigns/moonsea"] .table-container > table,
+body[data-slug="campaigns/dark-sun"] .table-container > table {
+  width: 100%;
+  margin: 0;
+  font-size: 0.88rem;
+}
+
+body[data-slug="campaigns/moonsea"] .table-container th:first-child,
+body[data-slug="campaigns/moonsea"] .table-container td:first-child,
+body[data-slug="campaigns/dark-sun"] .table-container th:first-child,
+body[data-slug="campaigns/dark-sun"] .table-container td:first-child {
+  width: 18%;
+  min-width: 8.5rem;
+}
+
+body[data-slug="campaigns/moonsea"] .table-container th:not(:first-child),
+body[data-slug="campaigns/dark-sun"] .table-container th:not(:first-child) {
+  width: 41%;
+}
+
+body[data-slug="campaigns/moonsea"] .table-container th,
+body[data-slug="campaigns/moonsea"] .table-container td,
+body[data-slug="campaigns/dark-sun"] .table-container th,
+body[data-slug="campaigns/dark-sun"] .table-container td {
+  padding: 0.75rem;
+  vertical-align: top;
+  line-height: 1.45;
+}
+
+.content-meta,
+.note-properties,
+.breadcrumb-container {
+  font-size: 0.88rem;
+  opacity: 0.78;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  transition: color 0.15s ease, text-decoration-thickness 0.15s ease;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.backlinks,
+.table-of-contents {
+  font-size: 0.92rem;
+}
+
+.table-of-contents ul {
+  line-height: 1.55;
+}
+
+.graph {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.graph:hover {
+  opacity: 1;
+}
+
+.callout,
+pre,
+img {
+  border-radius: 10px;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+th {
+  font-weight: 650;
+}
+
+footer {
+  font-size: 0.85rem;
+  opacity: 0.78;
+}

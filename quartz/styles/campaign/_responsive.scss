@@ -1,0 +1,156 @@
+/* Tablet, mobile and reduced-motion behavior. */
+
+@media (max-width: 1199px) {
+  body[data-slug="index"] .page > #quartz-body {
+    grid-template-columns: 280px minmax(0, 1fr);
+  }
+
+  .resume-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 800px) {
+  body::before,
+  body[data-slug="index"]::before {
+    height: 12rem;
+    background-position: var(--campaign-masthead-position);
+  }
+
+  .page {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .page > #quartz-body,
+  body[data-slug="index"] .page > #quartz-body {
+    width: 100%;
+    max-width: 100%;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left"
+      "grid-header"
+      "grid-center"
+      "grid-sidebar-right"
+      "grid-footer";
+  }
+
+  .page > #quartz-body > .center,
+  .page > #quartz-body > .left.sidebar,
+  .page > #quartz-body > .right.sidebar,
+  .page > #quartz-body > footer {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .page > #quartz-body > .left.sidebar {
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .left.sidebar .page-title {
+    max-width: min(14rem, 62vw);
+    padding: 0;
+    border: 0;
+    overflow-wrap: normal;
+    word-break: normal;
+    font-size: 1rem;
+    line-height: 1.05;
+  }
+
+  .left.sidebar .page-title a {
+    grid-template-columns: 2.35rem minmax(0, 1fr);
+    gap: 0.55rem;
+  }
+
+  .left.sidebar .page-title a::before {
+    width: 2.35rem;
+  }
+
+  .left.sidebar .page-title a::after,
+  .explorer::before {
+    display: none;
+  }
+
+  .left.sidebar > .flex-component {
+    padding: 0;
+    border: 0;
+  }
+
+  .center,
+  .page-header,
+  .popover-hint,
+  article,
+  article * {
+    max-width: 100%;
+  }
+
+  article {
+    font-size: 1rem;
+    overflow-wrap: break-word;
+  }
+
+  body[data-slug="campaigns/moonsea"] .table-container,
+  body[data-slug="campaigns/dark-sun"] .table-container {
+    width: calc(100vw - 2rem);
+    max-width: calc(100vw - 2rem);
+    overflow-x: auto;
+  }
+
+  body[data-slug="campaigns/moonsea"] .table-container > table,
+  body[data-slug="campaigns/dark-sun"] .table-container > table {
+    min-width: 760px;
+  }
+
+  body[data-slug="index"] .article-title {
+    max-width: 10ch;
+    font-size: clamp(2.6rem, 15vw, 4.25rem);
+  }
+
+  .codex-home-intro,
+  .campaign-picker,
+  .codex-resume,
+  .codex-about {
+    margin-bottom: 3.5rem;
+  }
+
+  .campaign-grid,
+  .resume-grid,
+  .codex-about {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .campaign-card__art {
+    aspect-ratio: 16 / 9;
+  }
+
+  .codex-about {
+    gap: 1rem;
+    padding: 1.35rem;
+  }
+
+  .right.sidebar {
+    display: none;
+  }
+}
+
+@media (max-width: 420px) {
+  .campaign-card__body {
+    padding: 1.1rem;
+  }
+
+  .campaign-card__body > strong {
+    font-size: 1.3rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

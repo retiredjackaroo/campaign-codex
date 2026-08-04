@@ -1,0 +1,126 @@
+/* Fantasy codex identity and navigation chrome. */
+
+.left.sidebar,
+.right.sidebar {
+  opacity: 1;
+}
+
+.left.sidebar .page-title {
+  max-width: 15rem;
+  margin: 0;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--codex-border);
+  font-weight: 750;
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+}
+
+.left.sidebar .page-title a {
+  display: grid;
+  grid-template-columns: 3.25rem minmax(0, 1fr);
+  align-items: center;
+  gap: 0.85rem;
+  color: var(--dark);
+}
+
+.left.sidebar .page-title a::before {
+  content: "";
+  width: 3.25rem;
+  aspect-ratio: 1;
+  background: url("/campaign-codex/static/codex-crest.svg") center / contain no-repeat;
+  filter: drop-shadow(0 5px 10px color-mix(in srgb, #000 24%, transparent));
+}
+
+.left.sidebar .page-title a::after {
+  content: "A record of every adventure";
+  grid-column: 1 / -1;
+  color: var(--gray);
+  font-family: var(--bodyFont);
+  font-size: 0.68rem;
+  font-weight: 650;
+  line-height: 1.2;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.left.sidebar > .flex-component {
+  align-items: center;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--codex-border);
+}
+
+.search {
+  margin-bottom: 0;
+}
+
+.search-button {
+  border-radius: 8px;
+}
+
+.explorer {
+  min-height: 0;
+  font-size: 0.92rem;
+}
+
+.explorer::before {
+  content: "Campaign archive";
+  display: block;
+  margin-bottom: 0.65rem;
+  color: var(--codex-gold);
+  font-family: var(--headerFont);
+  font-size: 0.68rem;
+  font-weight: 750;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.explorer .desktop-explorer h2 {
+  font-size: 1.05rem;
+  letter-spacing: -0.015em;
+}
+
+.explorer-content {
+  margin-top: 0.45rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--codex-border);
+}
+
+.explorer-content ul {
+  gap: 0.15rem;
+}
+
+.explorer-content .tree-item-self {
+  border-radius: 7px;
+  transition: background-color 140ms ease, color 140ms ease;
+}
+
+.explorer-content .tree-item-self:hover {
+  background: var(--codex-gold-soft);
+}
+
+.explorer-content .folder-title,
+.explorer-content .nav-file-title {
+  line-height: 1.35;
+}
+
+.explorer-content [data-folderpath="campaigns/dark-sun/index"] > div > a::before {
+  content: "☀";
+  margin-right: 0.4rem;
+  color: #d8a444;
+}
+
+.explorer-content [data-folderpath="campaigns/moonsea/index"] > div > a::before {
+  content: "☾";
+  margin-right: 0.4rem;
+  color: #9eb8d6;
+}
+
+.explorer-content [data-folderpath="campaigns/index"] > div > a::before {
+  content: "✦";
+  margin-right: 0.4rem;
+  color: var(--codex-gold);
+}
+
+.explorer-content .folder-outer {
+  border-left-color: color-mix(in srgb, var(--codex-gold) 32%, var(--lightgray));
+}

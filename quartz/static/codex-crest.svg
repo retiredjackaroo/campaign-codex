@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Campaign Codex crest</title>
+  <desc id="desc">An open book beneath a crescent moon inside a shield.</desc>
+  <path fill="#17181a" stroke="#c99a49" stroke-width="2.5" d="M32 3 55 11v18c0 15-8.8 25.8-23 32C17.8 54.8 9 44 9 29V11L32 3Z"/>
+  <path fill="none" stroke="#c99a49" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25" d="M17 27c5.8-1 10.8.3 15 4v15c-4.2-3.7-9.2-5-15-4V27Zm30 0c-5.8-1-10.8.3-15 4v15c4.2-3.7 9.2-5 15-4V27Z"/>
+  <path fill="#c99a49" d="M39.8 13.4a9.6 9.6 0 1 0 5.8 14.9A11.7 11.7 0 0 1 39.8 13.4Z"/>
+  <path fill="none" stroke="#c99a49" stroke-linecap="round" stroke-width="2" d="M25 50h14"/>
+</svg>
