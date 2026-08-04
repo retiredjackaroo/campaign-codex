@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: The Team You've Definitely Heard of
+  pageTitle: Campaign Codex
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -137,6 +137,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      condition: not-index
   - source: github:quartz-community/search
     enabled: true
     layout:
