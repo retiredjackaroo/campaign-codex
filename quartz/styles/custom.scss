@@ -10,6 +10,72 @@
    ========================================================================== */
 
 
+/* ==========================================================================
+   Campaign Masthead
+   ========================================================================== */
+
+/*
+ * Reclaim Quartz's generous top spacing as a quiet, cinematic masthead.
+ * Campaign pages use their own ensemble art, while the Codex landing pages
+ * fall back to the generated site artwork. The fade keeps navigation and page
+ * titles readable in both light and dark themes.
+ */
+body {
+  --campaign-masthead: url("/campaign-codex/index-og-image.webp");
+  position: relative;
+}
+
+body[data-slug^="campaigns/moonsea"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+}
+
+body[data-slug*="pugs-side-quest"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/moonsea/assets/pugs-side-quest-team.png");
+}
+
+body[data-slug^="campaigns/dark-sun"] {
+  --campaign-masthead: url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: 0 0 auto;
+  height: 15rem;
+  pointer-events: none;
+  background-image:
+    linear-gradient(
+      to bottom,
+      color-mix(in srgb, var(--light) 12%, transparent) 0%,
+      color-mix(in srgb, var(--light) 38%, transparent) 48%,
+      var(--light) 100%
+    ),
+    var(--campaign-masthead);
+  background-position: center 35%;
+  background-size: cover;
+  filter: saturate(0.9);
+}
+
+.page {
+  position: relative;
+  z-index: 1;
+}
+
+.page-title,
+.article-title,
+.breadcrumb-container {
+  text-shadow: 0 1px 8px var(--light), 0 1px 2px var(--light);
+}
+
+@media all and (max-width: 800px) {
+  body::before {
+    height: 11rem;
+    background-position: center 28%;
+  }
+}
+
+
 
 /* ==========================================================================
    Typography
