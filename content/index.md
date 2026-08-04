@@ -20,7 +20,6 @@ tags:
     <p class="codex-eyebrow">Choose your path</p>
     <h2 id="choose-a-campaign">Explore a campaign</h2>
   </div>
-
   <div class="campaign-grid">
     <a class="campaign-card campaign-card--moonsea" href="./campaigns/moonsea/" aria-label="Explore Tyranny on the Moonsea">
       <span class="campaign-card__art" role="img" aria-label="The adventuring party from Tyranny on the Moonsea"></span>
@@ -31,7 +30,6 @@ tags:
         <span class="campaign-card__action">Explore campaign <span aria-hidden="true">→</span></span>
       </span>
     </a>
-
     <a class="campaign-card campaign-card--dark-sun" href="./campaigns/dark-sun/" aria-label="Explore Born Under a Dark Sun">
       <span class="campaign-card__art" role="img" aria-label="The adventuring party from Born Under a Dark Sun"></span>
       <span class="campaign-card__body">
@@ -49,7 +47,6 @@ tags:
     <p class="codex-eyebrow">Latest dispatches</p>
     <h2 id="continue-the-story">Continue the story</h2>
   </div>
-
   <div class="resume-grid">
     <a href="./campaigns/moonsea/">
       <span class="resume-grid__campaign">Moonsea</span>
