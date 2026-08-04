@@ -415,34 +415,71 @@ body[data-slug="index"] .center > hr {
 
 .resume-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
 }
 
-.resume-grid a {
+.resume-card {
   display: flex;
   min-width: 0;
+  overflow: hidden;
   flex-direction: column;
-  gap: 0.35rem;
-  padding: 1.2rem;
   color: var(--darkgray);
   background: color-mix(in srgb, var(--light) 95%, var(--dark) 5%);
   border: 1px solid var(--codex-border);
   border-radius: 12px;
   text-decoration: none;
-  transition: background 150ms ease, border-color 150ms ease;
+  transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
 }
 
-.resume-grid a:hover {
+.resume-card:hover {
   color: var(--darkgray);
   background: var(--codex-surface);
   border-color: var(--codex-gold);
+  transform: translateY(-3px);
 }
 
-.resume-grid strong {
+.resume-card__art {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-position: center;
+  background-size: cover;
+  border-bottom: 1px solid var(--codex-border);
+}
+
+.resume-card--moonsea .resume-card__art {
+  background-image:
+    linear-gradient(to top, rgba(9, 12, 16, 0.38), transparent 52%),
+    url("/campaign-codex/campaigns/moonsea/assets/moonsea-team.png");
+}
+
+.resume-card--dark-sun .resume-card__art {
+  background-image:
+    linear-gradient(to top, rgba(20, 10, 5, 0.42), transparent 52%),
+    url("/campaign-codex/campaigns/dark-sun/assets/dark-sun-team.png");
+}
+
+.resume-card--pug .resume-card__art {
+  background-image:
+    linear-gradient(to top, rgba(9, 12, 16, 0.38), transparent 52%),
+    url("/campaign-codex/campaigns/moonsea/assets/pugs-side-quest-team.png");
+  background-position: center 28%;
+}
+
+.resume-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.15rem;
+}
+
+.resume-card strong {
   color: var(--dark);
   font-family: var(--headerFont);
   font-size: 1.15rem;
+  line-height: 1.25;
 }
 
 .codex-about {
@@ -491,6 +528,10 @@ body[data-slug="index"] .center > hr {
 @media (max-width: 1199px) {
   body[data-slug="index"] .page > #quartz-body {
     grid-template-columns: 280px minmax(0, 1fr);
+  }
+
+  .resume-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
