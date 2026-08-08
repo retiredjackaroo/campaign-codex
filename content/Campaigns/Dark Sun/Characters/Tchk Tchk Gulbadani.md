@@ -1,25 +1,24 @@
 ---
-publish: true
+type: pc
+title: Tchk'Tchk Gulbadani
 aliases:
   - Tchk Tchk
   - Tchk'Tchk
   - Tchk'Tchk Gulbadani
-title: Tchk'Tchk Gulbadani
-created: 2026-07-13T10:29:56.603+10:00
-modified: 2026-07-13T10:29:56.603+10:00
 tags:
   - pc
   - party
+status: Alive (Thri-Kreen, Psion)
+dg-publish: true
+publish: true
 ---
-
 # Tchk'Tchk Gulbadani
-
-![[Campaigns/Dark Sun/Assets/Pasted image 20260630164548.png]]
-A Thri-Kreen Psion and the second of two Thri-Kreen in the group alongside [[Kit-Chac]]. In the Thri-Kreen tongue his name, **Tchk'Tchk**, means "Good-Good" (much as [[Kit-Chac]] calls himself simply _Kreen_, "People"). "Gulbadani" is not a Kreen name at all: he **took it for himself** when the party entered the service of House Gulbadan (see [[Gulbadan Estate]]), binding his chosen identity to that house. After the [[Raam|Inundation of Raam]], which killed [[The Padshah]] and left the Gulbadan faction headless, the name he adopted, and the house standing behind it, are in jeopardy. What that comes to mean for a Thri-Kreen who deliberately chose to carry it remains to be seen.
+![[Pasted image 20260630164548.png]]
+A Thri-Kreen Psion and the second of two Thri-Kreen in the group alongside [[Kit-Chac]]. In the Thri-Kreen tongue his name, **Tchk'Tchk**, means "Good-Good" (much as [[Kit-Chac]] calls himself simply *Kreen*, "People"). "Gulbadani" is not a Kreen name at all: he **took it for himself** when the party entered the service of House Gulbadan (see [[Gulbadan Estate]]), binding his chosen identity to that house. After the [[Raam|Inundation of Raam]], which killed [[The Padshah]] and left the Gulbadan faction headless, the name he adopted, and the house standing behind it, are in jeopardy. What that comes to mean for a Thri-Kreen who deliberately chose to carry it remains to be seen.
 
 Where [[Salt]] favours utility and healing, Tchk'Tchk is the party's control specialist, leaning hard on Command and telekinesis to dictate where an enemy is allowed to stand.
 
-**Status:** Alive\
+**Status:** Alive  
 **First appears:** <!-- link to Episode 1 once built -->
 
 ## Relationships
@@ -32,6 +31,7 @@ Where [[Salt]] favours utility and healing, Tchk'Tchk is the party's control spe
 ## Notable moments
 
 - **Act II, Session 4:** Won the sand elemental fight. The creature was immune to stunned, could not be knocked prone or pushed (earth instability), and shrugged off Web, but it had no defence against Command. Tchk'Tchk exploited that gap ruthlessly, casting Command turn after turn to pin the elemental inside [[Pterrence]]'s Cloud of Daggers, and using Telekinetic Propel to lift it five feet above the daggers and drop it back in when it tried to leave. [[Pterrence]] credited him with the win outright.
+- **Act II, Session 7:** Co-scouted the Neogi pantry, hasted Derfel for the first fight, then used a crushing telekinetic field and forced movement to control two Neogi and an Umber Hulk in the holding pen. Was stabbed by an enthralled Babs and ended with one level of hive strain.
 
 ## Notes
 

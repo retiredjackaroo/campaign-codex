@@ -1,21 +1,13 @@
 ---
+type: location
+aliases: [Cisterns, The Aqueducts, Aqueduct Channels]
+tags: [location, underground, hidden, raam]
+status: Active; Alliance-controlled
+dg-publish: true
 publish: true
-aliases:
-  - Cisterns
-  - The Aqueducts
-  - Aqueduct Channels
-created: 2026-07-27T08:21:13.113+10:00
-modified: 2026-07-27T08:21:13.113+10:00
-tags:
-  - location
-  - underground
-  - hidden
-  - raam
 ---
-
 # The Cisterns
-
-![[Campaigns/Dark Sun/Assets/Pasted image 20260628013843.png]]
+![[Pasted image 20260628013843.png]]
 An underground network of cisterns and aqueduct channels running beneath [[Raam]]. [[The Alliance]] hides here and uses these tunnels as the infrastructure of their resistance operation. The network is accessed from the surface via a secret entrance whose location is closely guarded.
 
 Two known surface access points: a close entrance near [[The Plaza]], and a further entrance deeper into [[The Slums]].
@@ -33,7 +25,6 @@ In Act II, Session 5 the party travelled far deeper into the network than previo
 
 In Act II, Session 6 the party pushed north again, beyond the Hidden Spring cell's own territory, searching for two missing Alliance scouts. These tunnels are unnamed and only loosely mapped: a stretch of flooded pools and fungal chambers, giving way to a chamber lined with black, mucus-slicked biological resin where an [[Umber Hulk]] and two [[Neogi]] lay in wait.
 
-![[Northern Tunnels.png]]
-_The stretch of aquifer tunnels north of the Hidden Spring, crossed during the Session 6 scouting expedition._
-
 The fight left the resin chamber scattered with silk cocoons; a further, lower chamber glimpsed afterward held mummified silk-wrapped remains in alcoves along its walls, strongly suggesting a spider-lair deeper still. No name has yet been given to either chamber; see the flag in [[Session 6 - Notes]].
+
+In Act II, Session 7 the lower chamber proved to be a Neogi pantry filled with preserved dead taken from across Raam. A psionic chorus repeated “you are not alone,” “home,” “join” and “beautiful.” Further north, beyond another climb, the party found a stone-and-chitin holding pen with living prisoners, four Neogi and a second Umber Hulk. The battle there remained unfinished.

@@ -1,26 +1,25 @@
 ---
-publish: true
+type: index
+title: Born Under a Dark Sun
 aliases:
   - Born Under a Dark Sun Home page
-title: Born Under a Dark Sun
-created: 2026-07-29T10:45:02.886+10:00
-modified: 2026-07-29T10:45:02.886+10:00
 tags:
   - index
   - moc
+dg-publish: true
+publish: true
 ---
 
-![[Campaigns/Dark Sun/Assets/verdant_passage_1-1.jpg.webp]]
+![[verdant_passage_1-1.jpg.webp]]
 Home page for the Dark Sun campaign wiki. This page always reflects the latest session only; for the full history, see the [[Campaigns/Dark Sun/Archive|Archive]].
 
 ## Where We Are Now
 
-Sheltering at The Hidden Spring, a hidden Alliance sanctuary within a living aquifer, the party has been sent on its first real test of trust: searching for two missing Alliance scouts, Narek and Scylla, in unmapped tunnels to the north. The search turned into a brutal fight against an Umber Hulk and two Neogi, whose psionic hive-mind briefly turned Babs and Koresh Ironblood against their own allies. Both Neogi and the Umber Hulk are dead, but Narek and Scylla remain unaccounted for, and a chamber glimpsed below, thick with silk cocoons, suggests something much larger still waits in the dark. Salt, meanwhile, is aware that word of his true nature has begun to spread among the sanctuary's refugees, though no one has confronted him about it directly.
+Deep beneath [[The Hidden Spring]], the party has found the Neogi complex behind the psionic disturbance. Its pantry holds silk-wrapped dead preserved from across Raam; its hive chorus repeats “you are not alone,” “home,” “join” and “beautiful.” Following possible traces of [[Scylla]]'s ceramic nose piercing led the party to a stone-and-chitin holding pen where living prisoners are guarded by four [[Neogi]] and a second [[Umber Hulk]].
 
-One more thing changed for good this session: the moment she beheaded the second Neogi, Tarek called Her a "bad-ass bitch," and Derfel and Pterrence's players made the nickname official on the spot. She's Babs from here on; see [[Babs]].
+The battle is unfinished. One Neogi is dead and the Umber Hulk is wounded, but at least three Neogi remain. [[Anselem]] is enthralled by the orange Neogi with two levels of hive strain; [[Derfel]], [[Babs]], [[Pterrence]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] each carry one level. [[Narek]] and Scylla remain missing.
 
-![[Campaigns/Dark Sun/Assets/Pasted image 20260716102209.png]]
-
+![[Pasted image 20260716102209.png]]
 ## Hall of Fame
 
 | Session | Biggest Success | Funniest Mistake |
@@ -28,23 +27,26 @@ One more thing changed for good this session: the moment she beheaded the second
 | Act II, Session 4 | Tchk'Tchk Gulbadani pinned the sand elemental with repeated Commands inside Pterrence's Cloud of Daggers, using Telekinetic Propel to drop it straight back in each time it tried to break loose. See [[Session 4 - Narrative\|the full session]]. | Kit-Chac's Flurry of Blows toppling attempts were wasted on a creature immune to prone, capped by burning a Tavern Brawler re-roll on a natural 1 that came up a 2. See [[Session 4 - Narrative\|the full session]]. |
 | Act II, Session 5 | With nobody else able to swim, Salt held Water Walk in reserve and triggered it the moment a cloaker dropped Pterrence over the lake, turning a drowning into a soft landing. See [[Session 5 - Narrative\|the full session]]. | Dragged over the water by a cloaker, Salt blew every Athletics check to break the grapple, including a burned Luck Point, and his hood came loose in the struggle, revealing his best-kept secret to half the party. See [[Session 5 - Narrative\|the full session]]. |
 | Act II, Session 6 | Charmed by the Neogi hive-mind for the entire fight and turned against his own allies, Koresh Ironblood still landed the blow that killed the Umber Hulk outright, without ever realising whose side he was really helping. See [[Session 6 - Narrative\|the full session]]. | Charmed by the same hive-mind, Babs landed a critical hit and a follow-up strike on her own ally Tarek before the compulsion broke. See [[Session 6 - Narrative\|the full session]]. |
+| Act II, Session 7 | Tchk'Tchk's crushing telekinetic field and Salt's follow-up Shatter and psionic shove knocked down the Neogi line and hurled the Umber Hulk thirty feet into a prison cage. See [[Session 7 - Narrative\|the full session]]. | Newly enthralled, Anselem solemnly rang Toll the Dead against Koresh—and dealt exactly one point of damage. See [[Session 7 - Narrative\|the full session]]. |
 
-## Latest Session: Act II, Session 6
+## Latest Session: Act II, Session 7
 
-- [[Session 6 - Narrative]]
-- [[Session 6 - Notes]]
+- [[Session 7 - Narrative]]
+- [[Session 7 - Notes]]
+
 
 ## NPCs Encountered This Session
 
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] - led the scouting expedition; not to be confused with [[Cricket]]
-- [[Koresh Ironblood]] - joined the expedition; charmed the entire fight, yet landed the killing blow on the Umber Hulk
-- [[Narek]] - missing Alliance scout, not encountered directly
-- [[Scylla]] - missing Alliance scout; her torn clothing was found
-- [[Squeaky]] - Pterrence's familiar; blindsight proved vital through the fog
+- [[Narek]] - still missing; not positively identified among the preserved dead or prisoners
+- [[Scylla]] - still missing; her ceramic nose jewellery led the search toward the holding pen
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] - fighting in the holding pen
+- [[Koresh Ironblood]] - decapitated a Neogi and is now the enthralled Anselem's target
+- [[Neogi]] - operators of the pantry and holding pen; at least three remain
+- [[Umber Hulk]] - a second specimen remains alive and wounded
 
 ## Locations This Session
 
-- [[The Cisterns]] - pushed further north than ever mapped, into a resin-lined chamber and an Umber Hulk/Neogi ambush
+- [[The Cisterns]] - the Neogi pantry and stone-and-chitin holding pen in the unmapped northern tunnels
 
 ## Player Characters
 
@@ -74,6 +76,7 @@ One more thing changed for good this session: the moment she beheaded the second
 ## Items
 
 - [[The Skull]] - recovered from sand elemental, Act II, Session 4
+- [[Ring of Psionic Resistance]] - House M'Ke signet carried by Derfel, not yet attuned
 
 ## Full Archive
 
