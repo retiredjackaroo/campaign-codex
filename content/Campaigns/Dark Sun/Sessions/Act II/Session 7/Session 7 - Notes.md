@@ -16,13 +16,25 @@ publish: true
 
 Continuing directly from Session 6, [[Derfel]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] entered the silk-filled lower chamber. The ambient psionic hum became a sea of voices repeating fragments including “you are not alone,” “home,” “join” and “beautiful.” [[Brave]] was visibly distressed.
 
+![[Session 7 - The Pantry.png]]
+*The Pantry map.*
+
 The scouts opened a cocoon and found an unidentified dead human. Two enthralled humanoids and a [[Neogi]] taskmaster attacked. Derfel killed the first thrall; [[Koresh Ironblood]] defeated the second after it struck him. The Neogi restrained [[Babs]] psionically, fled onto the central shelf and was burned by [[Anselem]]'s Radiance of the Dawn before Derfel killed it with two hasted, Hunter's Mark-enhanced arrows. [[Pterrence]] fell while climbing but suffered only minor injury, and [[Salt]] removed his lingering poison with Lesser Restoration.
 
+![[Session 7 - Pantry Ambush.png]]
+*First action sequence: the party enters the Pantry while the Neogi taskmaster retreats.*
+
 The dead thralls carried 25 ceramic pieces and a magical House M'Ke signet. Pterrence identified it as a [[Ring of Psionic Resistance]], granting an attuned wearer advantage on saves against psionics. Derfel took the ring but did not have time to attune.
+
+![[Ring of Psionic Resistance.png]]
+*The recovered House M'Ke signet.*
 
 Pterrence cast Locate Object for ceramic nose jewellery matching [[Scylla]]'s piercing. It registered multiple candidates among the dead and further signals north. The party opened the other cocoons and found preserved surface-dwellers of several ancestries and social classes. All were dead from large spider-like bites, but remained warm and bled when cut. Salt took a sample of the preservative residue. Neither [[Narek]] nor Scylla was positively identified.
 
 Following the spell north, Derfel discovered a crude holding pen containing gaunt living prisoners, four Neogi and an [[Umber Hulk]]. A second battle began and remained unfinished at session end. Tchk'Tchk knocked two Neogi prone and repositioned the Umber Hulk with telekinetic force; Salt struck with Shatter and slammed the Umber Hulk into a cage; Babs was enthralled long enough to stab Tchk'Tchk and Salt; and Koresh decapitated one Neogi. Anselem ended the session enthralled by the orange Neogi after using Toll the Dead on Koresh for one point of damage.
+
+![[Session 7 - Holding Pen Battle.png]]
+*Second action sequence: the unfinished holding-pen battle.*
 
 ## Ongoing effects at session end
 
