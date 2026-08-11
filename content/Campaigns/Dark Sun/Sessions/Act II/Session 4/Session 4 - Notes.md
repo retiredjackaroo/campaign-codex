@@ -149,4 +149,3 @@ The elemental's mass collapsed under sustained slashing, fire, forced movement, 
 - [[The Skull]] is in the party's possession; its origin and significance are unknown
 - The [[Dregoth Cultists]] know someone descended the well; they do not know who
 - Next encounter teased: high-Wisdom enemies immune to Command
-  </content>

@@ -3,6 +3,14 @@ publish: true
 aliases:
   - Pug's Side Quest Homepage
 title: Pug's Side Quest
+continueStory:
+  label: Moonsea side quest
+  title: Enter Myth Drannor
+  summary: Pug and his escort face a living memory beneath the City of Song.
+  card: pug
+  href: ./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/
+  ariaLabel: Continue Pug's Side Quest
+  imageAlt: Pug and his companions on the road to Myth Drannor
 socialImage: https://retiredjackaroo.github.io/campaign-codex/campaigns/moonsea/assets/social-pugs-side-quest.png
 socialDescription: Pug and his unlikely guardians enter Myth Drannor—and discover what waits beneath its streets.
 created: 2026-07-20T10:40:34.661+10:00

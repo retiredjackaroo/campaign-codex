@@ -3,6 +3,14 @@ publish: true
 aliases:
   - Tyranny on the Moonsea Campaign Homepage
 title: Tyranny on the Moonsea
+continueStory:
+  label: Moonsea
+  title: The Silver Pyramid
+  summary: The party's river ambush is still unfolding.
+  card: moonsea
+  href: ./campaigns/moonsea/
+  ariaLabel: Continue Tyranny on the Moonsea
+  imageAlt: The Tyranny on the Moonsea adventuring party
 created: 2026-07-20T00:14:00.943+10:00
 modified: 2026-08-03T00:37:11.190+10:00
 tags:

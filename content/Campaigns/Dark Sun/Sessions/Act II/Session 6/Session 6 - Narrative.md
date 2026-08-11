@@ -52,4 +52,4 @@ Before they settled, [[Derfel]], with Salt's Enhance Ability lending him an edge
 ![[Campaigns/Dark Sun/The Colony.png]]
 _The chamber Derfel glimpsed from the ledge._
 
-He reported back over Salt's telepathic bond, understated to the point of dry humour: it was, he said, a bit spidey. A hell of a lot of spiders, in fact. The party broke for its short rest with that image freshly in mind, the question of Narek and Scylla's fate, and what waited in the chamber below, both still unanswered. </content>
+He reported back over Salt's telepathic bond, understated to the point of dry humour: it was, he said, a bit spidey. A hell of a lot of spiders, in fact. The party broke for its short rest with that image freshly in mind, the question of Narek and Scylla's fate, and what waited in the chamber below, both still unanswered.

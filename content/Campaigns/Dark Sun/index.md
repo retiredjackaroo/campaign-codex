@@ -3,6 +3,14 @@ type: index
 title: Born Under a Dark Sun
 aliases:
   - Born Under a Dark Sun Home page
+continueStory:
+  label: Dark Sun
+  title: Battle in the Holding Pen
+  summary: Anselem is enthralled as the unfinished battle over the Neogi holding pen hangs in the balance.
+  card: dark-sun
+  href: ./campaigns/dark-sun/
+  ariaLabel: Continue Born Under a Dark Sun
+  imageAlt: The Born Under a Dark Sun adventuring party
 tags:
   - index
   - moc
@@ -25,9 +33,9 @@ The battle is unfinished. One Neogi is dead and the Umber Hulk is wounded, but a
 | Session | Biggest Success | Funniest Mistake |
 | --- | --- | --- |
 | Act II, Session 4 | Tchk'Tchk Gulbadani pinned the sand elemental with repeated Commands inside Pterrence's Cloud of Daggers, using Telekinetic Propel to drop it straight back in each time it tried to break loose. See [[Session 4 - Narrative\|the full session]]. | Kit-Chac's Flurry of Blows toppling attempts were wasted on a creature immune to prone, capped by burning a Tavern Brawler re-roll on a natural 1 that came up a 2. See [[Session 4 - Narrative\|the full session]]. |
-| Act II, Session 5 | With nobody else able to swim, Salt held Water Walk in reserve and triggered it the moment a cloaker dropped Pterrence over the lake, turning a drowning into a soft landing. See [[Session 5 - Narrative\|the full session]]. | Dragged over the water by a cloaker, Salt blew every Athletics check to break the grapple, including a burned Luck Point, and his hood came loose in the struggle, revealing his best-kept secret to half the party. See [[Session 5 - Narrative\|the full session]]. |
-| Act II, Session 6 | Charmed by the Neogi hive-mind for the entire fight and turned against his own allies, Koresh Ironblood still landed the blow that killed the Umber Hulk outright, without ever realising whose side he was really helping. See [[Session 6 - Narrative\|the full session]]. | Charmed by the same hive-mind, Babs landed a critical hit and a follow-up strike on her own ally Tarek before the compulsion broke. See [[Session 6 - Narrative\|the full session]]. |
-| Act II, Session 7 | Tchk'Tchk's crushing telekinetic field and Salt's follow-up Shatter and psionic shove knocked down the Neogi line and hurled the Umber Hulk thirty feet into a prison cage. See [[Session 7 - Narrative\|the full session]]. | Newly enthralled, Anselem solemnly rang Toll the Dead against Koresh—and dealt exactly one point of damage. See [[Session 7 - Narrative\|the full session]]. |
+| Act II, Session 5 | With nobody else able to swim, Salt held Water Walk in reserve and triggered it the moment a cloaker dropped Pterrence over the lake, turning a drowning into a soft landing. See [[Session 5 - Narrative\|the full session]]. | Dragged over the water by a cloaker, Salt blew every Athletics check to break the grapple, including a burned Luck Point, and his hood came loose in the struggle. See [[Session 5 - Narrative\|the full session]]. |
+| Act II, Session 6 | Charmed by the Neogi hive-mind for the entire fight and turned against his own allies, Koresh Ironblood still landed the blow that killed the Umber Hulk outright. See [[Session 6 - Narrative\|the full session]]. | Charmed by the same hive-mind, Babs landed a critical hit and a follow-up strike on her own ally Tarek before the compulsion broke. See [[Session 6 - Narrative\|the full session]]. |
+| Act II, Session 7 | Tchk'Tchk's crushing telekinetic field knocked two Neogi prone; Salt followed with Shatter and a psionic shove that hurled the Umber Hulk thirty feet into a prison cage. See [[Session 7 - Narrative\|the full session]]. | Newly enthralled, Anselem solemnly rang Toll the Dead against Koresh—and dealt exactly one point of damage. See [[Session 7 - Narrative\|the full session]]. |
 
 ## Latest Session: Act II, Session 7
 

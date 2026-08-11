@@ -125,4 +125,3 @@ _The chamber Derfel glimpsed from the ledge — matched against the Roll20 journ
 - **No new location page created** for the tunnels/chamber explored this session; I've folded the description into [[The Cisterns]] rather than spinning up an unnamed sub-location. If the spider-lair chamber becomes a recurring or named place next session, it likely warrants its own page at that point.
 - **Umber Hulk and Neogi:** treated as unnamed monster encounters (like the Session 5 cloakers) rather than given individual NPC pages, since neither had proper names in play.
 - **Crafting rules for Derfel's magic longbow:** left unresolved in play (Pterrence cited the 2024 Dungeon Master's Guide, p.58, for Arcana + woodcarver's tools crafting; the GM deferred ruling on timing). Not reflected as a resolved item anywhere in the vault; flagging so it isn't lost as a thread.
-  </content>

@@ -31,7 +31,7 @@ The dead thralls carried 25 ceramic pieces and a magical House M'Ke signet. Pter
 
 Pterrence cast Locate Object for ceramic nose jewellery matching [[Scylla]]'s piercing. It registered multiple candidates among the dead and further signals north. The party opened the other cocoons and found preserved surface-dwellers of several ancestries and social classes. All were dead from large spider-like bites, but remained warm and bled when cut. Salt took a sample of the preservative residue. Neither [[Narek]] nor Scylla was positively identified.
 
-Following the spell north, Derfel discovered a crude holding pen containing gaunt living prisoners, four Neogi and an [[Umber Hulk]]. A second battle began and remained unfinished at session end. Tchk'Tchk knocked two Neogi prone and repositioned the Umber Hulk with telekinetic force; Salt struck with Shatter and slammed the Umber Hulk into a cage; Babs was enthralled long enough to stab Tchk'Tchk and Salt; and Koresh decapitated one Neogi. Anselem ended the session enthralled by the orange Neogi after using Toll the Dead on Koresh for one point of damage.
+Following the spell north, Derfel discovered a crude holding pen containing gaunt living prisoners, four Neogi and an [[Umber Hulk]]. A second battle began and remained unfinished at session end. Tarek climbed up and shot the Umber Hulk before it knocked him back over the ledge; Salt healed him. Babs helped Derfel make the initial climb, wounded the Umber Hulk and held the foothold while Pterrence used Jump to reach the chamber and secured a rope for the others. Tchk'Tchk knocked two Neogi prone and damaged the Umber Hulk with a crushing field, but the creature resisted his attempt to move it. Salt then struck with Shatter and successfully slammed the Umber Hulk thirty feet into a cage. Babs was enthralled long enough to stab Tchk'Tchk and Salt, Pterrence struck a prone Neogi, and Koresh decapitated it. Anselem ended the session enthralled by the orange Neogi after using Toll the Dead on Koresh for one point of damage.
 
 ![[Session 7 - Holding Pen Battle.png]]
 *Second action sequence: the unfinished holding-pen battle.*
@@ -63,11 +63,11 @@ The GM's closing spoken tally was mistranscribed as “Erendor, Perrin, Serfel a
 Six of seven party members were active. **[[Kit-Chac]] was absent.**
 
 - [[Derfel]] — scouted both chambers; killed a thrall and the first Neogi taskmaster; recovered the ring; discovered the holding pen.
-- [[Babs]] — endured psionic restraint; helped establish the climb; briefly struck allies while enthralled.
-- [[Pterrence]] — identified the ring; used Locate Object; supported movement and combat.
+- [[Babs]] — endured psionic restraint; helped Derfel climb; wounded the Umber Hulk; briefly struck allies while enthralled.
+- [[Pterrence]] — identified the ring; used Locate Object; secured the rope into the holding pen; struck a prone Neogi.
 - [[Anselem]] — exposed the fleeing taskmaster; examined the dead; ended enthralled.
-- [[Salt]] — cured Pterrence's poison; sampled the preservative; used Shatter and a psionic shove.
-- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] — co-scouted the pantry; hasted Derfel; controlled the second battle telekinetically.
+- [[Salt]] — cured Pterrence's poison; sampled the preservative; healed Tarek; used Shatter and the successful psionic shove.
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] — co-scouted the pantry; hasted Derfel; knocked two Neogi prone and damaged the Umber Hulk with a crushing field.
 
 ## NPCs and creatures
 
@@ -75,7 +75,7 @@ Six of seven party members were active. **[[Kit-Chac]] was absent.**
 |---|---|---|
 | [[Narek]] | Missing | Not positively identified among the cocoons or prisoners. |
 | [[Scylla]] | Missing | Her ceramic nose jewellery supplied the search criterion; several possible signals remained. |
-| [[Tarek Cricket Silvertwig]] | Alive | Joined the holding-pen fight and fired on the Umber Hulk. |
+| [[Tarek Cricket Silvertwig]] | Alive | Shot the Umber Hulk, was knocked from the ledge and was healed by Salt. |
 | [[Koresh Ironblood]] | Alive | Defeated a thrall and later decapitated a Neogi. |
 | [[Neogi]] | Active threat | One taskmaster and one holding-pen Neogi killed; at least three remained. |
 | [[Umber Hulk]] | Active threat | A second Umber Hulk remained alive and wounded. |

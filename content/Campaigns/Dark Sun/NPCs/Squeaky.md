@@ -21,4 +21,3 @@ _Stub page — flagged for James in [[Session 6 - Notes]] in case further detail
 
 - [[Pterrence]]
 - [[Session 6 - Notes]]
-  </content>

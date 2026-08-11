@@ -48,6 +48,7 @@ tags:
     <h2 id="continue-the-story">Continue the story</h2>
   </div>
   <div class="resume-grid">
+<!-- continue-story:start -->
     <a class="resume-card resume-card--moonsea" href="./campaigns/moonsea/" aria-label="Continue Tyranny on the Moonsea">
       <span class="resume-card__art" role="img" aria-label="The Tyranny on the Moonsea adventuring party"></span>
       <span class="resume-card__body">
@@ -60,8 +61,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="The Born Under a Dark Sun adventuring party"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Dark Sun</span>
-        <strong>Beneath the Hidden Spring</strong>
-        <span>Two scouts remain missing in the unmapped tunnels.</span>
+        <strong>Battle in the Holding Pen</strong>
+        <span>Anselem is enthralled as the unfinished battle over the Neogi holding pen hangs in the balance.</span>
       </span>
     </a>
     <a class="resume-card resume-card--pug" href="./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/" aria-label="Continue Pug's Side Quest">
@@ -72,6 +73,7 @@ tags:
         <span>Pug and his escort face a living memory beneath the City of Song.</span>
       </span>
     </a>
+<!-- continue-story:end -->
   </div>
 </section>
 

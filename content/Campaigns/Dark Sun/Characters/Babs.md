@@ -35,4 +35,3 @@ A mute Mul gladiator and the party's tank. Cannot speak but communicates through
 ## Notes
 
 **Naming:** Referred to as "Her" in all session documents up to and including Act II, Session 6; renamed "Babs" thereafter per James's confirmation. Session 4–6 documents that predate the rename correctly use "Her" throughout, consistent with how the vault handles [[Salt]]'s reveal. Links to [[Babs|Her]] elsewhere in the vault resolve here via the alias above rather than being mass-edited.
-</content>

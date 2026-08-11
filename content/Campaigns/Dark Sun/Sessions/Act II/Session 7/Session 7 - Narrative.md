@@ -14,6 +14,8 @@ publish: true
 
 The hum had been waiting beneath them.
 
+With [[Kit-Chac]] absent from the expedition, the other six party members had pressed into the northern tunnels without him.
+
 [[Derfel]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] climbed first, down the resin-ribbed wall into the chamber below. The faint pressure that had followed the party through the northern [[The Cisterns|cisterns]] opened inside their minds into a thousand overlapping voices. Most were impossible to separate. A few words rose cleanly through the chorus.
 
 *You are not alone.*
@@ -37,11 +39,11 @@ The dead thralls carried twenty-five ceramic pieces. The woman also wore a signe
 ![[Ring of Psionic Resistance.png]]
 *The House M'Ke signet, identified as a Ring of Psionic Resistance.*
 
-Pterrence instead used Locate Object to seek ceramic nose jewellery like Scylla's. The spell pointed north. Before following it, the party opened the remaining cocoons. Humans, elves, halflings and moles lay inside: servants of noble houses, former Templar retainers and people from the slums. They were unquestionably dead, each marked by a large spider bite, yet still warm and able to bleed. Salt collected a sample while he and Anselem concluded that the venom preserved the bodies as food.
+Pterrence instead used Locate Object to seek ceramic nose jewellery like Scylla's. The spell registered matches among the pantry's dead and further matches north. Before following the northern signal, the party opened the remaining cocoons. Humans, elves, halflings and moles lay inside: servants of noble houses, former Templar retainers and people from the slums. They were unquestionably dead, each marked by a large spider bite, yet still warm and able to bleed. Salt collected a sample while he and Anselem concluded that a spiderlike preservative kept the bodies as food.
 
 The direction of the nose rings led to another twenty-foot climb. Derfel went first and found a holding pen formed from stone and chitin. Gaunt living prisoners crowded behind crude bars. Four Neogi and an [[Umber Hulk]] guarded them.
 
-The chamber erupted before the rest of the party could assemble. [[Tarek Cricket Silvertwig|Tarek]] and Koresh fought their way up beside Derfel while Babs and Pterrence established the climb for everyone else. Anselem, Salt and Tchk'Tchk followed into the psychic crescendo. Tchk'Tchk crushed two Neogi beneath a telekinetic field and hurled the Umber Hulk across the pen. Salt answered with a thunderous Shatter, then drove the hulking creature thirty feet into a cage.
+The chamber erupted before the rest of the party could assemble. [[Tarek Cricket Silvertwig|Tarek]] scrambled up beside Derfel and fired on the Umber Hulk, only to be knocked back over the ledge. Salt healed him while Babs forced a foothold above. Pterrence magically jumped the wall, secured a rope and opened the climb for Koresh, Anselem, Salt and Tchk'Tchk. Tchk'Tchk crushed two Neogi beneath a telekinetic field and cracked the Umber Hulk's shell, though the creature resisted his attempt to hurl it away. Salt answered with a thunderous Shatter, then succeeded where Tchk'Tchk had failed and drove the hulking creature thirty feet into a cage.
 
 ![[Session 7 - Holding Pen Battle.png]]
 *The holding-pen battle: the party climbs into a chamber guarded by four Neogi and a second Umber Hulk.*

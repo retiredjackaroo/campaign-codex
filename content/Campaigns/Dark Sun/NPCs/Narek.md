@@ -20,4 +20,3 @@ Narek was not encountered directly, and no trace of him specifically has yet bee
 - [[The Alliance]]
 - [[The Hidden Spring]]
 - [[Session 6 - Notes]]
-</content>

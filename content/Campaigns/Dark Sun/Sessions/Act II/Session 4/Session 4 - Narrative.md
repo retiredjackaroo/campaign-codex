@@ -105,4 +105,4 @@ The party stood in the dark, heavily wounded, ears ringing. [[Anselem]] started 
 
 Nobody had a better answer than that. They moved forward into the dark, towards [[The Alliance]].
 
-**Experience awarded:** 1,243 XP each. </content>
+**Experience awarded:** 1,243 XP each.
