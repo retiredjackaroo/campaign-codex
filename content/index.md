@@ -69,8 +69,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="Pug and his companions on the road to Myth Drannor"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Moonsea side quest</span>
-        <strong>Enter Myth Drannor</strong>
-        <span>Pug and his escort face a living memory beneath the City of Song.</span>
+        <strong>The Binder of Long Memory</strong>
+        <span>Pug and his guardians battle a chain devil while seeking to free the five spirits bound to him.</span>
       </span>
     </a>
 <!-- continue-story:end -->

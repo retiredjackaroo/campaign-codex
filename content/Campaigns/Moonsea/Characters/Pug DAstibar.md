@@ -1,14 +1,17 @@
 ---
-publish: true
+type: pc
+title: Pug D'Astibar
 aliases:
   - Pug
   - Pug D'Astibar
-title: Pug D'Astibar
-created: 2026-07-20T00:10:33.171+10:00
-modified: 2026-08-03T00:30:25.941+10:00
 tags:
   - pc
   - party
+status: In Phlan
+dg-publish: true
+publish: true
+created: 2026-07-20T00:10:33.171+10:00
+modified: 2026-08-03T00:30:25.941+10:00
 ---
 
 # Pug D'Astibar
@@ -17,7 +20,7 @@ tags:
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlors Tower|Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
 
-**Status:** In Phlan\
+**Status:** In Phlan<br>
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 
 ## Side quest: escort to Myth Drannor
@@ -41,3 +44,10 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Entered [[Myth Drannor]] first and recognised its great landmarks from years of study.
 - Saw the full living city return briefly when his failed Polymorph triggered Myth Drannor's magic.
 - Jumped into an ankheg tunnel and killed [[Kjeorn]]'s captor with a lightning Chromatic Orb.
+
+### Session 4, The Binder of Long Memory
+
+- Climbed from the tunnel and killed Herschel's captor with Fireball.
+- Saw a cracked rose-white moonstone and flowering moonstone tree pulse beneath another living-city memory, suggesting Myth Drannor's magical reactions are not ordinary wild magic.
+- Proposed removing a chain from a memorial stone in the [[Garden of Long Memory]]: “It's a terrible idea, let's do it.”
+- Was restrained by a captive spirit's magic when [[The Binder of Long Memory]] appeared, then escaped using Heroic Inspiration.

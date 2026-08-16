@@ -1,8 +1,8 @@
 ---
-publish: true
+type: index
+title: Tyranny on the Moonsea
 aliases:
   - Tyranny on the Moonsea Campaign Homepage
-title: Tyranny on the Moonsea
 continueStory:
   label: Moonsea
   title: The Silver Pyramid
@@ -11,11 +11,13 @@ continueStory:
   href: ./campaigns/moonsea/
   ariaLabel: Continue Tyranny on the Moonsea
   imageAlt: The Tyranny on the Moonsea adventuring party
-created: 2026-07-20T00:14:00.943+10:00
-modified: 2026-08-03T00:37:11.190+10:00
 tags:
   - index
   - moc
+dg-publish: true
+publish: true
+created: 2026-07-20T00:14:00.943+10:00
+modified: 2026-08-03T00:37:11.190+10:00
 ---
 
 ![[Campaigns/Moonsea/Assets/Pasted image 20260622200441.png]]
@@ -27,7 +29,6 @@ Home page for the campaign wiki. This page always reflects the latest session on
 The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been sent by the Lord Sage and Cassra Brandywine to reach Yarish's Pyramid on Sorcerors Isle before the Cult of the Dragon gets there, find the missing Zhentarim agent Thylren Saj, and stop the spreading corruption. Travelling east through Kabel's Hill, they boarded James Cel's keelboat The Arbitus, only to be ambushed mid-river by the half-dragon Vurthak, a fight still live as of the latest session. Pug D'Astibar has stayed behind in Phlan on business of his own, reachable only by Sending.
 
 ![[Campaigns/Moonsea/Assets/Pasted image 20260715144552.png]]
-
 ## Hall of Fame
 
 | Session | Biggest Success | Funniest Mistake |
@@ -137,7 +138,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
 
-**Pug's Side Quest: Enter Myth Drannor** — Pug and his escort have crossed the Moon Arch after passing its tests of memory, purpose and stewardship. Inside, Myth Drannor showed them a living memory of the Grand Avenue before ankhegs erupted from beneath it; the fight is live, with Herschel and Morwyn being dragged toward separate tunnels.
+**Pug's Side Quest: Enter Myth Drannor** — Pug and his escort defeated the ankhegs, followed the sound of chains into the Garden of Long Memory and broke a chain from a memorial. They are now fighting the Binder of Long Memory and trying to free the five spirits bound to him.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 
