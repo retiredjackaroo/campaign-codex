@@ -43,7 +43,7 @@ The escort finished the ankheg battle, followed the sound of chains into the [[G
 - **Herschel:** controlled the ankhegs with Thorn Whip, nearly killed the last one with Shillelagh and Primal Strike, investigated the memorials, and confused one mephit.
 - **Ripper:** prioritised rescues throughout the ankheg fight, killed the final creature, tracked the chains, frightened two mephits and engaged the Binder.
 - **Mar:** lifted and dropped an ankheg to free Morwyn, blocked a tunnel, carried Morwyn above the garden, grappled an earth mephit and held it even after the Binder dragged her down.
-- **Morwyn:** healed the party during the ankheg fight, supplied the aerial soundtrack, attacked the Binder with Dissonant Whispers and used Cutting Words to stop one chain strike against Mar.
+- **Morwyn:** healed the party during the ankheg fight, supplied the aerial soundtrack, performed “All Along the Watchtower” through an upcast Dissonant Whispers against the Binder, and used Cutting Words to stop one chain strike against Mar.
 - **Bullshit:** healed Kjeorn during the ankheg fight and attacked a mephit in the garden.
 - **Snotty:** remained with Herschel and survived the ankheg battle; no distinct garden action was recorded before the break.
 

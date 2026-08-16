@@ -57,5 +57,5 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 
 - Sang throughout Mar's aerial rescue, then restored the wounded with Mass Healing Word.
 - Rode Mar above the garden and returned through the canopy performing “Danger Zone.”
-- Cast an upcast Dissonant Whispers on the Binder and used Cutting Words to spoil one chain attack against Mar.
+- Turned “All Along the Watchtower” into a deliberately discordant performance for an upcast Dissonant Whispers against the Binder, then used Cutting Words to spoil one chain attack against Mar.
 - Ended prone beside Mar after the Binder dragged them from the air.

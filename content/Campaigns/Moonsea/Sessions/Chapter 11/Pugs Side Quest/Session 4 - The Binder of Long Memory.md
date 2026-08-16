@@ -92,7 +92,7 @@ The Binder sent a bound spirit against Pug. Flowers withered into vines and rest
 
 Above the canopy, Morwyn and Mar did not immediately realise combat had begun. When they returned, they did so at speed: Mar swept down through the trees while Morwyn stood on her back, lute in hand, singing “Danger Zone.” Mar grappled an earth mephit and carried it skyward.
 
-Morwyn's upcast Dissonant Whispers barely troubled the Binder, but his recovered Cutting Words spoiled one of the devil's chain strikes against Mar. A later chain caught her eagle's leg, dragged her twenty feet down and slammed both eagle and bard into the earth. Mar kept hold of the mephit. Morwyn landed prone beside her.
+Morwyn answered the Binder with an upcast Dissonant Whispers, turning “All Along the Watchtower” into a deliberately discordant performance. The magic barely troubled the devil, but Morwyn's recovered Cutting Words spoiled one of its chain strikes against Mar. A later chain caught her eagle's leg, dragged her twenty feet down and slammed both eagle and bard into the earth. Mar kept hold of the mephit. Morwyn landed prone beside her.
 
 The session ended there: Pug had broken free of the vines, Kjeorn and Bullshit faced the elementals, Ripper and Herschel held the garden, and the Binder stood among five chained souls. The escort agreed on one thing—the spirits might be prisoners, and they should not be harmed if they could be freed.
 
