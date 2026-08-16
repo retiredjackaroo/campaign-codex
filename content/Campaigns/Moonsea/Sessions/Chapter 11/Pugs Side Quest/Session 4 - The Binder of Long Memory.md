@@ -38,7 +38,29 @@ Then the escort heard chains.
 
 ## The Garden Remembered
 
-Ripper tracked the faint metallic sound northeast into the [[Garden of Long Memory]]. Mar carried Morwyn above the trees while the others passed through crooked iron gates into a garden both beautiful and profoundly wrong. Ancient paths had become moss, hedges had become walls of wild growth and memorial stones stood everywhere. Some were wrapped in rusted chains; others bore grooves worn by iron dragged over stone.
+Ripper tracked the faint metallic sound northeast into the [[Garden of Long Memory]]. Mar carried Morwyn above the trees while the others approached wrought-iron gates hanging crooked upon weathered stone pillars, their once-intricate latticework smothered beneath ivy and flowering vines.
+
+![[Campaigns/Moonsea/Assets/Garden of Long Memory.png]]
+
+Beyond stretched a formal garden of astonishing beauty and profound melancholy. Time had reclaimed almost everything. Great oaks rose where manicured hedgerows once stood. Marble paths lay cracked beneath carpets of moss, while roots had patiently lifted ancient flagstones from the earth. Carefully sculpted hedges had grown wild, blurring the graceful geometry still lingering beneath centuries of neglect.
+
+Yet, for all its ruin, the garden refused to surrender its elegance.
+
+Long reflecting pools still held impossibly clear water, disturbed only by drifting leaves and the occasional ripple spreading from nowhere they could see. Fountains continued to flow with quiet persistence, their crystal water spilling from statues worn smooth by rain and time. Moon-white marble figures stood among flowering shrubs and climbing roses—many weathered beyond recognition, others still possessing expressions of serene joy.
+
+Birds sang overhead. Butterflies drifted lazily through shafts of sunlight. Somewhere nearby, water fell softly into stone basins.
+
+It should have felt peaceful.
+
+Instead, unease settled over them. The birds seemed just a little too distant. The air hung unnaturally still beneath the trees. More than once, movement flashed at the edge of sight, only to leave empty pathways winding between silent statues.
+
+Then they noticed the memorial stones. Hundreds stood throughout the garden, some no larger than simple markers, others carved into elegant monuments bearing names long lost to history. Many were wrapped in rusted chains. Others had deep grooves worn into the stone, as though iron had been dragged across them for centuries.
+
+A cold breeze stirred the leaves overhead. Somewhere within the garden, metal scraped softly against stone.
+
+Once.
+
+Then silence.
 
 ![[Campaigns/Moonsea/Assets/The Garden Memory.png]]
 
