@@ -7,7 +7,7 @@ const assets = path.join(root, "content/Campaigns/Moonsea/Assets")
 
 const cards = [
   {
-    source: "Pugs side quest team.png",
+    source: "Pugs Side Quest Thumbnail.png",
     output: "social-pugs-side-quest.png",
     eyebrow: "TYRANNY ON THE MOONSEA · SIDE QUEST",
     title: "Pug’s Side Quest",
