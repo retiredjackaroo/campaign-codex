@@ -29,11 +29,24 @@ The escort finished the ankheg battle, followed the sound of chains into the [[G
 - Herschel repeatedly used Thorn Whip to stop the last ankheg escaping with Kjeorn.
 - Kjeorn escaped; Herschel nearly finished the creature; Ripper killed it from beneath.
 - Kjeorn cast Prayer of Healing, restoring the party and granting a short rest.
+
+![[Campaigns/Moonsea/Assets/The Moon Crystal.png]]
+
 - Pug saw a cracked rose-white moonstone and a flowering moonstone tree pulse beneath the city's memory echo.
 - Ripper tracked chains into the Garden of Long Memory.
+
+![[Campaigns/Moonsea/Assets/Garden of Long Memory.png]]
+
+![[Campaigns/Moonsea/Assets/The Garden Memory.png]]
+
+![[Campaigns/Moonsea/Assets/Pugs Memory - Coronal Day.png]]
+
 - The garden showed a memory of families gathering for a celebration involving the Coronal.
 - Herschel partially read Eliana Starblue's memorial: “gardener and friend”; only *flower*, *song* and *crumble* survived from its poem.
 - Kjeorn broke the chains around another memorial with a crowbar.
+
+![[Campaigns/Moonsea/Assets/The Binder of Long Memory.png]]
+
 - The Binder appeared with five chained spirits and four elemental mephits.
 
 ## Combat Contributions
@@ -48,6 +61,11 @@ The escort finished the ankheg battle, followed the sound of chains into the [[G
 - **Snotty:** remained with Herschel and survived the ankheg battle; no distinct garden action was recorded before the break.
 
 ## End State
+
+![[Campaigns/Moonsea/Assets/Session 4 - Garden Combat End State.png]]
+
+> [!caption] Where the action finished
+> The escort is clustered around the Binder and his chained spirits in the Garden of Long Memory. Mar and Morwyn have been dragged down at the northern edge of the melee, while Pug stands west of the main engagement.
 
 - The ankhegs are dead or driven away; the Grand Avenue is clear.
 - Combat is live in the Garden of Long Memory.
