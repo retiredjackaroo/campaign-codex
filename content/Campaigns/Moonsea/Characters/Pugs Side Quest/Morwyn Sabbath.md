@@ -1,16 +1,19 @@
 ---
-publish: true
+type: pc
 aliases:
   - Morwyn Sabbath
   - Morwyn
   - Morwen
   - Morwyn Dabbath
-created: 2026-07-20T10:39:37.513+10:00
-modified: 2026-08-03T00:30:25.951+10:00
 tags:
   - pc
   - side-quest
   - pugs-side-quest
+status: Alive
+dg-publish: true
+publish: true
+created: 2026-07-20T10:39:37.513+10:00
+modified: 2026-08-03T00:30:25.951+10:00
 ---
 
 # Morwyn Sabbath
@@ -49,3 +52,10 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Tried to enchant [[Bullshit]] into licking Kjeorn's face for eight hours; Bullshit resisted.
 - Cast Slow across four ankhegs and affected two.
 - Ended the session grappled and being pulled toward a tunnel.
+
+## Session 4, The Binder of Long Memory
+
+- Sang throughout Mar's aerial rescue, then restored the wounded with Mass Healing Word.
+- Rode Mar above the garden and returned through the canopy performing “Danger Zone.”
+- Cast an upcast Dissonant Whispers on the Binder and used Cutting Words to spoil one chain attack against Mar.
+- Ended prone beside Mar after the Binder dragged them from the air.

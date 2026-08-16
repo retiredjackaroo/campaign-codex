@@ -1,18 +1,20 @@
 ---
-publish: true
+type: pc
 aliases:
   - Herschel Blackroot
-created: 2026-07-20T00:09:51.705+10:00
-modified: 2026-08-03T00:30:25.946+10:00
 tags:
   - pc
   - side-quest
   - pugs-side-quest
+status: Alive
+dg-publish: true
+publish: true
+created: 2026-07-20T00:09:51.705+10:00
+modified: 2026-08-03T00:30:25.946+10:00
 ---
 
 # Herschel Blackroot
-
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/Assets/Pasted image 20260706144739.png]]
+![[Campaigns/Moonsea/Assets/Pasted image 20260706144739.png]]
 A Forest Elf Spore Druid, played by [[Petra Hillockburrow]]'s player (recorded as "Adam" in the raw session notes) as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Petra Hillockburrow (the same player's main Moonsea character) or Anselem (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
 Character concept based on Jackson Lamb (the fictional Slough House spymaster). No further backstory supplied yet.
@@ -36,3 +38,10 @@ Character concept based on Jackson Lamb (the fictional Slough House spymaster). 
 - Entrusted his quarterstaff to [[The Moon Arch]] as an act of stewardship; the city returned it after entry.
 - Brought [[Snotty]] through [[The Starwood]] without alarming the forest.
 - Ended the session grappled by a badly wounded ankheg after fighting it with Symbiotic Entity and Shillelagh.
+
+## Session 4, The Binder of Long Memory
+
+- Freed when Pug's Fireball killed his captor; repeatedly used Thorn Whip to drag the last ankheg and Kjeorn away from its tunnel.
+- Nearly finished the ankheg with a lightning-charged Shillelagh strike before Ripper killed it.
+- Read part of Eliana Starblue's memorial and investigated the iron grooves on neighbouring stones.
+- Cast Confusion on the Binder and a mephit; the devil resisted, but the mephit did not.
