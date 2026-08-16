@@ -14,6 +14,8 @@ publish: true
 
 *Chapter 11, Side Quest, Session 4*
 
+![[Campaigns/Moonsea/Assets/Pugs Side Quest Thumbnail.png]]
+
 The escort finished the ankheg battle, followed the sound of chains into the [[Garden of Long Memory]], witnessed another living memory of Myth Drannor and broke a chain from a memorial stone. That summoned [[The Binder of Long Memory]], and the session ended mid-combat. See [[Session 4 - The Binder of Long Memory|the narrative]].
 
 ## Present
