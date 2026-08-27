@@ -61,8 +61,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="The Born Under a Dark Sun adventuring party"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Dark Sun</span>
-        <strong>Battle in the Holding Pen</strong>
-        <span>Anselem is enthralled as the unfinished battle over the Neogi holding pen hangs in the balance.</span>
+        <strong>Deeper into the Hive</strong>
+        <span>The scouts are rescued, but Mother still calls from the warm southern depths of the Neogi colony.</span>
       </span>
     </a>
     <a class="resume-card resume-card--pug" href="./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/" aria-label="Continue Pug's Side Quest">
