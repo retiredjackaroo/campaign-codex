@@ -61,15 +61,15 @@ Babs found a high crawlspace, approximately 3½ feet wide and 30 feet long, fill
 
 ## Hive strain at session end
 
-| Character             | State at close                                                        |                                             |
-| --------------------- | --------------------------------------------------------------------- | ------------------------------------------- |
-| [[Anselem]]           | Hive strain 2 after reducing level 3 through focus on flame.          |                                             |
-| [[Tchk Tchk Gulbadani | Tchk'Tchk Gulbadani]]                                                 | Hive strain 2; his focusing attempt failed. |
-| [[Pterrence]]         | Hive strain 1 after reducing level 2 through the Veiled Lens of Raam. |                                             |
-| [[Salt]]              | Hive strain 1; his focusing attempt failed.                           |                                             |
-| [[Derfel]]            | Cleared.                                                              |                                             |
-| [[Babs]]              | Cleared.                                                              |                                             |
-| [[Kit-Chac]]          | None.                                                                 |                                             |
+| Character | State at close |
+| --- | --- |
+| [[Anselem]] | Hive strain 2 after reducing level 3 through focus on flame. |
+| [[Tchk Tchk Gulbadani\|Tchk'Tchk Gulbadani]] | Hive strain 2; his focusing attempt failed. |
+| [[Pterrence]] | Hive strain 1 after reducing level 2 through the Veiled Lens of Raam. |
+| [[Salt]] | Hive strain 1; his focusing attempt failed. |
+| [[Derfel]] | Cleared. |
+| [[Babs]] | Cleared. |
+| [[Kit-Chac]] | None. |
 
 Pterrence and Salt's prior exhaustion was not explicitly removed. A short rest was completed in the holding-pen chamber. Derfel attuned to the [[Ring of Psionic Resistance]] during that rest.
 
