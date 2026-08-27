@@ -20,6 +20,8 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Session 6 - Notes]]
 - [[Session 7 - Narrative]]
 - [[Session 7 - Notes]]
+- [[Session 8 - Narrative]]
+- [[Session 8 - Notes]]
 
 ## All NPCs
 
@@ -60,7 +62,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Leviath]], [[High Kuatogagh Jahandar Shah]], [[Bilal]], [[Satrap Dovren MKe|Satrap Dovren M'Ke]], [[Ruvasha Mke|Ruvasha M'ke]], [[Silrasha of the Windswept Dust]], [[Rak of the Wastes]], [[Chiyata Veilstep]], [[Varros Dael]], [[Lady Asetra of House Veyal]], [[Hashtan the Ledgered]]
 
 ### The Hidden Spring
-- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (missing), [[Scylla]] (missing), [[Squeaky]] (Pterrence's familiar)
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar)
 
 ## All Locations
 

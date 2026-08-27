@@ -1,13 +1,13 @@
 ---
 type: npc
-status: missing
-tags: [npc, alliance, dark-sun, missing]
+status: rescued; hive-conditioned
+tags: [npc, alliance, dark-sun, rescued]
 dg-publish: true
 publish: true
 ---
 # Scylla
 
-**Status:** Missing
+**Status:** Rescued; hive-conditioned
 
 An elven female scout attached to [[The Alliance]]'s [[The Hidden Spring]] cell. Sent north into unmapped reaches of the aquifer alongside fellow scout Narek to investigate a psionic disturbance, per orders passed down through Master Avariah. The pair missed two consecutive check-ins, prompting [[Sarath]] to send [[Derfel]], [[Babs|Her]], [[Pterrence]], [[Anselem]], [[Salt]], [[Tarek Cricket Silvertwig|Tarek]] and [[Koresh Ironblood]] to search for them ([[Session 6 - Narrative|Session 6]]).
 
@@ -15,8 +15,11 @@ A scrap of Scylla's torn clothing was found snagged on rock in the tunnels she a
 
 **Session 7:** Pterrence cast Locate Object for ceramic nose jewellery. It detected several candidates among the preserved dead and further signals near a Neogi holding pen, but Scylla was not positively identified and remains missing.
 
+**Session 8:** Found alive with Narek among eight prisoners in the Neogi holding pen. She remained obedient to the hive, asking why Mother had sent them away, but followed [[Salt]] and was removed from the chamber without injury. She is rescued, though her connection to Mother persists.
+
 ## Related
 - [[Narek]] – fellow missing scout
 - [[The Alliance]]
 - [[The Hidden Spring]]
 - [[Session 6 - Notes]]
+- [[Session 8 - Notes]]

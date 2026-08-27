@@ -3,19 +3,19 @@ type: index
 title: Born Under a Dark Sun
 aliases:
   - Born Under a Dark Sun Home page
-continueStory:
-  label: Dark Sun
-  title: Battle in the Holding Pen
-  summary: Anselem is enthralled as the unfinished battle over the Neogi holding pen hangs in the balance.
-  card: dark-sun
-  href: ./campaigns/dark-sun/
-  ariaLabel: Continue Born Under a Dark Sun
-  imageAlt: The Born Under a Dark Sun adventuring party
 tags:
   - index
   - moc
 dg-publish: true
 publish: true
+continueStory:
+  label: Dark Sun
+  title: Deeper into the Hive
+  summary: The scouts are rescued, but Mother still calls from the warm southern depths of the Neogi colony.
+  card: dark-sun
+  href: ./campaigns/dark-sun/
+  ariaLabel: Continue Born Under a Dark Sun
+  imageAlt: The Born Under a Dark Sun adventuring party
 ---
 
 ![[verdant_passage_1-1.jpg.webp]]
@@ -23,38 +23,39 @@ Home page for the Dark Sun campaign wiki. This page always reflects the latest s
 
 ## Where We Are Now
 
-Deep beneath [[The Hidden Spring]], the party has found the Neogi complex behind the psionic disturbance. Its pantry holds silk-wrapped dead preserved from across Raam; its hive chorus repeats “you are not alone,” “home,” “join” and “beautiful.” Following possible traces of [[Scylla]]'s ceramic nose piercing led the party to a stone-and-chitin holding pen where living prisoners are guarded by four [[Neogi]] and a second [[Umber Hulk]].
+Deep beneath [[The Hidden Spring]], the party destroyed the guards of the Neogi holding pen and rescued all eight prisoners, including [[Narek]] and [[Scylla]]. The scouts are alive but still conditioned by Mother, obeying commands and repeating that the others are waiting.
 
-The battle is unfinished. One Neogi is dead and the Umber Hulk is wounded, but at least three Neogi remain. [[Anselem]] is enthralled by the orange Neogi with two levels of hive strain; [[Derfel]], [[Babs]], [[Pterrence]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] each carry one level. [[Narek]] and Scylla remain missing.
+A high vent proved to be carpeted with thousands of pale hatchlings. [[Anselem]] burned them, opening the way into a deeper resin-lined junction. Warm, damp air and more chittering rise from the descending southern passage. Anselem and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] retain two levels of hive strain; [[Pterrence]] and [[Salt]] retain one. [[Derfel]], [[Babs]] and [[Kit-Chac]] are clear.
 
 ![[Pasted image 20260716102209.png]]
 ## Hall of Fame
 
-| Session | Biggest Success | Funniest Mistake |
-| --- | --- | --- |
-| Act II, Session 4 | Tchk'Tchk Gulbadani pinned the sand elemental with repeated Commands inside Pterrence's Cloud of Daggers, using Telekinetic Propel to drop it straight back in each time it tried to break loose. See [[Session 4 - Narrative\|the full session]]. | Kit-Chac's Flurry of Blows toppling attempts were wasted on a creature immune to prone, capped by burning a Tavern Brawler re-roll on a natural 1 that came up a 2. See [[Session 4 - Narrative\|the full session]]. |
-| Act II, Session 5 | With nobody else able to swim, Salt held Water Walk in reserve and triggered it the moment a cloaker dropped Pterrence over the lake, turning a drowning into a soft landing. See [[Session 5 - Narrative\|the full session]]. | Dragged over the water by a cloaker, Salt blew every Athletics check to break the grapple, including a burned Luck Point, and his hood came loose in the struggle. See [[Session 5 - Narrative\|the full session]]. |
-| Act II, Session 6 | Charmed by the Neogi hive-mind for the entire fight and turned against his own allies, Koresh Ironblood still landed the blow that killed the Umber Hulk outright. See [[Session 6 - Narrative\|the full session]]. | Charmed by the same hive-mind, Babs landed a critical hit and a follow-up strike on her own ally Tarek before the compulsion broke. See [[Session 6 - Narrative\|the full session]]. |
-| Act II, Session 7 | Tchk'Tchk's crushing telekinetic field knocked two Neogi prone; Salt followed with Shatter and a psionic shove that hurled the Umber Hulk thirty feet into a prison cage. See [[Session 7 - Narrative\|the full session]]. | Newly enthralled, Anselem solemnly rang Toll the Dead against Koresh—and dealt exactly one point of damage. See [[Session 7 - Narrative\|the full session]]. |
+| Session           | Biggest Success                                                                                                                                                                                                               | Funniest Mistake    |                                                                                                                                                                                                 |                     |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Act II, Session 4 | Tchk'Tchk Gulbadani pinned the sand elemental with repeated Commands inside Pterrence's Cloud of Daggers, using Telekinetic Propel to drop it straight back in each time it tried to break loose. See [[Session 4 - Narrative | the full session]]. | Kit-Chac's Flurry of Blows toppling attempts were wasted on a creature immune to prone, capped by burning a Tavern Brawler re-roll on a natural 1 that came up a 2. See [[Session 4 - Narrative | the full session]]. |
+| Act II, Session 5 | With nobody else able to swim, Salt held Water Walk in reserve and triggered it the moment a cloaker dropped Pterrence over the lake, turning a drowning into a soft landing. See [[Session 5 - Narrative                     | the full session]]. | Dragged over the water by a cloaker, Salt blew every Athletics check to break the grapple, including a burned Luck Point, and his hood came loose in the struggle. See [[Session 5 - Narrative  | the full session]]. |
+| Act II, Session 6 | Charmed by the Neogi hive-mind for the entire fight and turned against his own allies, Koresh Ironblood still landed the blow that killed the Umber Hulk outright. See [[Session 6 - Narrative                                | the full session]]. | Charmed by the same hive-mind, Babs landed a critical hit and a follow-up strike on her own ally Tarek before the compulsion broke. See [[Session 6 - Narrative                                 | the full session]]. |
+| Act II, Session 7 | Tchk'Tchk's crushing telekinetic field knocked two Neogi prone; Salt followed with Shatter and a psionic shove that hurled the Umber Hulk thirty feet into a prison cage. See [[Session 7 - Narrative                         | the full session]]. | Newly enthralled, Anselem solemnly rang Toll the Dead against Koresh—and dealt exactly one point of damage. See [[Session 7 - Narrative                                                         | the full session]]. |
+| Act II, Session 8 | Tchk'Tchk warped Babs out of a three-Neogi swarm and detonated the space she left behind, killing one and setting up Babs and Anselem to erase the rest. See [[Session 8 - Narrative                                          | the full session]]. | Freed from enthrallment, Kit-Chac immediately tried to attack the Umber Hulk blind, rolled a natural 1, and hit Koresh again anyway. See [[Session 8 - Narrative                                | the full session]]. |
 
-## Latest Session: Act II, Session 7
+## Latest Session: Act II, Session 8
 
-- [[Session 7 - Narrative]]
-- [[Session 7 - Notes]]
+- [[Session 8 - Narrative]]
+- [[Session 8 - Notes]]
 
 
 ## NPCs Encountered This Session
 
-- [[Narek]] - still missing; not positively identified among the preserved dead or prisoners
-- [[Scylla]] - still missing; her ceramic nose jewellery led the search toward the holding pen
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] - fighting in the holding pen
-- [[Koresh Ironblood]] - decapitated a Neogi and is now the enthralled Anselem's target
-- [[Neogi]] - operators of the pantry and holding pen; at least three remain
-- [[Umber Hulk]] - a second specimen remains alive and wounded
+- [[Narek]] - rescued alive, but still conditioned by Mother
+- [[Scylla]] - rescued alive, but still conditioned by Mother
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] - helped guard the rescued scouts
+- [[Koresh Ironblood]] - survived attacks by the Umber Hulk and two enthralled allies
+- [[Neogi]] - holding-pen guards destroyed; hatchlings and the deeper colony remain
+- [[Umber Hulk]] - the second specimen was killed while trying to burrow away
 
 ## Locations This Session
 
-- [[The Cisterns]] - the Neogi pantry and stone-and-chitin holding pen in the unmapped northern tunnels
+- [[The Cisterns]] - the holding pen, hatchling vent and newly entered deeper colony junction
 
 ## Player Characters
 
@@ -64,7 +65,7 @@ The battle is unfinished. One Neogi is dead and the Umber Hulk is wounded, but a
 - [[Kit-Chac]] - Thri-Kreen, Warrior of the Open Hand Monk
 - [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] - Thri-Kreen
 - [[Anselem]] - Fire Urokite
-- [[Salt]] - Water Genasi, Psion
+- [[Salt]] - Psion; passes as human
 
 ## Companions
 
@@ -84,7 +85,7 @@ The battle is unfinished. One Neogi is dead and the Umber Hulk is wounded, but a
 ## Items
 
 - [[The Skull]] - recovered from sand elemental, Act II, Session 4
-- [[Ring of Psionic Resistance]] - House M'Ke signet carried by Derfel, not yet attuned
+- [[Ring of Psionic Resistance]] - House M'Ke signet carried and attuned by Derfel
 
 ## Full Archive
 
