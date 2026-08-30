@@ -39,7 +39,7 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Revived [[Mar]] from unconsciousness with Cure Wounds (20 HP) while two berserking were-boars pressed in.
 - Cast **Crown of Madness** on a green were-boar and marched it into its own ally, killing the orange boar by proxy. The first time the spell has ever landed at this table: "I killed Orange through manipulation. I've never been more proud."
 - Handed [[Ripper]] a cigarette in the shaken, human aftermath, and struck up a running kinship over tobacco.
-- Spent part of the fight rebuilding a Roll20 sheet the platform had eaten mid-session; a couple of rulings went against him while it was sorted out, noted in passing in [[Session 2 - Notes|the session notes]].
+- Spent part of the fight rebuilding a Roll20 sheet the platform had eaten mid-session; a couple of rulings went against him while it was sorted out, noted in passing in [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 2 - Notes|the session notes]].
 
 > [!quote] For the record
 > "History is written by the victors, but I say that history is written by the archivists."

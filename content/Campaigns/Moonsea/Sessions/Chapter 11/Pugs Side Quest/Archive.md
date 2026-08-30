@@ -22,22 +22,22 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 #### Session 1, Escort to Myth Drannor
 
 - [[Session 1 - Escort to Myth Drannor - Narrative|The Narrative]]
-- [[Session 1 - Notes|Session Notes]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 1 - Notes|Session Notes]]
 
 #### Session 2, The Grove of Mercy
 
 - [[Session 2 - The Grove of Mercy - Narrative|The Narrative]]
-- [[Session 2 - Notes|Session Notes]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 2 - Notes|Session Notes]]
 
 #### Session 3, Enter as Guests, Leave as Guardians
 
 - [[Session 3 - Enter as Guests, Leave as Guardians|The Narrative]]
-- [[Session 3 - Notes|Session Notes]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 3 - Notes|Session Notes]]
 
 #### Session 4, The Binder of Long Memory
 
 - [[Session 4 - The Binder of Long Memory|The Narrative]]
-- [[Session 4 - Notes|Session Notes]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 4 - Notes|Session Notes]]
 
 ## All NPCs and Powers
 
