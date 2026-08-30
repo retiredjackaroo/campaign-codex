@@ -10,13 +10,10 @@ tags:
 status: In Phlan
 dg-publish: true
 publish: true
-created: 2026-07-20T00:10:33.171+10:00
-modified: 2026-08-03T00:30:25.941+10:00
 ---
-
 # Pug D'Astibar
 
-![[Campaigns/Moonsea/Assets/Pug D'astibar.jpg]]
+![[Pug D'astibar.jpg]]
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlors Tower|Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
 
@@ -51,3 +48,8 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Saw a cracked rose-white moonstone and flowering moonstone tree pulse beneath another living-city memory, suggesting Myth Drannor's magical reactions are not ordinary wild magic.
 - Proposed removing a chain from a memorial stone in the [[Garden of Long Memory]]: “It's a terrible idea, let's do it.”
 - Was restrained by a captive spirit's magic when [[The Binder of Long Memory]] appeared, then escaped using Heroic Inspiration.
+
+### Session 5, The Price of Memory
+
+- Changed Fireball into a thunderball with his Awakened Spellbook, killing a dust mephit and collapsing a fountain; three captive spirits were also dispersed, though their fate remains uncertain.
+- Fell unconscious in the Binder's battle and survived only because Kjeorn surrendered himself in exchange for the other four companions.

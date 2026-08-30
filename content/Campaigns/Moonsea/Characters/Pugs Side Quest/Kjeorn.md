@@ -7,21 +7,23 @@ tags:
   - pc
   - side-quest
   - pugs-side-quest
-status: Alive
+status: Dead; bound as a shade
 dg-publish: true
 publish: true
-created: 2026-07-20T00:09:20.542+10:00
-modified: 2026-08-03T00:30:25.944+10:00
 ---
-
 # Kjeorn
-![[Campaigns/Moonsea/Assets/Pasted image 20260706144725.png]]
+![[Pasted image 20260706144725.png]]
 An Elf Paladin, played by [[Keithelas Ward|Kei]]'s player as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Keithalas/Keithelas Ward (the same player's main Moonsea character) or Salt (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
 Kjeorn was born and raised in a small, reclusive village of elves deep in a forest somewhere. When he came of age he was sent on a pilgrimage, as most elves in his village did, but quickly found he had little interest in going back home. There was so much to see and do out in the wider world that the thought of returning to that tiny village fills him with dread. Kjeorn is a sweet guy, but very naive and not the shiniest button in the box.
 
-**Status:** Alive
+**Status:** Dead; bound as a shade to the Binder of Long Memory
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
+
+![[Kjeorn Memorial.png]]
+
+> [!caption] Memorial in the Garden of Long Memory
+> *Kjeorn, Paladin of Sylvanus. He stood between his friends and darkness. He gave his soul that they might live. May the forest remember his sacrifice.*
 
 ## Session 1, Escort to Myth Drannor
 
@@ -47,3 +49,10 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 - Survived another attempt to drag him underground, escaped the ankheg's mandibles headfirst and cast Prayer of Healing after the fight.
 - Broke a rusted chain from a memorial stone with his crowbar, drawing out [[The Binder of Long Memory]].
 - Struck the Binder, but wild magic replaced his Shining Smite by teleporting him into the reflecting pool.
+
+## Session 5, The Price of Memory
+
+- Held the line against the Binder and its mephits as the rest of the escort fell.
+- Refused to surrender Pug or any companion when the Binder demanded one soul for the other four lives.
+- Signed the contract himself, freeing Pug, Ripper, Mar and Morwyn at the cost of his own life and free will.
+- Was remade as the Binder's chained shade. [[Sylvanus]] granted him an oak-leaf-shaped inner light and freedom from pain, though not release from bondage.
