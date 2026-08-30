@@ -17,6 +17,7 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
+    "check:site": "tsx scripts/check-site.ts",
     "sync:continue": "node scripts/sync-continue-story.mjs",
     "check:continue": "node scripts/sync-continue-story.mjs --check",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",

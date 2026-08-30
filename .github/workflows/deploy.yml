@@ -44,8 +44,14 @@ jobs:
         run: npx quartz plugin install
       - name: Check Continue the story cards
         run: npm run check:continue
+      - name: Check types and style
+        run: npm run check
+      - name: Test
+        run: npm test
       - name: Build Quartz
         run: npx quartz build
+      - name: Validate generated site
+        run: npm run check:site
       - name: Version social preview images
         run: node scripts/version-og-urls.mjs public
       - name: Upload artifact
