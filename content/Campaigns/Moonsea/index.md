@@ -16,11 +16,8 @@ tags:
   - moc
 dg-publish: true
 publish: true
-created: 2026-07-20T00:14:00.943+10:00
-modified: 2026-08-03T00:37:11.190+10:00
 ---
-
-![[Campaigns/Moonsea/Assets/Pasted image 20260622200441.png]]
+![[Pasted image 20260622200441.png]]
 
 Home page for the campaign wiki. This page always reflects the latest session only — for the full history, see the [[Campaigns/Moonsea/Archive|Archive]].
 
@@ -28,7 +25,7 @@ Home page for the campaign wiki. This page always reflects the latest session on
 
 The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been sent by the Lord Sage and Cassra Brandywine to reach Yarish's Pyramid on Sorcerors Isle before the Cult of the Dragon gets there, find the missing Zhentarim agent Thylren Saj, and stop the spreading corruption. Travelling east through Kabel's Hill, they boarded James Cel's keelboat The Arbitus, only to be ambushed mid-river by the half-dragon Vurthak, a fight still live as of the latest session. Pug D'Astibar has stayed behind in Phlan on business of his own, reachable only by Sending.
 
-![[Campaigns/Moonsea/Assets/Pasted image 20260715144552.png]]
+![[Pasted image 20260715144552.png]]
 ## Hall of Fame
 
 | Session | Biggest Success | Funniest Mistake |
@@ -136,9 +133,9 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ## Side Quests
 
-![[Campaigns/Moonsea/Assets/Pugs side quest team.png]]
+![[Pugs side quest team.png]]
 
-**Pug's Side Quest: Enter Myth Drannor** — Pug and his escort defeated the ankhegs, followed the sound of chains into the Garden of Long Memory and broke a chain from a memorial. They are now fighting the Binder of Long Memory and trying to free the five spirits bound to him.
+**Pug's Side Quest: The Price of Memory** — Pug's escort survived the Binder of Long Memory only because Kjeorn freely gave his life and soul for the other four. The survivors will wake in the garden while the Binder has gone, dragging Kjeorn's shade with it.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 

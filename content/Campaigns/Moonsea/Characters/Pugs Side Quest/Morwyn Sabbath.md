@@ -12,13 +12,10 @@ tags:
 status: Alive
 dg-publish: true
 publish: true
-created: 2026-07-20T10:39:37.513+10:00
-modified: 2026-08-03T00:30:25.951+10:00
 ---
-
 # Morwyn Sabbath
 
-![[Campaigns/Moonsea/Assets/Morwyn Sabbath.png]]
+![[Morwyn Sabbath.png]]
 
 A High Elf College of Lore Bard, played by [[Jaag Nixon]]'s player as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Jaag Nixon (the same player's main Moonsea character) or Derfel (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
@@ -59,3 +56,9 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Rode Mar above the garden and returned through the canopy performing “Danger Zone.”
 - Turned “All Along the Watchtower” into a deliberately discordant performance for an upcast Dissonant Whispers against the Binder, then used Cutting Words to spoil one chain attack against Mar.
 - Ended prone beside Mar after the Binder dragged them from the air.
+
+## Session 5, The Price of Memory
+
+- Cast Crown of Madness on the Binder, but the attempt instead triggered a catastrophic memory of the garden's fall; he escaped the melee with Misty Step.
+- Fought through the collapse until he was knocked unconscious.
+- Survived because Kjeorn accepted the Binder's contract in place of the other four escorts.
