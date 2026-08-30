@@ -38,7 +38,7 @@ The escort fought [[The Binder of Long Memory]] in the [[Garden of Long Memory]]
 ## Latest Session (Session 5)
 
 - [[Session 5 - The Price of Memory|The Narrative]]
-- [[Session 5 - Notes|Session Notes]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 5 - Notes|Session Notes]]
 
 For Sessions 1–4, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
 
