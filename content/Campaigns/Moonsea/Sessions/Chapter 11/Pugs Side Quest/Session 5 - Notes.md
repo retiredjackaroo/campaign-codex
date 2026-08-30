@@ -26,6 +26,7 @@ The combat begun in Session 4 ended in disaster narrowly averted. The escort fou
 - Kjeorn struck a magma mephit, had Bullshit gore another, shielded the party and held the final line when everyone else fell.
 - Mar dropped Wild Shape but remained chained; she used Barkskin and Guiding Bolt while resisting the Binder's control.
 - Morwyn's Crown of Madness triggered a catastrophic memory of the garden's fall rather than affecting the Binder; he escaped with Misty Step.
+- Morwyn destroyed Blue, a dust mephit, with Vicious Mockery: first its hygiene (“you smell like Ripper's socks”), then a whispered performance review, performance-improvement plan and threat of dismissal. Blue screamed itself into ash and dust.
 - Pug changed Fireball into thunder damage with his Awakened Spellbook. The thunderball destroyed a fountain, killed a dust mephit and dispersed three captive spirits. Their ultimate fate is unknown.
 - The Binder dragged Mar and Ripper, used chained spirits to terrorise the party, and repeatedly offered a deal for one captive companion.
 - The group dealt roughly 100 damage in one decisive round after the spirits no longer supported the Binder, but could not finish him.
