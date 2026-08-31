@@ -15,7 +15,7 @@ Freed from imprisonment at [[The Lyceum]]. Stayed in [[Phlan]] alongside [[Levit
 
 - Speaks politely, softly, often apologetically
 
-- Treats violence as _an unfortunate business necessity_
+- Treats violence as *an unfortunate business necessity*
 
 - Refers to murders as “clean-ups” or “rearrangements”
 

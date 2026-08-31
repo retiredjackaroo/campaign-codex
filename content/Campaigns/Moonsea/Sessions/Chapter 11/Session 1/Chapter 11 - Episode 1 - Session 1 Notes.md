@@ -10,7 +10,7 @@ tags:
 
 **Session Notes: Chapter 11, Episode 1, Session 1**
 
-**"****Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerors Isle]]****"**
+**"\*\***Strategic Planning, Refugee Camp Operations, and the Mission to [[Sorcerors Isle]]\***\*"**
 
 **Summary:** The party, in exile with [[Lord Hector]]'s refugees in the [[Ring Islands]], is summoned to [[Denlors Tower|Denlor's Tower]] by [[Cassra Brandywine]]. There [[The Lord Sage]] and the vampire [[Welsea Parenthe]] task them with reaching [[Yarishs Pyramid|Yarish's Pyramid]] on [[Sorcerors Isle]] ahead of the [[Cult of the Dragon]], finding the Zhentarim agent [[Thylren Saj]], and stopping the spreading corruption. Travelling via [[Kabels Hill|Kabel's Hill]], they board [[James Cel]]'s keelboat [[The Arbitus]] and are caught mid-river by the half-dragon [[Vurthak]].
 
@@ -70,7 +70,7 @@ The party was summoned to **Lord Hector's War Council tent**, a heavily guarded 
 
 Waiting with Hector was **[[Cassra Brandywine]]**, a cherubic halfling in travelling clothes whom the party recognised as Pug's direct supervisor at Mantor's Library. She informed the party that the Lord Sage needed to meet with them urgently at **Denlor's Tower**, that very night at midnight, to share concerning intelligence about the cult's activities outside Phlan.
 
-She provided a **crystal shard** to reveal the door in the outer wall of the tower (beyond the city wall, across from the Lyceum). The password to open the door: **"****Mountain Laurel.****"**
+She provided a **crystal shard** to reveal the door in the outer wall of the tower (beyond the city wall, across from the Lyceum). The password to open the door: **"\*\***Mountain Laurel.\***\*"**
 
 Arrangements: loyal Blackfist on the Lyceum wall watch, and the Welcomers creating a diversion inside the city, would allow safe entry and exit. Hector offered what provisioning he could spare. The party took healing potions, two doses of antidote (for basic poisons, noting the swamp camp's snake-bite problem), some torches and basic supplies, and found two unusual magical arrows in the equipment stores. [[Jaag Nixon]] spotted them thanks to a high Investigation roll (natural 20):
 
