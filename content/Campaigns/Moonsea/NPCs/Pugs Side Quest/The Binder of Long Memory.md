@@ -7,6 +7,7 @@ status: Active; departed with Kjeorn's shade
 dg-publish: true
 publish: true
 ---
+
 # The Binder of Long Memory
 
 ![[The Binder of Long Memory.png]]

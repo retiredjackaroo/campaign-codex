@@ -4,15 +4,15 @@ The site keeps campaign content in `content/` and presentation in small Sass mod
 
 ## Where things live
 
-| What you want to change | File |
-| --- | --- |
-| Homepage words, cards and destinations | `content/index.md` |
+| What you want to change                  | File                                      |
+| ---------------------------------------- | ----------------------------------------- |
+| Homepage words, cards and destinations   | `content/index.md`                        |
 | Shared colours, typography and mastheads | `quartz/styles/campaign/_foundation.scss` |
 | Site crest, sidebar, search and Explorer | `quartz/styles/campaign/_navigation.scss` |
-| Homepage cards and sections | `quartz/styles/campaign/_homepage.scss` |
-| Tablet and mobile behavior | `quartz/styles/campaign/_responsive.scss` |
-| Crest artwork | `quartz/static/codex-crest.svg` |
-| Enabled Quartz features and site name | `quartz.config.default.yaml` |
+| Homepage cards and sections              | `quartz/styles/campaign/_homepage.scss`   |
+| Tablet and mobile behavior               | `quartz/styles/campaign/_responsive.scss` |
+| Crest artwork                            | `quartz/static/codex-crest.svg`           |
+| Enabled Quartz features and site name    | `quartz.config.default.yaml`              |
 
 `quartz/styles/custom.scss` is only the entry point that imports these modules. Keep it small.
 

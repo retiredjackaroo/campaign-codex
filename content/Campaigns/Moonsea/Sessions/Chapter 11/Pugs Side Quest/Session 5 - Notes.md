@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - Notes
 
-*Chapter 11, Side Quest, Session 5*
+_Chapter 11, Side Quest, Session 5_
 
 The combat begun in Session 4 ended in disaster narrowly averted. The escort fought the Binder and its mephits in the [[Garden of Long Memory]], but every member except [[Kjeorn]] fell. Kjeorn freely exchanged his life and soul for the lives and liberty of Pug, Ripper, Mar and Morwyn. See [[Session 5 - The Price of Memory|the narrative]].
 

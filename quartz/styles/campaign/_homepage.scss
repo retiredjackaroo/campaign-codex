@@ -3,8 +3,7 @@
 body[data-slug="index"]::before {
   height: 27rem;
   background-image:
-    linear-gradient(to bottom, rgba(10, 12, 12, 0.32), var(--light) 100%),
-    var(--campaign-masthead);
+    linear-gradient(to bottom, rgba(10, 12, 12, 0.32), var(--light) 100%), var(--campaign-masthead);
 }
 
 body[data-slug="index"] .right.sidebar {
@@ -111,7 +110,10 @@ body[data-slug="index"] .center > hr {
   box-shadow: 0 10px 28px color-mix(in srgb, #000 10%, transparent);
   text-decoration: none;
   transform: translateY(0);
-  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
 }
 
 .campaign-card:hover,
@@ -199,7 +201,10 @@ body[data-slug="index"] .center > hr {
   border: 1px solid var(--codex-border);
   border-radius: 12px;
   text-decoration: none;
-  transition: background 150ms ease, border-color 150ms ease, transform 150ms ease;
+  transition:
+    background 150ms ease,
+    border-color 150ms ease,
+    transform 150ms ease;
 }
 
 .resume-card:hover {

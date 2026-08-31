@@ -5,6 +5,7 @@ tags: [npc, alliance, dark-sun, rescued]
 dg-publish: true
 publish: true
 ---
+
 # Narek
 
 **Status:** Rescued; hive-conditioned
@@ -18,6 +19,7 @@ Narek was not encountered directly, and no trace of him specifically has yet bee
 **Session 8:** Found alive among eight prisoners in the Neogi holding pen. Narek and the others were physically capable but deeply conditioned by the hive, repeatedly referring to Mother and asking whether they were being transferred. [[Salt]] convinced them that Mother had ordered their relocation and led them out without casualties. Narek is rescued, but his mental condition remains unresolved.
 
 ## Related
+
 - [[Scylla]] – fellow missing scout
 - [[The Alliance]]
 - [[The Hidden Spring]]

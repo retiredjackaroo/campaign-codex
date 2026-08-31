@@ -5,6 +5,7 @@ status: Carried by Derfel; attuned
 dg-publish: true
 publish: true
 ---
+
 # Ring of Psionic Resistance
 
 ![[Ring of Psionic Resistance.png]]

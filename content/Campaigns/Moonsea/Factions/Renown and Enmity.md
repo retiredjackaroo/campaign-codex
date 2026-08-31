@@ -16,23 +16,23 @@ A running tally of where the party (and individual members) stand with the power
 
 ## Party standings
 
-| Faction | Standing | Confirmed? |
-|---|---|---|
-| [[Blackfist]] | Renown | Confirmed |
-| [[Cult of the Dragon]] | Enmity | Confirmed |
-| [[Harpers]] | Renown or enmity unknown | To confirm |
+| Faction                                     | Standing                 | Confirmed? |
+| ------------------------------------------- | ------------------------ | ---------- |
+| [[Blackfist]]                               | Renown                   | Confirmed  |
+| [[Cult of the Dragon]]                      | Enmity                   | Confirmed  |
+| [[Harpers]]                                 | Renown or enmity unknown | To confirm |
 | [[The Lords Alliance\|The Lords' Alliance]] | Renown or enmity unknown | To confirm |
-| [[Emerald Enclave]] | Renown or enmity unknown | To confirm |
-| [[The Order of the Gauntlet]] | Renown or enmity unknown | To confirm |
-| [[Zhentarim]] | Renown or enmity unknown | To confirm |
-| [[Mantors Library\|Mantor's Library]] | Renown or enmity unknown | To confirm |
+| [[Emerald Enclave]]                         | Renown or enmity unknown | To confirm |
+| [[The Order of the Gauntlet]]               | Renown or enmity unknown | To confirm |
+| [[Zhentarim]]                               | Renown or enmity unknown | To confirm |
+| [[Mantors Library\|Mantor's Library]]       | Renown or enmity unknown | To confirm |
 
 ## Iltiza Ward (Tiz)
 
-| Faction | Standing | Confirmed? |
-|---|---|---|
-| [[Church of Selune]] | Renown; serves as a High Priest | Rank to confirm |
-| [[Church of Shar]] | Enmity; an enemy of the church | Confirmed; standing order to neutralise her |
+| Faction              | Standing                        | Confirmed?                                  |
+| -------------------- | ------------------------------- | ------------------------------------------- |
+| [[Church of Selune]] | Renown; serves as a High Priest | Rank to confirm                             |
+| [[Church of Shar]]   | Enmity; an enemy of the church  | Confirmed; standing order to neutralise her |
 
 ## Notes
 

@@ -12,7 +12,7 @@ publish: true
 
 # Session 4 - Notes
 
-*Chapter 11, Side Quest, Session 4*
+_Chapter 11, Side Quest, Session 4_
 
 ![[Campaigns/Moonsea/Assets/Pugs Side Quest Thumbnail.png]]
 
@@ -42,7 +42,7 @@ The escort finished the ankheg battle, followed the sound of chains into the [[G
 ![[Campaigns/Moonsea/Assets/Pugs Memory - Coronal Day.png]]
 
 - The garden showed a memory of families gathering for a celebration involving the Coronal.
-- Herschel partially read Eliana Starblue's memorial: “gardener and friend”; only *flower*, *song* and *crumble* survived from its poem.
+- Herschel partially read Eliana Starblue's memorial: “gardener and friend”; only _flower_, _song_ and _crumble_ survived from its poem.
 - Kjeorn broke the chains around another memorial with a crowbar.
 
 ![[Campaigns/Moonsea/Assets/The Binder of Long Memory.png]]

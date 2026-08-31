@@ -5,7 +5,10 @@ const homepage = new URL("../content/index.md", import.meta.url)
 const sources = [
   new URL("../content/Campaigns/Moonsea/index.md", import.meta.url),
   new URL("../content/Campaigns/Dark Sun/index.md", import.meta.url),
-  new URL("../content/Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/index.md", import.meta.url),
+  new URL(
+    "../content/Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/index.md",
+    import.meta.url,
+  ),
 ]
 const start = "<!-- continue-story:start -->"
 const end = "<!-- continue-story:end -->"
@@ -35,7 +38,8 @@ async function readCard(url) {
   )
   const required = ["label", "title", "summary", "card", "href", "ariaLabel", "imageAlt"]
   const missing = required.filter((field) => !card?.[field])
-  if (missing.length) throw new Error(`Missing continueStory.${missing.join(", continueStory.")} in ${url.pathname}`)
+  if (missing.length)
+    throw new Error(`Missing continueStory.${missing.join(", continueStory.")} in ${url.pathname}`)
   return card
 }
 
@@ -54,7 +58,8 @@ const cards = await Promise.all(sources.map(readCard))
 const current = await fs.readFile(homepage, "utf8")
 const replacement = `${start}\n${cards.map(render).join("\n")}\n${end}`
 const pattern = new RegExp(`${start}[\\s\\S]*?${end}`)
-if (!pattern.test(current)) throw new Error("Continue-the-story markers are missing from content/index.md")
+if (!pattern.test(current))
+  throw new Error("Continue-the-story markers are missing from content/index.md")
 const updated = current.replace(pattern, replacement)
 
 if (process.argv.includes("--check")) {

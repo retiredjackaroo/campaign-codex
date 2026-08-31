@@ -4,6 +4,7 @@ tags: [location, myth-drannor, side-quest]
 dg-publish: true
 publish: true
 ---
+
 # Garden of Long Memory
 
 ![[Campaigns/Moonsea/Assets/Garden of Long Memory.png]]

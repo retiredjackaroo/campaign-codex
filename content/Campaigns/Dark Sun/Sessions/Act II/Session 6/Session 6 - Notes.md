@@ -39,24 +39,24 @@ Five of seven party members were active this session. **[[Kit-Chac]] and [[Tchk 
 
 ## NPCs encountered
 
-| NPC | Status | Notes |
-|-----|--------|-------|
-| [[Tarek Cricket Silvertwig\|Tarek "Cricket" Silvertwig]] | Alive | Led the scouting expedition; scraped cavern growth into a flask as a gift for [[Nisat of the Cavern Moss]]; briefly knocked prone fleeing blind in the fog; took a claw hit and a hit from friendly fire while [[Babs\|Her]] was charmed |
-| [[Koresh Ironblood]] | Alive | Came along at his own insistence; charmed by the Neogi hive-mind for the whole fight and made to attack [[Derfel]] (natural 20 shield bash); still landed the blow that killed the [[Umber Hulk]] |
-| Narek | Missing | New. Human male Alliance scout, missing with Scylla; not encountered directly this session |
-| Scylla | Missing | New. Elven female Alliance scout; her torn clothing was found, and Tarek later confirmed she wore a ceramic nose piercing, intended as an identifying detail for a future Locate Object attempt |
-| Squeaky | Alive | New stub. [[Pterrence]]'s familiar (a bat), used repeatedly for blindsight vision through the fog and to scout ahead |
+| NPC                                                      | Status  | Notes                                                                                                                                                                                                                                    |
+| -------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Tarek Cricket Silvertwig\|Tarek "Cricket" Silvertwig]] | Alive   | Led the scouting expedition; scraped cavern growth into a flask as a gift for [[Nisat of the Cavern Moss]]; briefly knocked prone fleeing blind in the fog; took a claw hit and a hit from friendly fire while [[Babs\|Her]] was charmed |
+| [[Koresh Ironblood]]                                     | Alive   | Came along at his own insistence; charmed by the Neogi hive-mind for the whole fight and made to attack [[Derfel]] (natural 20 shield bash); still landed the blow that killed the [[Umber Hulk]]                                        |
+| Narek                                                    | Missing | New. Human male Alliance scout, missing with Scylla; not encountered directly this session                                                                                                                                               |
+| Scylla                                                   | Missing | New. Elven female Alliance scout; her torn clothing was found, and Tarek later confirmed she wore a ceramic nose piercing, intended as an identifying detail for a future Locate Object attempt                                          |
+| Squeaky                                                  | Alive   | New stub. [[Pterrence]]'s familiar (a bat), used repeatedly for blindsight vision through the fog and to scout ahead                                                                                                                     |
 
 ## Factions
 
-| Faction | Activity |
-|---------|----------|
+| Faction          | Activity                                                                                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Alliance]] | Sent the party on its first real test of trust: searching for two overdue scouts. Word of [[Salt]]'s true nature has spread among the sanctuary's refugees, though no one has raised it with him directly |
 
 ## Locations visited
 
-| Location | Notes |
-|----------|-------|
+| Location         | Notes                                                                                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Cisterns]] | The party travelled further north than previously mapped, into unexplored tunnels beyond [[The Hidden Spring]]'s territory, encountering a biologically-resined chamber and the Umber Hulk/Neogi ambush |
 
 ![[Northern Tunnels.png]]

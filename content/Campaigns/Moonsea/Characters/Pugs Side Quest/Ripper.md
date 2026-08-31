@@ -10,7 +10,9 @@ status: Alive (shaken)
 dg-publish: true
 publish: true
 ---
+
 # Ripper
+
 ![[Pasted image 20260706144659.png]]
 A Half-Elf Hollow Warden Ranger, played by [[Lavinia Zafir]]'s player as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Lavinia Zafir (the same player's main Moonsea character) or Pterrence (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 

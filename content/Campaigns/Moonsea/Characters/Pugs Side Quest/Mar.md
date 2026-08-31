@@ -10,7 +10,9 @@ status: Alive
 dg-publish: true
 publish: true
 ---
+
 # Mar
+
 ![[Pasted image 20260706144808.png]]
 A Centaur Circle of the Stars Druid, played by [[Iltiza Ward|Tiz]]'s player (recorded as "Soup" in the raw session notes) as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Iltiza Ward (the same player's main Moonsea character) or Her (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 

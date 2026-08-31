@@ -12,7 +12,9 @@ status: Alive
 dg-publish: true
 publish: true
 ---
+
 # Koresh Ironblood
+
 A mole warrior (fighter) and one of the four officers of the [[The Alliance|Alliance]] cell at [[The Hidden Spring]]. Stocky, dressed in plain travel leathers and carrying a crossbow. Terse and unshakable by day, he speaks little and acts directly; words leave him unmoved, and it is actions, not oaths, that earn his respect. He has been seen to step in front of danger on instinct. At night his sleep is disturbed by sudden wails from his dreams, a shattering contrast to the composed man the party sees in daylight.
 
 When the party first arrived he sized them up in silence. He later offered to take them out onto the aquifer to search for two overdue Alliance scouts, framing it plainly as a test of whether they were as capable as they looked, and a step toward the Alliance trusting them enough to help free [[Korno]].

@@ -12,7 +12,7 @@ publish: true
 
 # Session 4 - The Binder of Long Memory
 
-*Chapter 11, Side Quest, Session 4*
+_Chapter 11, Side Quest, Session 4_
 
 ## Out of the Tunnels
 
@@ -70,7 +70,7 @@ The garden remembered itself for them. Paths gleamed, fountains leapt and famili
 
 The silver breeze returned. The people vanished. Only the fountains continued, waiting for families who never came home.
 
-Herschel deciphered part of one memorial: **Eliana Starblue, gardener and friend**. Its broken poem preserved only three reliable words—*flower*, *song* and *crumble*.
+Herschel deciphered part of one memorial: **Eliana Starblue, gardener and friend**. Its broken poem preserved only three reliable words—_flower_, _song_ and _crumble_.
 
 Pug proposed removing a chain from another marker. Kjeorn tried to unwind it, then used a crowbar. The rusted iron snapped and fell around the stone with a clatter.
 

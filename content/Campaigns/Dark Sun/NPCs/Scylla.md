@@ -5,6 +5,7 @@ tags: [npc, alliance, dark-sun, rescued]
 dg-publish: true
 publish: true
 ---
+
 # Scylla
 
 **Status:** Rescued; hive-conditioned
@@ -18,6 +19,7 @@ A scrap of Scylla's torn clothing was found snagged on rock in the tunnels she a
 **Session 8:** Found alive with Narek among eight prisoners in the Neogi holding pen. She remained obedient to the hive, asking why Mother had sent them away, but followed [[Salt]] and was removed from the chamber without injury. She is rescued, though her connection to Mother persists.
 
 ## Related
+
 - [[Narek]] – fellow missing scout
 - [[The Alliance]]
 - [[The Hidden Spring]]

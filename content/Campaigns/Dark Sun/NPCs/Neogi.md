@@ -6,6 +6,7 @@ status: Encountered
 dg-publish: true
 publish: true
 ---
+
 # Neogi
 
 ![[Neogi.png]]

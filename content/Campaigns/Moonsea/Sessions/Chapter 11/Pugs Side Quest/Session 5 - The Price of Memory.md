@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - The Price of Memory
 
-*Chapter 11, Side Quest, Session 5*
+_Chapter 11, Side Quest, Session 5_
 
 ## The Garden Fights Back
 

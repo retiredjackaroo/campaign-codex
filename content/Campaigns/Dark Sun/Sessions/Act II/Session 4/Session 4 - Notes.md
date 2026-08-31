@@ -44,29 +44,29 @@ All seven party members were active this session:
 
 ## NPCs encountered
 
-| NPC | Status | Notes |
-|-----|--------|-------|
-| [[Korno]] | Captured | Taken prisoner by Templars; safe house overrun before the party arrived |
-| [[Leviath]] | Alive | Found by [[Derfel]] guarding refugees in a hidden hollow; revealed [[The Alliance]] |
-| [[Cricket]] | Alive | Among the refugees rescued earlier from the child-trafficking gang |
+| NPC         | Status   | Notes                                                                               |
+| ----------- | -------- | ----------------------------------------------------------------------------------- |
+| [[Korno]]   | Captured | Taken prisoner by Templars; safe house overrun before the party arrived             |
+| [[Leviath]] | Alive    | Found by [[Derfel]] guarding refugees in a hidden hollow; revealed [[The Alliance]] |
+| [[Cricket]] | Alive    | Among the refugees rescued earlier from the child-trafficking gang                  |
 
 ![[Campaigns/Dark Sun/Assets/Cricket.png]]
 
 ## Factions
 
-| Faction | Activity |
-|---------|----------|
-| [[The Templars]] | Consolidating control of the slums; 50+ in the plaza, patrols of 6 to 8 |
-| [[Noble House Soldiers]] | Embedded with Templar patrols |
-| [[Dregoth Cultists]] | Detected the party descending the well; dropped the elemental skull rather than send soldiers |
-| [[The Alliance]] | Revealed by Leviath; sanctuary beneath [[Raam]]'s cistern system |
+| Faction                  | Activity                                                                                      |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| [[The Templars]]         | Consolidating control of the slums; 50+ in the plaza, patrols of 6 to 8                       |
+| [[Noble House Soldiers]] | Embedded with Templar patrols                                                                 |
+| [[Dregoth Cultists]]     | Detected the party descending the well; dropped the elemental skull rather than send soldiers |
+| [[The Alliance]]         | Revealed by Leviath; sanctuary beneath [[Raam]]'s cistern system                              |
 
 ## Locations visited
 
-| Location | Notes |
-|----------|-------|
-| [[The Slums]] | Ruined after the tear storm; now a near-impassable maze of rubble |
-| [[The Plaza]] | Templar field camp; 50+ soldiers; central well judged too dangerous |
+| Location         | Notes                                                                          |
+| ---------------- | ------------------------------------------------------------------------------ |
+| [[The Slums]]    | Ruined after the tear storm; now a near-impassable maze of rubble              |
+| [[The Plaza]]    | Templar field camp; 50+ soldiers; central well judged too dangerous            |
 | [[The Cisterns]] | Reached via the outer well near the city walls; [[The Alliance]] operates here |
 
 ## Combat: the Sand Elemental, successes and failures

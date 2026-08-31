@@ -89,11 +89,11 @@ Several players had vision drop out briefly during the fight (a technical glitch
 
 **Key NPCs This Session**
 
-| **NPC** | **Role** | **Status** |
-| --- | --- | --- |
-| [[Elminster]] | Archmage of [[Shadowdale]] | At his tower |
-| [[Sylune]] | Spectral woman in Elminster's tower | Alive, as a spectral presence |
-| [[Nick Timoney]] | Pug's owl familiar | Alive, scouting |
+| **NPC**          | **Role**                            | **Status**                    |
+| ---------------- | ----------------------------------- | ----------------------------- |
+| [[Elminster]]    | Archmage of [[Shadowdale]]          | At his tower                  |
+| [[Sylune]]       | Spectral woman in Elminster's tower | Alive, as a spectral presence |
+| [[Nick Timoney]] | Pug's owl familiar                  | Alive, scouting               |
 
 **Loose Threads and Things to Remember**
 

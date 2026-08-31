@@ -8,7 +8,9 @@ status: Alive (Elf, Ranger 4, Beast Master)
 dg-publish: true
 publish: true
 ---
+
 # Derfel
+
 ![[Pasted image 20260627123854.png]]
 An Elf Beast Master Ranger. Outlander background. Carries a Longbow and twin Shortswords +1. Defined by his bond with his companion dog [[Brave]], the third in a line following [[Dave]] and [[Maeve]]. Quietly protective of Brave in a way that is deliberate rather than sentimental: he has learned the cost.
 

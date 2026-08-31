@@ -196,17 +196,17 @@ The session ended mid-combat at midnight (in real time) with:
 
 **Key NPCs This Session**
 
-| **NPC** | **Role** | **Status** |
-| --- | --- | --- |
-| [[Lord Hector]] | [[Lord Hector\|Lord Commander]], leader of the refugee camp | At camp in the [[Ring Islands]] |
-| [[Cassra Brandywine]] | Halfling, [[Pug DAstibar\|Pug D'Astibar]]'s supervisor at [[Mantors Library\|Mantor's Library]] | Alive; delivered the summons |
-| [[The Lord Sage]] | Head of [[Mantors Library\|Mantor's Library]]; resistance contact | In [[Phlan]]; clandestine |
-| [[Welsea Parenthe]] | Vampire; Viper of the [[Zhentarim]] | Present at [[Denlors Tower\|Denlor's Tower]] meeting |
-| [[Thylren Saj]] | [[Zhentarim]] agent embedded in cult expedition | Location unknown; has a one-way [[Thylrens Sending Ring\|sending ring]] |
-| [[Cassyt]] | Former novice of the [[Church of Kellenwar]] | Guided the party out of the city |
-| [[Riek]] | Local boy; [[Kabels Hill\|Kabel's Hill]] contact | At [[Kabels Hill\|Kabel's Hill]] |
-| [[James Cel]] | Riverman; captain of the [[The Arbitus\|Arbitus]] | Fighting [[Vurthak]] on deck |
-| [[Vurthak]] | Half-dragon; commands the [[Burning Banner]] | Mid-combat; bloodied |
+| **NPC**               | **Role**                                                                                        | **Status**                                                              |
+| --------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [[Lord Hector]]       | [[Lord Hector\|Lord Commander]], leader of the refugee camp                                     | At camp in the [[Ring Islands]]                                         |
+| [[Cassra Brandywine]] | Halfling, [[Pug DAstibar\|Pug D'Astibar]]'s supervisor at [[Mantors Library\|Mantor's Library]] | Alive; delivered the summons                                            |
+| [[The Lord Sage]]     | Head of [[Mantors Library\|Mantor's Library]]; resistance contact                               | In [[Phlan]]; clandestine                                               |
+| [[Welsea Parenthe]]   | Vampire; Viper of the [[Zhentarim]]                                                             | Present at [[Denlors Tower\|Denlor's Tower]] meeting                    |
+| [[Thylren Saj]]       | [[Zhentarim]] agent embedded in cult expedition                                                 | Location unknown; has a one-way [[Thylrens Sending Ring\|sending ring]] |
+| [[Cassyt]]            | Former novice of the [[Church of Kellenwar]]                                                    | Guided the party out of the city                                        |
+| [[Riek]]              | Local boy; [[Kabels Hill\|Kabel's Hill]] contact                                                | At [[Kabels Hill\|Kabel's Hill]]                                        |
+| [[James Cel]]         | Riverman; captain of the [[The Arbitus\|Arbitus]]                                               | Fighting [[Vurthak]] on deck                                            |
+| [[Vurthak]]           | Half-dragon; commands the [[Burning Banner]]                                                    | Mid-combat; bloodied                                                    |
 
 **Loose Threads and Things to Remember**
 

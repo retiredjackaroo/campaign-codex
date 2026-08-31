@@ -8,7 +8,9 @@ status: Alive (Fire Urokite)
 dg-publish: true
 publish: true
 ---
+
 # Anselem
+
 ![[Pasted image 20260630164615.png]]
 
 A Fire Urokite, the Dark Sun equivalent of a fire genasi. On Athas, where defiling magic has scorched the land and elemental forces are venerated as the primary alternative to the sorcerer-kings, a being of elemental fire carries both power and political weight.

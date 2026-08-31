@@ -58,7 +58,9 @@ body::before {
 .page-title,
 .article-title,
 .breadcrumb-container {
-  text-shadow: 0 1px 10px var(--light), 0 1px 2px var(--light);
+  text-shadow:
+    0 1px 10px var(--light),
+    0 1px 2px var(--light);
 }
 
 /* Prevent grid children and long wiki names from forcing horizontal overflow. */
@@ -155,7 +157,9 @@ body[data-slug="campaigns/dark-sun"] .table-container td {
 a {
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
-  transition: color 0.15s ease, text-decoration-thickness 0.15s ease;
+  transition:
+    color 0.15s ease,
+    text-decoration-thickness 0.15s ease;
 }
 
 a:hover {

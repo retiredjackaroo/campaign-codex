@@ -13,7 +13,9 @@ tags:
 
 **XP awarded:** ~860 per character (GM-reported totals varied slightly between 850 and 860 across characters in the session; treat as approximate)
 ![[Campaigns/Dark Sun/Sessions/Act II/Session 5/Assets/Pasted image 20260712141419.png]]
-_The Roll20 map of the ledge crossing: the party, [[Leviath]] and the refugee column strung out single file above the aquifer lake._
+_The Roll20 map of the ledge crossing: the party, [[Leviath]]
+
+ and the refugee column strung out single file above the aquifer lake._
 
 ## Summary
 
@@ -37,26 +39,26 @@ Five of seven party members were active this session. **[[Derfel]] and [[Anselem
 
 ## NPCs encountered
 
-| NPC | Status | Notes |
-|-----|--------|-------|
-| [[Leviath]] | Alive | Led the party and refugees to [[The Hidden Spring]]; grappled by a cloaker and freed by [[Kit-Chac]]; ended the cloaker fight with a calming pulse |
-| [[Sarath]] | Alive | New. Human preserver, leader of the Hidden Spring cell |
-| [[Nisat of the Cavern Moss]] | Alive | New. Half-elf druid of the spores, one of the cell's four officers |
-| [[Koresh Ironblood]] | Alive | New. Mole warrior, one of the cell's four officers; offers to bring the party on the scout search |
-| [[Tarek Cricket Silvertwig\|Tarek "Cricket" Silvertwig]] | Alive | New. Halfling ranger, one of the cell's four officers. **Name collision flag:** distinct from the existing [[Cricket]] (the child NPC from Shazlim Oasis); the transcript itself lampshades this coincidence |
+| NPC                                                      | Status | Notes                                                                                                                                                                                                        |
+| -------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Leviath]]                                              | Alive  | Led the party and refugees to [[The Hidden Spring]]; grappled by a cloaker and freed by [[Kit-Chac]]; ended the cloaker fight with a calming pulse                                                           |
+| [[Sarath]]                                               | Alive  | New. Human preserver, leader of the Hidden Spring cell                                                                                                                                                       |
+| [[Nisat of the Cavern Moss]]                             | Alive  | New. Half-elf druid of the spores, one of the cell's four officers                                                                                                                                           |
+| [[Koresh Ironblood]]                                     | Alive  | New. Mole warrior, one of the cell's four officers; offers to bring the party on the scout search                                                                                                            |
+| [[Tarek Cricket Silvertwig\|Tarek "Cricket" Silvertwig]] | Alive  | New. Halfling ranger, one of the cell's four officers. **Name collision flag:** distinct from the existing [[Cricket]] (the child NPC from Shazlim Oasis); the transcript itself lampshades this coincidence |
 
 ## Factions
 
-| Faction | Activity |
-|---------|----------|
-| [[The Alliance]] | Revealed in greater depth: ten-member cell at [[The Hidden Spring]], four officers, five founding aims. Two scouts overdue from an unexplored stretch of the aquifer |
-| [[Dregoth Cultists]] | Origin of the destroyed skull; not directly encountered this session |
+| Faction              | Activity                                                                                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Alliance]]     | Revealed in greater depth: ten-member cell at [[The Hidden Spring]], four officers, five founding aims. Two scouts overdue from an unexplored stretch of the aquifer |
+| [[Dregoth Cultists]] | Origin of the destroyed skull; not directly encountered this session                                                                                                 |
 
 ## Locations visited
 
-| Location | Notes |
-|----------|-------|
-| [[The Cisterns]] | Party travelled further through the tunnel network, including a large aquifer lake not previously mapped |
+| Location              | Notes                                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [[The Cisterns]]      | Party travelled further through the tunnel network, including a large aquifer lake not previously mapped         |
 | [[The Hidden Spring]] | New. Concealed Alliance sanctuary beyond a psionically-sealed rock wall; entered for the first time this session |
 
 ![[Campaigns/Dark Sun/Assets/The Hidden Spring cell.png]]

@@ -14,6 +14,7 @@ modified: 2026-08-03T00:30:25.946+10:00
 ---
 
 # Herschel Blackroot
+
 ![[Campaigns/Moonsea/Assets/Pasted image 20260706144739.png]]
 A Forest Elf Spore Druid, played by [[Petra Hillockburrow]]'s player (recorded as "Adam" in the raw session notes) as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Petra Hillockburrow (the same player's main Moonsea character) or Anselem (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 

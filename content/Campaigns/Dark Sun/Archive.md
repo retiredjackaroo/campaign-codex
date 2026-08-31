@@ -6,6 +6,7 @@ tags:
 dg-publish: true
 publish: true
 ---
+
 # Born Under a Dark Sun: Full Archive
 
 The complete cumulative record for the campaign: every session, every NPC, every location encountered to date. The [[Campaigns/Dark Sun/index|home page]] only shows the latest session; this page grows every session and never gets pruned.
@@ -26,42 +27,54 @@ The complete cumulative record for the campaign: every session, every NPC, every
 ## All NPCs
 
 ### Persistent
+
 - [[The Padshah]] - deceased, Inundation of Raam
 - [[Neith]]
 - [[Eswar]] and [[Anjali]] - farmers
 
 ### Valthar's Edge
+
 - [[Dajan]], [[Mira]], [[Quizim]], [[Sahib]], [[Safina]], [[Karesh]]
 
 ### The Grotto
+
 - [[Varasun]]
 
 ### Shazlim Oasis
+
 - [[Cricket]], [[Ravash]], [[Issra]], [[Tovath]], [[Sitka]], [[Redstring]]
 
 ### The Nightrunner Warehouse
+
 - [[Baskha the Bone Drummer]], [[Korvessa Silkenknife]]
 
 ### The Slums
+
 - [[Korno]] - captured, Act II, Session 4
 - [[Grainseed]], [[Aravak]], [[Sura the Clay-singer]]
 
 ### The Thaberos Fields
+
 - [[Matriarch Halashe Thaberos]], [[Hazruun]]
 
 ### The Wardens
+
 - [[Chastha of the Red Gorge]], [[Derru]], [[Rekka of the Heat Cleft]], [[Satoth|Sa'toth]], [[Mikrim Dustbiter]], [[Tanji the Worm Keeper]]
 
 ### Gulbadan Estate
+
 - [[Hushad]], [[The Gulbadan Maulani]]
 
 ### The Elven Market
+
 - [[Tazrim Bright Tongue]], [[Chazhal]], [[Sithra]], [[Ghaniz]]
 
 ### The Moot
+
 - [[Leviath]], [[High Kuatogagh Jahandar Shah]], [[Bilal]], [[Satrap Dovren MKe|Satrap Dovren M'Ke]], [[Ruvasha Mke|Ruvasha M'ke]], [[Silrasha of the Windswept Dust]], [[Rak of the Wastes]], [[Chiyata Veilstep]], [[Varros Dael]], [[Lady Asetra of House Veyal]], [[Hashtan the Ledgered]]
 
 ### The Hidden Spring
+
 - [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar)
 
 ## All Locations

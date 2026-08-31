@@ -6,6 +6,7 @@ status: Defeated
 dg-publish: true
 publish: true
 ---
+
 # Umber Hulk
 
 An umber hulk ambushed the party with two [[Neogi]] in the northern aquifer tunnels during the search for [[Narek]] and [[Scylla]]. Cocoon-like silk remains were found in the same chamber.

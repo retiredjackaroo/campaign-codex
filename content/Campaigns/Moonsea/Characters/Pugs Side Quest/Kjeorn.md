@@ -11,7 +11,9 @@ status: Dead; bound as a shade
 dg-publish: true
 publish: true
 ---
+
 # Kjeorn
+
 ![[Pasted image 20260706144725.png]]
 An Elf Paladin, played by [[Keithelas Ward|Kei]]'s player as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Keithalas/Keithelas Ward (the same player's main Moonsea character) or Salt (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
@@ -23,7 +25,7 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 ![[Kjeorn Memorial.png]]
 
 > [!caption] Memorial in the Garden of Long Memory
-> *Kjeorn, Paladin of Sylvanus. He stood between his friends and darkness. He gave his soul that they might live. May the forest remember his sacrifice.*
+> _Kjeorn, Paladin of Sylvanus. He stood between his friends and darkness. He gave his soul that they might live. May the forest remember his sacrifice._
 
 ## Session 1, Escort to Myth Drannor
 

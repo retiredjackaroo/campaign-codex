@@ -86,13 +86,13 @@ Between the fight and the short rest, Morwyn's player was rebuilding a Roll20 ch
 
 **Key NPCs / Powers This Session**
 
-| **Name** | **Role** | **Status** |
-| --- | --- | --- |
-| [[Eilistraee]] | Good-aligned drow goddess; the shrine is hers | Venerated at the grove |
-| [[Sehanine Moonbow]] | Elvish moon goddess, chief deity of old Myth Drannor | Historical / lore |
-| [[Malar]] | The Beastlord; the were-boars are bound to him | Cult presence in the forest |
-| [[Aurelien Vox]] | Harper operative; author of the recovered journal | Missing, presumed lost |
-| [[Were-Boars of Cormanthor]] | Malar-bound lycanthrope hunting party | Some slain, some fled |
+| **Name**                     | **Role**                                             | **Status**                  |
+| ---------------------------- | ---------------------------------------------------- | --------------------------- |
+| [[Eilistraee]]               | Good-aligned drow goddess; the shrine is hers        | Venerated at the grove      |
+| [[Sehanine Moonbow]]         | Elvish moon goddess, chief deity of old Myth Drannor | Historical / lore           |
+| [[Malar]]                    | The Beastlord; the were-boars are bound to him       | Cult presence in the forest |
+| [[Aurelien Vox]]             | Harper operative; author of the recovered journal    | Missing, presumed lost      |
+| [[Were-Boars of Cormanthor]] | Malar-bound lycanthrope hunting party                | Some slain, some fled       |
 
 **Loose Threads and Things to Remember**
 

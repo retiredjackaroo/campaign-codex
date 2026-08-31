@@ -8,6 +8,7 @@ tags: [session, act-2, session-8]
 dg-publish: true
 publish: true
 ---
+
 # Session 8: Notes
 
 **XP awarded:** Tchk'Tchk Gulbadani 1,435; Anselem 1,435; Pterrence 1,385; Derfel 1,415; Babs 1,445; Salt 1,425; Kit-Chac's exact award was not captured in the transcript. The GM confirmed the party reached level 5, although Kit-Chac was already level 5 and remained roughly 4,000 XP from level 6.
@@ -17,17 +18,17 @@ publish: true
 [[Kit-Chac]] rejoined the party in the unfinished holding-pen battle. He severely wounded the orange [[Neogi]] before being enthralled and attacking [[Koresh Ironblood]]. [[Anselem]] broke free of his own enthrallment. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] warped [[Babs]] out of a three-Neogi cluster and hit all three with Shatter, killing orange. Babs killed blue; Anselem's Radiance of the Dawn reduced red to ash. The Umber Hulk attempted to burrow away, but [[Derfel]] ignored its cover and killed it with an arrow and Hail of Thorns. [[Salt]] kept Koresh alive with Cure Wounds, while [[Pterrence]] contributed Magic Missile and a javelin strike during the fight.
 
 ![[Session 8 - Negroni Neogi.png]]
-*Neogi, Negroni: the holding pen's least responsible cocktail pairing.*
+_Neogi, Negroni: the holding pen's least responsible cocktail pairing._
 
 The party freed eight physically capable but hive-conditioned prisoners, including both missing scouts, [[Narek]] and [[Scylla]]. Salt persuaded them that Mother had ordered a transfer and led them away under the protection of Koresh and [[Tarek Cricket Silvertwig|Tarek]]. They continued at an unhurried single-file pace for hours, periodically murmuring that the others were waiting. Their condition did not end with distance, but the GM confirmed that the rescue objective was achieved without prisoner casualties.
 
 ![[Session 8 - The Prisoners.webp]]
-*The prisoners recovered from the holding pen.*
+_The prisoners recovered from the holding pen._
 
 Babs found a high crawlspace, approximately 3½ feet wide and 30 feet long, filled with thousands of Neogi hatchlings. Kit-Chac entered, panicked and froze; Anselem followed, and Babs pulled both free. The party watched the vent during a short rest and considered using oil before Anselem used Radiance of the Dawn to burn the hatchlings. They then crawled through into a deeper three-way tunnel system and prepared to follow the warm, damp southern descent, believed likely to lead toward Mother.
 
 ![[Session 8 - The Vent.webp]]
-*The hatchling-filled vent into the deeper hive.*
+_The hatchling-filled vent into the deeper hive._
 
 ## Party contributions
 
@@ -41,13 +42,13 @@ Babs found a high crawlspace, approximately 3½ feet wide and 30 feet long, fill
 
 ## Rescued NPCs
 
-| Entity | Status | Session 8 development |
-|---|---|---|
-| [[Narek]] | Rescued; hive-conditioned | Found alive among the eight prisoners and led away from the holding pen. |
-| [[Scylla]] | Rescued; hive-conditioned | Found alive among the eight prisoners and led away from the holding pen. |
-| Six unidentified prisoners | Rescued; hive-conditioned | Freed without casualties; continued repeating Mother's instructions. |
-| [[Koresh Ironblood]] | Alive, badly wounded | Attacked by enthralled allies and the Umber Hulk; healed by Salt; guarded the rescued scouts. |
-| [[Tarek Cricket Silvertwig]] | Alive | Fought in the holding pen and helped guard the rescued scouts. |
+| Entity                       | Status                    | Session 8 development                                                                         |
+| ---------------------------- | ------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Narek]]                    | Rescued; hive-conditioned | Found alive among the eight prisoners and led away from the holding pen.                      |
+| [[Scylla]]                   | Rescued; hive-conditioned | Found alive among the eight prisoners and led away from the holding pen.                      |
+| Six unidentified prisoners   | Rescued; hive-conditioned | Freed without casualties; continued repeating Mother's instructions.                          |
+| [[Koresh Ironblood]]         | Alive, badly wounded      | Attacked by enthralled allies and the Umber Hulk; healed by Salt; guarded the rescued scouts. |
+| [[Tarek Cricket Silvertwig]] | Alive                     | Fought in the holding pen and helped guard the rescued scouts.                                |
 
 ## Loot and discoveries
 
@@ -61,15 +62,15 @@ Babs found a high crawlspace, approximately 3½ feet wide and 30 feet long, fill
 
 ## Hive strain at session end
 
-| Character | State at close |
-| --- | --- |
-| [[Anselem]] | Hive strain 2 after reducing level 3 through focus on flame. |
-| [[Tchk Tchk Gulbadani\|Tchk'Tchk Gulbadani]] | Hive strain 2; his focusing attempt failed. |
-| [[Pterrence]] | Hive strain 1 after reducing level 2 through the Veiled Lens of Raam. |
-| [[Salt]] | Hive strain 1; his focusing attempt failed. |
-| [[Derfel]] | Cleared. |
-| [[Babs]] | Cleared. |
-| [[Kit-Chac]] | None. |
+| Character                                    | State at close                                                        |
+| -------------------------------------------- | --------------------------------------------------------------------- |
+| [[Anselem]]                                  | Hive strain 2 after reducing level 3 through focus on flame.          |
+| [[Tchk Tchk Gulbadani\|Tchk'Tchk Gulbadani]] | Hive strain 2; his focusing attempt failed.                           |
+| [[Pterrence]]                                | Hive strain 1 after reducing level 2 through the Veiled Lens of Raam. |
+| [[Salt]]                                     | Hive strain 1; his focusing attempt failed.                           |
+| [[Derfel]]                                   | Cleared.                                                              |
+| [[Babs]]                                     | Cleared.                                                              |
+| [[Kit-Chac]]                                 | None.                                                                 |
 
 Pterrence and Salt's prior exhaustion was not explicitly removed. A short rest was completed in the holding-pen chamber. Derfel attuned to the [[Ring of Psionic Resistance]] during that rest.
 

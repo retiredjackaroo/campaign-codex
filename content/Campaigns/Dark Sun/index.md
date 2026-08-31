@@ -28,6 +28,7 @@ Deep beneath [[The Hidden Spring]], the party destroyed the guards of the Neogi 
 A high vent proved to be carpeted with thousands of pale hatchlings. [[Anselem]] burned them, opening the way into a deeper resin-lined junction. Warm, damp air and more chittering rise from the descending southern passage. Anselem and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] retain two levels of hive strain; [[Pterrence]] and [[Salt]] retain one. [[Derfel]], [[Babs]] and [[Kit-Chac]] are clear.
 
 ![[Pasted image 20260716102209.png]]
+
 ## Hall of Fame
 
 | Session           | Biggest Success                                                                                                                                                                                                               | Funniest Mistake    |                                                                                                                                                                                                 |                     |
@@ -42,7 +43,6 @@ A high vent proved to be carpeted with thousands of pale hatchlings. [[Anselem]]
 
 - [[Session 8 - Narrative]]
 - [[Session 8 - Notes]]
-
 
 ## NPCs Encountered This Session
 
