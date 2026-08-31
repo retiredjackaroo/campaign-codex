@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - The Price of Memory
 
-_Chapter 11, Side Quest, Session 5_
+*Chapter 11, Side Quest, Session 5*
 
 ## The Garden Fights Back
 
@@ -51,3 +51,8 @@ The others will wake in the Garden of Long Memory alive and free. Kjeorn will be
 - The fate of the three spirits dispersed by Pug's thunderball is uncertain; the Binder's claim of Avernus has not been verified.
 - A recovery mission for Kjeorn's soul is possible, but no plan has yet been made.
 - The party still needs to reach the temple of [[Sehanine Moonbow]] and the pool of radiance.
+
+![[Kjeorn Memorial.png]]
+
+> [!caption] Kjeorn's memorial
+> *May the forest remember his sacrifice.*

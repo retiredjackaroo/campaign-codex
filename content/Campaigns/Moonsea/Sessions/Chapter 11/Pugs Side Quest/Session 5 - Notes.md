@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - Notes
 
-_Chapter 11, Side Quest, Session 5_
+*Chapter 11, Side Quest, Session 5*
 
 The combat begun in Session 4 ended in disaster narrowly averted. The escort fought the Binder and its mephits in the [[Garden of Long Memory]], but every member except [[Kjeorn]] fell. Kjeorn freely exchanged his life and soul for the lives and liberty of Pug, Ripper, Mar and Morwyn. See [[Session 5 - The Price of Memory|the narrative]].
 
@@ -50,3 +50,8 @@ The combat begun in Session 4 ended in disaster narrowly averted. The escort fou
 - Learn what happened while the survivors were unconscious and honour Kjeorn.
 - Consider whether Kjeorn's shade can be recovered from the Binder.
 - Continue toward [[Sehanine Moonbow]]'s temple and the pool of radiance.
+
+![[Kjeorn Memorial.png]]
+
+> [!caption] Kjeorn's memorial
+> *May the forest remember his sacrifice.*
