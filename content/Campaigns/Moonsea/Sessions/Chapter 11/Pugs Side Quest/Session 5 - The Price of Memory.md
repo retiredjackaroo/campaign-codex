@@ -12,13 +12,15 @@ publish: true
 
 # Session 5 - The Price of Memory
 
-_Chapter 11, Side Quest, Session 5_
+*Chapter 11, Side Quest, Session 5*
 
 ## The Garden Fights Back
 
 The fight in the [[Garden of Long Memory]] resumed without preamble. [[Kjeorn]] and his celestial stag, [[Bullshit]], met the mephits in close quarters while [[Ripper]] marked [[The Binder of Long Memory]] and cracked her magic whip across his torso twice. The Binder answered the challenge with a chain through Ripper's guard, binding her in pain and cold.
 
 [[Mar]] surrendered giant-eagle form but could not slip the chain at her leg; poison proved useless against the devil. [[Morwyn Sabbath]] tried Crown of Madness, only to trigger another of Myth Drannor's memories: the garden in its last terrible hours, people fleeing through fire while the Binder hunted them with chains. The spell did not take, and Morwyn used his free High Elf magic to Misty Step clear.
+
+Blue, the dust mephit, then made the mistake of holding Morwyn in place long enough to become an audience. Morwyn's first Vicious Mockery questioned its hygiene—“Jesus, dude, you smell like Ripper's socks”—and left the creature raging that it had done its best. When Blue came at him again, Morwyn beckoned it close and quietly explained that its performance review would be poor, its performance-improvement plan inevitable, and its job security doubtful. Blue screamed itself apart from the feet upward, reduced to a burst of ash and dust. Morwyn watched the cloud settle. “Seriously, mate,” he said, “I was just trying to tell you the truth. I was trying to help you.”
 
 Pug's altered Fireball was the fight's great stroke. He shaped its flame into a rolling thunderball, a shockwave that demolished a fountain, killed a dust mephit and dispersed three chained spirits caught in its radius. The Binder immediately claimed the spirits had been condemned to Avernus. Whether that was truth or manipulation remained unproven, but the party now understood that harming a spirit might carry an irrevocable cost.
 
@@ -49,3 +51,8 @@ The others will wake in the Garden of Long Memory alive and free. Kjeorn will be
 - The fate of the three spirits dispersed by Pug's thunderball is uncertain; the Binder's claim of Avernus has not been verified.
 - A recovery mission for Kjeorn's soul is possible, but no plan has yet been made.
 - The party still needs to reach the temple of [[Sehanine Moonbow]] and the pool of radiance.
+
+![[Campaigns/Moonsea/Assets/Kjeorn Memorial.png]]
+
+> [!caption] Kjeorn's memorial
+> *May the forest remember his sacrifice.*

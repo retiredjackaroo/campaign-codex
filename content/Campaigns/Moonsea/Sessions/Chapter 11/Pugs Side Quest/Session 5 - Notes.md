@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - Notes
 
-_Chapter 11, Side Quest, Session 5_
+*Chapter 11, Side Quest, Session 5*
 
 The combat begun in Session 4 ended in disaster narrowly averted. The escort fought the Binder and its mephits in the [[Garden of Long Memory]], but every member except [[Kjeorn]] fell. Kjeorn freely exchanged his life and soul for the lives and liberty of Pug, Ripper, Mar and Morwyn. See [[Session 5 - The Price of Memory|the narrative]].
 
@@ -26,6 +26,7 @@ The combat begun in Session 4 ended in disaster narrowly averted. The escort fou
 - Kjeorn struck a magma mephit, had Bullshit gore another, shielded the party and held the final line when everyone else fell.
 - Mar dropped Wild Shape but remained chained; she used Barkskin and Guiding Bolt while resisting the Binder's control.
 - Morwyn's Crown of Madness triggered a catastrophic memory of the garden's fall rather than affecting the Binder; he escaped with Misty Step.
+- Morwyn destroyed Blue, a dust mephit, with Vicious Mockery: first its hygiene (“you smell like Ripper's socks”), then a whispered performance review, performance-improvement plan and threat of dismissal. Blue screamed itself into ash and dust.
 - Pug changed Fireball into thunder damage with his Awakened Spellbook. The thunderball destroyed a fountain, killed a dust mephit and dispersed three captive spirits. Their ultimate fate is unknown.
 - The Binder dragged Mar and Ripper, used chained spirits to terrorise the party, and repeatedly offered a deal for one captive companion.
 - The group dealt roughly 100 damage in one decisive round after the spirits no longer supported the Binder, but could not finish him.
@@ -49,3 +50,8 @@ The combat begun in Session 4 ended in disaster narrowly averted. The escort fou
 - Learn what happened while the survivors were unconscious and honour Kjeorn.
 - Consider whether Kjeorn's shade can be recovered from the Binder.
 - Continue toward [[Sehanine Moonbow]]'s temple and the pool of radiance.
+
+![[Campaigns/Moonsea/Assets/Kjeorn Memorial.png]]
+
+> [!caption] Kjeorn's memorial
+> *May the forest remember his sacrifice.*
