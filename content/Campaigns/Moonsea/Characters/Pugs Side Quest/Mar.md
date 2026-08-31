@@ -50,5 +50,5 @@ One of the Sylvan folk, Mar usually works as a guide, helping others navigate th
 ## Session 5, The Price of Memory
 
 - Dropped Wild Shape but could not escape the Binder's chain, which tightened with her smaller form.
-- Used Barkskin and Guiding Bolt while chained and under pressure, then fell unconscious.
+- Used Barkskin and Guiding Bolt while chained and under pressure, then took Archer Form and continued attacking with Starry Wisp before she fell unconscious.
 - Survived because Kjeorn gave himself to the Binder in place of the other four escorts.

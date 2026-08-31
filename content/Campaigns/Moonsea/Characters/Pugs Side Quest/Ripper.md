@@ -56,5 +56,5 @@ When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form
 ## Session 5, The Price of Memory
 
 - Marked the Binder and struck it twice with her magic whip before its chains grappled and dragged her.
-- Continued to fight from the ground, but eventually fell unconscious.
+- Continued to fight and recover from the ground, spent Heroic Inspiration to help Morwyn land an important heal, and revived Kjeorn with a healing potion before she fell unconscious.
 - Survived because Kjeorn gave himself to the Binder for the lives of the other four escorts.

@@ -53,6 +53,7 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Bullshit]]
 - [[Snotty]]
 - [[The Binder of Long Memory]]
+- [[Silvanus]]
 
 ## All Locations
 

@@ -12,7 +12,7 @@ publish: true
 
 # Session 5 - The Price of Memory
 
-*Chapter 11, Side Quest, Session 5*
+_Chapter 11, Side Quest, Session 5_
 
 ## The Garden Fights Back
 
@@ -20,17 +20,19 @@ The fight in the [[Garden of Long Memory]] resumed without preamble. [[Kjeorn]] 
 
 [[Mar]] surrendered giant-eagle form but could not slip the chain at her leg; poison proved useless against the devil. [[Morwyn Sabbath]] tried Crown of Madness, only to trigger another of Myth Drannor's memories: the garden in its last terrible hours, people fleeing through fire while the Binder hunted them with chains. The spell did not take, and Morwyn used his free High Elf magic to Misty Step clear.
 
-Blue, the dust mephit, then made the mistake of holding Morwyn in place long enough to become an audience. Morwyn's first Vicious Mockery questioned its hygiene—“Jesus, dude, you smell like Ripper's socks”—and left the creature raging that it had done its best. When Blue came at him again, Morwyn beckoned it close and quietly explained that its performance review would be poor, its performance-improvement plan inevitable, and its job security doubtful. Blue screamed itself apart from the feet upward, reduced to a burst of ash and dust. Morwyn watched the cloud settle. “Seriously, mate,” he said, “I was just trying to tell you the truth. I was trying to help you.”
-
 Pug's altered Fireball was the fight's great stroke. He shaped its flame into a rolling thunderball, a shockwave that demolished a fountain, killed a dust mephit and dispersed three chained spirits caught in its radius. The Binder immediately claimed the spirits had been condemned to Avernus. Whether that was truth or manipulation remained unproven, but the party now understood that harming a spirit might carry an irrevocable cost.
 
 ## Refusing the Bargain
 
 The Binder dragged Mar and Ripper across the jagged ground, then offered the escort an exit: leave one of their number to him, and the rest could go. Every conscious answer was no. Kjeorn planted shield and morningstar before the devil and refused to abandon anyone.
 
-The battle continued. Ripper fought from the ground, recovering strength through her transformed form; Mar raised Barkskin and sent a Guiding Bolt; Morwyn's attempts at control and rescue came up against the devil's resistance. The Binder repeatedly weaponised the grief of the souls he held, forcing the companions to watch them beg, fade and suffer. The survivors burned through healing and magic simply to stay upright.
+The refusal bought them no mercy. Kjeorn brought down the magma mephit, then drove divine power into the Binder himself. Mar raised Barkskin and struck the devil with a Guiding Bolt channelled through her star map. Morwyn threw a fourth-level Mass Healing Word across the whole escort, and Pug's Mind Sliver burst the last green mephit apart. The Binder answered by throwing chains around Pug and Kjeorn and repeatedly weaponising the grief of the souls he held, forcing the companions to watch them beg, fade and suffer.
 
-Pug's attacks and the group's coordinated burst damaged the Binder badly—about a hundred points in one round once his souls were no longer sustaining him—but not quickly enough. The celestial stag was slain. One by one, Pug, Ripper, Mar and Morwyn fell unconscious. Kjeorn remained the last defender standing, still chained and unable to reach the others in time.
+Ripper fought on from the ground, feeding on the strength of her transformed form whenever she could land a blow. Mar took her archer constellation and kept sending starry light into the Binder. Blue, the surviving dust mephit, made the mistake of holding Morwyn in place long enough to become an audience. His first Vicious Mockery questioned its hygiene—“Jesus, dude, you smell like Ripper's socks”—and left the creature raging that it had done its best. Much later, Morwyn beckoned it close and quietly explained that its performance review would be poor, its performance-improvement plan inevitable, and its job security doubtful. Blue screamed itself apart from the feet upward, reduced to a burst of ash and dust. Morwyn watched the cloud settle. “Seriously, mate,” he said, “I was just trying to tell you the truth. I was trying to help you.”
+
+The survivors burned through healing and magic simply to stay upright. Ripper spent her own heroic inspiration to give Morwyn another chance at a vital healing spell. Pug called on the [[Silver Brooch]] and summoned a red-feathered blood hawk from the woods; it swept at the Binder, missed, and vanished almost at once in a burst of feathers. Ripper forced a healing potion between Kjeorn's lips and pulled him back from unconsciousness, only to be struck down herself.
+
+The group's most violent coordinated burst dealt roughly a hundred points of damage once the Binder's souls were no longer sustaining him, but it was not enough. [[Bullshit]], Kjeorn's celestial stag, was destroyed. One by one, Pug, Ripper, Mar and Morwyn fell unconscious. Kjeorn remained the last defender standing, still chained and unable to reach the others in time.
 
 ## The Price
 
@@ -40,7 +42,7 @@ The Binder produced a quill and made the offer once more: the free will of one f
 
 He signed. The chains released the four unconscious companions, then came for Kjeorn: ankles, arms, waist and throat. The Binder embraced him and took his life, remaking the paladin as a shade bound to its service.
 
-Yet the suffering the devil intended did not come. In the darkness, Kjeorn found a steady inner light shaped like an oak leaf. He had served nature and the ancient oath, and [[Sylvanus]] granted him one final mercy: not salvation, but freedom from pain in his eternal bondage.
+Yet the suffering the devil intended did not come. In the darkness, Kjeorn found a steady inner light shaped like an oak leaf. He had served nature and the ancient oath, and [[Silvanus]] granted him one final mercy: not salvation, but freedom from pain in his eternal bondage.
 
 The others will wake in the Garden of Long Memory alive and free. Kjeorn will be gone, carried away as the Binder's chained shade. They do not yet know the price he paid.
 
@@ -55,4 +57,4 @@ The others will wake in the Garden of Long Memory alive and free. Kjeorn will be
 ![[Campaigns/Moonsea/Assets/Kjeorn Memorial.png]]
 
 > [!caption] Kjeorn's memorial
-> *May the forest remember his sacrifice.*
+> _May the forest remember his sacrifice._

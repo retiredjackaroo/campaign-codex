@@ -51,4 +51,5 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 ### Session 5, The Price of Memory
 
 - Changed Fireball into a thunderball with his Awakened Spellbook, killing a dust mephit and collapsing a fountain; three captive spirits were also dispersed, though their fate remains uncertain.
+- Killed the final green mephit with Mind Sliver, then used the [[Silver Brooch]] to call a red-feathered blood hawk against the Binder; the creature missed and was destroyed in a burst of feathers.
 - Fell unconscious in the Binder's battle and survived only because Kjeorn surrendered himself in exchange for the other four companions.

@@ -61,6 +61,7 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 ## Session 5, The Price of Memory
 
 - Cast Crown of Madness on the Binder, but the attempt instead triggered a catastrophic memory of the garden's fall; he escaped the melee with Misty Step.
+- Cast a fourth-level Mass Healing Word across the whole escort and continued healing companions as the battle collapsed.
 - Reduced Blue, a dust mephit, to ash with Vicious Mockery after impugning its hygiene and professional competence: Ripper's socks, an abysmal performance review, a performance-improvement plan and likely dismissal.
 - Fought through the collapse until he was knocked unconscious.
 - Survived because Kjeorn accepted the Binder's contract in place of the other four escorts.

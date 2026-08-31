@@ -5,8 +5,8 @@ aliases:
   - Pug's Side Quest Homepage
 continueStory:
   label: Moonsea side quest
-  title: The Binder of Long Memory
-  summary: Pug and his guardians battle a chain devil while seeking to free the five spirits bound to him.
+  title: The Price of Memory
+  summary: Kjeorn gave his life and soul to the Binder so Pug and the other escorts could awaken alive and free.
   card: pug
   href: ./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/
   ariaLabel: Continue Pug's Side Quest
@@ -46,22 +46,13 @@ For Sessions 1–4, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Q
 ## NPCs, Companions and Creatures This Session
 
 - [[Bullshit]]
-- [[Snotty]]
-- [[Nick Timoney]]
-- [[Ankhegs of Myth Drannor]]
 - [[The Binder of Long Memory]]
-- [[Sylvanus]]
+- [[Silvanus]]
 
 ## Locations This Session
 
-- [[Cormanthor]]
 - [[Myth Drannor]]
-- [[The Starwood]]
-- [[The Moon Arch]]
-- [[Grand Avenue]]
-- [[Hall of Scrolls]]
 - [[Garden of Long Memory]]
-- [[House of Song]]
 
 ## Side Quest Cast
 

@@ -25,7 +25,7 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 ![[Kjeorn Memorial.png]]
 
 > [!caption] Memorial in the Garden of Long Memory
-> _Kjeorn, Paladin of Sylvanus. He stood between his friends and darkness. He gave his soul that they might live. May the forest remember his sacrifice._
+> _Kjeorn, Paladin of Silvanus. He stood between his friends and darkness. He gave his soul that they might live. May the forest remember his sacrifice._
 
 ## Session 1, Escort to Myth Drannor
 
@@ -54,7 +54,7 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 
 ## Session 5, The Price of Memory
 
-- Held the line against the Binder and its mephits as the rest of the escort fell.
+- Killed the magma mephit and smote the Binder, was later revived by Ripper's healing potion, and held the line as the rest of the escort fell.
 - Refused to surrender Pug or any companion when the Binder demanded one soul for the other four lives.
 - Signed the contract himself, freeing Pug, Ripper, Mar and Morwyn at the cost of his own life and free will.
-- Was remade as the Binder's chained shade. [[Sylvanus]] granted him an oak-leaf-shaped inner light and freedom from pain, though not release from bondage.
+- Was remade as the Binder's chained shade. [[Silvanus]] granted him an oak-leaf-shaped inner light and freedom from pain, though not release from bondage.

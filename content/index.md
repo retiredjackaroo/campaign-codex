@@ -69,8 +69,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="Pug and his companions on the road to Myth Drannor"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Moonsea side quest</span>
-        <strong>The Binder of Long Memory</strong>
-        <span>Pug and his guardians battle a chain devil while seeking to free the five spirits bound to him.</span>
+        <strong>The Price of Memory</strong>
+        <span>Kjeorn gave his life and soul to the Binder so Pug and the other escorts could awaken alive and free.</span>
       </span>
     </a>
 <!-- continue-story:end -->
