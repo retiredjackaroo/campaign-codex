@@ -14,8 +14,6 @@ tags:
   - noble
 ---
 
-# Satrap Dovren M'Ke
-
 A Satrap encountered at [[The Moot]]. The title Satrap indicates a regional governor or ruler. Member of the M'Ke family alongside [[Ruvasha Mke|Ruvasha M'ke]].
 
 **Status:** Unknown

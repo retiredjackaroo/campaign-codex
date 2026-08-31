@@ -9,8 +9,6 @@ tags:
   - session-5
 ---
 
-# Session 5: Narrative
-
 [[Kit-Chac]], [[Babs|Her]], [[Pterrence]], [[Salt]], and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] stood over the wreckage of the sand elemental, its skull the only piece still intact. Neither [[Derfel]] nor [[Anselem]] were with them; both remained separated from the group, their whereabouts unknown to the others for now.
 
 ![[Campaigns/Dark Sun/Assets/The Elemental.png]]

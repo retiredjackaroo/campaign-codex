@@ -9,8 +9,6 @@ tags:
   - session-4
 ---
 
-# Session 4: Narrative
-
 ![[Campaigns/Dark Sun/Assets/Pasted image 20260628021445.png]]
 
 ## The Slums After the Storm

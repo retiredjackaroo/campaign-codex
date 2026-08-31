@@ -13,8 +13,6 @@ dg-publish: true
 publish: true
 ---
 
-# Tchk'Tchk Gulbadani
-
 ![[Pasted image 20260630164548.png]]
 A Thri-Kreen Psion and the second of two Thri-Kreen in the group alongside [[Kit-Chac]]. In the Thri-Kreen tongue his name, **Tchk'Tchk**, means "Good-Good" (much as [[Kit-Chac]] calls himself simply _Kreen_, "People"). "Gulbadani" is not a Kreen name at all: he **took it for himself** when the party entered the service of House Gulbadan (see [[Gulbadan Estate]]), binding his chosen identity to that house. After the [[Raam|Inundation of Raam]], which killed [[The Padshah]] and left the Gulbadan faction headless, the name he adopted, and the house standing behind it, are in jeopardy. What that comes to mean for a Thri-Kreen who deliberately chose to carry it remains to be seen.
 

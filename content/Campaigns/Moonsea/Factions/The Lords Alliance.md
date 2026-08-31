@@ -11,8 +11,6 @@ tags:
   - faction
 ---
 
-# The Lords' Alliance
-
 A coalition of the rulers of cities and towns across the realms, banded together for mutual security and strength against common threats. Where its members cooperate, they bring real political and military weight to bear; the Alliance is concerned above all with stability and the protection of its member states.
 
 **Party standing:** see [[Renown and Enmity]]

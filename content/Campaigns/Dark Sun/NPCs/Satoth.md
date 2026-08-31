@@ -11,8 +11,6 @@ tags:
   - wardens
 ---
 
-# Sa'toth
-
 ![[Campaigns/Dark Sun/Assets/Pasted image 20260628010933.png]]
 A member of [[The Wardens]].
 

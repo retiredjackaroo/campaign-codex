@@ -9,8 +9,6 @@ dg-publish: true
 publish: true
 ---
 
-# Session 7: Notes
-
 **XP awarded:** Derfel 290; Pterrence 320; Salt 320; Babs 330; Anselem 270; Tchk'Tchk Gulbadani 340. The unfinished holding-pen battle awarded no XP yet.
 
 ## Summary

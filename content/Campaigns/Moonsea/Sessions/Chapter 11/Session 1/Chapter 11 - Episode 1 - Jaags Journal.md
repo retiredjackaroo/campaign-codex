@@ -8,8 +8,6 @@ tags:
   - chapter-11
 ---
 
-# **Jaag's Journal**
-
 ## **Chapter 11, Episode 1**
 
 Right then. New chapter, apparently. The DM seemed very pleased about that. I don't know what it means practically, but I suspect it means something is going to go very badly for us very soon, and in a more dramatic fashion than usual.

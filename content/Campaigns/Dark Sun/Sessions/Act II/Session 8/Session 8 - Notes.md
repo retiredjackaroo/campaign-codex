@@ -9,8 +9,6 @@ dg-publish: true
 publish: true
 ---
 
-# Session 8: Notes
-
 **XP awarded:** Tchk'Tchk Gulbadani 1,435; Anselem 1,435; Pterrence 1,385; Derfel 1,415; Babs 1,445; Salt 1,425; Kit-Chac's exact award was not captured in the transcript. The GM confirmed the party reached level 5, although Kit-Chac was already level 5 and remained roughly 4,000 XP from level 6.
 
 ## Summary

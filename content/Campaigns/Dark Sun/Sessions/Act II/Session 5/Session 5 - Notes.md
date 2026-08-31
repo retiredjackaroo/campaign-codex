@@ -9,8 +9,6 @@ tags:
   - session-5
 ---
 
-# Session 5: Notes
-
 **XP awarded:** ~860 per character (GM-reported totals varied slightly between 850 and 860 across characters in the session; treat as approximate)
 ![[Campaigns/Dark Sun/Sessions/Act II/Session 5/Assets/Pasted image 20260712141419.png]]
 \_The Roll20 map of the ledge crossing: the party, [[Leviath]]

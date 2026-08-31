@@ -9,8 +9,6 @@ tags:
   - session-6
 ---
 
-# Session 6: Narrative
-
 Three days into their stay at [[The Hidden Spring]], the party had settled into an uneasy rhythm of rest, patience, and careful cooperation. [[Derfel]] and [[Pterrence]] were content simply to have the space, and [[Salt]] was glad of the water, though not without a cost: word had spread among the sheltering refugees of what they'd glimpsed during the cloaker fight the session before, and Salt could feel the sanctuary's quiet awareness of him even though no one had said a word. He spent his days resisting the urge to submerge himself entirely and waiting, half-expecting one of his own party to finally say something.
 
 No one did, not yet. Instead, [[Pterrence]] offered to cast Invisibility on Salt whenever he wanted to slip away for a proper swim, an offer met with a long, mournful look at the water rather than an answer. [[Derfel]], meanwhile, floated the idea of a new longbow, and Pterrence, citing his Arcana proficiency and woodcarver's tools, offered to enchant Derfel's own bow given time and coin, a plan the two left unresolved for now. Pterrence also used the quiet days to trade a spell from his own book, Locate Object, to [[Sarath]] in exchange for Mirror Image, and swapped out a cantrip while he was at it.

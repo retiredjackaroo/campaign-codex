@@ -12,8 +12,6 @@ tags:
   - hero
 ---
 
-# Wren O'The Blade
-
 The hero of [[Phlan]] who led the company that slew [[Yarish]]. Left memoirs describing the shifting maze inside [[Yarishs Pyramid|Yarish's Pyramid]].
 
 **Status:** Deceased\

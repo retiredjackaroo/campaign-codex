@@ -12,8 +12,6 @@ tags:
   - m'ke
 ---
 
-# Ruvasha M'ke
-
 Encountered at [[The Moot]]. Member of the M'Ke family alongside [[Satrap Dovren MKe|Satrap Dovren M'Ke]].
 
 **Status:** Unknown

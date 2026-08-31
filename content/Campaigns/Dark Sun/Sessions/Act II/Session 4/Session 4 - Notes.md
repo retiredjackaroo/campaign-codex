@@ -9,8 +9,6 @@ tags:
   - session-4
 ---
 
-# Session 4: Notes
-
 ![[Campaigns/Dark Sun/Assets/Pasted image 20260628021440.png]]
 
 **Date played:** 27 June 2026

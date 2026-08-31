@@ -12,8 +12,6 @@ dg-publish: true
 publish: true
 ---
 
-# Pug D'Astibar
-
 ![[Pug D'astibar.jpg]]
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlors Tower|Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.

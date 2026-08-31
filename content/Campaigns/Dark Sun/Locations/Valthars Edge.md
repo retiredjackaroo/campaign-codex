@@ -10,8 +10,6 @@ tags:
   - location
 ---
 
-# Valthar's Edge
-
 ![[Campaigns/Dark Sun/Assets/Valthar's Edge.png]]
 
 A settlement encountered during the campaign.

@@ -9,8 +9,6 @@ tags:
   - session-6
 ---
 
-# Session 6: Notes
-
 **XP awarded:** ~540 base per character, plus small individual bonuses (variously reported between roughly 60 and 175 depending on character, tied to skill-challenge success/failure and features used); treat the bonus figures as approximate, as the GM's own running totals shifted more than once while reading them out.
 
 ## Summary

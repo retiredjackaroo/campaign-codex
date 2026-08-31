@@ -9,8 +9,6 @@ dg-publish: true
 publish: true
 ---
 
-# Session 7: Narrative
-
 ## A Beautiful Home
 
 The hum had been waiting beneath them.
