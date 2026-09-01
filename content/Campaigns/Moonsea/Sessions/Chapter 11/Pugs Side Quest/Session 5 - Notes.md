@@ -36,7 +36,7 @@ The combat begun in Session 4 ended in disaster narrowly averted. The escort fou
 
 - The Binder offered Kjeorn the lives and free will of the four fallen companions in exchange for one soul.
 - Kjeorn refused to surrender Pug or any friend, signed the contract himself, and was killed and made into the Binder's chained shade.
-- The paladin's final peace took the form of an oak-leaf light. The GM identified it as a boon from [[Silvanus]]: Kjeorn cannot be saved from bondage by it, but will not feel pain in it.
+- The GM clarified that [[Silvanus]] respects Kjeorn's choice and does not break the contract, destroy the Binder or spare Kjeorn its physical cruelty. Instead, the oak-leaf light preserves a core of peace beneath the pain: memories of wind in oak leaves, rain on earth, the turning seasons and the knowledge that his friends live. The Binder can hurt and bind him, but cannot fulfil its promise to make every moment of eternity a torment.
 
 ## End State
 

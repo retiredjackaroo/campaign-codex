@@ -18,5 +18,7 @@ The Binder appeared after [[Kjeorn]] broke the chains around a memorial stone. H
 
 During the battle he offered the surviving escort a bargain: one soul for the lives and free will of the other four. When the rest had fallen, Kjeorn signed in their place. The Binder released Pug, Ripper, Mar and Morwyn, then killed Kjeorn and took him away as a chained shade. The Binder was badly wounded but not defeated.
 
+The contract remains intact, and the Binder can still cut, burn, bind and otherwise hurt Kjeorn. It cannot, however, fulfil its promise to make every moment of his eternity a torment. [[Silvanus]] left an oak-leaf-shaped light within Kjeorn's soul that preserves peace beneath the pain, beyond the devil's reach.
+
 **Status:** Active; departed with Kjeorn's shade.
 **First appears:** [[Session 4 - The Binder of Long Memory]]

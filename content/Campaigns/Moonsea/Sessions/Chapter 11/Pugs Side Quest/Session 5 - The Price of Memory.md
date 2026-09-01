@@ -40,7 +40,11 @@ The Binder produced a quill and made the offer once more: the free will of one f
 
 He signed. The chains released the four unconscious companions, then came for Kjeorn: ankles, arms, waist and throat. The Binder embraced him and took his life, remaking the paladin as a shade bound to its service.
 
-Yet the suffering the devil intended did not come. In the darkness, Kjeorn found a steady inner light shaped like an oak leaf. He had served nature and the ancient oath, and [[Silvanus]] granted him one final mercy: not salvation, but freedom from pain in his eternal bondage.
+[[Silvanus]] did not tear up the contract, strike down the devil or declare Kjeorn too important to suffer the consequences. Kjeorn had made a choice, and Silvanus respected it. But neither did he abandon him.
+
+In the darkness, one small light remained inside Kjeorn's soul, shaped like an oak leaf and beyond the Binder's reach. It was not strength, immortality or freedom. It was peace.
+
+The Binder had promised to make every moment of Kjeorn's eternity a torment. He could still break Kjeorn's body, cut him, burn him, bind him and drag him through his hellish dominion. Yet whenever he waited for the scream, none came. Somewhere beneath the pain, Kjeorn felt wind through oak leaves, smelled rain on earth, knew the slow turning of the seasons and remembered that his friends were alive. The contract held, but the devil could not have everything.
 
 The others will wake in the Garden of Long Memory alive and free. Kjeorn will be gone, carried away as the Binder's chained shade. They do not yet know the price he paid.
 

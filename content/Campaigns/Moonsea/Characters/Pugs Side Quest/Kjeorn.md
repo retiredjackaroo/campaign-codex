@@ -57,4 +57,4 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 - Killed the magma mephit and smote the Binder, was later revived by Ripper's healing potion, and held the line as the rest of the escort fell.
 - Refused to surrender Pug or any companion when the Binder demanded one soul for the other four lives.
 - Signed the contract himself, freeing Pug, Ripper, Mar and Morwyn at the cost of his own life and free will.
-- Was remade as the Binder's chained shade. [[Silvanus]] granted him an oak-leaf-shaped inner light and freedom from pain, though not release from bondage.
+- Was remade as the Binder's chained shade. [[Silvanus]] did not overturn Kjeorn's freely chosen contract, but granted him an oak-leaf-shaped inner light the devil cannot reach: peace beneath the pain, rooted in the living world and the knowledge that his friends survived.
