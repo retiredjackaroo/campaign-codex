@@ -14,15 +14,16 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "build": "node --max-old-space-size=8192 ./quartz/bootstrap-cli.mjs build",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "check:site": "tsx scripts/check-site.ts",
+    "audit:assets": "tsx scripts/audit-assets.ts",
     "sync:continue": "node scripts/sync-continue-story.mjs",
     "check:continue": "node scripts/sync-continue-story.mjs --check",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx quartz plugin install",
-    "prebuild": "npm run install-plugins"
+    "install-plugins": "npx quartz plugin install"
   },
   "engines": {
     "npm": ">=10.9.2",

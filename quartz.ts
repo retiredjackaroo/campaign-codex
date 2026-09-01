@@ -1,8 +1,8 @@
-import { CustomOgImages } from "./.quartz/plugins/og-image/dist/index.js"
 import { campaignOgImage } from "./quartz/components/CampaignOgImage"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 
 const config = await loadQuartzConfig()
+const { CustomOgImages } = await import("./.quartz/plugins/og-image/dist/index.js")
 const ogImageIndex = config.plugins.emitters.findIndex(
   (emitter) => emitter.name === "CustomOgImages",
 )

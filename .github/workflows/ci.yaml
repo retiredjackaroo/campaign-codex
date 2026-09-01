@@ -4,9 +4,6 @@ on:
   pull_request:
     branches:
       - v5
-  push:
-    branches:
-      - v5
   workflow_dispatch:
 
 jobs:
@@ -43,7 +40,10 @@ jobs:
       - run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run install-plugins
+
+      - name: Check Continue the story cards
+        run: npm run check:continue
 
       - name: Check types and style
         run: npm run check
@@ -52,30 +52,6 @@ jobs:
         run: npm test
 
       - name: Build production site
-        run: npx quartz build
+        run: npm run build
       - name: Validate generated site
         run: npm run check:site
-
-  publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v5' }}
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-      - name: Setup Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: 24
-      - name: Get package version
-        run: node -p -e '`PACKAGE_VERSION=${require("./package.json").version}`' >> $GITHUB_ENV
-      - name: Create release tag
-        uses: pkgdeps/git-tag-action@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_repo: ${{ github.repository }}
-          version: ${{ env.PACKAGE_VERSION }}
-          git_commit_sha: ${{ github.sha }}
-          git_tag_prefix: "v"

@@ -1,0 +1,23 @@
+[
+  "campaigns/dark-sun/locations/valthars-edge.html: missing ../../../campaigns/dark-sun/assets/valthar",
+  "campaigns/dark-sun/npcs/tarek-cricket-silvertwig.html: missing ../../../tarek-cricket-silvertwig.png",
+  "campaigns/dark-sun/sessions/act-ii/session-6/session-6---narrative.html: missing ../../../../../northern-tunnels.png",
+  "campaigns/dark-sun/sessions/act-ii/session-6/session-6---notes.html: missing ../../../../../northern-tunnels.png",
+  "campaigns/moonsea/characters/pug-dastibar.html: missing ../../../campaigns/moonsea/assets/pug-d",
+  "campaigns/moonsea/characters/pugs-side-quest/herschel-blackroot.html: missing ../../../../campaigns/moonsea/assets/pasted-image-20260706144739.png",
+  "campaigns/moonsea/characters/pugs-side-quest/kjeorn.html: missing ../../../../pasted-image-20260706144725.png",
+  "campaigns/moonsea/characters/pugs-side-quest/mar.html: missing ../../../../pasted-image-20260706144808.png",
+  "campaigns/moonsea/characters/pugs-side-quest/ripper.html: missing ../../../../pasted-image-20260706144659.png",
+  "campaigns/moonsea/locations/denlors-tower.html: missing ../../../campaigns/moonsea/assets/denlor",
+  "campaigns/moonsea/locations/kabels-hill.html: missing ../../../campaigns/moonsea/assets/kabel",
+  "campaigns/moonsea/locations/madam-freonas-tea-kettle.html: missing ../../../campaigns/moonsea/assets/madam-freona",
+  "campaigns/moonsea/locations/mantors-library.html: missing ../../../campaigns/moonsea/assets/mantor",
+  "campaigns/moonsea/locations/scholars-square.html: missing ../../../campaigns/moonsea/assets/scholar",
+  "campaigns/moonsea/locations/shrine-of-eilistraee.html: missing ../../../campaigns/moonsea/characters/pugs-side-quest/sanctuary.png",
+  "campaigns/moonsea/locations/shrine-of-eilistraee.html: missing ../../../campaigns/moonsea/characters/pugs-side-quest/the-grove-of-mercy.png",
+  "campaigns/moonsea/sessions/chapter-11/pugs-side-quest/hymn-of-the-moon's-welcome.html: missing ../../../../../campaigns/moonsea/characters/pugs-side-quest/the-grove-of-mercy.png",
+  "campaigns/moonsea/sessions/chapter-11/pugs-side-quest/session-2---the-grove-of-mercy---narrative.html: missing ../../../../../campaigns/moonsea/characters/pugs-side-quest/sanctuary.png",
+  "campaigns/moonsea/sessions/chapter-11/pugs-side-quest/session-2---the-grove-of-mercy---narrative.html: missing ../../../../../campaigns/moonsea/characters/pugs-side-quest/the-grove-of-mercy.png",
+  "campaigns/moonsea/sessions/chapter-11/session-1/chapter-11---episode-1---session-1-notes.html: missing ../../../../../campaigns/moonsea/assets/kabel",
+  "campaigns/moonsea/sessions/chapter-11/session-1/chapter-11---episode-1---session-1-the-silver-pyramid.html: missing ../../../../../campaigns/moonsea/assets/kabel"
+]

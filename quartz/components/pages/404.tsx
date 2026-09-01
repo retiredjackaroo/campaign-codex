@@ -3,6 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = ctx.argv.serve ? "/" : url.pathname
+  const root = baseDir.endsWith("/") ? baseDir : `${baseDir}/`
 
   return (
     <article class="not-found popover-hint">
@@ -10,10 +11,10 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
         <h1>404</h1>
         <p>This page could not be found.</p>
         <nav aria-label="Recovery navigation">
-          <a href={baseDir}>Campaign Codex</a>
-          <a href={`${baseDir}campaigns/moonsea/`}>Moonsea</a>
-          <a href={`${baseDir}campaigns/dark-sun/`}>Dark Sun</a>
-          <a href={`${baseDir}campaigns/`}>All campaigns</a>
+          <a href={root}>Campaign Codex</a>
+          <a href={`${root}campaigns/moonsea/`}>Moonsea</a>
+          <a href={`${root}campaigns/dark-sun/`}>Dark Sun</a>
+          <a href={`${root}campaigns/`}>All campaigns</a>
         </nav>
       </section>
       <script
