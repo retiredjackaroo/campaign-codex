@@ -6,8 +6,7 @@ const root = "content"
 const normalize = (value) =>
   value
     .replace(/[*_`]/g, "")
-    .replace(/[’‘]/g, "'")
-    .replace(/[–—]/g, "-")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
     .replace(/\s+/g, " ")
     .trim()
     .toLowerCase()

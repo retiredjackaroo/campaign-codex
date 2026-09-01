@@ -9,7 +9,7 @@ After updating the relevant campaign or side-quest landing page:
 1. Update that landing page's `continueStory` frontmatter. Derive a short title and one-sentence summary from the new current situation; do not invent developments beyond the session. Keep `card`, `href`, `ariaLabel`, and `imageAlt` unchanged unless the destination or artwork intentionally changes.
 2. If this is a Pug side-quest session, also refresh the Side Quests summary on the main Moonsea landing page.
 3. In the Campaign Codex repository, run `npm run sync:continue`. Do not hand-edit the generated block in the root `content/index.md`.
-4. From a clean Campaign Codex checkout or dedicated worktree, install dependencies and plugins, then run `npm run check:continue`, `npm run check`, `npm test`, `npm run build`, and `npm run check:site`. Report failures; do not publish around them.
+4. From a clean Campaign Codex checkout or dedicated worktree, install dependencies and plugins, then run `npm run check:continue`, `npm run check:titles`, `npm run check`, `npm test`, `npm run build`, and `npm run check:site`. Report failures; do not publish around them.
 5. Report the files created, updated, archived, and left unresolved. Include unmatched or ambiguous images, missing art, broken links, and canonical-name conflicts.
 
 ## Required Inbox README addition
@@ -40,6 +40,7 @@ npm ci
 npm run install-plugins
 npm run sync:continue
 npm run check:continue
+npm run check:titles
 npm run check
 npm test
 npm run build

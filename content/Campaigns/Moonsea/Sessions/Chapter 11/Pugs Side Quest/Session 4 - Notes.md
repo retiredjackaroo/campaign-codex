@@ -10,8 +10,6 @@ dg-publish: true
 publish: true
 ---
 
-# Session 4 - Notes
-
 _Chapter 11, Side Quest, Session 4_
 
 ![[Campaigns/Moonsea/Assets/Pugs Side Quest Thumbnail.png]]

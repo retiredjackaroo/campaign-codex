@@ -10,8 +10,6 @@ dg-publish: true
 publish: true
 ---
 
-# Session 4 - The Binder of Long Memory
-
 _Chapter 11, Side Quest, Session 4_
 
 ## Out of the Tunnels

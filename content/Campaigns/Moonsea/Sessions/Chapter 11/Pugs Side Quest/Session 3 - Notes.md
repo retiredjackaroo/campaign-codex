@@ -11,8 +11,6 @@ tags:
   - side-quest
 ---
 
-# Session 3 - Notes
-
 _Chapter 11, Side Quest, Session 3_
 
 ![[Campaigns/Moonsea/Assets/Session 3 - End of Ankheg Battle.png]]

@@ -51,6 +51,7 @@ npm ci
 npm run install-plugins
 npm run sync:continue
 npm run check:continue
+npm run check:titles
 npm run check
 npm test
 npm run build
@@ -70,6 +71,6 @@ Do not bypass a failed gate or deploy from a dirty checkout. Fix the source or v
 
 ## Maintenance utilities
 
-- `node scripts/remove-duplicate-titles.mjs` previews redundant opening headings. Add `--write` only after reviewing the list; use `--check` for a non-mutating failing check.
+- `node scripts/remove-duplicate-titles.mjs` previews redundant opening headings, including punctuation-only differences such as `Title: Subtitle` versus `Title - Subtitle`. Add `--write` only after reviewing the list; `npm run check:titles` is the non-mutating deployment gate.
 - `npm run audit:assets` reports byte-identical images and potential space savings without changing files.
 - `OG_IMAGE_VERSION=<version> node scripts/version-og-urls.mjs public` explicitly versions generated social cards. In CI, the script uses `GITHUB_SHA`; locally it falls back to the current commit.

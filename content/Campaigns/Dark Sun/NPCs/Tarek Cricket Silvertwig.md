@@ -17,8 +17,6 @@ dg-publish: true
 publish: true
 ---
 
-# Tarek Cricket Silvertwig
-
 ![[Tarek "Cricket" Silvertwig.png]]
 A halfling ranger and one of the four officers of the [[The Alliance|Alliance]] cell at [[The Hidden Spring]], known to the cell as "Cricket." Quick-witted, sharp-tongued and shamelessly irreverent, he will twist almost anything into an innuendo even when things are grim. Unlike the other, more distant officers, he places no barrier between himself and the party, though he is visibly put out to learn they already know another Cricket.
 

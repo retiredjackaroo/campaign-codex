@@ -11,3 +11,12 @@ test("leaves a distinct opening heading untouched", () => {
   const source = '---\ntitle: "Session Five"\n---\n# The Price of Memory\n'
   assert.equal(removeDuplicateTitle(source), null)
 })
+
+test("treats punctuation-only title differences as duplicates", () => {
+  const source =
+    '---\ntitle: "Session 5: The Price of Memory"\n---\n# Session 5 - The Price of Memory\n\nStory.\n'
+  assert.equal(
+    removeDuplicateTitle(source),
+    '---\ntitle: "Session 5: The Price of Memory"\n---\n\nStory.\n',
+  )
+})

@@ -45,6 +45,9 @@ jobs:
       - name: Check Continue the story cards
         run: npm run check:continue
 
+      - name: Check duplicate page titles
+        run: npm run check:titles
+
       - name: Check types and style
         run: npm run check
 
