@@ -4,7 +4,7 @@ aliases: []
 tags:
   - pc
   - party
-status: Alive (Elf, Ranger 4, Beast Master)
+status: Alive (Elf, Ranger 5, Beast Master)
 dg-publish: true
 publish: true
 ---
@@ -16,7 +16,7 @@ An Elf Beast Master Ranger. Outlander background. Carries a Longbow and twin Sho
 
 Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between them is foundational: everything Derfel knows about surviving Athas traces back to his Thri-Kreen brother. Derfel does not think of Kit-Chac as Thri-Kreen. He thinks of him as his brother. The distinction matters enormously to Derfel and would confuse him if pointed out.
 
-**Status:** Alive (Ranger 4, Beast Master)  
+**Status:** Alive (Ranger 5, Beast Master)  
 **First appears:** <!-- link to Episode 1 once built -->
 
 ## Relationships
@@ -33,6 +33,7 @@ Found in the wastes by [[Kit-Chac]], who taught him to hunt. The bond between th
 - **Act II, Session 4:** Spotted the combined Templar, Noble, and Dregoth force leaving the Templar Quarter, prompting the move to warn [[Korno]]. Scouted the slums crossing with [[Kit-Chac]]. Turned a Templar Enix lizard mid-crossing by calling out its Animal Handling release command, dropping it harmlessly into the dust and pulling its handlers off the column. Kept Searing Smite burning on the sand elemental rather than switch to Hunter's Mark, and was pulled back from near-death by [[Salt]]'s Cure Wounds.
 - **Act II, Session 6:** Somehow topped the party's group charisma check about patience with the Alliance, at least until the table decided [[Brave]] had actually scored higher. Took a natural 20 shield bash to the face from a charmed [[Koresh Ironblood]] mid-fight, breaking his nose. Fought in genuine coordination with [[Brave]] for the first time, Hunter's Mark guiding the dog's own bite. With [[Salt]]'s Enhance Ability lending him an edge, scouted ahead after the fight and spotted a lower chamber lined with silk-cocooned alcoves — "a hell of a lot of spiders."
 - **Act II, Session 7:** Scouted the Neogi pantry and holding pen with [[Tchk Tchk Gulbadani|Tchk'Tchk]]. Killed an enthralled humanoid, then used Tchk'Tchk's Haste to pursue and kill a fleeing Neogi taskmaster with a theatrically blind arrow. Recovered the [[Ring of Psionic Resistance]] but entered the next battle unattuned. Ended with one level of hive strain.
+- **Act II, Session 9:** Confirmed his advancement to Ranger 5 and the attunement of the [[Ring of Psionic Resistance]]. Scouted a vast Neogi nursery with [[Kit-Chac]], but was compelled to halt despite the ring's protection. Helped destroy [[The Voice]], repeatedly restrained the compelled [[Anselem]], wounded [[The Hive Mother]] with Hunter's Mark and his longbow, and directed [[Brave]] in the running struggle to stop Kit-Chac.
 
 ## Character notes
 

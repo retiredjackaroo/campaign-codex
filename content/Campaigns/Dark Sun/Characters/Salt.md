@@ -29,6 +29,7 @@ That secret broke in Act II, Session 5. During the cloaker fight over the aquife
 
 - **Act II, Session 6:** Learned that word of what he is has spread among the refugees sheltering at [[The Hidden Spring]], though no one there has confronted him directly. Misjudged a flooded pool during the tunnel skills challenge and picked up a level of exhaustion. Kept the party standing through the [[Umber Hulk]] and [[Neogi]] fight with a sustained Aura of Vitality and an upcast Cure Wounds, largely while blinded by [[Pterrence]]'s own Fog Cloud.
 - **Act II, Session 7:** Cured Pterrence's lingering poison, examined and sampled the preservative used on the pantry's dead, and battered the holding-pen enemies with Shatter before psionically hurling the Umber Hulk into a cage. His prior exhaustion was not recorded as removed.
+- **Act II, Session 9:** Reached two levels of hive strain but broke [[The Voice]]'s mass suggestion through psionic discipline. Helped restrain the compelled [[Anselem]], recovered [[The Voices Amulet|The Voice's Amulet]] with Mage Hand, then landed a telekinetic strike that freed [[Kit-Chac]] from a Neogi mind hook and pushed the [[Hook Horror]] away from the party. His prior exhaustion remained unresolved.
 
 ## Notes
 

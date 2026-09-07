@@ -17,4 +17,6 @@ In [[Session 7 - Narrative|Session 7]], the party entered a Neogi pantry and hol
 
 In [[Session 8 - Narrative|Session 8]], the remaining holding-pen Neogi were destroyed by Tchk'Tchk's Shatter, Babs's blade and Anselem's Radiance of the Dawn. The party rescued all eight prisoners, then discovered and burned a vent carpeted with thousands of pale hatchlings. The deeper colony and the entity called Mother remain active.
 
+In [[Session 9 - Narrative|Session 9]], the party found a vast nursery guarded by about a dozen adults, destroyed the cocooned Templar conduit called [[The Voice]], and fought two Neogi alongside a [[Hook Horror]]. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] hurled both Neogi into a chasm. Two further attendants defend [[The Hive Mother]] in her chamber, where the battle remains unfinished.
+
 **First appears:** [[Session 6 - Narrative|Session 6]]

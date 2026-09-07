@@ -23,6 +23,8 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Session 7 - Notes]]
 - [[Session 8 - Narrative]]
 - [[Session 8 - Notes]]
+- [[Session 9 - Narrative]]
+- [[Session 9 - Notes]]
 
 ## All NPCs
 
@@ -76,6 +78,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 ### The Hidden Spring
 
 - [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar)
+- [[Neogi]], [[Umber Hulk]], [[Hook Horror]], [[The Voice]] (deceased), [[The Hive Mother]] (alive; in combat)
 
 ## All Locations
 
@@ -93,3 +96,4 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[The Moot]]
 - [[The Furnace]]
 - [[The Hidden Spring]]
+- [[The Colony]]

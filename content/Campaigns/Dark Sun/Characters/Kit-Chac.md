@@ -1,13 +1,14 @@
 ---
-publish: true
+type: pc
 aliases:
   - Kit Chac
   - Kreen
-created: 2026-07-02T10:10:37.563+10:00
-modified: 2026-07-02T10:10:37.563+10:00
 tags:
   - pc
   - party
+status: Alive (Thri-Kreen, Warrior of the Open Hand Monk)
+dg-publish: true
+publish: true
 ---
 
 # Kit-Chac
@@ -20,7 +21,7 @@ Kit-Chac refers to himself simply as Kreen, the Thri-Kreen word for "People." Fr
 
 [[Derfel]] is deeply racist and harbours considerable suspicion of Thri-Kreen. Kit-Chac is Thri-Kreen. Derfel does not appear to have noticed, or has noticed and filed it somewhere he does not look. He thinks of Kit-Chac purely as his brother. Whether Kit-Chac has noticed this contradiction, and what he makes of it, is left to the player and the table.
 
-**Status:** Alive\
+**Status:** Alive  
 **First appears:** <!-- link to Episode 1 once built -->
 
 ## Relationships
@@ -30,3 +31,4 @@ Kit-Chac refers to himself simply as Kreen, the Thri-Kreen word for "People." Fr
 ## Notable moments
 
 - **Act II, Session 4:** Picked the routes through the ruined slums and scouted the crossing alongside [[Derfel]]. Donated two water skins to [[Leviath]]'s refugees. In the sand elemental fight he tried his new Stunning Strike (the creature was immune to stunned) and a Flurry of Blows with Tavern Brawler to topple it (earth instability meant it could not be knocked prone), and kept hammering away with what damage would land. Stood over the medium elemental after the split until he was sure it had dispersed.
+- **Act II, Session 9:** Scouted the Neogi nursery and resonant chamber with [[Derfel]]. [[The Voice]] compelled him to run to [[The Hive Mother]], but he resisted Mother's direct attempt to dominate him and attacked her alone. He survived two rounds of psychic restraint and fear through Patient Defence until [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] telekinetically pulled him back to the party.

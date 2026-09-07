@@ -30,3 +30,7 @@ In Act II, Session 6 the party pushed north again, beyond the Hidden Spring cell
 The fight left the resin chamber scattered with silk cocoons; a further, lower chamber glimpsed afterward held mummified silk-wrapped remains in alcoves along its walls, strongly suggesting a spider-lair deeper still. No name has yet been given to either chamber; see the flag in [[Session 6 - Notes]].
 
 In Act II, Session 7 the lower chamber proved to be a Neogi pantry filled with preserved dead taken from across Raam. A psionic chorus repeated “you are not alone,” “home,” “join” and “beautiful.” Further north, beyond another climb, the party found a stone-and-chitin holding pen with living prisoners, four Neogi and a second Umber Hulk. The battle there remained unfinished.
+
+In Act II, Session 8 the party destroyed the holding-pen guards, rescued all eight prisoners and crossed a vent filled with thousands of Neogi hatchlings into the deeper [[The Colony|colony]].
+
+In Act II, Session 9 the party explored a vast nursery and a psionically resonant chasm chamber, destroyed the Templar conduit called [[The Voice]], and reached [[The Hive Mother]]. The fight in Mother's chamber remained unfinished.

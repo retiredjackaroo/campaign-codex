@@ -31,6 +31,7 @@ A mute Mul gladiator and the party's tank. Cannot speak but communicates through
 - Joined Derfel in taking revenge after [[Maeve]] was killed by ranged attackers in Episode 10.
 - **Act II, Session 6:** Found the only real success in an otherwise failed skills challenge, a scrap of torn clothing belonging to a missing Alliance scout. Briefly charmed by a [[Neogi]] hive-mind during the fight with an [[Umber Hulk]] and told the ally in front of her was a threat to her "master"; landed a critical hit and a follow-up strike on [[Tarek Cricket Silvertwig|Tarek]] before the compulsion broke. Recovered to close the fight by beheading the second Neogi in one blow. It was this session's beheading strike that cemented "Babs" as her name going forward.
 - **Act II, Session 7:** Was restrained by the first Neogi taskmaster, then enthralled in the holding-pen fight and forced to stab Tchk'Tchk and Salt before recovering. Ended with one level of hive strain.
+- **Act II, Session 9:** Gained one level of hive strain in the resonant chamber but resisted a Neogi mind hook. Repeatedly grappled the compelled [[Kit-Chac]] and [[Anselem]], fought the servants of [[The Hive Mother]], and used Second Wind to keep herself moving through two consecutive battles.
 
 ## Notes
 

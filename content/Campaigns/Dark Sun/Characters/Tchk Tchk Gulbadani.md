@@ -32,6 +32,7 @@ Where [[Salt]] favours utility and healing, Tchk'Tchk is the party's control spe
 
 - **Act II, Session 4:** Won the sand elemental fight. The creature was immune to stunned, could not be knocked prone or pushed (earth instability), and shrugged off Web, but it had no defence against Command. Tchk'Tchk exploited that gap ruthlessly, casting Command turn after turn to pin the elemental inside [[Pterrence]]'s Cloud of Daggers, and using Telekinetic Propel to lift it five feet above the daggers and drop it back in when it tried to leave. [[Pterrence]] credited him with the win outright.
 - **Act II, Session 7:** Co-scouted the Neogi pantry, hasted Derfel for the first fight, then used a crushing telekinetic field to knock two Neogi prone and damage an Umber Hulk in the holding pen. The Umber Hulk resisted his attempted forced movement. He was stabbed by an enthralled Babs and ended with one level of hive strain.
+- **Act II, Session 9:** Reached three levels of hive strain and was deafened beneath the hive's chorus, but used psionic discipline to break [[The Voice]]'s mass suggestion. Threw two [[Neogi]] and a [[Hook Horror]] into a bottomless chasm, denied the hook horror a turn with Command, and later pulled [[Kit-Chac]] away from [[The Hive Mother]] with Telekinetic Propel before fortifying himself with biofeedback.
 
 ## Notes
 
