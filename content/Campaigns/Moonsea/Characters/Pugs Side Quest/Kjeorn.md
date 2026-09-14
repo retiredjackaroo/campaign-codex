@@ -58,3 +58,9 @@ Kjeorn was born and raised in a small, reclusive village of elves deep in a fore
 - Refused to surrender Pug or any companion when the Binder demanded one soul for the other four lives.
 - Signed the contract himself, freeing Pug, Ripper, Mar and Morwyn at the cost of his own life and free will.
 - Was remade as the Binder's chained shade. [[Silvanus]] did not overturn Kjeorn's freely chosen contract, but granted him an oak-leaf-shaped inner light the devil cannot reach: peace beneath the pain, rooted in the living world and the knowledge that his friends survived.
+
+## Session 6, Beneath the Same Moon
+
+- The survivors woke beneath a memorial stone bearing Kjeorn's name and understood the bargain he had made.
+- Pug vowed to research a way to recover him from the Binder.
+- Morwyn composed and performed [[Over the Hills and Far Away]], preserving Kjeorn's sacrifice, Silvanus's oak-leaf light and the memory of Bullshit in song.

@@ -65,3 +65,11 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Reduced Blue, a dust mephit, to ash with Vicious Mockery after impugning its hygiene and professional competence: Ripper's socks, an abysmal performance review, a performance-improvement plan and likely dismissal.
 - Fought through the collapse until he was knocked unconscious.
 - Survived because Kjeorn accepted the Binder's contract in place of the other four escorts.
+
+## Session 6, Beneath the Same Moon
+
+- Woke to Kjeorn's chained memorial stone and recognised that he had accepted the Binder's bargain. Promised to write him a song.
+- Composed and performed [[Over the Hills and Far Away]], honouring Kjeorn, Bullshit and the sacrifice that saved the party. His performance moved Ocreata to tears after seven centuries without music.
+- Recalled the legend of three imprisoned fiends falling on Myth Drannor like meteors and connected it to the smoking crater on Coronal's Way.
+- Attacked the Moonstone with Dissonant Whispers in the voice of a dial-up modem, with no visible effect.
+- Commanded the Moon Deva to grovel; it resisted and answered “No” in his exact musical key. He then gave Herschel Bardic Inspiration.

@@ -58,3 +58,9 @@ When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form
 - Marked the Binder and struck it twice with her magic whip before its chains grappled and dragged her.
 - Continued to fight and recover from the ground, spent Heroic Inspiration to help Morwyn land an important heal, and revived Kjeorn with a healing potion before she fell unconscious.
 - Survived because Kjeorn gave himself to the Binder for the lives of the other four escorts.
+
+## Session 6, Beneath the Same Moon
+
+- Began unconscious and gravely injured. Herschel stabilised her with a healer's kit, but she required more time than Pug and Morwyn to recover.
+- Remained concealed with Mar while the others travelled to the Moon Plaza; no player-controlled actions were recorded.
+- Recovered enough to follow the group's note and entered the Moon Plaza with Mar at the closing cliffhanger.

@@ -46,3 +46,11 @@ Character concept based on Jackson Lamb (the fictional Slough House spymaster). 
 - Nearly finished the ankheg with a lightning-charged Shillelagh strike before Ripper killed it.
 - Read part of Eliana Starblue's memorial and investigated the iron grooves on neighbouring stones.
 - Cast Confusion on the Binder and a mephit; the devil resisted, but the mephit did not.
+
+## Session 6, Beneath the Same Moon
+
+- Returned from gathering shell fungus, moss and flowers—pulling up his trousers as he arrived—to find four companions unconscious and Ocreata kneeling among them.
+- Used two healer's-kit applications to stabilise Ripper and Mar, then spent both healing potions to wake Pug and Morwyn.
+- Returned the plants after Ocreata warned that nothing growing in Myth Drannor could be taken from the city.
+- Found the new-moon disc among the Moon Plaza's rubble and fitted it opposite the full moon, causing the hovering Moonstone to pulse and the Moon Deva to appear.
+- Summoned a fey hawk to search the plaza. It located two likely lunar discs before the deva bound it with liquid moonlight and destroyed it in the fall.

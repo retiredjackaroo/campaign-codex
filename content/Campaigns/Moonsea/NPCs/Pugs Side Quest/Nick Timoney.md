@@ -13,5 +13,7 @@ tags:
 
 During [[Session 3 - Enter as Guests, Leave as Guardians]], Nick scouted the party's route through [[The Starwood]] and reported structures ahead without identifying an immediate threat. He remained outside the Moon Arch's supernatural tests.
 
+During [[Session 6 - Beneath the Same Moon]], Pug summoned Nick to search the [[Moon Plaza]] for missing lunar discs. Nick rolled a natural 1, flew a beautiful arc with little backward rolls, found nothing and looked to Pug as though waiting to be told he had done well.
+
 **Status:** Alive, summoned
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]

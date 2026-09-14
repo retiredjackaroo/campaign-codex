@@ -7,16 +7,16 @@ aliases:
 tags:
   - pc
   - party
-status: In Phlan
+status: In Myth Drannor; fighting in the Moon Plaza
 dg-publish: true
 publish: true
 ---
 
 ![[Pug D'astibar.jpg]]
 
-A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. Stayed behind in [[Phlan]] near [[Denlors Tower|Denlor's Tower]] on personal business and keeps in touch with the party through [[Iltiza Ward]] via Sending. Currently level 7.
+A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. He stayed behind in [[Phlan]] when the main party departed, then his personal business carried him through Shadowdale and physically into [[Myth Drannor]] with a separate escort. Currently level 7.
 
-**Status:** In Phlan<br>
+**Status:** In Myth Drannor; fighting in the [[Moon Plaza]]<br>
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 
 ## Side quest: escort to Myth Drannor
@@ -53,3 +53,11 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Changed Fireball into a thunderball with his Awakened Spellbook, killing a dust mephit and collapsing a fountain; three captive spirits were also dispersed, though their fate remains uncertain.
 - Killed the final green mephit with Mind Sliver, then used the [[Silver Brooch]] to call a red-feathered blood hawk against the Binder; the creature missed and was destroyed in a burst of feathers.
 - Fell unconscious in the Binder's battle and survived only because Kjeorn surrendered himself in exchange for the other four companions.
+
+### Session 6, Beneath the Same Moon
+
+- Woke beside Kjeorn's chained memorial and vowed to return to the library, find a way to recover him, and undo the Binder's hold.
+- Learned that Ocreata believes Myth Drannor is testing Pug to determine whether he is worthy to carry the city's memory.
+- Saw a living memory of the third Coronal's investiture in the Moon Plaza. The new Coronal knelt before the people and described authority as service, seeming to entrust the city's future directly to Pug.
+- Tried to approach the hostile Moonstone in peace and was struck by radiant lightning.
+- Counterspelled the Moon Deva's Bigby's Hand, then summoned Nick Timoney to search for the missing lunar discs.

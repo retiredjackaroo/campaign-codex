@@ -9,8 +9,6 @@ tags:
   - side-quest
 ---
 
-# Session 6 - Notes
-
 _Chapter 11, Side Quest, Session 6_
 
 Herschel and the newly arrived Ocreata found Pug, Morwyn, Ripper and Mar alive after Kjeorn's bargain. The party honoured Kjeorn, learned that Ocreata has been trapped in Myth Drannor since its fall, then reached the Moon Plaza and began solving its lunar mechanism under attack from a Moonstone and Moon Deva. See [[Session 6 - Beneath the Same Moon|the narrative]] and Morwyn's complete memorial song, [[Over the Hills and Far Away]].

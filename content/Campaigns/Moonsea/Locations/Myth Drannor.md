@@ -13,6 +13,8 @@ tags:
 
 # Myth Drannor
 
+![[Campaigns/Moonsea/Assets/Myth Drannor - Map.png]]
+
 Ruined elven city at the heart of [[Cormanthor]], watched over by the [[Knights of Myth Drannor]], the Sylvan Guard, and the outpost elves. [[Elminster]] and [[Pug DAstibar|Pug D'Astibar]]'s wizard contacts arranged for the party to escort Pug here to camp at an old, abandoned elven shrine and collect sacred waters using the [[Crystal Vials]].
 
 The raw session notes garble the name several ways, including "Mythdrenor", "Myth Drunner" and "Mithranor" (the last used by the party themselves, describing themselves as its guardians); all kept here as aliases for the same place.
@@ -30,3 +32,11 @@ The **pool of radiance** Pug was sent to sample is said to have formed after the
 The escort reached [[The Moon Arch]] through [[The Starwood]] and was tested by memory, purpose and stewardship. The arch admitted them with the charge _Enter as guests, leave as guardians_ and asked them to _Remember us kindly_.
 
 Inside, [[Pug DAstibar|Pug]] recognised the [[Hall of Scrolls]], [[Garden of Long Memory]] and [[House of Song]]. The [[Grand Avenue]] showed the party a memory of the living city and later reacted individually to spellcasting. Four [[Ankhegs of Myth Drannor|ankhegs]] then erupted beneath the avenue, leaving the party mid-combat.
+
+## The City's Memory
+
+[[Ocreata]], a drow who arrived as a child refugee before Myth Drannor fell, has remained trapped in the ruins for roughly seven centuries. The city will neither let him leave nor allow death to hold him: after each death he eventually awakens where he fell. He believes Myth Drannor is testing Pug to find a worthy bearer for its memory.
+
+At the [[Moon Plaza]], Pug witnessed the investiture of the third Coronal. The city's people shared responsibility for one another, and the Coronal declared that authority was service rather than dominion. The memory appeared to address Pug directly.
+
+The escort is now fighting the [[Moon Deva]] and a hostile [[Moonstone]] before the [[Temple of Sehanine Moonbow]].

@@ -17,6 +17,6 @@ Hundreds of memorial stones stand among the flowers. Some are bound in rusted ch
 
 The garden showed the escort a living memory of families gathering for a hopeful citywide celebration. After [[Kjeorn]] broke a chain from one memorial, [[The Binder of Long Memory]] emerged with five captive spirits and four elemental mephits.
 
-The ensuing battle ended when Kjeorn traded his own life to the Binder for the lives of the four fallen escorts. Pug, Ripper, Mar and Morwyn will awaken here, while the Binder has departed with Kjeorn's shade.
+The ensuing battle ended when Kjeorn traded his own life to the Binder for the lives of the four fallen escorts. Pug, Ripper, Mar and Morwyn awoke here beneath a chained memorial stone bearing Kjeorn's name, while the Binder had departed with Kjeorn's shade. Herschel and Ocreata stabilised the survivors before leading them to shelter beyond the garden.
 
 **First appears:** [[Session 3 - Enter as Guests, Leave as Guardians]]

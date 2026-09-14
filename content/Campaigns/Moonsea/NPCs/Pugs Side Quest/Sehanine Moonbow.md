@@ -19,5 +19,7 @@ The elvish goddess of the moon, and the deity held in highest honour in [[Myth D
 
 Her name surfaced in the party's reading of [[Aurelien Voxs Journal|Aurelien Vox's journal]]: the missing Harper **Aranis** was last followed into the ruins beneath the temple of Sehanine Moonbow, where the stone steps "were not where they were yesterday."
 
+Pug's escort has now reached the [[Temple of Sehanine Moonbow]] and its [[Moon Plaza]]. The inscription above the sanctuary reads, “May every soul find its path beneath the same moon.” The temple itself remains unentered.
+
 **Status:** Historical / lore
 **First appears:** [[Session 2 - The Grove of Mercy - Narrative]]

@@ -52,3 +52,9 @@ One of the Sylvan folk, Mar usually works as a guide, helping others navigate th
 - Dropped Wild Shape but could not escape the Binder's chain, which tightened with her smaller form.
 - Used Barkskin and Guiding Bolt while chained and under pressure, then took Archer Form and continued attacking with Starry Wisp before she fell unconscious.
 - Survived because Kjeorn gave himself to the Binder in place of the other four escorts.
+
+## Session 6, Beneath the Same Moon
+
+- Began unconscious and gravely injured. Herschel stabilised her with a healer's kit, and Morwyn's Aid helped sustain her through the recovery.
+- Remained concealed with Ripper while the others travelled to the Moon Plaza; no player-controlled actions were recorded.
+- Recovered enough to follow the group's note and entered the Moon Plaza with Ripper at the closing cliffhanger.

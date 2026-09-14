@@ -5,8 +5,8 @@ aliases:
   - Pug's Side Quest Homepage
 continueStory:
   label: Moonsea side quest
-  title: The Price of Memory
-  summary: Kjeorn gave his life and soul to the Binder so Pug and the other escorts could awaken alive and free.
+  title: Beneath the Same Moon
+  summary: Pug has seen the third Coronal's memory and now fights the Moon Plaza's celestial guardian while the escort rebuilds its ranks.
   card: pug
   href: ./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/
   ariaLabel: Continue Pug's Side Quest
@@ -24,7 +24,7 @@ Home page for Pug's Side Quest, "Escort to Myth Drannor." This page always refle
 
 ## Where We Are Now
 
-The escort fought [[The Binder of Long Memory]] in the [[Garden of Long Memory]] and lost [[Kjeorn]] to a bargain that saved the other four. Pug, Ripper, Mar and Morwyn will wake alive, unaware that Kjeorn freely gave his life and soul rather than surrender any of them. The Binder remains at large with Kjeorn bound as its shade.
+The survivors woke beneath [[Kjeorn]]'s memorial and met [[Ocreata]], a drow trapped in [[Myth Drannor]] since its fall. Pug, Herschel, Morwyn and Ocreata reached the [[Moon Plaza]], where Pug saw the third Coronal's investiture and the group began solving a lunar mechanism under attack from a [[Moonstone]] and [[Moon Deva]]. Ripper and Mar have just rejoined them; the battle remains active.
 
 ## Hall of Fame
 
@@ -35,28 +35,36 @@ The escort fought [[The Binder of Long Memory]] in the [[Garden of Long Memory]]
 | Chapter 11, Side Quest, Session 3 | The escort satisfied the Moon Arch's tests of memory, purpose and stewardship and became the first of their company to enter Myth Drannor, with Pug leading them through. See [[Session 3 - Enter as Guests, Leave as Guardians\|the full session]].                                                               | Morwyn spent a spell trying to make [[Bullshit]] lick Kjeorn's face for eight hours; Bullshit passed the save. See [[Session 3 - Enter as Guests, Leave as Guardians\|the full session]].                                                                                                           |
 | Chapter 11, Side Quest, Session 4 | The whole escort combined control, healing and ruthless timing to stop every ankheg escape and bring everyone back from the tunnels alive. See [[Session 4 - The Binder of Long Memory\|the full session]].                                                                                                        | Kjeorn charged the Binder with a Shining Smite, only for Myth Drannor's wild magic to teleport him straight into the garden's reflecting pool instead. See [[Session 4 - The Binder of Long Memory\|the full session]].                                                                             |
 | Chapter 11, Side Quest, Session 5 | [[Kjeorn]] refused to trade away Pug or any fallen companion, then gave himself to the Binder so Pug, Ripper, Mar and Morwyn could live. See [[Session 5 - The Price of Memory\|the full session]].                                                                                                                | Pug's carefully aimed thunderball blew apart a garden fountain and sent a dust mephit into a cloud of dust; the collapse was far more dramatic than the enemy's demise. See [[Session 5 - The Price of Memory\|the full session]].                                                                  |
+| Chapter 11, Side Quest, Session 6 | [[Herschel Blackroot]] recognised the fountain's lunar mechanism, found and fitted the new-moon disc, then sent a fey hawk across the battlefield to locate two more pieces. See [[Session 6 - Beneath the Same Moon\|the full session]].                                                                          | [[Nick Timoney]] searched the Moon Plaza with graceful arcs and little backward rolls, found absolutely nothing on a natural 1, and looked to Pug as though asking whether he had done well. See [[Session 6 - Beneath the Same Moon\|the full session]].                                           |
 
-## Latest Session (Session 5)
+## Latest Session (Session 6)
 
-- [[Session 5 - The Price of Memory|The Narrative]]
-- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 5 - Notes|Session Notes]]
+- [[Session 6 - Beneath the Same Moon|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 6 - Notes|Session Notes]]
+- [[Over the Hills and Far Away|Kjeorn's Memorial Song]]
 
-For Sessions 1–4, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
+For Sessions 1–5, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Quest Archive]].
 
 ## NPCs, Companions and Creatures This Session
 
-- [[Bullshit]]
+- [[Kjeorn]]
 - [[The Binder of Long Memory]]
-- [[Silvanus]]
+- [[Moon Deva]]
+- [[Sehanine Moonbow]]
 
 ## Locations This Session
 
 - [[Myth Drannor]]
 - [[Garden of Long Memory]]
+- [[Hall of Scrolls]]
+- [[Coronals Way|Coronal's Way]]
+- [[Moon Plaza]]
+- [[Temple of Sehanine Moonbow]]
 
 ## Side Quest Cast
 
 - [[Pug DAstibar|Pug D'Astibar]]
+- [[Ocreata]]
 - [[Herschel Blackroot]]
 - [[Kjeorn]]
 - [[Mar]]
@@ -70,15 +78,19 @@ For Sessions 1–4, see the [[Sessions/Chapter 11/Pugs Side Quest/Archive|Side Q
 - [[Harper Compass]]
 - [[Aurelien Voxs Journal]]
 - [[Potion of Heroism]]
+- [[Moonstone]]
+- [[Moon Phase Discs]]
 
 ## Loose Ends
 
-- [[Kjeorn]] gave himself to [[The Binder of Long Memory]] to save the rest of the escort, and is now bound as its shade.
-- Pug, Ripper, Mar and Morwyn will wake alive in the Garden of Long Memory; the Binder is gone.
+- [[Kjeorn]] is bound as [[The Binder of Long Memory]]'s shade. Pug has vowed to research a way to recover him.
+- [[Ocreata]] cannot leave or permanently die in Myth Drannor until he repays his debt to the city; he believes helping Pug may free him.
+- The [[Moon Deva]] and [[Moonstone]] remain active in the [[Moon Plaza]]. The fountain is enclosed by Wall of Force.
+- The full-moon and new-moon discs are fitted; two other likely [[Moon Phase Discs|lunar discs]] have been located and seven sockets remain empty.
+- Ripper and Mar have rejoined Pug, Herschel, Morwyn and Ocreata at the plaza.
 - The fate of three spirits dispersed by Pug's thunderball is uncertain.
 - The six [[Crystal Vials]] remain empty; the pool lies below Myth Drannor and its water must not touch Pug.
-- The party still intends to seek the underground stairs at the temple of [[Sehanine Moonbow]].
-- Pug saw a cracked moonstone source pulse beneath a memory echo; Myth Drannor's reactions are not behaving like ordinary wild magic.
+- The party has reached the [[Temple of Sehanine Moonbow]] but has not entered or found the underground stairs.
 
 ## Back to the Main Campaign
 

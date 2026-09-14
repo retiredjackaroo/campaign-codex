@@ -39,6 +39,11 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Session 4 - The Binder of Long Memory|The Narrative]]
 - [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 4 - Notes|Session Notes]]
 
+#### Session 5, The Price of Memory
+
+- [[Session 5 - The Price of Memory|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 5 - Notes|Session Notes]]
+
 ## All NPCs and Powers
 
 - [[Elminster]]
@@ -54,6 +59,7 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Snotty]]
 - [[The Binder of Long Memory]]
 - [[Silvanus]]
+- [[Moon Deva]]
 
 ## All Locations
 
@@ -68,6 +74,9 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Hall of Scrolls]]
 - [[Garden of Long Memory]]
 - [[House of Song]]
+- [[Coronals Way|Coronal's Way]]
+- [[Moon Plaza]]
+- [[Temple of Sehanine Moonbow]]
 
 ## All Factions
 
@@ -78,6 +87,7 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 ## Side Quest Cast
 
 - [[Pug DAstibar|Pug D'Astibar]]
+- [[Ocreata]]
 - [[Herschel Blackroot]]
 - [[Kjeorn]]
 - [[Mar]]
@@ -91,7 +101,10 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Harper Compass]]
 - [[Aurelien Voxs Journal]]
 - [[Potion of Heroism]]
+- [[Moonstone]]
+- [[Moon Phase Discs]]
 
 ## Lore and Handouts
 
 - [[Hymn of the Moon's Welcome]]
+- [[Over the Hills and Far Away]]

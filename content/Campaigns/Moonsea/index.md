@@ -137,7 +137,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Pugs side quest team.png]]
 
-**Pug's Side Quest: The Price of Memory** — Pug's escort survived the Binder of Long Memory only because Kjeorn freely gave his life and soul for the other four. The survivors will wake in the garden while the Binder has gone, dragging Kjeorn's shade with it.
+**Pug's Side Quest: Beneath the Same Moon** — The survivors honoured Kjeorn, met the seven-century castaway Ocreata, and reached the Moon Plaza. Pug has seen the third Coronal's memory; the reunited escort now faces a Moon Deva and a hostile Moonstone guarding the temple.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 
