@@ -61,8 +61,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="The Born Under a Dark Sun adventuring party"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Dark Sun</span>
-        <strong>Mother Calls</strong>
-        <span>The party has reached the Hive Mother and recovered Kit-Chac, but the battle in her chamber is still unfinished.</span>
+        <strong>Mother Falls</strong>
+        <span>Derfel has killed the Hive Mother, but Brave is dead, three of the party are unconscious and her chamber is collapsing around them.</span>
       </span>
     </a>
     <a class="resume-card resume-card--pug" href="./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/" aria-label="Continue Pug's Side Quest">

@@ -19,4 +19,6 @@ In [[Session 8 - Narrative|Session 8]], the remaining holding-pen Neogi were des
 
 In [[Session 9 - Narrative|Session 9]], the party found a vast nursery guarded by about a dozen adults, destroyed the cocooned Templar conduit called [[The Voice]], and fought two Neogi alongside a [[Hook Horror]]. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] hurled both Neogi into a chasm. Two further attendants defend [[The Hive Mother]] in her chamber, where the battle remains unfinished.
 
+In [[Session 10 - Narrative|Session 10]], Mother's attendants fought under her legendary commands; they dropped [[Babs]] with venomous bites and one carried her off before [[Tchk Tchk Gulbadani|Tchk'Tchk]] teleported her free. Four egg sacs burst into swarms of broodlings that tried to burrow into the party's flesh and left [[Brave]] badly wounded. A rockfall crushed one attendant and trapped another. [[The Hive Mother]] was killed, and the hive began to wail as her chamber collapsed.
+
 **First appears:** [[Session 6 - Narrative|Session 6]]
