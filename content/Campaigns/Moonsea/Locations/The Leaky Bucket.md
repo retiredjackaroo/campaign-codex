@@ -13,6 +13,6 @@ tags:
 
 ![[Campaigns/Moonsea/Assets/The Leaky Bucket.webp]]
 
-A tavern in [[Kabel's Hill]], doing roaring business well past midnight despite the occupation.
+A tavern in [[Kabels Hill|Kabel's Hill]], doing roaring business well past midnight despite the occupation.
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

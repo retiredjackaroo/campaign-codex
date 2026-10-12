@@ -10,6 +10,6 @@ tags:
 
 # Burning Banner
 
-An orc mercenary company commanded by the half-dragon [[Vurthak]]. Occupies river villages including [[Kabel's Hill]] and controls traffic on the [[Storgenau]].
+An orc mercenary company commanded by the half-dragon [[Vurthak]]. Occupies river villages including [[Kabels Hill|Kabel's Hill]] and controls traffic on the [[Storgenau]].
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

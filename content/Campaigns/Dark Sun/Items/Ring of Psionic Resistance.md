@@ -10,6 +10,6 @@ publish: true
 
 ![[Ring of Psionic Resistance.png]]
 
-An abjuration signet ring bearing House M'Ke's scarab and two stylised daggers. [[Derfel]] recovered it from an enthralled woman in the Neogi pantry during [[Session 7 - Narrative|Session 7]].
+An abjuration signet ring bearing House M'Ke's scarab and two stylised daggers. [[Derfel]] recovered it from an enthralled woman in the Neogi pantry during [[Campaigns/Dark Sun/Sessions/Act II/Session 7/Session 7 - Narrative|Session 7]].
 
-When attuned, it grants advantage on saving throws against psionics. Derfel carried it into the holding-pen battle without having time to attune, then completed the attunement during the short rest in [[Session 8 - Narrative|Session 8]].
+When attuned, it grants advantage on saving throws against psionics. Derfel carried it into the holding-pen battle without having time to attune, then completed the attunement during the short rest in [[Campaigns/Dark Sun/Sessions/Act II/Session 8/Session 8 - Narrative|Session 8]].

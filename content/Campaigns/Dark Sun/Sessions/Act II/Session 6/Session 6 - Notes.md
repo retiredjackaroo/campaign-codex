@@ -57,9 +57,6 @@ Five of seven party members were active this session. **[[Kit-Chac]] and [[Tchk 
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Cisterns]] | The party travelled further north than previously mapped, into unexplored tunnels beyond [[The Hidden Spring]]'s territory, encountering a biologically-resined chamber and the Umber Hulk/Neogi ambush |
 
-![[Northern Tunnels.png]]
-_The stretch of aquifer tunnels north of the Hidden Spring, crossed during the day's scouting._
-
 ## Combat: the Umber Hulk and the Neogi
 
 ![[Campaigns/Dark Sun/Assets/Neogi.png]]

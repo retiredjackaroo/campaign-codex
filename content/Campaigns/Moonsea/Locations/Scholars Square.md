@@ -11,7 +11,7 @@ tags:
   - phlan
 ---
 
-![[Campaigns/Moonsea/Assets/Scholar's Square.png]]
+![[Campaigns/Moonsea/Assets/Scholars Square.png]]
 
 A square in [[Phlan]]. Recorded in the campaign journal.
 

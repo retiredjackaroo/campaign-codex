@@ -10,7 +10,7 @@ modified: 2026-07-13T10:33:33.881+10:00
 tags:
   - npc
   - the-moot
-  - m'ke
+  - mke
   - noble
 ---
 
@@ -21,4 +21,4 @@ A Satrap encountered at [[The Moot]]. The title Satrap indicates a regional gove
 
 ## Relationships
 
-- [[Ruvasha M'ke]]: family connection
+- [[Ruvasha Mke|Ruvasha M'ke]]: family connection

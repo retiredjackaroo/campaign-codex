@@ -13,20 +13,20 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ## All Sessions
 
-- [[Session 4 - Narrative]]
-- [[Session 4 - Notes]]
-- [[Session 5 - Narrative]]
-- [[Session 5 - Notes]]
-- [[Session 6 - Narrative]]
-- [[Session 6 - Notes]]
-- [[Session 7 - Narrative]]
-- [[Session 7 - Notes]]
-- [[Session 8 - Narrative]]
-- [[Session 8 - Notes]]
-- [[Session 9 - Narrative]]
-- [[Session 9 - Notes]]
-- [[Session 10 - Narrative]]
-- [[Session 10 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Notes|Session 4 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Narrative|Session 5 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Notes|Session 5 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Narrative|Session 6 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Notes|Session 6 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 7/Session 7 - Narrative|Session 7 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 7/Session 7 - Notes|Session 7 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 8/Session 8 - Narrative|Session 8 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 8/Session 8 - Notes|Session 8 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Narrative|Session 9 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Notes|Session 9 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Narrative|Session 10 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Notes|Session 10 - Notes]]
 
 ## All NPCs
 

@@ -9,7 +9,7 @@ tags:
 
 # Kral
 
-A young man in dark grey who tends [[Denlor's Tower]]. Let the party in after the password and offered them tea by the smokeless hearth.
+A young man in dark grey who tends [[Denlors Tower|Denlor's Tower]]. Let the party in after the password and offered them tea by the smokeless hearth.
 
 **Status:** At Denlor's Tower\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

@@ -18,7 +18,7 @@ A half-giant and representative of [[The Alliance]], the hidden resistance opera
 
 **Status:** Alive
 **Affiliation:** [[The Alliance]]
-**First appears:** [[Session 4 - Narrative]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]
 
 ## Relationships
 

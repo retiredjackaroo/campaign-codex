@@ -8,6 +8,6 @@ tags:
 
 # Kingspire
 
-Site of an earlier encounter with the [[Burning Banner]], whose insignia the party recognised again at [[Kabel's Hill]].
+Site of an earlier encounter with the [[Burning Banner]], whose insignia the party recognised again at [[Kabels Hill|Kabel's Hill]].
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

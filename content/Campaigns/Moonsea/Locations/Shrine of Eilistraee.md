@@ -13,7 +13,7 @@ tags:
 
 # Shrine of Eilistraee
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/Sanctuary.png]]
+![[Campaigns/Moonsea/Assets/Sanctuary.png]]
 
 An ancient shrine to [[Eilistraee]] deep in [[Cormanthor]], within the perimeter the escort normally guards but had never themselves entered. The party reached it at nightfall on the road to [[Myth Drannor]], about half a day short of the city.
 
@@ -27,8 +27,8 @@ Beneath a misaligned stone bench (its moss too uniform, roots deliberately route
 
 ## The Vision
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/The grove of mercy.png]]
+![[Campaigns/Moonsea/Assets/The grove of mercy.png]]
 
-That night the reflecting pool rippled inward and the grove filled with translucent spirits: drow refugees welcomed by surface elves and centaurs, sharing bread and cloaks, a warrior laying down his bow, a choir of both peoples singing in the old dialect, a drow child dancing with a moon elf. The overwhelming impression was of hope and a "sacred mercy" that persisted here even through Myth Drannor's wars. The vision faded with the pool going still, leaving the party too moved to sleep at once. The choir's song is recorded at [[Hymn of the Moon's Welcome]].
+That night the reflecting pool rippled inward and the grove filled with translucent spirits: drow refugees welcomed by surface elves and centaurs, sharing bread and cloaks, a warrior laying down his bow, a choir of both peoples singing in the old dialect, a drow child dancing with a moon elf. The overwhelming impression was of hope and a "sacred mercy" that persisted here even through Myth Drannor's wars. The vision faded with the pool going still, leaving the party too moved to sleep at once. The choir's song is recorded at [[Hymn of the Moons Welcome|Hymn of the Moon's Welcome]].
 
 **First appears:** [[Session 2 - The Grove of Mercy - Narrative]]

@@ -12,6 +12,6 @@ tags:
 
 # The Lyceum
 
-A stronghold and prison in [[Phlan]] whose walls adjoin [[Denlor's Tower]]. The party freed [[Lord Hector]] and others here and defeated [[Crudo]].
+A stronghold and prison in [[Phlan]] whose walls adjoin [[Denlors Tower|Denlor's Tower]]. The party freed [[Lord Hector]] and others here and defeated [[Crudo]].
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

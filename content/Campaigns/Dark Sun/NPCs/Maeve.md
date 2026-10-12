@@ -18,7 +18,7 @@ tags:
 [[Derfel]]'s second Primal Companion: a dog, and the second of three. Maeve died in Episode 10, killed by two ranged attackers who targeted her while the party was rescuing children. She had already bitten the primary target before they brought her down. She went out fighting.
 
 **Status:** Deceased (killed in action, Episode 10)\
-**Preceded by:** [[Dave (RIP)]]\
+**Preceded by:** [[Dave|Dave (RIP)]]\
 **Succeeded by:** [[Brave]]
 
 ## Death

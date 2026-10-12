@@ -20,6 +20,6 @@ A faction encountered during the campaign. The named members suggest a martial o
 - [[Chastha of the Red Gorge]]
 - [[Derru]]
 - [[Rekka of the Heat Cleft]]
-- [[Sa'toth]]
+- [[Satoth|Sa'toth]]
 - [[Mikrim Dustbiter]]
 - [[Tanji the Worm Keeper]]

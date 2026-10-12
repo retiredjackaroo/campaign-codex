@@ -48,7 +48,7 @@ Kjeorn also took a beat to summon a mount, calling up a Celestial stag (an elk, 
 
 They walked the rest of the day. As the light failed, [[Herschel Blackroot]] pulled aside some brush and revealed what they'd been walking towards: an old elven shrine, a place the guardians of Myth Drannor knew of but had never actually entered, sitting well inside the perimeter they usually kept others out of.
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/Sanctuary.png]]
+![[Campaigns/Moonsea/Assets/Sanctuary.png]]
 
 The grove was almost perfectly circular, nearly a hundred feet across, as though the forest itself had been gently persuaded to leave the spot untouched. Moonlight was already pooling there before the sun had finished setting. At its centre lay a broad reflecting pool, still as polished glass, water lilies only now unfurling their white blossoms for the night. Worn stone benches ringed it, moss softening their edges, flowering vines climbing weathered columns, some still whole, some long since fallen. At the northern edge stood an elegant marble arch, its keystone carved with a crescent moon, its face softened by centuries: women dancing beneath moonlight, hands extended in welcome, a sword laid peacefully on the ground.
 
@@ -89,13 +89,13 @@ Pug, paranoid after the journal, ringed the camp in Mordenkainen's Private Sanct
 
 Then the surface of the reflecting pool rippled inward, not outward, and moonlight seemed to sink beneath the water.
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/The grove of mercy.png]]
+![[Campaigns/Moonsea/Assets/The grove of mercy.png]]
 
 Silver mist gathered across the grove and took shape. One figure, then another, then dozens: translucent, paying the living party no attention at all, as though to the spirits the camp simply wasn't there. An elderly drow woman stepped through the ancient arch with a frightened child in her arms, and behind her came the rest: families, old men, young warriors with sheathed swords, priestesses stripped of rank, children clutching blankets. Exiles. Refugees. The hunted. Waiting beneath the columns to receive them stood surface elves, moon elves and wood elves, and centaurs.
 
 No words were exchanged, but the understanding was plain. An elven woman took off her own travelling cloak and wrapped it around a shivering drow child. Another offered bread. Another filled wooden cups from the pool. A warrior laid his bow on the ground and embraced a newcomer like a long-lost sibling. There was no triumph in it and no ceremony. Only kindness.
 
-Then a single voice began to sing, and another joined, and another, until the grove was full of a choir of surface elves and drow together, no instruments, the music seeming to rise straight out of the stones. The party caught only fragments of the ancient dialect: _walk no longer in darkness, lay down your fear; the moon sees all children alike; here no blade pursues; here every dance begins again._ The full hymn, in the old Espruar the choir sang it in, is recorded at [[Hymn of the Moon's Welcome]]. Spirits danced barefoot around the pool, trailing ribbons of solid moonlight, and laid flowers and carved stones on the altar, not as offerings but as gifts. A little drow girl, hesitant, reached out; a moon elf smiled and took her hands, and they danced, and she laughed, and the circle widened until the whole grove moved together beneath the moon.
+Then a single voice began to sing, and another joined, and another, until the grove was full of a choir of surface elves and drow together, no instruments, the music seeming to rise straight out of the stones. The party caught only fragments of the ancient dialect: _walk no longer in darkness, lay down your fear; the moon sees all children alike; here no blade pursues; here every dance begins again._ The full hymn, in the old Espruar the choir sang it in, is recorded at [[Hymn of the Moons Welcome|Hymn of the Moon's Welcome]]. Spirits danced barefoot around the pool, trailing ribbons of solid moonlight, and laid flowers and carved stones on the altar, not as offerings but as gifts. A little drow girl, hesitant, reached out; a moon elf smiled and took her hands, and they danced, and she laughed, and the circle widened until the whole grove moved together beneath the moon.
 
 The word that kept coming to everyone, watching, was _hope_.
 

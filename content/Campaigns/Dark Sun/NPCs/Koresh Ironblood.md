@@ -22,7 +22,7 @@ When the party first arrived he sized them up in silence. He later offered to ta
 **Status:** Alive
 **Race / role:** Mole; warrior / fighter
 **Affiliation:** [[The Alliance]] ([[The Hidden Spring]] cell)
-**First appears:** [[Session 5 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Notes|Session 5 - Notes]]
 
 ## Relationships
 
@@ -33,6 +33,6 @@ When the party first arrived he sized them up in silence. He later offered to ta
 
 Distinct from "Koresh of the Screaming Hollow," another Koresh referenced by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] at the table; any relation is unconfirmed and treated as coincidence for now.
 
-**Session 6:** joined the scouting expedition north of [[The Hidden Spring]]'s territory alongside [[Tarek Cricket Silvertwig|Tarek]]. During the fight with an [[Umber Hulk]] and two [[Neogi]], he was charmed by the Neogi hive-mind for the entire encounter and made to attack [[Derfel]], including a natural 20 shield bash that broke Derfel's nose. Despite this, and without anyone realising in the moment he was still charmed, he landed the blow that killed the Umber Hulk outright. See [[Session 6 - Notes]].
+**Session 6:** joined the scouting expedition north of [[The Hidden Spring]]'s territory alongside [[Tarek Cricket Silvertwig|Tarek]]. During the fight with an [[Umber Hulk]] and two [[Neogi]], he was charmed by the Neogi hive-mind for the entire encounter and made to attack [[Derfel]], including a natural 20 shield bash that broke Derfel's nose. Despite this, and without anyone realising in the moment he was still charmed, he landed the blow that killed the Umber Hulk outright. See [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Notes|Session 6 - Notes]].
 
-**Session 7:** knocked down an enthralled humanoid in the pantry, then joined the assault on the Neogi holding pen. He decapitated one Neogi and became the target of the enthralled [[Anselem]], whose Toll the Dead dealt only one point of damage. See [[Session 7 - Notes]].
+**Session 7:** knocked down an enthralled humanoid in the pantry, then joined the assault on the Neogi holding pen. He decapitated one Neogi and became the target of the enthralled [[Anselem]], whose Toll the Dead dealt only one point of damage. See [[Campaigns/Dark Sun/Sessions/Act II/Session 7/Session 7 - Notes|Session 7 - Notes]].

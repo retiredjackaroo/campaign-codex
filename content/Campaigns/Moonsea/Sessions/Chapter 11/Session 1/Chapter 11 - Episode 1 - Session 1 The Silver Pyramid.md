@@ -146,7 +146,7 @@ Then she was an owl again, and remained so until dawn.
 
 ## **Part Five: The Arbitus**
 
-![[Campaigns/Moonsea/Assets/Kabel's Hill.png]]
+![[Campaigns/Moonsea/Assets/Kabels Hill.png]]
 
 Kabel'ss Hill at dusk. The Burning Banner shields at the gate, the same insignia they had encountered before. Two of the orcs assigned to keep watch had drunk themselves unconscious and lay beside their overturned jugs with an air of professional commitment to their unconsciousness. Through the palisade, chimney smoke and firelight and the muffled roar of a tavern in full swing. [[The Leaky Bucket]] was apparently untroubled by occupation.
 

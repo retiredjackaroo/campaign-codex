@@ -17,4 +17,4 @@ Agents of the sorcerer-kings of Athas, the Templars serve as the administrative 
 During Act II, Session 4 a contingent of Templars formed part of the field camp occupying the plaza above [[The Alliance]]'s hidden network, with patrols moving in and out of the camp. Their discovering the cistern entrance would be catastrophic for the resistance below.
 
 **Status:** Active; hostile\
-**First appears:** [[Session 4 - Narrative]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]

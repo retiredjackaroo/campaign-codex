@@ -8,6 +8,6 @@ tags:
 
 # Crystal Shard
 
-A sharded crystal given by [[Kastra Brandywine]]. Reveals the hidden door of [[Denlor's Tower]], which opens to the password "Mountain Laurel".
+A sharded crystal given by [[Cassra Brandywine|Kastra Brandywine]]. Reveals the hidden door of [[Denlors Tower|Denlor's Tower]], which opens to the password "Mountain Laurel".
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

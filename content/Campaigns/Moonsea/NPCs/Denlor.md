@@ -10,7 +10,7 @@ tags:
 
 # Denlor
 
-An archmage of [[Phlan]]'s founding era who built [[Denlor's Tower]]. Long dead; the tower's hidden entrance is known only to the head of [[Mantor's Library]].
+An archmage of [[Phlan]]'s founding era who built [[Denlors Tower|Denlor's Tower]]. Long dead; the tower's hidden entrance is known only to the head of [[Mantors Library|Mantor's Library]].
 
 **Status:** Deceased\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

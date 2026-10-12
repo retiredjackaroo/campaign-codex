@@ -11,7 +11,7 @@ tags:
 
 ![[Campaigns/Moonsea/Assets/Madam Freona.png]]
 
-Proprietor associated with [[Madam Freona's Tea Kettle]], a tea house in [[Phlan]]. Recorded in the campaign journal.
+Proprietor associated with [[Madam Freonas Tea Kettle|Madam Freona's Tea Kettle]], a tea house in [[Phlan]]. Recorded in the campaign journal.
 
 **Status:** Unknown
 **First appears:** <!-- to be confirmed from session material -->

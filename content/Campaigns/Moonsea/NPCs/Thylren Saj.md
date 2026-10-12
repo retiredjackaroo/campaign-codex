@@ -11,7 +11,7 @@ tags:
 
 # Thylren Saj
 
-A Zhentarim agent embedded in the cult's expedition to [[Yarish's Pyramid]]. A risk-taker who reported via a one-way [[Thylren's Sending Ring|sending ring]]. He has gone quiet, and [[Welsea Parenthe]] does not know whether he is compromised.
+A Zhentarim agent embedded in the cult's expedition to [[Yarishs Pyramid|Yarish's Pyramid]]. A risk-taker who reported via a one-way [[Thylrens Sending Ring|sending ring]]. He has gone quiet, and [[Welsea Parenthe]] does not know whether he is compromised.
 
 **Status:** Missing\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

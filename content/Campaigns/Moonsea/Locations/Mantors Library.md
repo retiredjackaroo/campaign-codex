@@ -11,7 +11,7 @@ tags:
   - phlan
 ---
 
-![[Campaigns/Moonsea/Assets/Mantor's Library.png]]
+![[Campaigns/Moonsea/Assets/Mantors Library.png]]
 
 The great library of [[Phlan]], run by [[The Lord Sage]]. Where [[Pug DAstibar|Pug D'Astibar]] and [[Cassra Brandywine]] worked. Now under the dragon's magical curfew.
 

@@ -31,7 +31,7 @@ Around ten years ago the family lived in a small coastal town, [[Keithelas Ward|
 
 Where she went in the years since, and how she came to be fallen and aligned with the cult, is unknown. Whether the influence that gripped her town then has any bearing on what grips her now is an open and uncomfortable question.
 
-A vision granted to [[Tiz]] by a [[Jimson Brew|Jimson brew]] later showed Leonore in chains: first as an enslaved miner deep underground, then marched in a column of prisoners through [[Phlan]] toward [[Valejo Castle]] by the [[Cult of the Dragon]]. If the vision holds true it suggests she may be a captive of the cult rather than a willing member, and it has pushed [[Tiz]] toward believing her mother possessed, broken or brainwashed rather than a believer. It remains a vision, not proof.
+A vision granted to [[Iltiza Ward|Tiz]] by a [[Jimson Brew|Jimson brew]] later showed Leonore in chains: first as an enslaved miner deep underground, then marched in a column of prisoners through [[Phlan]] toward [[Valejo Castle]] by the [[Cult of the Dragon]]. If the vision holds true it suggests she may be a captive of the cult rather than a willing member, and it has pushed [[Iltiza Ward|Tiz]] toward believing her mother possessed, broken or brainwashed rather than a believer. It remains a vision, not proof.
 
 ## Relationships
 
@@ -41,4 +41,4 @@ A vision granted to [[Tiz]] by a [[Jimson Brew|Jimson brew]] later showed Leonor
 
 ## Notes
 
-Stub created from the campaign journal. The reading of her fall above is inferred from what "fallen Aasimar" generally means; confirm against the table. The central open question is what is actually wrong with her: whether she is possessed, brainwashed, broken, held captive, or genuinely believes the cult's doctrine. A vision of [[Tiz]]'s (see History) leans toward captivity, but it is not proof. Also unknown: what caused her fall, which cult she now serves, and whether any of it can be undone.
+Stub created from the campaign journal. The reading of her fall above is inferred from what "fallen Aasimar" generally means; confirm against the table. The central open question is what is actually wrong with her: whether she is possessed, brainwashed, broken, held captive, or genuinely believes the cult's doctrine. A vision of [[Iltiza Ward|Tiz]]'s (see History) leans toward captivity, but it is not proof. Also unknown: what caused her fall, which cult she now serves, and whether any of it can be undone.

@@ -9,6 +9,6 @@ tags:
 
 # Storgenau
 
-The river running from the [[Moon Sea]] up toward [[Sorcerors Isle]]. Its hub villages, including [[Kabel's Hill]], are held by the [[Burning Banner]].
+The river running from the [[Moon Sea]] up toward [[Sorcerors Isle]]. Its hub villages, including [[Kabels Hill|Kabel's Hill]], are held by the [[Burning Banner]].
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

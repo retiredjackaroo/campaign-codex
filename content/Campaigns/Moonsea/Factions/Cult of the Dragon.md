@@ -9,6 +9,6 @@ tags:
 
 # Cult of the Dragon
 
-The cult occupying [[Phlan]] alongside the dragon. Has dispatched an expedition overland to [[Yarish's Pyramid]].
+The cult occupying [[Phlan]] alongside the dragon. Has dispatched an expedition overland to [[Yarishs Pyramid|Yarish's Pyramid]].
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

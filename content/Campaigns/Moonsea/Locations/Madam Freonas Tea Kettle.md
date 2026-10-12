@@ -12,7 +12,7 @@ tags:
   - tavern
 ---
 
-![[Campaigns/Moonsea/Assets/Madam Freona's Tea Kettle.png]]
+![[Campaigns/Moonsea/Assets/Madam Freonas Tea Kettle.png]]
 
 A tea house in [[Phlan]] run by [[Madam Freona]]. Recorded in the campaign journal.
 

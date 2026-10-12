@@ -21,9 +21,6 @@ Word soon came that mattered more than patience. Two Alliance scouts, a human na
 
 The aquifer's damp, mineral hush deepened the further they went. Moss and pale underdark algae shimmered faintly on the walls; blind cave beetles crunched underfoot; violet fungal gardens breathed spores into air already thick with the smell of stagnant water. Tarek, delighted despite himself, scraped a sample of the wall growth into a flask as a gift for [[Nisat of the Cavern Moss]], muttering that Nisat would love the disgusting stuff.
 
-![[Northern Tunnels.png]]
-_The stretch of aquifer tunnels north of the Hidden Spring, crossed during the day's scouting._
-
 The tracking itself went poorly. [[Babs|Her]] found the only real success of the day, a scrap of torn fabric snagged on a jagged rock that Tarek confirmed as Scylla's. Everyone else fared worse: a handhold gave way beneath Her elsewhere in the tunnels, bringing down a shower of loose stone; [[Pterrence]], searching a mushroom-choked chamber for signs of foraging, disturbed a cloud of spores and came away poisoned for his trouble; and both Pterrence and [[Salt]] misjudged the depth of a flooded stretch of tunnel, each picking up a level of exhaustion in the process, with Salt in particular baffled that anyone would consider merely neck-deep water "too deep." The party camped for an uneventful night, keeping watch in shifts, [[Brave]] included, before Tarek led them on the next morning.
 
 Midway through the second day, the ground began to change. The floor narrowed, the stone giving way to a black, brittle resin ribbed with mucus, scored by long claw-marks. Both [[Tarek Cricket Silvertwig|Tarek]] and [[Koresh Ironblood]], hardened as they were, drew their weapons and looked unsettled; neither had seen anything like it. Beneath the strangeness of the place ran something stranger still: a faint, ever-present hum, felt rather than heard, settling into every mind present regardless of race or resistance.

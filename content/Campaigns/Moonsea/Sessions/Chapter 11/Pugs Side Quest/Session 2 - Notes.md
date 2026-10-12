@@ -82,7 +82,7 @@ Between the fight and the short rest, Morwyn's player was rebuilding a Roll20 ch
 
 - **Pug:** carry the [[Harper Compass]] and follow it to [[Myth Drannor]]; keep the [[Crystal Vials]] and [[Silver Brooch]] ready; remember the water must not touch skin.
 - **Party:** reach the city's edge (roughly midday tomorrow), stay wary of the fled were-boars, and treat [[Aurelien Voxs Journal|Vox's warning]] about maps and "returns" as a live hazard.
-- **GM:** the choir's hymn is now recorded in the original Espruar at [[Hymn of the Moon's Welcome]]; the English translation is still to be supplied.
+- **GM:** the choir's hymn is now recorded in the original Espruar at [[Hymn of the Moons Welcome|Hymn of the Moon's Welcome]]; the English translation is still to be supplied.
 
 **Key NPCs / Powers This Session**
 

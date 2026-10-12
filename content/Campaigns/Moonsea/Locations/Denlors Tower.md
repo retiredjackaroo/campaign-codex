@@ -11,7 +11,7 @@ tags:
   - phlan
 ---
 
-![[Campaigns/Moonsea/Assets/Denlor's Tower.png]]
+![[Campaigns/Moonsea/Assets/Denlors Tower.png]]
 
 An abandoned mage's tower built by [[Denlor]] on the edge of [[Phlan]], its base extending beyond the city wall. It has no visible entrance; the [[Crystal Shard]] reveals a door that opens to the password "Mountain Laurel".
 

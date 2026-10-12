@@ -9,7 +9,7 @@ dg-publish: true
 publish: true
 ---
 
-The party finished the battle in [[The Hive Mother]]'s chamber. [[Derfel]] killed Mother with an arrow through the eye moments after [[Brave]] died in a rockfall, but the session ended with the lair collapsing and three of the party unconscious. For the full story, read [[Session 10 - Narrative]].
+The party finished the battle in [[The Hive Mother]]'s chamber. [[Derfel]] killed Mother with an arrow through the eye moments after [[Brave]] died in a rockfall, but the session ended with the lair collapsing and three of the party unconscious. For the full story, read [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Narrative|Session 10 - Narrative]].
 
 **XP awarded:** 1,265 XP each for [[Derfel]], [[Pterrence]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]; 1,245 XP for [[Anselem]]; 615 XP (half the base award) for [[Kit-Chac]], who was present when the fight began. The recording also gives 1,285 XP and 1,305 XP, apparently to [[Salt]] and [[Babs]] respectively; those two assignments need confirmation.
 

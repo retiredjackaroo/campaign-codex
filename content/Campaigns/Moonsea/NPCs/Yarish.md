@@ -10,7 +10,7 @@ tags:
 
 # Yarish
 
-A transmutation archmage of [[Phlan]]'s founding era. His reckless experiments on [[Sorcerer's Isle]] corrupted its waters and wildlife; he was slain by [[Wren O'The Blade]]. His pyramid still stands.
+A transmutation archmage of [[Phlan]]'s founding era. His reckless experiments on [[Sorcerors Isle|Sorcerer's Isle]] corrupted its waters and wildlife; he was slain by [[Wren OThe Blade|Wren O'The Blade]]. His pyramid still stands.
 
 **Status:** Deceased\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

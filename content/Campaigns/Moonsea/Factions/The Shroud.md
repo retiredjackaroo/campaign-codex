@@ -10,6 +10,6 @@ tags:
 
 # The Shroud
 
-[[The Lord Sage]]'s clandestine network of operatives inside [[Phlan]]; [[Cassit]] works among them.
+[[The Lord Sage]]'s clandestine network of operatives inside [[Phlan]]; [[Cassyt|Cassit]] works among them.
 
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

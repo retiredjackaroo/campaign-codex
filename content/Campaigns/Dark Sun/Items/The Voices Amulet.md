@@ -11,9 +11,9 @@ publish: true
 
 # The Voices Amulet
 
-A ceramic amulet recovered from [[The Voice]] by [[Salt]] using Mage Hand in [[Session 9 - Narrative|Session 9]]. Its insignia identifies its former wearer as a [[The Templars|Templar]] responsible for a garment or tannery district or portfolio in [[Raam]].
+A ceramic amulet recovered from [[The Voice]] by [[Salt]] using Mage Hand in [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Narrative|Session 9]]. Its insignia identifies its former wearer as a [[The Templars|Templar]] responsible for a garment or tannery district or portfolio in [[Raam]].
 
 The amulet was scorched when [[Anselem]] burned the Voice's cocoon. No magical or psionic properties were established.
 
 **Current holder:** [[Salt]]
-**First appears:** [[Session 9 - Narrative|Session 9]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Narrative|Session 9]]

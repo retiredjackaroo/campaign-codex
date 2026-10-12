@@ -35,7 +35,7 @@ The party has operated across multiple districts and locations within Raam, navi
 
 ## Nearby locations
 
-- [[Valthar's Edge]] - settlement encountered during the campaign
+- [[Valthars Edge|Valthar's Edge]] - settlement encountered during the campaign
 - [[Shazlim Oasis]] - oasis encountered during the campaign
 
 ## Factions operating in Raam

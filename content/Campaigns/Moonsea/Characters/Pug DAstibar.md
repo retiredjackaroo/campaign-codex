@@ -12,7 +12,7 @@ dg-publish: true
 publish: true
 ---
 
-![[Pug D'astibar.jpg]]
+![[Pug DAstibar.jpg]]
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. He stayed behind in [[Phlan]] when the main party departed, then his personal business carried him through Shadowdale and physically into [[Myth Drannor]] with a separate escort. Currently level 7.
 

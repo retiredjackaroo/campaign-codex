@@ -9,7 +9,7 @@ modified: 2026-07-13T10:33:28.036+10:00
 tags:
   - npc
   - the-moot
-  - m'ke
+  - mke
 ---
 
 Encountered at [[The Moot]]. Member of the M'Ke family alongside [[Satrap Dovren MKe|Satrap Dovren M'Ke]].
@@ -19,4 +19,4 @@ Encountered at [[The Moot]]. Member of the M'Ke family alongside [[Satrap Dovren
 
 ## Relationships
 
-- [[Satrap Dovren M'Ke]]: family connection
+- [[Satrap Dovren MKe|Satrap Dovren M'Ke]]: family connection

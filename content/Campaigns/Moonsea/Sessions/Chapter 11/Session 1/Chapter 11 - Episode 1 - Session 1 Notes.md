@@ -16,7 +16,7 @@ tags:
 
 **Previously On... (DM Recap)**
 
-The party defeated [[Crudo]] and freed [[Lord Hector|Lord Commander]] Hector, [[Levith]], [[Fenrik Softpaw]], and [[Grayley]] from imprisonment at the [[The Lyceum|Lyceum of the Black Lord]].
+The party defeated [[Crudo]] and freed [[Lord Hector|Lord Commander]] Hector, [[Levith]], [[Fenrik Softpaw]], and [[Gralie|Grayley]] from imprisonment at the [[The Lyceum|Lyceum of the Black Lord]].
 
 - **Levith and Fenric** chose to remain in [[Phlan]] to organise resistance against the [[Cult of the Dragon]] and the [[The Maimed Virulence|Maimed Virulence]].
 
@@ -152,7 +152,7 @@ The party chose **the eastern/Kabel's Hill route** for speed, noting the cult's 
 
 **Kabel's Hill**
 
-![[Campaigns/Moonsea/Assets/Kabel's Hill.png]]
+![[Campaigns/Moonsea/Assets/Kabels Hill.png]]
 
 The party arrived at **Kabel's Hill** at dusk. The village is occupied by the **[[Burning Banner]]** orc company, the same insignia the party encountered at [[Kingspire]]. The occupation is characterised more by drinking and gambling than attentive guard duty.
 

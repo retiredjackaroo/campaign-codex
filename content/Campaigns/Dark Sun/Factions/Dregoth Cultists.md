@@ -18,4 +18,4 @@ Followers of Dregoth, the undead sorcerer-king of Giustenal, a city-state destro
 Their presence in the plaza field camp alongside [[The Templars]] and [[Noble House Soldiers]] makes them one of three hostile factions the party must navigate in Act II, Session 4.
 
 **Status:** Active; hostile\
-**First appears:** [[Session 4 - Narrative]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]

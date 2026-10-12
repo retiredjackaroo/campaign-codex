@@ -13,7 +13,7 @@ tags:
 
 # Seranolla the Whisperer
 
-A shapechanger who appears as a great owl, and the shaman who represents the [[Emerald Enclave]] in the region. She hardly ever comes into the city, spending most of her time around her grove at the edge of [[The Quivering Wood]]. She serves as [[Petra Hillockburrow|Petra]]'s contact, and descended during a night watch to give the party their instructions for [[Kabel's Hill]].
+A shapechanger who appears as a great owl, and the shaman who represents the [[Emerald Enclave]] in the region. She hardly ever comes into the city, spending most of her time around her grove at the edge of [[The Quivering Wood]]. She serves as [[Petra Hillockburrow|Petra]]'s contact, and descended during a night watch to give the party their instructions for [[Kabels Hill|Kabel's Hill]].
 
 **Status:** Active\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

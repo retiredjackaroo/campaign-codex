@@ -22,4 +22,4 @@ The further entrance to [[The Cisterns]] is accessed through this district. Home
 
 **Status:** Active; patrolled
 **City:** [[Raam]]
-**First appears:** [[Session 4 - Narrative]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]

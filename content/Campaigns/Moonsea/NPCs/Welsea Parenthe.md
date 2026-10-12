@@ -16,7 +16,7 @@ tags:
 
 ![[Campaigns/Moonsea/Assets/Welsea Parenthe.webp]]
 
-A vampire and the Viper of the [[Zhentarim]]. Charmed half the party on sight at [[Denlor's Tower]] and hired them to find her missing agent [[Thylren Saj]], retrieve his ring, identify the source of the corruption, and bring back specimens.
+A vampire and the Viper of the [[Zhentarim]]. Charmed half the party on sight at [[Denlors Tower|Denlor's Tower]] and hired them to find her missing agent [[Thylren Saj]], retrieve his ring, identify the source of the corruption, and bring back specimens.
 
 **Status:** Vampire; patron\
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]

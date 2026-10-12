@@ -17,7 +17,7 @@ Two known surface access points: a close entrance near [[The Plaza]], and a furt
 **Status:** Active; Alliance-controlled
 **City:** [[Raam]]
 **Controlled by:** [[The Alliance]]
-**First appears:** [[Session 4 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Notes|Session 4 - Notes]]
 
 ## Notes
 
@@ -27,7 +27,7 @@ In Act II, Session 5 the party travelled far deeper into the network than previo
 
 In Act II, Session 6 the party pushed north again, beyond the Hidden Spring cell's own territory, searching for two missing Alliance scouts. These tunnels are unnamed and only loosely mapped: a stretch of flooded pools and fungal chambers, giving way to a chamber lined with black, mucus-slicked biological resin where an [[Umber Hulk]] and two [[Neogi]] lay in wait.
 
-The fight left the resin chamber scattered with silk cocoons; a further, lower chamber glimpsed afterward held mummified silk-wrapped remains in alcoves along its walls, strongly suggesting a spider-lair deeper still. No name has yet been given to either chamber; see the flag in [[Session 6 - Notes]].
+The fight left the resin chamber scattered with silk cocoons; a further, lower chamber glimpsed afterward held mummified silk-wrapped remains in alcoves along its walls, strongly suggesting a spider-lair deeper still. No name has yet been given to either chamber; see the flag in [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Notes|Session 6 - Notes]].
 
 In Act II, Session 7 the lower chamber proved to be a Neogi pantry filled with preserved dead taken from across Raam. A psionic chorus repeated “you are not alone,” “home,” “join” and “beautiful.” Further north, beyond another climb, the party found a stone-and-chitin holding pen with living prisoners, four Neogi and a second Umber Hulk. The battle there remained unfinished.
 

@@ -112,5 +112,5 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 
 ## Lore and Handouts
 
-- [[Hymn of the Moon's Welcome]]
+- [[Hymn of the Moons Welcome|Hymn of the Moon's Welcome]]
 - [[Over the Hills and Far Away]]

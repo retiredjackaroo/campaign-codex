@@ -17,8 +17,8 @@ A sprawling [[Neogi]] complex in the deep northern reaches of [[The Cisterns]], 
 
 Known areas include a pantry of preserved dead, a holding pen for living thralls, a broodling-filled vent, a vast spiralling nursery lined with egg sacs, a psionically resonant chamber crossed by web bridges, and the chamber of [[The Hive Mother]].
 
-In [[Session 9 - Narrative|Session 9]], the party located the nursery, destroyed [[The Voice]] in the resonant chamber and reached Mother herself. The confrontation remains unfinished.
+In [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Narrative|Session 9]], the party located the nursery, destroyed [[The Voice]] in the resonant chamber and reached Mother herself. The confrontation remains unfinished.
 
-In [[Session 10 - Narrative|Session 10]], [[Derfel]] killed [[The Hive Mother]]. The hive began to wail and her chamber started to collapse, leaving the party to escape with three of its members unconscious. The fate of the nursery and the rest of the colony is unknown.
+In [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Narrative|Session 10]], [[Derfel]] killed [[The Hive Mother]]. The hive began to wail and her chamber started to collapse, leaving the party to escape with three of its members unconscious. The fate of the nursery and the rest of the colony is unknown.
 
-**First appears:** [[Session 6 - Narrative|Session 6]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Narrative|Session 6]]

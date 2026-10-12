@@ -17,7 +17,7 @@ Beneath the plaza lies the secret entrance to [[The Cisterns]], the underground 
 
 **Status:** Occupied by enemy field camp
 **City:** [[Raam]]
-**First appears:** [[Session 4 - Narrative]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Narrative|Session 4 - Narrative]]
 
 ## Strategic notes
 
