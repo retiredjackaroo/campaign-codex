@@ -29,10 +29,10 @@ The party was led here by [[Leviath]] in Act II, Session 5 after crossing the aq
 
 The sanctuary houses an Alliance cell of ten, four of them officers:
 
-- [[Sarath]] – human preserver, cell leader
-- [[Nisat of the Cavern Moss]] – half-elf druid of the spores
-- [[Koresh Ironblood]] – mole warrior
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
+- [[Sarath]]: human preserver, cell leader
+- [[Nisat of the Cavern Moss]]: half-elf druid of the spores
+- [[Koresh Ironblood]]: mole warrior
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: halfling ranger
 
 ## Notes
 

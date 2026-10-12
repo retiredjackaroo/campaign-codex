@@ -30,13 +30,13 @@ _The hatchling-filled vent into the deeper hive._
 
 ## Party contributions
 
-- [[Derfel]] — commanded Brave in the holding-pen fight; killed the escaping Umber Hulk through three-quarters cover; harvested a claw and serrated mandible; cleared his hive strain by focusing on Brave.
-- [[Babs]] — survived a concentrated Neogi assault; killed the blue Neogi and wounded red; found the hatchling vent; pulled Kit-Chac and Anselem out; cleared her hive strain through pain and martial focus.
-- [[Pterrence]] — struck Neogi with Magic Missile and a javelin; received the recovered spellbook; examined the deeper passages; reduced hive strain by focusing through the Veiled Lens of Raam.
-- [[Kit-Chac]] — returned to the expedition; devastated the orange Neogi; survived enthrallment; explored the hatchling vent; remained free of hive strain.
-- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] — warped Babs out of danger and killed orange with Shatter; found the chamber's valuables; identified the mental discipline for resisting hive strain.
-- [[Anselem]] — broke his enthrallment; destroyed the final Neogi with Radiance of the Dawn; burned the hatchling vent; reduced three levels of hive strain back to two.
-- [[Salt]] — healed Koresh; deceived the hive-conditioned prisoners into leaving; led the rescue column away from the holding pen; retained one level of hive strain.
+- [[Derfel]]: commanded Brave in the holding-pen fight; killed the escaping Umber Hulk through three-quarters cover; harvested a claw and serrated mandible; cleared his hive strain by focusing on Brave.
+- [[Babs]]: survived a concentrated Neogi assault; killed the blue Neogi and wounded red; found the hatchling vent; pulled Kit-Chac and Anselem out; cleared her hive strain through pain and martial focus.
+- [[Pterrence]]: struck Neogi with Magic Missile and a javelin; received the recovered spellbook; examined the deeper passages; reduced hive strain by focusing through the Veiled Lens of Raam.
+- [[Kit-Chac]]: returned to the expedition; devastated the orange Neogi; survived enthrallment; explored the hatchling vent; remained free of hive strain.
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: warped Babs out of danger and killed orange with Shatter; found the chamber's valuables; identified the mental discipline for resisting hive strain.
+- [[Anselem]]: broke his enthrallment; destroyed the final Neogi with Radiance of the Dawn; burned the hatchling vent; reduced three levels of hive strain back to two.
+- [[Salt]]: healed Koresh; deceived the hive-conditioned prisoners into leaving; led the rescue column away from the holding pen; retained one level of hive strain.
 
 ## Rescued NPCs
 

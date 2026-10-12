@@ -20,7 +20,7 @@ Narek was not encountered directly, and no trace of him specifically has yet bee
 
 ## Related
 
-- [[Scylla]] – fellow missing scout
+- [[Scylla]]: fellow missing scout
 - [[The Alliance]]
 - [[The Hidden Spring]]
 - [[Session 6 - Notes]]

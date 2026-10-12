@@ -20,7 +20,7 @@ A scrap of Scylla's torn clothing was found snagged on rock in the tunnels she a
 
 ## Related
 
-- [[Narek]] – fellow missing scout
+- [[Narek]]: fellow missing scout
 - [[The Alliance]]
 - [[The Hidden Spring]]
 - [[Session 6 - Notes]]

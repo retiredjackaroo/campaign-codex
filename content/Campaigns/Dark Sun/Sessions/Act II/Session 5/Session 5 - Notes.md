@@ -21,18 +21,18 @@ Picking up immediately after the sand elemental fight, the party identified [[Th
 
 Crossing the lake's narrow ledge, the party was ambushed by five cloakers dropping from the cavern ceiling. One refugee was killed early. The fight that followed saw [[Salt]] and [[Leviath]] both grappled and dragged out over open water; [[Salt]]'s held Water Walk spell caught [[Pterrence]] when a cloaker dropped him over the lake (Salt himself, a water being, was never at drown risk), and [[Pterrence]]'s Cloud of Daggers did the bulk of sustained damage across the fight. Leviath ended the encounter by pulsing calming psionic/divine energy in a 30-foot radius; the four cloakers within reach all failed their saves, released their captives and were allowed to retreat, while the fifth (outside the radius) stayed hostile and was killed by the party.
 
-During the fight, Salt's hood came loose, and [[Kit-Chac]], [[Her]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] saw for the first time the physical signs of his true nature underwater (blue-tinged hair, finned ears, a faint glistening ripple to his skin). Kit-Chac and Her could tell only that he was not human; Tchk'Tchk recognised it as an elemental being of water from old study. None pressed him on it in the moment. **See flag below.**
+During the fight, Salt's hood came loose, and [[Kit-Chac]], [[Babs|Her]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] saw for the first time the physical signs of his true nature underwater (blue-tinged hair, finned ears, a faint glistening ripple to his skin). Kit-Chac and Her could tell only that he was not human; Tchk'Tchk recognised it as an elemental being of water from old study. None pressed him on it in the moment. **See flag below.**
 
-Beyond the lake, Leviath led the party to a concealed, psionically-warded entrance to a hidden Alliance sanctuary: [[The Hidden Spring]]. There they met the cell's four officers — [[Sarath]] (preserver, leader), [[Nisat of the Cavern Moss]] (druid of the spores), [[Koresh Ironblood]] (mole warrior), and [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] (halfling ranger) — and rested for several days while learning the cell's five founding aims. The session ended with news of two missing Alliance scouts and an offer from Koresh to bring the party along to search for them, as a trust-building step toward the Alliance eventually helping free [[Korno]].
+Beyond the lake, Leviath led the party to a concealed, psionically-warded entrance to a hidden Alliance sanctuary: [[The Hidden Spring]]. There they met the cell's four officers, [[Sarath]] (preserver, leader), [[Nisat of the Cavern Moss]] (druid of the spores), [[Koresh Ironblood]] (mole warrior), and [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] (halfling ranger), and rested for several days while learning the cell's five founding aims. The session ended with news of two missing Alliance scouts and an offer from Koresh to bring the party along to search for them, as a trust-building step toward the Alliance eventually helping free [[Korno]].
 
 ## Party present
 
 Five of seven party members were active this session. **[[Derfel]] and [[Anselem]] were both absent** (not referenced as present or acting at any point in the source recording); the narrative reflects this rather than inventing scenes for them, per standing instruction to flag rather than silently override.
 
-- [[Babs|Her]] (Mul, mute) – frontline
-- [[Pterrence]] (Pterran) – battlefield control (Cloud of Daggers), Tenser's Floating Disk
+- [[Babs|Her]] (Mul, mute): frontline
+- [[Pterrence]] (Pterran): battlefield control (Cloud of Daggers), Tenser's Floating Disk
 - [[Kit-Chac]] (Thri-Kreen, Open Hand Monk)
-- [[Salt]] (Water Genasi, Psion) – grappled and dragged over the lake; held the Water Walk that saved Pterrence
+- [[Salt]] (Water Genasi, Psion): grappled and dragged over the lake; held the Water Walk that saved Pterrence
 - [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] (Thri-Kreen, Psion)
 
 ## NPCs encountered
@@ -80,9 +80,9 @@ Five cloakers descended from the cavern ceiling onto the party mid-crossing of t
 
 ### What did not go to plan
 
-- **Salt's escape attempts** – multiple failed Athletics checks to break free of the grapple, including one burned Luck Point, none of which worked; the cloaker eventually just dropped him to drown, which does nothing to a water being.
-- **Leviath's own grapple** – despite her size and status as an ally NPC, she was seized the same as any party member and had to be physically hauled free by Kit-Chac while drowning inside the wrap.
-- **Mirror Image confusion** – repeated table debate over whether grapples, Cloud of Daggers, and other non-attack-roll effects bypassed Mirror Image; ultimately ruled that saving-throw and automatic-damage effects bypass the duplicates, but grapples (an unarmed strike-as-save) risked grabbing a duplicate rather than the real creature.
+- **Salt's escape attempts**: multiple failed Athletics checks to break free of the grapple, including one burned Luck Point, none of which worked; the cloaker eventually just dropped him to drown, which does nothing to a water being.
+- **Leviath's own grapple**: despite her size and status as an ally NPC, she was seized the same as any party member and had to be physically hauled free by Kit-Chac while drowning inside the wrap.
+- **Mirror Image confusion**: repeated table debate over whether grapples, Cloud of Daggers, and other non-attack-roll effects bypassed Mirror Image; ultimately ruled that saving-throw and automatic-damage effects bypass the duplicates, but grapples (an unarmed strike-as-save) risked grabbing a duplicate rather than the real creature.
 
 ### Outcome
 
@@ -92,7 +92,7 @@ Four of the five cloakers survived: all four within Leviath's calming radius rel
 
 - **Skull's end.** [[Babs|Her]] made two attempts to destroy [[The Skull]] by stomping and swinging before [[Kit-Chac]]'s gythka cracked it and Her finished it with an airborne longsword strike, shattering it into dozens of pieces.
 - **The vanishing refugee.** A cloaker took a commoner in near-total silence at the very start of the ambush; the party did not register the loss until moments later.
-- **Salt exposed.** Salt's hood came off mid-fight while he was in the water; [[Kit-Chac]] and [[Babs|Her]] saw his blue hair, finned ears, and rippling, faintly glistening skin for the first time. See flag below — this is a significant in-fiction reveal the build instructions otherwise require treating as secret.
+- **Salt exposed.** Salt's hood came off mid-fight while he was in the water; [[Kit-Chac]] and [[Babs|Her]] saw his blue hair, finned ears, and rippling, faintly glistening skin for the first time. See flag below; this is a significant in-fiction reveal the build instructions otherwise require treating as secret.
 - **Leviath the MVP.** The table explicitly credited Leviath with saving the encounter via her calming pulse, joking she'd earned a spot in the party over the absent Derfel.
 - **XP discrepancy.** The GM read out slightly different totals per character (860, 860, 850) while awarding XP; noted here rather than silently corrected.
 

@@ -28,10 +28,10 @@ Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. T
 
 In Act II, Session 5 the party was brought into [[The Hidden Spring]], a concealed sanctuary within a living aquifer beneath the city. The cell there numbers ten, four of them officers:
 
-- [[Sarath]] – human preserver and cell leader
-- [[Nisat of the Cavern Moss]] – half-elf druid of the spores
-- [[Koresh Ironblood]] – mole warrior
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
+- [[Sarath]]: human preserver and cell leader
+- [[Nisat of the Cavern Moss]]: half-elf druid of the spores
+- [[Koresh Ironblood]]: mole warrior
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: halfling ranger
 
 Most of the cell are not preservers or true members but auxiliaries bound to its aims. [[Sarath]] answers to a higher, rarely-seen figure in the Alliance, contacted only by animal messengers or occasional appearances, who is rumoured to be close to becoming an **Avangion**, a celestial counter to the Sorcerer Kings' draconic ambition.
 
@@ -39,11 +39,11 @@ Most of the cell are not preservers or true members but auxiliaries bound to its
 
 The cell lives by five laws, which explain its lack of urgency about surface events:
 
-1. **Protect the Alliance above all else** – they remain hidden, and once joined, only death releases a member.
-2. **Protect preservers** – they will always shelter one who preserves.
-3. **Protect auxiliaries** – those bound to the aims though not preservers or full members.
-4. **Oppose defilers** – whether Templar, noble, or wizard, all defilers are sworn enemies.
-5. **Undermine the Sorcerer Kings** – with no Sorcerer King left in Raam, the aim is now applied to [[The Templars|the Templar faction]] as the natural inheritors of that ambition.
+1. **Protect the Alliance above all else**: they remain hidden, and once joined, only death releases a member.
+2. **Protect preservers**: they will always shelter one who preserves.
+3. **Protect auxiliaries**: those bound to the aims though not preservers or full members.
+4. **Oppose defilers**: whether Templar, noble, or wizard, all defilers are sworn enemies.
+5. **Undermine the Sorcerer Kings**: with no Sorcerer King left in Raam, the aim is now applied to [[The Templars|the Templar faction]] as the natural inheritors of that ambition.
 
 ## Notes
 

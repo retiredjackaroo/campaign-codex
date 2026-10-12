@@ -17,7 +17,7 @@ The battle in the holding pen resumed beneath the chorus of the hive.
 
 The remaining Neogi swarmed [[Babs]], leaving her barely standing, while the Umber Hulk mauled Koresh. [[Salt]] healed the mole despite the danger. [[Pterrence]] drove a javelin through one Neogi, and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] pulled Babs bodily out of the swarm with a psionic warp. The sudden vacuum became a thunderclap: his Shatter tore the orange Neogi apart and left two more reeling. Babs healed herself, rushed straight back in, and took the blue creature's head off before opening the red one with her second stroke.
 
-Anselem finished the last Neogi in a burst of holy fire, reducing it to a glowing statue of ash. Its death ripped the enthrallment from Kit-Chac—but the freed Thri-Kreen's first blind swing at the Umber Hulk struck Koresh anyway. The wounded monster tried to burrow out. Koresh hacked it as it fled, then [[Derfel]] threaded an impossible shot into the narrow hole. An arrow pierced its skull and a Hail of Thorns shredded it underground. The holding pen fell silent.
+Anselem finished the last Neogi in a burst of holy fire, reducing it to a glowing statue of ash. Its death ripped the enthrallment from Kit-Chac, but the freed Thri-Kreen's first blind swing at the Umber Hulk struck Koresh anyway. The wounded monster tried to burrow out. Koresh hacked it as it fled, then [[Derfel]] threaded an impossible shot into the narrow hole. An arrow pierced its skull and a Hail of Thorns shredded it underground. The holding pen fell silent.
 
 ![[Session 8 - Negroni Neogi.png]]
 _Neogi, Negroni: bitter, red, and best served thoroughly crushed._
@@ -38,4 +38,4 @@ After a short rest, the party returned to the scorched passage. Beyond the ash l
 
 Tchk'Tchk remembered the discipline used in his psionic training: focus on one point until the invading chorus becomes background noise. He produced ninety-nine needles left over from an obsolete telekinetic technique and offered each companion a point on which to fix their mind. Pterrence instead stared through the Veiled Lens of Raam and reduced his strain. Derfel fixed on [[Brave]] and cleared his completely. Babs used pain and the discipline of her blade to clear hers. Anselem heated his carved flame amulet and reduced his strain to two. Tchk'Tchk, despite teaching the method, failed over his own needle; Salt's memory of ocean and home could not silence Mother either.
 
-The rescued prisoners were safe behind them. Ahead, the warm southern descent led deeper into the colony—and perhaps to Mother herself.
+The rescued prisoners were safe behind them. Ahead, the warm southern descent led deeper into the colony, and perhaps to Mother herself.

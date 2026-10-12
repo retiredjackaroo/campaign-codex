@@ -61,12 +61,12 @@ The GM's closing spoken tally was mistranscribed as “Erendor, Perrin, Serfel a
 
 Six of seven party members were active. **[[Kit-Chac]] was absent.**
 
-- [[Derfel]] — scouted both chambers; killed a thrall and the first Neogi taskmaster; recovered the ring; discovered the holding pen.
-- [[Babs]] — endured psionic restraint; helped Derfel climb; wounded the Umber Hulk; briefly struck allies while enthralled.
-- [[Pterrence]] — identified the ring; used Locate Object; secured the rope into the holding pen; struck a prone Neogi.
-- [[Anselem]] — exposed the fleeing taskmaster; examined the dead; ended enthralled.
-- [[Salt]] — cured Pterrence's poison; sampled the preservative; healed Tarek; used Shatter and the successful psionic shove.
-- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] — co-scouted the pantry; hasted Derfel; knocked two Neogi prone and damaged the Umber Hulk with a crushing field.
+- [[Derfel]]: scouted both chambers; killed a thrall and the first Neogi taskmaster; recovered the ring; discovered the holding pen.
+- [[Babs]]: endured psionic restraint; helped Derfel climb; wounded the Umber Hulk; briefly struck allies while enthralled.
+- [[Pterrence]]: identified the ring; used Locate Object; secured the rope into the holding pen; struck a prone Neogi.
+- [[Anselem]]: exposed the fleeing taskmaster; examined the dead; ended enthralled.
+- [[Salt]]: cured Pterrence's poison; sampled the preservative; healed Tarek; used Shatter and the successful psionic shove.
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: co-scouted the pantry; hasted Derfel; knocked two Neogi prone and damaged the Umber Hulk with a crushing field.
 
 ## NPCs and creatures
 

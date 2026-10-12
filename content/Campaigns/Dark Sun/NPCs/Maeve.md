@@ -23,14 +23,14 @@ tags:
 
 ## Death
 
-Maeve was focused by two ranged attackers during a combat in Episode 10. She fell in two rounds. [[Derfel]] and [[Her]] took their revenge. The children were rescued.
+Maeve was focused by two ranged attackers during a combat in Episode 10. She fell in two rounds. [[Derfel]] and [[Babs|Her]] took their revenge. The children were rescued.
 
 She had bitten the big bastard first.
 
 ## Relationships
 
 - [[Derfel]]: devoted companion until the end
-- [[Her]]: Her grief at Maeve's death was wordless, as all her grief is, and all the heavier for it
+- [[Babs|Her]]: Her grief at Maeve's death was wordless, as all her grief is, and all the heavier for it
 
 ## Memorial
 

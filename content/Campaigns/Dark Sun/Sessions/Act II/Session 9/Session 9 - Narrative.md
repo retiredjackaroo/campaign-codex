@@ -47,7 +47,7 @@ _The party reached Mother's chamber with Kit-Chac already surrounded._
 
 Derfel marked Mother and struck her with an arrow, then dodged both hooks of the creature charging him. Babs used Second Wind and moved to hold the hook horror in place. Pterrence battered it with Magic Missile. Mother lashed Babs's mind, flooded the chamber with psychic force and compelled nearly everyone to throw away the weapons in their hands.
 
-Anselem obeyed by casting his sword aside—then placed a Fireball over Mother, one Neogi and the hook horror. The explosion wounded all three, though Mother held her concentration. Salt finally landed the telekinetic strike he had been chasing all night, breaking the restraint on Kit-Chac, then flung the hook horror away from the front line. The Neogi rushed back in, but Kit-Chac's Patient Defence turned aside every bite.
+Anselem obeyed by casting his sword aside, then placed a Fireball over Mother, one Neogi and the hook horror. The explosion wounded all three, though Mother held her concentration. Salt finally landed the telekinetic strike he had been chasing all night, breaking the restraint on Kit-Chac, then flung the hook horror away from the front line. The Neogi rushed back in, but Kit-Chac's Patient Defence turned aside every bite.
 
 Tchk'Tchk crossed the chamber and called, “Swap out.” Kit-Chac chose not to resist. One psionic wrench later, he stood beside his clutch again, clear of Mother and her attendants. Tchk'Tchk hardened himself with biofeedback and withdrew with him.
 

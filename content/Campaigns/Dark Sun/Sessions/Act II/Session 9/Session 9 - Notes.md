@@ -37,13 +37,13 @@ The session ended mid-combat. Mother, two attendant Neogi and a wounded hook hor
 
 ## Party contributions
 
-- [[Derfel]] — scouted the nursery and survived its psychic command; used the Ring of Psionic Resistance throughout; helped destroy the Voice; restrained Anselem; wounded Mother with Hunter's Mark and his longbow; directed Brave against the compelled Kit-Chac.
-- [[Babs]] — resisted a Neogi mind hook; repeatedly grappled Kit-Chac and Anselem to contain the mass suggestion; fought the first hook horror and engaged the second after reaching Mother's chamber; used Second Wind twice across the two combats.
-- [[Pterrence]] — used Levitate to preserve the falling Voice long enough for the party to recover its amulet; controlled the first fight with Cloud of Daggers; joined the effort to contain Anselem; damaged the second hook horror with Magic Missile.
-- [[Kit-Chac]] — scouted both branches with Derfel; was compelled to reach Mother's chamber; resisted Mother's attempted domination; survived two isolated rounds against Mother and her attendants; held the line with Patient Defence until Tchk'Tchk extracted him.
-- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] — resisted the Voice's mass suggestion; threw both Neogi and a hook horror into the chasm; used Command to deny the hook horror a turn; pulled Kit-Chac out of Mother's reach with Telekinetic Propel and fortified himself with biofeedback.
-- [[Anselem]] — confirmed his new level-5 power by opening with Fireball against the Voice; endured hive strain 3 and a mass suggestion; guided the party toward Mother while restrained; placed a second Fireball across Mother and two of her defenders.
-- [[Salt]] — resisted the Voice's mass suggestion; helped contain Anselem; recovered the Voice's amulet with Mage Hand; broke the Neogi restraint on Kit-Chac and pushed the second hook horror away from the party.
+- [[Derfel]]: scouted the nursery and survived its psychic command; used the Ring of Psionic Resistance throughout; helped destroy the Voice; restrained Anselem; wounded Mother with Hunter's Mark and his longbow; directed Brave against the compelled Kit-Chac.
+- [[Babs]]: resisted a Neogi mind hook; repeatedly grappled Kit-Chac and Anselem to contain the mass suggestion; fought the first hook horror and engaged the second after reaching Mother's chamber; used Second Wind twice across the two combats.
+- [[Pterrence]]: used Levitate to preserve the falling Voice long enough for the party to recover its amulet; controlled the first fight with Cloud of Daggers; joined the effort to contain Anselem; damaged the second hook horror with Magic Missile.
+- [[Kit-Chac]]: scouted both branches with Derfel; was compelled to reach Mother's chamber; resisted Mother's attempted domination; survived two isolated rounds against Mother and her attendants; held the line with Patient Defence until Tchk'Tchk extracted him.
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: resisted the Voice's mass suggestion; threw both Neogi and a hook horror into the chasm; used Command to deny the hook horror a turn; pulled Kit-Chac out of Mother's reach with Telekinetic Propel and fortified himself with biofeedback.
+- [[Anselem]]: confirmed his new level-5 power by opening with Fireball against the Voice; endured hive strain 3 and a mass suggestion; guided the party toward Mother while restrained; placed a second Fireball across Mother and two of her defenders.
+- [[Salt]]: resisted the Voice's mass suggestion; helped contain Anselem; recovered the Voice's amulet with Mage Hand; broke the Neogi restraint on Kit-Chac and pushed the second hook horror away from the party.
 
 ## New entities and discoveries
 

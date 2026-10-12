@@ -47,7 +47,7 @@ The chamber erupted before the rest of the party could assemble. [[Tarek Cricket
 ![[Session 7 - Holding Pen Battle.png]]
 _The holding-pen battle: the party climbs into a chamber guarded by four Neogi and a second Umber Hulk._
 
-The hive struck back through the party's own minds. Babs was enthralled and stabbed Tchk'Tchk, then Salt, before breaking free and offering them a silent, stricken apology. Koresh decapitated one Neogi and marched toward the next. Then the orange Neogi seized Anselem. At its command he turned Toll the Dead against Koresh. The bell sounded—but dealt only the faintest wound.
+The hive struck back through the party's own minds. Babs was enthralled and stabbed Tchk'Tchk, then Salt, before breaking free and offering them a silent, stricken apology. Koresh decapitated one Neogi and marched toward the next. Then the orange Neogi seized Anselem. At its command he turned Toll the Dead against Koresh. The bell sounded, but dealt only the faintest wound.
 
 That was where the battle froze. One Neogi was dead, the Umber Hulk and its remaining masters were wounded, prisoners still waited behind the bars, and Anselem remained enthralled. Hive strain clung to most of the party. The chorus had not stopped.
 

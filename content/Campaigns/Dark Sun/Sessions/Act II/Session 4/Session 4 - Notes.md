@@ -24,7 +24,7 @@ They reached [[Korno]]'s safe house too late. The fight was over, the Templars w
 
 [[Leviath]] revealed the existence of [[The Alliance]], a secret organisation living beneath [[Raam]]'s cistern network. There were two entrances: a dry well in the heavily guarded central [[The Plaza|plaza]], and an outer well near the city walls. The party took a long rest in the hollow and debated, and the consensus went to the outer well.
 
-Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead — defeated by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Babs|Her]] recovered [[The Skull]] from the wreckage.
+Three skill check failures across the crossing alerted the [[Dregoth Cultists]]. They did not send soldiers. Instead they dropped a skull into the cistern shaft and sealed it shut above. The skull hit the aqueduct floor in the dark below and began pulling sand and stone into itself. The party, expecting to ambush Templars, found themselves facing a massive sand elemental instead, defeated by [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]'s Command lock combined with [[Pterrence]]'s Cloud of Daggers. [[Babs|Her]] recovered [[The Skull]] from the wreckage.
 
 The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Alliance]].
 
@@ -33,7 +33,7 @@ The party was alive, heavily wounded, and in the dark. Somewhere ahead: [[The Al
 All seven party members were active this session:
 
 - [[Derfel]] (Elf, Beast Master Ranger) with [[Brave]]
-- [[Babs|Her]] (Mul, mute) – frontline
+- [[Babs|Her]] (Mul, mute): frontline
 - [[Kit-Chac]] (Thri-Kreen, Open Hand Monk)
 - [[Pterrence]] (Pterran)
 - [[Anselem]] (Fire Urokite)
@@ -89,12 +89,12 @@ The creature's defences reshaped the whole fight. It had **earth instability** (
 
 ### What did not work
 
-- **Web** ([[Pterrence]]) – the elemental was largely immune and walked through it.
-- **Stunning Strike** ([[Kit-Chac]]) – immune to the stunned condition.
-- **Flurry of Blows** with **Tavern Brawler** ([[Kit-Chac]]), trying to topple it – earth instability meant it could not be knocked prone, no matter the result.
-- **Command: HALT** ([[Anselem]], first cast via Magic Initiate) – the elemental made the save that time.
-- **First Guiding Bolt** ([[Anselem]]) – missed, and worse, the elemental bent the webbing to drag [[Babs|Her]] into the path of its own movement; Her took 27 damage to the back across that exchange.
-- **Hunter's Mark** ([[Derfel]]) – never applied. It would have meant dropping Searing Smite (both need concentration), so Derfel kept the fire going instead.
+- **Web** ([[Pterrence]]): the elemental was largely immune and walked through it.
+- **Stunning Strike** ([[Kit-Chac]]): immune to the stunned condition.
+- **Flurry of Blows** with **Tavern Brawler** ([[Kit-Chac]]), trying to topple it: earth instability meant it could not be knocked prone, no matter the result.
+- **Command: HALT** ([[Anselem]], first cast via Magic Initiate): the elemental made the save that time.
+- **First Guiding Bolt** ([[Anselem]]): missed, and worse, the elemental bent the webbing to drag [[Babs|Her]] into the path of its own movement; Her took 27 damage to the back across that exchange.
+- **Hunter's Mark** ([[Derfel]]): never applied. It would have meant dropping Searing Smite (both need concentration), so Derfel kept the fire going instead.
 
 ### Outcome
 

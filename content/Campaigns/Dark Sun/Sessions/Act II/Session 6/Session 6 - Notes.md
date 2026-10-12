@@ -29,11 +29,11 @@ One other thing came out of this session for good: the moment Babs beheaded the 
 
 Five of seven party members were active this session. **[[Kit-Chac]] and [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] were both absent** (not referenced as present or acting at any point in the source recording); the narrative reflects this rather than inventing scenes for them, consistent with the approach taken in Session 5.
 
-- [[Derfel]] (Elf, Ranger, Beast Master) – highest roll in the group's patience check (edged out only in jest by [[Brave]]); charmed-Koresh's target in the Umber Hulk fight; fought alongside [[Brave]] directly for the first time
-- [[Babs|Her]] (Mul, mute) – found Scylla's torn clothing; briefly charmed by the Neogi hive-mind and struck [[Tarek Cricket Silvertwig|Tarek]]; recovered to land the killing blow on the second Neogi
-- [[Pterrence]] (Pterran) – traded Locate Object for Mirror Image; held Fog Cloud over the fight to blind the Umber Hulk's gaze; also cast Web and Guiding-adjacent support via Squeaky's blindsight
-- [[Anselem]] (Fire Urokite) – Burning Hands through the fog on a percentile-chance guess; dazed twice by the Umber Hulk's gaze; finished one Neogi with an exploding Guiding Bolt
-- [[Salt]] (Water Genasi, Psion) – picked up a level of exhaustion misjudging a flooded pool; kept the party alive blind with Aura of Vitality and an upcast Cure Wounds
+- [[Derfel]] (Elf, Ranger, Beast Master): highest roll in the group's patience check (edged out only in jest by [[Brave]]); charmed-Koresh's target in the Umber Hulk fight; fought alongside [[Brave]] directly for the first time
+- [[Babs|Her]] (Mul, mute): found Scylla's torn clothing; briefly charmed by the Neogi hive-mind and struck [[Tarek Cricket Silvertwig|Tarek]]; recovered to land the killing blow on the second Neogi
+- [[Pterrence]] (Pterran): traded Locate Object for Mirror Image; held Fog Cloud over the fight to blind the Umber Hulk's gaze; also cast Web and Guiding-adjacent support via Squeaky's blindsight
+- [[Anselem]] (Fire Urokite): Burning Hands through the fog on a percentile-chance guess; dazed twice by the Umber Hulk's gaze; finished one Neogi with an exploding Guiding Bolt
+- [[Salt]] (Water Genasi, Psion): picked up a level of exhaustion misjudging a flooded pool; kept the party alive blind with Aura of Vitality and an upcast Cure Wounds
 
 ## NPCs encountered
 
@@ -108,7 +108,7 @@ Both Neogi and the Umber Hulk were killed. The party, battered, poisoned and var
 - **The lower chamber.** [[Derfel]] scouted ahead after the short rest and spotted what he described as "a hell of a lot of spiders" in a chamber below, structured around silk-cocooned alcoves. The party had not yet acted on this when the session ended.
 
 ![[Campaigns/Dark Sun/The Colony.png]]
-_The chamber Derfel glimpsed from the ledge — matched against the Roll20 journal by upload timestamp, right around when the session wrapped._
+_The chamber Derfel glimpsed from the ledge, matched against the Roll20 journal by upload timestamp, right around when the session wrapped._
 
 - **[[Salt]]'s exposure continues to sit unaddressed.** No one at the sanctuary has confronted him directly, but the tension is clearly building.
 - **[[Korno]]'s rescue remains deferred**, again, in favour of the Alliance's own scout search.
