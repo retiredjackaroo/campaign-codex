@@ -8,11 +8,9 @@ tags:
   - moc
 ---
 
-# Campaign Codex
-
 > _"The chronicles of worlds explored, kingdoms saved (and doomed), and the adventurers who left their mark upon them."_
 
-Welcome to the Campaign Codex. This archive contains two ongoing Dungeons & Dragons campaigns, each with its own collection of characters, locations, factions, lore, and complete session journals.
+Welcome to the Campaign Codex. This archive contains our ongoing Dungeons & Dragons campaigns, each with its own collection of characters, locations, factions, lore, and complete session journals.
 
 Whether you're catching up after missing a session or diving into years of campaign history, begin your journey below.
 
@@ -37,6 +35,14 @@ A sprawling adventure across the Moonsea, where ancient powers stir beneath the 
 A harsh world of survival, intrigue and forgotten secrets beneath an unforgiving sun.
 
 ➡️ [[Campaigns/Dark Sun/index|Enter Dark Sun]]
+
+---
+
+## 🎭 The Show Must Go On
+
+Three former soldiers arrive in a small town looking for work, anonymity and enough coin to replace a stolen army payroll. Unfortunately, old comrades, old crimes and one suspiciously fine warhammer have a habit of attracting attention.
+
+➡️ [Enter The Show Must Go On](https://retiredjackaroo.github.io/the-show-must-go-on/)
 
 ---
 

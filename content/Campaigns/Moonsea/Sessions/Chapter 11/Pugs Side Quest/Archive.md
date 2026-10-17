@@ -9,8 +9,6 @@ dg-publish: true
 publish: true
 ---
 
-# Pug's Side Quest, Full Archive
-
 The complete cumulative record for Pug's Side Quest: every session, every NPC, every location and item encountered so far. The [[Sessions/Chapter 11/Pugs Side Quest/index|side quest home page]] only shows the latest session; this page grows each session and never gets pruned.
 
 For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archive]] and the [[Campaigns/Moonsea/index|Main Campaign Homepage]].

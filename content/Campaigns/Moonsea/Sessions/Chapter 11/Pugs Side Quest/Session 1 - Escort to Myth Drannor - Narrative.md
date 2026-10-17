@@ -9,8 +9,6 @@ tags:
   - side-quest
 ---
 
-# Escort to Myth Drannor
-
 _Side Quest, Session 1_
 
 ## **Part One: The Tower Door**

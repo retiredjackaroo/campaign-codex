@@ -22,7 +22,7 @@ Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. T
 **Status:** Active; hidden beneath Raam
 **Base of operations:** [[The Cisterns]]; the [[The Hidden Spring]] sanctuary
 **Known members:** [[Leviath]], [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]
-**First appears:** [[Session 4 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Notes|Session 4 - Notes]]
 
 ## The Hidden Spring cell
 

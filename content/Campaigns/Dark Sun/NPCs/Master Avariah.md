@@ -17,7 +17,7 @@ The Alliance's overall leader, named for the first time in prep for Act II, Sess
 
 **Status:** Unconfirmed; anticipated for Act II, Session 6
 **Affiliation:** [[The Alliance]]
-**First appears:** Not yet played; see [[Session 6 - Primer]]
+**First appears:** Not yet played; recorded in the private Session 6 prep notes.
 
 ## Relationships
 

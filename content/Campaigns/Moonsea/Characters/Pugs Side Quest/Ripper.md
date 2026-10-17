@@ -11,7 +11,7 @@ dg-publish: true
 publish: true
 ---
 # Ripper
-![[Pasted image 20260706144659.png]]
+![[Campaigns/Moonsea/Characters/Pugs Side Quest/Assets/Pasted image 20260706144659.png]]
 A Half-Elf Hollow Warden Ranger, played by [[Lavinia Zafir]]'s player as a secondary side quest character for [[Session 1 - Escort to Myth Drannor - Narrative|Pug's Side Quest]]. Not to be confused with Lavinia Zafir (the same player's main Moonsea character) or Pterrence (the same player's Dark Sun character); the three are entirely separate people and should never be linked or merged.
 
 A former bandit captain who once terrorised the lands around these parts with her crew of brigands. After poking her nose too deeply into [[Myth Drannor]]'s secrets, she experienced an unknown horror, then was defeated and caught by the [[Knights of Myth Drannor]]. Forever changed, she now reluctantly works with what she considers the overly stuck-up Knights against greater threats to Myth Drannor, determined to keep what is buried deep within secret and safe.

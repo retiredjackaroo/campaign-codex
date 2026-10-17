@@ -6,7 +6,7 @@ publish: true
 ---
 # Garden of Long Memory
 
-![[Garden of Long Memory.png]]
+![[Campaigns/Moonsea/Assets/The Garden Memory.png]]
 
 An overgrown formal garden between the [[Grand Avenue]] and [[Hall of Scrolls]]. Crooked wrought-iron gates open onto cracked marble paths, wild hedges, moon-white statues and reflecting pools of impossibly clear water. Despite centuries of neglect, its fountains continue to flow and the garden retains a profound, melancholy elegance.
 

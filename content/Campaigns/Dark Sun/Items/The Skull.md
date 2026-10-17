@@ -20,7 +20,7 @@ On the elemental's defeat the skull fell free from the collapsing mass. [[Babs]]
 
 **Status:** Destroyed; a single fragment retained by [[Pterrence]] (Act II, Session 5)\
 **Origin:** Dregoth Cultists\
-**First appears:** [[Session 4 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Notes|Session 4 - Notes]]
 
 ## Notes
 

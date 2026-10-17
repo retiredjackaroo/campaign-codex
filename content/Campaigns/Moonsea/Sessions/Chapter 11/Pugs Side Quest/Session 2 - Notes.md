@@ -9,8 +9,6 @@ tags:
   - side-quest
 ---
 
-# The Grove of Mercy
-
 _Side Quest, Session 2 Notes_
 
 **Summary:** The escort finishes the were-boar fight it was caught in at the end of Session 1, then travels on to camp at an ancient shrine of [[Eilistraee]] deep in [[Cormanthor]]. There they uncover a [[Harpers|Harper]] drop site hidden beneath a stone bench, complete with the unsettling [[Aurelien Voxs Journal|journal of Aurelien Vox]] and a [[Harper Compass|compass]] that points straight at [[Myth Drannor]], and then witness a moonlit vision of drow refugees being welcomed by surface elves. Full story in [[Session 2 - The Grove of Mercy - Narrative|the narrative]].

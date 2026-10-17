@@ -42,12 +42,14 @@ jobs:
         run: npm ci
       - name: Install Quartz plugins
         run: npm run install-plugins
+      - name: Check public content boundary
+        run: npm run check:content
       - name: Check types and style
         run: npm run check
       - name: Test
         run: npm test
       - name: Build Quartz
-        run: npx quartz build
+        run: npm run build
       - name: Validate generated site
         run: npm run check:site
       - name: Version social preview images

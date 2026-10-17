@@ -4,9 +4,6 @@ on:
   pull_request:
     branches:
       - v5
-  push:
-    branches:
-      - v5
   workflow_dispatch:
 
 jobs:
@@ -45,6 +42,9 @@ jobs:
       - name: Install Quartz plugins
         run: npm run install-plugins
 
+      - name: Check public content boundary
+        run: npm run check:content
+
       - name: Check types and style
         run: npm run check
 
@@ -52,7 +52,7 @@ jobs:
         run: npm test
 
       - name: Build production site
-        run: npx quartz build
+        run: npm run build
       - name: Validate generated site
         run: npm run check:site
 

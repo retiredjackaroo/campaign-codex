@@ -21,7 +21,7 @@ A half-elf druid of the spores and one of the four officers of the [[The Allianc
 **Status:** Alive
 **Race / role:** Half-elf; druid of the spores
 **Affiliation:** [[The Alliance]] ([[The Hidden Spring]] cell)
-**First appears:** [[Session 5 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Notes|Session 5 - Notes]]
 
 ## Relationships
 

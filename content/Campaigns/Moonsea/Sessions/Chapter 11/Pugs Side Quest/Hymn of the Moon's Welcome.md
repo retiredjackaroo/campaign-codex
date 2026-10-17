@@ -14,7 +14,7 @@ tags:
 
 # Hymn of the Moon's Welcome
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/The grove of mercy.png]]
+![[Campaigns/Moonsea/Assets/The grove of mercy.png]]
 
 The song the choir of spirits sang during the vision at the [[Shrine of Eilistraee]], witnessed by the escort on Pug's side quest (see [[Session 2 - The Grove of Mercy - Narrative|The Grove of Mercy]]). It rose, without instruments, from surface elves and drow singing together as drow refugees were welcomed into the grove.
 

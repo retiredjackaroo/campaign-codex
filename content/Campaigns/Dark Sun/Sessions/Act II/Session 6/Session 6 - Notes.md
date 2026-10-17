@@ -8,9 +8,6 @@ tags:
   - act-2
   - session-6
 ---
-
-# Session 6: Notes
-
 **XP awarded:** ~540 base per character, plus small individual bonuses (variously reported between roughly 60 and 175 depending on character, tied to skill-challenge success/failure and features used); treat the bonus figures as approximate, as the GM's own running totals shifted more than once while reading them out.
 
 ## Summary
@@ -59,7 +56,7 @@ Five of seven party members were active this session. **[[Kit-Chac]] and [[Tchk 
 |----------|-------|
 | [[The Cisterns]] | The party travelled further north than previously mapped, into unexplored tunnels beyond [[The Hidden Spring]]'s territory, encountering a biologically-resined chamber and the Umber Hulk/Neogi ambush |
 
-![[Northern Tunnels.png]]
+![[Campaigns/Dark Sun/Assets/The World Below.png]]
 _The stretch of aquifer tunnels north of the Hidden Spring, crossed during the day's scouting._
 
 ## Combat: the Umber Hulk and the Neogi

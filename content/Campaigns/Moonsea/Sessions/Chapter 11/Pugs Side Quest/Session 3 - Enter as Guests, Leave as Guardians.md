@@ -10,9 +10,6 @@ tags:
   - chapter-11
   - side-quest
 ---
-
-# Session 3 - Enter as Guests, Leave as Guardians
-
 _Chapter 11, Side Quest, Session 3_
 
 > [!quote] The Moon Arch

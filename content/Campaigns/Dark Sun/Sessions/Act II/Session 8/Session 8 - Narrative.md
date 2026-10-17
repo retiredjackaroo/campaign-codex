@@ -8,8 +8,6 @@ tags: [session, act-2, session-8]
 dg-publish: true
 publish: true
 ---
-# Session 8: Narrative
-
 ## The Mother's Children
 
 The battle in the holding pen resumed beneath the chorus of the hive.

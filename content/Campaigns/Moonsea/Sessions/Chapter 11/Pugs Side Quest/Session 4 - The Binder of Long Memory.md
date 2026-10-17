@@ -9,9 +9,6 @@ tags: [session, chapter-11, side-quest]
 dg-publish: true
 publish: true
 ---
-
-# Session 4 - The Binder of Long Memory
-
 *Chapter 11, Side Quest, Session 4*
 
 ## Out of the Tunnels

@@ -9,8 +9,6 @@ tags:
   - side-quest
 ---
 
-# The Grove of Mercy
-
 _Side Quest, Session 2_
 
 > [!quote] For the record
@@ -48,7 +46,7 @@ Kjeorn also took a beat to summon a mount, calling up a Celestial stag (an elk, 
 
 They walked the rest of the day. As the light failed, [[Herschel Blackroot]] pulled aside some brush and revealed what they'd been walking towards: an old elven shrine, a place the guardians of Myth Drannor knew of but had never actually entered, sitting well inside the perimeter they usually kept others out of.
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/Sanctuary.png]]
+![[Campaigns/Moonsea/Assets/Sanctuary.png]]
 
 The grove was almost perfectly circular, nearly a hundred feet across, as though the forest itself had been gently persuaded to leave the spot untouched. Moonlight was already pooling there before the sun had finished setting. At its centre lay a broad reflecting pool, still as polished glass, water lilies only now unfurling their white blossoms for the night. Worn stone benches ringed it, moss softening their edges, flowering vines climbing weathered columns, some still whole, some long since fallen. At the northern edge stood an elegant marble arch, its keystone carved with a crescent moon, its face softened by centuries: women dancing beneath moonlight, hands extended in welcome, a sword laid peacefully on the ground.
 
@@ -89,7 +87,7 @@ Pug, paranoid after the journal, ringed the camp in Mordenkainen's Private Sanct
 
 Then the surface of the reflecting pool rippled inward, not outward, and moonlight seemed to sink beneath the water.
 
-![[Campaigns/Moonsea/Characters/Pugs Side Quest/The grove of mercy.png]]
+![[Campaigns/Moonsea/Assets/The grove of mercy.png]]
 
 Silver mist gathered across the grove and took shape. One figure, then another, then dozens: translucent, paying the living party no attention at all, as though to the spirits the camp simply wasn't there. An elderly drow woman stepped through the ancient arch with a frightened child in her arms, and behind her came the rest: families, old men, young warriors with sheathed swords, priestesses stripped of rank, children clutching blankets. Exiles. Refugees. The hunted. Waiting beneath the columns to receive them stood surface elves, moon elves and wood elves, and centaurs.
 

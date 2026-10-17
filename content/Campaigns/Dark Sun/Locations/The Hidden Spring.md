@@ -23,7 +23,7 @@ The party was led here by [[Leviath]] in Act II, Session 5 after crossing the aq
 **Status:** Active; Alliance sanctuary
 **City:** [[Raam]]
 **Controlled by:** [[The Alliance]]
-**First appears:** [[Session 5 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Notes|Session 5 - Notes]]
 
 ## The cell
 

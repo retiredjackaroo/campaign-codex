@@ -13,3 +13,5 @@ modified: 2026-07-18T15:11:21.531+10:00
 [[Campaigns/Moonsea/index|Tyranny on the Moonsea]]
 
 ![[Campaigns/Moonsea/Assets/Pasted image 20260715144552.png]]
+
+[The Show Must Go On](https://retiredjackaroo.github.io/the-show-must-go-on/)

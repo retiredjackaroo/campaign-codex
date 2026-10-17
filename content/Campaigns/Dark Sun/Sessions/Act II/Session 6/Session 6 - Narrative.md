@@ -8,9 +8,6 @@ tags:
   - act-2
   - session-6
 ---
-
-# Session 6: Narrative
-
 Three days into their stay at [[The Hidden Spring]], the party had settled into an uneasy rhythm of rest, patience, and careful cooperation. [[Derfel]] and [[Pterrence]] were content simply to have the space, and [[Salt]] was glad of the water, though not without a cost: word had spread among the sheltering refugees of what they'd glimpsed during the cloaker fight the session before, and Salt could feel the sanctuary's quiet awareness of him even though no one had said a word. He spent his days resisting the urge to submerge himself entirely and waiting, half-expecting one of his own party to finally say something.
 
 No one did, not yet. Instead, [[Pterrence]] offered to cast Invisibility on Salt whenever he wanted to slip away for a proper swim, an offer met with a long, mournful look at the water rather than an answer. [[Derfel]], meanwhile, floated the idea of a new longbow, and Pterrence, citing his Arcana proficiency and woodcarver's tools, offered to enchant Derfel's own bow given time and coin, a plan the two left unresolved for now. Pterrence also used the quiet days to trade a spell from his own book, Locate Object, to [[Sarath]] in exchange for Mirror Image, and swapped out a cantrip while he was at it.
@@ -23,7 +20,7 @@ Word soon came that mattered more than patience. Two Alliance scouts, a human na
 
 The aquifer's damp, mineral hush deepened the further they went. Moss and pale underdark algae shimmered faintly on the walls; blind cave beetles crunched underfoot; violet fungal gardens breathed spores into air already thick with the smell of stagnant water. Tarek, delighted despite himself, scraped a sample of the wall growth into a flask as a gift for [[Nisat of the Cavern Moss]], muttering that Nisat would love the disgusting stuff.
 
-![[Northern Tunnels.png]]
+![[Campaigns/Dark Sun/Assets/The World Below.png]]
 _The stretch of aquifer tunnels north of the Hidden Spring, crossed during the day's scouting._
 
 The tracking itself went poorly. [[Babs|Her]] found the only real success of the day, a scrap of torn fabric snagged on a jagged rock that Tarek confirmed as Scylla's. Everyone else fared worse: a handhold gave way beneath Her elsewhere in the tunnels, bringing down a shower of loose stone; [[Pterrence]], searching a mushroom-choked chamber for signs of foraging, disturbed a cloud of spores and came away poisoned for his trouble; and both Pterrence and [[Salt]] misjudged the depth of a flooded stretch of tunnel, each picking up a level of exhaustion in the process, with Salt in particular baffled that anyone would consider merely neck-deep water "too deep." The party camped for an uneventful night, keeping watch in shifts, [[Brave]] included, before Tarek led them on the next morning.

@@ -7,9 +7,6 @@ tags:
   - session
   - chapter-11
 ---
-
-# **The Silver Pyramid**
-
 ### **Chapter 11, Episode 1**
 
 ## **Part One: The Marsh**

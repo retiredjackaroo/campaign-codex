@@ -12,9 +12,6 @@ tags:
   - village
   - occupied
 ---
-
-# Kabel's Hill
-
 ![[Campaigns/Moonsea/Assets/Kabel's Hill.png]]
 
 A river hub village occupied by the [[Burning Banner]]. The party slipped in at dusk, met [[Riek]], and boarded [[The Arbitus]] at the docks.

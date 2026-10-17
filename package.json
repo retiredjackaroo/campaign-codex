@@ -19,8 +19,11 @@
     "test": "tsx --test",
     "check:site": "tsx scripts/check-site.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "install-plugins": "node quartz/bootstrap-cli.mjs plugin install",
+    "build": "node quartz/bootstrap-cli.mjs build && node scripts/optimize-media.mjs public",
+    "check:content": "node scripts/campaign-check.mjs content",
+    "optimize:media": "node scripts/optimize-media.mjs public",
+    "preview:campaign": "node scripts/campaign-preview.mjs"
   },
   "engines": {
     "npm": ">=10.9.2",

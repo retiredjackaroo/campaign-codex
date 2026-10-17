@@ -9,10 +9,15 @@ configuration:
   locale: en-US
   baseUrl: retiredjackaroo.github.io/campaign-codex
   ignorePatterns:
+    - "Campaigns/The Show Must Go On/**"
     - private
     - templates
     - .obsidian
     - "**/*Transcript*.md"
+    - "**/_Inbox/**"
+    - "**/_Archive/**"
+    - "**/evidence/**"
+    - "**/staging/**"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -19,7 +19,7 @@ Sarath answers to someone higher in the Alliance whom even her own officers almo
 **Status:** Alive
 **Race / role:** Human; preserver, cell leader
 **Affiliation:** [[The Alliance]] ([[The Hidden Spring]] cell)
-**First appears:** [[Session 5 - Notes]]
+**First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 5/Session 5 - Notes|Session 5 - Notes]]
 
 ## Relationships
 

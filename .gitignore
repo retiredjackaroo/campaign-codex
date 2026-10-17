@@ -12,3 +12,8 @@ replit.nix
 .quartz/
 **/*Transcript*.md
 quartz/cli/tui/dist/
+.campaign-cache/
+preview-moonsea/
+preview-dark-sun/
+preview-input-moonsea/
+preview-input-dark-sun/

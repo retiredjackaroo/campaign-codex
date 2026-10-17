@@ -1,5 +1,5 @@
-import { i18n } from "../../i18n"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { joinSegments } from "../../util/path"
 
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
@@ -12,9 +12,9 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
         <p>This page could not be found.</p>
         <nav aria-label="Recovery navigation">
           <a href={baseDir}>Campaign Codex</a>
-          <a href={`${baseDir}campaigns/moonsea/`}>Moonsea</a>
-          <a href={`${baseDir}campaigns/dark-sun/`}>Dark Sun</a>
-          <a href={`${baseDir}campaigns/`}>All campaigns</a>
+          <a href={joinSegments(baseDir, "campaigns/moonsea/")}>Moonsea</a>
+          <a href={joinSegments(baseDir, "campaigns/dark-sun/")}>Dark Sun</a>
+          <a href={joinSegments(baseDir, "campaigns/")}>All campaigns</a>
         </nav>
       </section>
       <script

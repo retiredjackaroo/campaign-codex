@@ -9,8 +9,6 @@ tags:
   - side-quest
 ---
 
-# Escort to Myth Drannor
-
 _Side Quest, Session 1 Notes_
 
 **Summary:** With [[Pug DAstibar|Pug D'Astibar]] left behind in Phlan at the end of Session 1, this side quest fills in what his "personal business" actually was: a secretive mission for [[Elminster]] of [[Shadowdale]], escorted through [[Cormanthor]] towards [[Myth Drannor]] by a separate band of characters. The escort runs into a were-boar hunting party partway through the forest, and the session ends mid-combat. Played by the same table, but with everyone (bar Pug) on secondary side quest characters: see [[Session 1 - Escort to Myth Drannor - Narrative|the narrative]] for the full story, and the new character pages in Characters/Pug's Side Quest/ for who's who.
