@@ -1,0 +1,12 @@
+
+node_modules/
+.quartz/
+public/
+.campaign-cache/
+preview-moonsea/
+preview-dark-sun/
+preview-input-moonsea/
+preview-input-dark-sun/
+docs/images/
+quartz/util/emojimap.json
+**/*.map
