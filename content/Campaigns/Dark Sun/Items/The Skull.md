@@ -18,7 +18,7 @@ A skull recovered from the remains of the sand elemental defeated in [[The Ciste
 
 On the elemental's defeat the skull fell free from the collapsing mass. [[Babs]] moved in and took it from the wreckage.
 
-**Status:** Destroyed; a single fragment retained by [[Pterrence]] (Act II, Session 5)\
+**Status:** Destroyed; surviving fragment held under containment by [[The Hidden Spring]] cell (Act II, Session 11)\
 **Origin:** Dregoth Cultists\
 **First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 4/Session 4 - Notes|Session 4 - Notes]]
 
@@ -27,3 +27,5 @@ On the elemental's defeat the skull fell free from the collapsing mass. [[Babs]]
 Significance unknown. The fact that the Dregoth Cultists used it as a weapon suggests it may be a reusable or repurposable tool of elemental summoning. Worth investigating.
 
 In Act II, Session 5 [[Pterrence]] identified the skull as the still-active anchor of an elemental transmutation ritual: left alone it would begin drawing sand and stone back into itself within a day and reform. The party destroyed it rather than risk that. [[Babs]] battered it, [[Kit-Chac]] cracked it with his gythka, and Babs finished it with an airborne longsword strike, shattering it across the tunnel floor. [[Pterrence]] threaded a single surviving fragment onto a cord to see whether it shows any sign of reactivating once the day is up.
+
+In Act II, Session 11 [[Pterrence]] asked the cell about the fragment and handed it over for safekeeping. The table treated it as having been handed in when the party first arrived; the cell had placed it under containment, because a command word would let it reform and reincorporate into the elemental.

@@ -30,6 +30,8 @@ A half-giant and representative of [[The Alliance]], the hidden resistance opera
 
 - Act II, Session 5: led the party and a column of refugees deeper through [[The Cisterns]] to the concealed [[The Hidden Spring]] sanctuary. During the cloaker ambush on the aquifer ledge she was grappled and dragged over the water (she counts as Large for grappling despite a medium token) and had to be hauled free by [[Kit-Chac]] while drowning. She then ended the fight with a calming psionic pulse in a thirty-foot radius, causing the four cloakers within reach to release their captives and retreat; the table credited her as the encounter's MVP.
 
+- Act II, Session 11: brought the party news from [[Raam]] each evening at [[The Hidden Spring]]: absolute Templar rule, the rise of the clerics of Dregoth, and that [[Korno]] lives and is to be sacrificed. "We must try to free him." She helped plan the rescue but warned that, as a known enemy of the Templars, her direct involvement would add risk, and she insisted that civilians be kept clear of any explosion. [[Master Avariah]] then instructed her to bring the party to her; Leviath knows the place and urged the party to treat the summons as a courtesy, not a trap.
+
 ## Notes
 
-Name appears as both "Leviath" and "Leviathan" in source material. Canonical spelling to confirm from transcripts.
+Name appears as both "Leviath" and "Leviathan" in source material. Leviath is used at the table; Master Avariah's message in Session 11 was transcribed as "Leviathan".

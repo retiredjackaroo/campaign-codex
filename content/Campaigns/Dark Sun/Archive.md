@@ -27,6 +27,8 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Notes|Session 9 - Notes]]
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Narrative|Session 10 - Narrative]]
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Notes|Session 10 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Narrative|Session 11 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]]
 
 ## All NPCs
 
@@ -54,7 +56,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Slums
 
-- [[Korno]] - captured, Act II, Session 4
+- [[Korno]] - captured, Act II, Session 4; alive and marked for sacrifice, Act II, Session 11
 - [[Grainseed]], [[Aravak]], [[Sura the Clay-singer]]
 
 ### The Thaberos Fields
@@ -79,8 +81,8 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Hidden Spring
 
-- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar)
-- [[Neogi]], [[Umber Hulk]], [[Hook Horror]], [[The Voice]] (deceased), [[The Hive Mother]] (deceased, Act II, Session 10)
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar), [[Master Avariah]] (heard, not yet met), [[Grave]] (Derfel's companion)
+- [[Neogi]], [[Umber Hulk]], [[Hook Horror]], [[The Voice]] (deceased), [[The Hive Mother]] (deceased, Act II, Session 10); the colony collapsed in Act II, Session 11
 
 ## All Locations
 

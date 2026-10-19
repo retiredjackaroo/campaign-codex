@@ -28,10 +28,10 @@ Their existence was revealed to the party by [[Leviath]] in Act II, Session 4. T
 
 In Act II, Session 5 the party was brought into [[The Hidden Spring]], a concealed sanctuary within a living aquifer beneath the city. The cell there numbers ten, four of them officers:
 
-- [[Sarath]]: human preserver and cell leader
-- [[Nisat of the Cavern Moss]]: half-elf druid of the spores
-- [[Koresh Ironblood]]: mole warrior
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: halfling ranger
+- [[Sarath]] – human preserver and cell leader
+- [[Nisat of the Cavern Moss]] – half-elf druid of the spores
+- [[Koresh Ironblood]] – mole warrior
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
 
 Most of the cell are not preservers or true members but auxiliaries bound to its aims. [[Sarath]] answers to a higher, rarely-seen figure in the Alliance, contacted only by animal messengers or occasional appearances, who is rumoured to be close to becoming an **Avangion**, a celestial counter to the Sorcerer Kings' draconic ambition.
 
@@ -39,11 +39,11 @@ Most of the cell are not preservers or true members but auxiliaries bound to its
 
 The cell lives by five laws, which explain its lack of urgency about surface events:
 
-1. **Protect the Alliance above all else**: they remain hidden, and once joined, only death releases a member.
-2. **Protect preservers**: they will always shelter one who preserves.
-3. **Protect auxiliaries**: those bound to the aims though not preservers or full members.
-4. **Oppose defilers**: whether Templar, noble, or wizard, all defilers are sworn enemies.
-5. **Undermine the Sorcerer Kings**: with no Sorcerer King left in Raam, the aim is now applied to [[The Templars|the Templar faction]] as the natural inheritors of that ambition.
+1. **Protect the Alliance above all else** – they remain hidden, and once joined, only death releases a member.
+2. **Protect preservers** – they will always shelter one who preserves.
+3. **Protect auxiliaries** – those bound to the aims though not preservers or full members.
+4. **Oppose defilers** – whether Templar, noble, or wizard, all defilers are sworn enemies.
+5. **Undermine the Sorcerer Kings** – with no Sorcerer King left in Raam, the aim is now applied to [[The Templars|the Templar faction]] as the natural inheritors of that ambition.
 
 ## Notes
 
@@ -52,3 +52,5 @@ The Alliance's secrecy is their primary asset and primary vulnerability. [[The T
 As of Session 5, two Alliance scouts are overdue from an unexplored stretch of the aquifer beyond [[The Hidden Spring]]. [[Koresh Ironblood]] has offered to bring the party along to search, framed as a trust-building step toward the Alliance eventually helping free [[Korno]].
 
 **Session 6:** [[Tarek Cricket Silvertwig|Tarek]] and Koresh took the party north to search for the two missing scouts, [[Narek]] and [[Scylla]]. The search turned up a scrap of Scylla's clothing before the group was ambushed by an [[Umber Hulk]] and two [[Neogi]]; both scouts remain unaccounted for and, given cocoon-like remains found at the site, are feared dead or worse. The Alliance's own trust in the party has not yet been explicitly addressed as a result, but the expedition stands as the first real test of it.
+
+**Session 11:** The party returned from destroying the Neogi colony and was welcomed by [[The Hidden Spring]] cell almost as members, with an open invitation to join. [[Sarath]] judged the rescue of [[Korno]] beyond her authority under the aims and consulted [[Master Avariah]], now confirmed as the cell's higher authority and as a woman. Avariah summoned the party to meet her. The officers are divided over her direction: [[Tarek Cricket Silvertwig|Tarek]] and [[Koresh Ironblood|Koresh]] chafe at the shift from striking defilers to charting the Underdark, while Sarath and [[Nisat of the Cavern Moss|Nisat]] accept it. See [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]].

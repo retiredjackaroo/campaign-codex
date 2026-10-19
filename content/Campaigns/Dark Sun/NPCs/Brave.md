@@ -19,7 +19,7 @@ tags:
 ## Relationships
 
 - [[Derfel]]: devoted companion; Derfel is quietly but deliberately protective of him after losing Dave and Maeve
-- [[Babs|Her]]: unusual bond for a mute Mul; Brave seeks her out during conversation and she responds
+- [[Her]]: unusual bond for a mute Mul; Brave seeks her out during conversation and she responds
 
 ## History
 

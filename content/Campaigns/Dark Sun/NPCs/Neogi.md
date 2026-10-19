@@ -2,7 +2,7 @@
 type: npc
 aliases: []
 tags: [npc, creature, dark-sun]
-status: Encountered
+status: Colony destroyed
 dg-publish: true
 publish: true
 ---
@@ -20,5 +20,7 @@ In [[Campaigns/Dark Sun/Sessions/Act II/Session 8/Session 8 - Narrative|Session 
 In [[Campaigns/Dark Sun/Sessions/Act II/Session 9/Session 9 - Narrative|Session 9]], the party found a vast nursery guarded by about a dozen adults, destroyed the cocooned Templar conduit called [[The Voice]], and fought two Neogi alongside a [[Hook Horror]]. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]] hurled both Neogi into a chasm. Two further attendants defend [[The Hive Mother]] in her chamber, where the battle remains unfinished.
 
 In [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Narrative|Session 10]], Mother's attendants fought under her legendary commands; they dropped [[Babs]] with venomous bites and one carried her off before [[Tchk Tchk Gulbadani|Tchk'Tchk]] teleported her free. Four egg sacs burst into swarms of broodlings that tried to burrow into the party's flesh and left [[Brave]] badly wounded. A rockfall crushed one attendant and trapped another. [[The Hive Mother]] was killed, and the hive began to wail as her chamber collapsed.
+
+In [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Narrative|Session 11]], Mother's death severed the hive link. The Neogi and their enthralled hook horrors collapsed and convulsed as their minds shattered, and [[The Colony]] fell in on them as the party escaped.
 
 **First appears:** [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Narrative|Session 6]]

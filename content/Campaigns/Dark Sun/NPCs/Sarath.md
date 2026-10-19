@@ -30,3 +30,5 @@ Sarath answers to someone higher in the Alliance whom even her own officers almo
 ## Notes
 
 Deflected serious talk of plans until the party had rested and healed. Convened her officers with the party present after Alliance scouts on the aquifer missed two check-ins.
+
+**Session 11:** On the party's return from [[The Colony]], admitted that the cell had fiercely debated what to do with them when they first arrived, since outsiders who knew the way in could not simply be let go. She now offered them an open invitation to join, and assurance that they are free to leave. She judged the rescue of [[Korno]] beyond her authority: he is not of the Alliance, and acting for him under the fourth aim risked exposing every cell. She asked for one evening to consult [[Master Avariah]], and defended Avariah's judgement as never yet found wanting. See [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]].

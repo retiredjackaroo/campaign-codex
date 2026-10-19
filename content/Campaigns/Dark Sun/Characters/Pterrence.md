@@ -21,7 +21,7 @@ A Pterran party member. Pterrans are native to the Hinterlands of Athas: a repti
 ## Relationships
 
 - [[Salt]]: fellow caster; the two coordinated illusions and battlefield control during the Act II, Session 4 crossing and elemental fight
-- [[Derfel]]: a faint, background friction. Pterrence's wordiness wears on the terse, practical Derfel; Pterrence seems largely unbothered by it. Low-key for now, a thread that may surface later.
+- [[Derfel]]: a faint, background friction. Pterrence's wordiness wears on the terse, practical Derfel; Pterrence seems largely unbothered by it. Low-key for now, a thread that may surface later. By Act II, Session 11 it had become what Pterrence calls an uneasy alliance: Derfel carried him out of the collapsing colony, and Pterrence is carving him a +1 longbow.
 
 ## Notable moments
 
@@ -30,6 +30,7 @@ A Pterran party member. Pterrans are native to the Hinterlands of Athas: a repti
 - **Act II, Session 7:** Identified the [[Ring of Psionic Resistance]] and used Locate Object to follow ceramic nose-jewellery signals toward the missing scouts. Salt cured his poison, but no removal of his exhaustion was recorded. Ended with one level of hive strain.
 - **Act II, Session 9:** Caught the burning body of [[The Voice]] with Levitate, preserving it long enough for [[Salt]] to recover its amulet. Used Cloud of Daggers to control the first Neogi fight and Magic Missile against the [[Hook Horror]] guarding [[The Hive Mother]]. His prior exhaustion and one level of hive strain remained unresolved.
 - **Act II, Session 10:** Tried Mind Sliver on [[The Hive Mother]] and then stepped forward to form a line. Mother's Fear sent him running down the tunnel, where he raised Shield against the broodlings and later fought the fleeing [[Hook Horror]] alone with javelin and True Strike until [[Tchk Tchk Gulbadani|Tchk'Tchk]] teleported him clear. Argued for accepting Mother's bargain and returning to rescue [[Babs]]. Was knocked unconscious by the final rockfall. His exhaustion remained unresolved.
+- **Act II, Session 11:** Unconscious for the escape, carried out in [[Derfel]]'s arms, and revived by [[Anselem]]'s poultice with a lump on his head; his staff was lost in the colony. Ran a ritual Detect Magic sweep of the slave pens. Pushed hard for rescuing [[Korno]] and proposed Fog Cloud cover for the snatch. In downtime he found a replacement weapon, carved a new obsidian-tipped staff, began carving a +1 longbow for Derfel, and handed [[The Skull|the skull fragment]] to the Hidden Spring cell for containment. Also played [[Salt]]'s rolls this session.
 
 ## Notes
 

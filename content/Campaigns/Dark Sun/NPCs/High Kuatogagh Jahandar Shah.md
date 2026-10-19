@@ -15,5 +15,7 @@ tags:
 
 A senior figure encountered at [[The Moot]]. The title High Kuatogagh suggests a position of significant spiritual or political authority.
 
-**Status:** Unknown
+**Status:** Ruling Raam openly (Act II, Session 11)
 **First appears:** <!-- link to episode once built -->
+
+**Session 11:** [[Leviath]] reports that Jahandar Shah now rules [[Raam]] openly, with the Ivory Palace as [[The Templars]]' bastion. House M'Ke governs trade and caravans in return for oaths of fealty to him. See [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]].

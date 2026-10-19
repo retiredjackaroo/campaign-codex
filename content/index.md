@@ -61,8 +61,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="The Born Under a Dark Sun adventuring party"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Dark Sun</span>
-        <strong>Mother Falls</strong>
-        <span>Derfel has killed the Hive Mother, but Brave is dead, three of the party are unconscious and her chamber is collapsing around them.</span>
+        <strong>A Summons from the Master</strong>
+        <span>Out of the collapsing hive and back at the Hidden Spring, the party has vowed to free Korno before Raam sacrifices him to Dregoth, and Master Avariah has summoned them.</span>
       </span>
     </a>
     <a class="resume-card resume-card--pug" href="./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/" aria-label="Continue Pug's Side Quest">

@@ -17,7 +17,7 @@ dg-publish: true
 publish: true
 ---
 
-![[Tarek Cricket Silvertwig.png]]
+![[Tarek "Cricket" Silvertwig.png]]
 A halfling ranger and one of the four officers of the [[The Alliance|Alliance]] cell at [[The Hidden Spring]], known to the cell as "Cricket." Quick-witted, sharp-tongued and shamelessly irreverent, he will twist almost anything into an innuendo even when things are grim. Unlike the other, more distant officers, he places no barrier between himself and the party, though he is visibly put out to learn they already know another Cricket.
 
 **Status:** Alive
@@ -37,3 +37,5 @@ A halfling ranger and one of the four officers of the [[The Alliance|Alliance]] 
 **Session 6:** volunteered the party for a search for two missing Alliance scouts, [[Narek]] and [[Scylla]], before Sarath had finished explaining the situation, treating it as a genuine search and an unstated test of the party's trustworthiness. Led the expedition north of [[The Hidden Spring]]'s territory, scraping a sample of cavern growth into a flask as a gift for [[Nisat of the Cavern Moss]] along the way. Took a claw hit from the [[Umber Hulk]] and, briefly, a critical hit and follow-up strike from a charmed [[Babs|Her]] during the fight with it and two [[Neogi]]. Later supplied Scylla's ceramic nose piercing as an identifying detail for a possible Locate Object attempt. See [[Campaigns/Dark Sun/Sessions/Act II/Session 6/Session 6 - Notes|Session 6 - Notes]].
 
 **Session 7:** followed the party into the Neogi pantry and joined the unfinished holding-pen battle, firing on the second [[Umber Hulk]]. Neither missing scout was positively identified. See [[Campaigns/Dark Sun/Sessions/Act II/Session 7/Session 7 - Notes|Session 7 - Notes]].
+
+**Session 11:** Waited with the freed prisoners outside [[The Colony]] and returned to [[The Hidden Spring]] with the party. Eager to help rescue [[Korno]], he admitted he is tired of sitting in the sanctuary and agreed to procure explosives through the cell's craftsmen and [[Nisat of the Cavern Moss|Nisat]]'s knowledge of volatile materials, while keeping the purpose from Nisat. Openly grumbled that [[Master Avariah]] plays a game on a board only she can see, earning a sharp look from [[Sarath]]. See [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]].

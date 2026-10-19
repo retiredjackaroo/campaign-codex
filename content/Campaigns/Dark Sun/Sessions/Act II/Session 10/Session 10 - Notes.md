@@ -15,7 +15,7 @@ The party finished the battle in [[The Hive Mother]]'s chamber. [[Derfel]] kille
 
 ## Summary
 
-The fight resumed in Mother's chamber. Two egg sacs burst into swarms of Neogi broodlings, and two more opened later. Mother fought with Fear, Command, mind lashes, psychic pulses, legendary commands to her attendant [[Neogi]], and lair actions that brought waves of psychic static, more hatchings and two rockfalls.
+The fight resumed in Mother's chamber. Two egg sacs burst into swarms of Neogi broodlings, and two more opened later. Mother fought with Fear, Command, mind lashes, psychic pulses, legendary commands to her attendant [[Neogi]], and lair actions that brought static, a quake and two rockfalls.
 
 ![[Session 9 - Mothers Chamber.png]]
 _Mother's chamber, where the battle resumed._
@@ -29,15 +29,15 @@ Tchk'Tchk teleported Babs out of the Neogi's grip and Salt stabilised her with S
 ![[The Hive Mother.png]]
 _The Hive Mother, killed in Session 10._
 
-The hive began to wail and the chamber started to collapse. Play stopped at the hard stop with Derfel reaching Salt. The DM signalled a skill challenge to escape, with three unconscious party members to carry.
+The hive began to wail and the chamber started to collapse. Play stopped at the hard stop with Derfel reaching Salt to dig him out. The DM signalled a skill challenge to escape, with three unconscious party members to carry.
 
 ## Party contributions
 
 - [[Derfel]]: wounded Mother with Hunter's Mark and two longbow hits; failed against her Fear despite the [[Ring of Psionic Resistance]], fled, recovered and had Brave fetch his bow; knocked a broodling swarm off Babs; hit the fleeing hook horror alongside Brave; added Hail of Thorns and Zephyr Strike to his arrows; failed a Medicine check to stabilise Babs; threatened Mother during the bargain; and fired the arrow that killed her after Brave died.
 - [[Babs]]: opened on the hook horror with a feinting attack for 17 damage; was frightened and swarmed twice by broodlings but resisted their burrowing; used Second Wind and Relentless Endurance; recovered her sword and cut Mother repeatedly, taking off one of her legs; fell to the attendant Neogi and was stabilised by Salt.
 - [[Pterrence]]: tried Mind Sliver on Mother, then stepped up to form a line; was frightened out of the chamber and used Shield twice; fought the hook horror alone in the tunnel with javelin and True Strike; argued for accepting Mother's bargain and returning to rescue Babs; was knocked unconscious by the final rockfall.
-- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: resisted Mother's Fear and absorbed her mind lash with biofeedback; teleported the frightened hook horror behind pillars; dropped Shatter on Mother and her eggs; turned a Neogi bite with psionic backlash and parried two more using his bone dagger, but took two venomous bites from the Neogi taskmaster; whispered dissonance into Mother's mind; carried Pterrence's staff out and teleported Pterrence clear of the hook horror; teleported Babs out of the Neogi's grip; was then dominated by Mother, teleported Babs back to her and flung a needle at Derfel, which missed; was knocked unconscious by the final rockfall.
-- [[Salt]]: used his extended psionic limb to cast his last Cure Wounds on Babs; resisted Mother's Command to grovel; was half-buried by the first rockfall and could not escape it; shoved the Neogi off Tchk'Tchk and later a broodling swarm away telekinetically; proposed trading the freed captives for Babs; broke Mother's mass suggestion with psionic discipline; stabilised Babs from range with Spare the Dying; ended pinned with broodlings burrowing into him.
+- [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]]: resisted Mother's Fear and absorbed her mind lash with biofeedback; teleported the frightened hook horror behind pillars; dropped Shatter on Mother and her eggs; turned a Neogi bite with psionic backlash and parried two more using his bone dagger; carried Pterrence's staff out and teleported Pterrence clear of the hook horror; teleported Babs out of the Neogi's grip; was then dominated by Mother, teleported Babs back to her and flung a needle at Derfel; was knocked unconscious by the final rockfall.
+- [[Salt]]: used his extended psionic limb to cast his last Cure Wounds on Babs; resisted Mother's Command to grovel; was half-buried by the first rockfall and could not escape it; shoved broodling swarms away telekinetically; proposed trading the freed captives for Babs; broke Mother's mass suggestion with psionic discipline; stabilised Babs from range with Spare the Dying; ended pinned with broodlings burrowing into him.
 - [[Anselem]]: took cover behind fungal growth and burned Mother with two volleys of Scorching Ray; used Warding Flare to turn broodlings away from Salt; was half-buried by the first rockfall and stunned by Mother's psychic pulse. His player disconnected partway through and the table played his remaining turns: a Warding Flare for Babs, a missed final Scorching Ray, and his exit from the lair under Mother's mass suggestion.
 - [[Kit-Chac]]: Kit-Chac's player was absent. The recording does not place Kit-Chac in the action, though the DM awarded him half XP because he was present when the fight began and suggested he might help the party escape.
 

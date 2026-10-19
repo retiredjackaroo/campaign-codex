@@ -29,11 +29,13 @@ The party was led here by [[Leviath]] in Act II, Session 5 after crossing the aq
 
 The sanctuary houses an Alliance cell of ten, four of them officers:
 
-- [[Sarath]]: human preserver, cell leader
-- [[Nisat of the Cavern Moss]]: half-elf druid of the spores
-- [[Koresh Ironblood]]: mole warrior
-- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]]: halfling ranger
+- [[Sarath]] – human preserver, cell leader
+- [[Nisat of the Cavern Moss]] – half-elf druid of the spores
+- [[Koresh Ironblood]] – mole warrior
+- [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]] – halfling ranger
 
 ## Notes
 
 The cell lives by five aims (protect the Alliance, protect preservers, protect auxiliaries, oppose defilers, undermine the Sorcerer Kings); see [[The Alliance]] for detail. Alliance scouts checking unexplored reaches of the aquifer beyond the Spring have gone missing, an open thread at the close of Session 5.
+
+**Session 11:** The party returned from [[The Colony]] as heroes and was offered an open invitation to join the cell. The sanctuary's grotto pool is where the cell receives [[Master Avariah]]'s dragonfly messengers. If the party goes ahead with the rescue of [[Korno]], the cell intends to abandon this safe house and leave signs for the party to find its new location.

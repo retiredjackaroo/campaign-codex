@@ -48,6 +48,10 @@ The party has operated across multiple districts and locations within Raam, navi
 - [[The Wardens]] - martial faction
 - [[The Venerants of Dust]] - religious faction at [[The Furnace]]
 
+## Current state (Act II, Session 11)
+
+As reported by [[Leviath]]: [[The Templars]] rule absolutely from the Ivory Palace under [[High Kuatogagh Jahandar Shah|Jahandar Shah]]. House M'Ke has become a licensed merchant house sworn to Jahandar, and the nobles have been reduced to privileged subjects under Templar law. [[The Slums]]' survivors have been enslaved or conscripted into labour camps, and only patchwork resistance remains. The Nightrunners' leaders have fled the city. The clerics of [[Dregoth Cultists|Dregoth]] lead a new state religion, and the first festival of Dregoth is to include the sacrifice of [[Korno]]. The city is still rebuilding after the Inundation.
+
 ## Key events
 
 - **The Inundation of Raam**: a catastrophic event that destroyed or flooded parts of the city and killed [[The Padshah]]

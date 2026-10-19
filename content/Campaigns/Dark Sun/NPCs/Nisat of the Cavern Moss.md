@@ -31,3 +31,5 @@ A half-elf druid of the spores and one of the four officers of the [[The Allianc
 ## Notes
 
 First introduced by [[Sarath]] alongside the other officers when the party arrived at the sanctuary in Act II, Session 5.
+
+**Session 11:** Sent word to [[Master Avariah]] by plucking a shimmering green-and-blue dragonfly from the grotto pool, whispering to it and releasing it through the illusory wall. A strict follower of the aims, like [[Sarath]]. On Avariah's summons he said the aims are not always a straight path, and that she sees something in the deep places that ties back to the war above. [[Tarek Cricket Silvertwig|Tarek]] plans to draw on his knowledge of volatile foraged materials without telling him why. See [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]].
