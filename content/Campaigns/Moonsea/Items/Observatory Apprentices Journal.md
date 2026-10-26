@@ -13,8 +13,6 @@ tags:
   - side-quest
 ---
 
-# Observatory Apprentice's Journal
-
 A weathered but remarkably preserved leather journal found beneath broken marble on the gallery of [[The Shattered Observatory]]. It belonged to a young apprentice of the observatory. Most pages crumble on touch; one line remains legible:
 
 _Master says every answer creates another question. And tonight, I finally understand why that comforts him._
