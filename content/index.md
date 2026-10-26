@@ -69,8 +69,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="Pug and his companions on the road to Myth Drannor"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Moonsea side quest</span>
-        <strong>The City Must Judge</strong>
-        <span>The Moonstone is dormant, but Myth Drannor must still judge Pug worthy before the escort can enter the temple.</span>
+        <strong>Keeper of Memory</strong>
+        <span>In the ruined High Mage Quarter, the dying Heartstone of the Mythal has named Pug its Keeper of Memory.</span>
       </span>
     </a>
 <!-- continue-story:end -->

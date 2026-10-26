@@ -50,6 +50,16 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 6 - Notes|Session Notes]]
 - [[Over the Hills and Far Away|Kjeorn's Memorial Song]]
 
+#### Session 7, The City Must Judge
+
+- [[Session 7 - The City Must Judge|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 7 - Notes|Session Notes]]
+
+#### Session 8, Keeper of Memory
+
+- [[Session 8 - Keeper of Memory|The Narrative]]
+- [[Campaigns/Moonsea/Sessions/Chapter 11/Pugs Side Quest/Session 8 - Notes|Session Notes]]
+
 ## All NPCs and Powers
 
 - [[Elminster]]
@@ -83,6 +93,11 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Coronals Way|Coronal's Way]]
 - [[Moon Plaza]]
 - [[Temple of Sehanine Moonbow]]
+- [[High Mage Quarter]]
+- [[Heartstone of the Mythal]]
+- [[The Shattered Observatory]]
+- [[The Great Way Circle]]
+- [[Collapsed Crystal Conservatory]]
 
 ## All Factions
 
@@ -109,6 +124,11 @@ For the wider campaign, see the [[Campaigns/Moonsea/Archive|main campaign Archiv
 - [[Potion of Heroism]]
 - [[Moonstone]]
 - [[Moon Phase Discs]]
+- [[Polished Black Stone]]
+- [[Observatory Apprentices Journal|Observatory Apprentice's Journal]]
+- [[Ancient Seeds]]
+- [[Bronze Purifying Vessel]]
+- [[Great Way Circle Stone]]
 
 ## Lore and Handouts
 

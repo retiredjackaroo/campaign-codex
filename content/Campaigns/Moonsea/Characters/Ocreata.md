@@ -42,3 +42,12 @@ Ocreata wears ancient, torn armour and fights with a glaive. Long survival in th
 - Explained that the Moon Deva is a manifestation of the damaged but living Mythal and does not itself decide who is worthy.
 - Tore Mar free from bindings of liquid moonlight and distracted the deva with glaive and javelin attacks while the others searched.
 - Warned against forcing entry: Myth Drannor judged him unworthy and has trapped him through repeated deaths for roughly seven centuries.
+
+## Session 8, Keeper of Memory
+
+- Recognised the [[Heartstone of the Mythal]] as the place where Myth Drannor's fall began, which he has avoided for seven centuries out of shame. Went anyway: “I don't want to do that, but I will do that.”
+- Translated the observatory's Espruar inscriptions, lit the torch for the [[Polished Black Stone]] experiment, and boosted Pug up to the broken gallery and caught him on the way down.
+- Sheathed his glaive and knelt before the Heartstone: “I've sworn an oath before. I've let you and this city down. And I know my words mean little at this point, but know that I will do whatever it takes to keep you safe, keep the city safe, and see that the memories here live on.” He realised the city's bond with its Mythal had been forgotten through hubris.
+- Recalled the [[Collapsed Crystal Conservatory]] as one of Tel'Mythar's most beloved institutions, and objected to removing its purifying vessel.
+- Came to understand what Myth Drannor lost before its fall: nobles and archmages pursuing their own power, and Knights so sure of victory that the people were left unprotected.
+- Volunteered to embody the virtue of Return, “because I'm stuck here.”

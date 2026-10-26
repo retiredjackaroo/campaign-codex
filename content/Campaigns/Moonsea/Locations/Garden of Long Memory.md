@@ -19,4 +19,6 @@ The garden showed the escort a living memory of families gathering for a hopeful
 
 The ensuing battle ended when Kjeorn traded his own life to the Binder for the lives of the four fallen escorts. Pug, Ripper, Mar and Morwyn awoke here beneath a chained memorial stone bearing Kjeorn's name, while the Binder had departed with Kjeorn's shade. Herschel and Ocreata stabilised the survivors before leading them to shelter beyond the garden.
 
+In Session 8 the escort took a long rest at the garden's southern edge. On every watch they heard an occasional rattle of chains from within the garden, followed by a very low laugh.
+
 **First appears:** [[Session 3 - Enter as Guests, Leave as Guardians]]

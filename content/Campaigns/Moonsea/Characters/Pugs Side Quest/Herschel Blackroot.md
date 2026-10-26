@@ -62,3 +62,12 @@ Character concept based on Jackson Lamb (the fictional Slough House spymaster). 
 - Wild Shaped into a riding horse to cross and search the plaza at speed.
 - Struck the deva with hooves and Primal Strike while trying to break its concentration on Pug's Gravity Sinkhole.
 - Argued that the group should respect Myth Drannor's last guardian, seek the city's trials and return only after being judged worthy.
+
+## Session 8, Keeper of Memory
+
+- Kept a watch at the edge of the Garden of Long Memory and heard nothing beyond the rattling and low laugh the others heard.
+- Studied the [[Heartstone of the Mythal]] from a distance and found its trunk to be crystal limbs grown from the stone, unlike any tree he knew.
+- Found the [[Polished Black Stone]] at [[The Shattered Observatory]] and held a lens over it, explaining it by way of a travelling salesman's “moving pictures”. Nobody followed.
+- Answered the Heartstone first, “We wish to repair the damage,” then sent his spores into the crystal and learned that it had kept the city whole and that mending it is beyond him.
+- Read the runes of [[The Great Way Circle]] and identified its seven principles of travel.
+- Collected cuttings at the [[Collapsed Crystal Conservatory]], took charge of its unidentifiable [[Ancient Seeds]], and noticed that none of its plants compete with one another.

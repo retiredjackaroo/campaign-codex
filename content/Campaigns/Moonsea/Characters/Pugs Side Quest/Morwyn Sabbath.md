@@ -81,3 +81,11 @@ The Knights, Sylvan Guard and outpost elves have their own long history together
 - Twice attempted Dimension Door through Myth Drannor's unstable magic. The first failed harmlessly; the second produced sonic booms at both endpoints and minor thunder damage but no passage.
 - Cast Mass Healing Word across the escort as the prolonged search wore them down.
 - Proposed taking the weakened deva as a shortcut into the temple, then accepted Pug's decision to seek the city's trials instead.
+
+## Session 8, Keeper of Memory
+
+- On watch, heard the most beautiful female voice he has ever heard, singing operatically directly south of the camp, and told everyone about it at breakfast.
+- Looked into the [[Polished Black Stone]], saw stars moving across its surface and declared it a micro galaxy.
+- Answered the [[Heartstone of the Mythal]] by stringing his lute and singing, not to heal it but to comfort it and honour the Mythal's memory. His song completed the escort's answer.
+- Suggested Pug keep Myth Drannor's memory in a song; Ripper proposed Pug write it down for Morwyn to adapt into a song or play.
+- Noted in passing: [[The Great Way Circle]] bears the sigil of Semberholme, the city named in his own background.

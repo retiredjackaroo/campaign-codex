@@ -137,7 +137,7 @@ The party, exiled alongside Lord Hector's refugees at the Ring Islands, has been
 
 ![[Pugs side quest team.png]]
 
-**Pug's Side Quest: The City Must Judge** — The reunited escort completed the Moon Plaza's lunar mechanism and deactivated the Moonstone. A weakened Moon Deva still bars the temple while Pug seeks the city's remaining trials and a judgment of worthiness.
+**Pug's Side Quest: Keeper of Memory**: In the ruined High Mage Quarter, the escort answered the dying Heartstone of the Mythal together and slowed its decline. The Heartstone named Pug its Keeper of Memory, and a star stone revealed the pool of radiance beneath the Temple of Sehanine Moonbow.
 
 ➡️ [[Sessions/Chapter 11/Pugs Side Quest/index|Enter Pug's Side Quest]]
 

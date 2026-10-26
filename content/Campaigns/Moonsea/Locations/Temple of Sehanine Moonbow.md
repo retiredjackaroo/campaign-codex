@@ -22,5 +22,7 @@ Weathered statues of priests, pilgrims, families and children line the approach.
 
 The missing Harper Aranis was last followed into ruins beneath this temple, where stone steps had begun moving between visits. Pug's escort has deactivated the Moonstone outside but has not entered the sanctuary. The city must still judge Pug worthy through further trials; forcing entry would mean passing the weakened deva without changing that judgment.
 
-**Status:** Unentered; the Moonstone is dormant, and the [[Moon Deva]] remains the last active barrier
+At [[The Shattered Observatory]], a star stone showed the Moonboat constellation pointing to this temple and a pool forming beneath it: the pool of radiance Pug was sent for. An inscription read _The heavens mark the hour, the dead bear witness, and the waters receive the promise._ Pug concluded that a Coronal-to-be had to spend time beneath the temple before ascending.
+
+**Status:** Unentered; the Moonstone's ward is active again, and the [[Moon Deva]] remains a barrier until the city judges the party worthy
 **First appears:** [[Session 6 - Beneath the Same Moon]]

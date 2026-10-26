@@ -22,5 +22,7 @@ The crystal turned towards [[Pug DAstibar|Pug D'Astibar]] after his vision of th
 
 The reunited escort recovered and fitted the remaining lunar discs while the [[Moon Deva]] tried to drive them away. When [[Ripper]] fitted the final waxing-crescent disc, all eight phases glowed and the Moonstone descended into its mount above the fountain.
 
-**Status:** Inactive; all eight lunar discs are fitted. The party discussed removing one disc to reactivate the ward before leaving, but deferred the action.
+Before leaving for the High Mage Quarter, the escort removed one disc so that the Moonstone would wake and guard the temple in their absence. The next morning it sat quietly in its mount above a cracked, dry fountain.
+
+**Status:** Active again as a ward, with one lunar disc removed
 **First appears:** [[Session 6 - Beneath the Same Moon]]

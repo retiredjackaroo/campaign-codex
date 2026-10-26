@@ -7,7 +7,7 @@ aliases:
 tags:
   - pc
   - party
-status: In Myth Drannor; seeking the city's judgment
+status: In Myth Drannor; Keeper of Memory, still seeking the city's judgment
 dg-publish: true
 publish: true
 ---
@@ -16,7 +16,7 @@ publish: true
 
 A wizard who worked at [[Mantors Library|Mantor's Library]] under [[Cassra Brandywine]]. He stayed behind in [[Phlan]] when the main party departed, then his personal business carried him through Shadowdale and physically into [[Myth Drannor]] with a separate escort. Currently level 7.
 
-**Status:** In Myth Drannor; the Moonstone is dormant, but the city has not yet judged him worthy to enter the temple<br>
+**Status:** In Myth Drannor's High Mage Quarter; named Keeper of Memory by the Heartstone of the Mythal, but not yet admitted to the temple<br>
 **First appears:** [[Chapter 11 - Episode 1 - Session 1 The Silver Pyramid]]
 
 ## Side quest: escort to Myth Drannor
@@ -69,3 +69,13 @@ Pug's "personal business" turned out to involve [[Elminster]] and [[Shadowdale]]
 - Was trapped in a ten-foot Gravity Sinkhole until the deva replaced it with a gust of wind.
 - Deliberately let that gust hurl him across the fountain, dropped the waxing-gibbous disc into its socket as he flew over and earned “Well played” from the guardian.
 - Learned that Myth Drannor's living Mythal—not the deva—must judge him worthy through further trials before he can enter the temple and inherit the city's memory.
+
+### Session 8, Keeper of Memory
+
+- Chose the [[High Mage Quarter]] as the escort's next destination and saw it restored to its golden age. An old mage told him, “Magic was never the glory of Myth Drannor. We were its stewards,” and left him with three lines: _What is preserved must be passed on. What is powerful must be made to serve. And what is lost can still be remembered._
+- Copied the star charts of [[The Shattered Observatory]] with calligrapher's tools and his Wizardly Quill. Holding the [[Polished Black Stone]], he saw the Moonboat constellation point to the [[Temple of Sehanine Moonbow]] and a pool forming beneath it.
+- Concluded that all his visions come from the decade of the third Coronal's coronation, and that a Coronal-to-be had to spend time beneath the temple before ascending.
+- Found the [[Observatory Apprentices Journal|apprentice's journal]] on the observatory gallery.
+- Asked the [[Heartstone of the Mythal]] what it needed to be well again and offered it his magic. At the end of the escort's answers, its roots curled around his feet, it named him the **Keeper of Memory**, and he accepted the title aloud.
+- Took a [[Great Way Circle Stone]] and the [[Bronze Purifying Vessel]]. He is collecting components for a set of Denlor's half-completed spells: stones from three teleportation circles, a book from a deceased scholar and water from a fountain in a Mythal city.
+- Believes hubris brought Myth Drannor down, and wonders whether the third Coronal was part of it.

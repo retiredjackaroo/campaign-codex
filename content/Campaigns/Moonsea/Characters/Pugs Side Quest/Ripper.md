@@ -6,7 +6,7 @@ tags:
   - pc
   - side-quest
   - pugs-side-quest
-status: Alive; at the Moon Plaza
+status: Alive; in the High Mage Quarter
 dg-publish: true
 publish: true
 ---
@@ -18,7 +18,7 @@ A Half-Elf Hollow Warden Ranger, played by [[Lavinia Zafir]]'s player as a secon
 
 A former bandit captain who once terrorised the lands around these parts with her crew of brigands. After poking her nose too deeply into [[Myth Drannor]]'s secrets, she experienced an unknown horror, then was defeated and caught by the [[Knights of Myth Drannor]]. Forever changed, she now reluctantly works with what she considers the overly stuck-up Knights against greater threats to Myth Drannor, determined to keep what is buried deep within secret and safe.
 
-**Status:** Alive; at the [[Moon Plaza]] after fitting the final lunar disc
+**Status:** Alive; exploring the [[High Mage Quarter]] with the escort
 **First appears:** [[Session 1 - Escort to Myth Drannor - Narrative]]
 
 ## Alter Ego
@@ -70,3 +70,12 @@ When whatever she encountered beneath [[Myth Drannor]] takes hold, Ripper's form
 - Entered Wrath of the Wild, struck the Moon Deva with dagger and sword, then was swept twenty feet away by a tide of water.
 - Searched the plaza methodically through repeated Moonstone blasts and found the waxing-crescent disc.
 - Forced her way through the deva's sustained wind and fitted the final disc, completing the lunar mechanism and deactivating the Moonstone.
+
+## Session 8, Keeper of Memory
+
+- On watch, heard warrior chants and oaths to the south.
+- Proposed the escort move stealthily into the [[High Mage Quarter]].
+- Held the [[Polished Black Stone]] at [[The Shattered Observatory]], saw the vast darkness between the stars, then rolled a natural 1 shaking it about and made herself dizzy.
+- Answered the [[Heartstone of the Mythal]] by trying to understand what it wanted, and sensed it wished neither to end nor be restored, only to be understood.
+- Found the seed cabinet at the [[Collapsed Crystal Conservatory]] and gave the [[Ancient Seeds]] to Herschel to preserve.
+- Linked the conservatory's non-competing plants to the Great Way Circle's virtues.

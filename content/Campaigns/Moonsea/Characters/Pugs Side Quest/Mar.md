@@ -66,3 +66,11 @@ One of the Sylvan folk, Mar usually works as a guide, helping others navigate th
 - Was bound by ribbons of liquid moonlight until Ocreata tore them loose; the deva's next gust immediately rolled her twenty feet across the plaza.
 - Healed Pug for 16 HP while he was pinned at the bottom of a Gravity Sinkhole.
 - Supported the plan to restore the Moonstone's defence while the party seeks the city's remaining trials.
+
+## Session 8, Keeper of Memory
+
+- On watch, heard hooves, cracking whips and people crying out under the lash to the southeast.
+- Scouted the route north past the silent Hall of Knights and the rotting, terraced Noble Quarter.
+- Helped Pug read the star charts at [[The Shattered Observatory]], identified its meridian pillar, and recognised that the [[Polished Black Stone]] shows the skies over Myth Drannor at another time.
+- Answered the [[Heartstone of the Mythal]] by speaking of her guardianship, then redirected the river streams the crater had cut off so that water reaches the Heartstone again.
+- Spotted the sigils of Semberholme and Tangled Trees in [[The Great Way Circle]] with Herschel.

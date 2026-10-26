@@ -39,4 +39,10 @@ Inside, [[Pug DAstibar|Pug]] recognised the [[Hall of Scrolls]], [[Garden of Lon
 
 At the [[Moon Plaza]], Pug witnessed the investiture of the third Coronal. The city's people shared responsibility for one another, and the Coronal declared that authority was service rather than dominion. The memory appeared to address Pug directly.
 
-The escort is now fighting the [[Moon Deva]] and a hostile [[Moonstone]] before the [[Temple of Sehanine Moonbow]].
+The escort fought the [[Moon Deva]] and fitted the lunar discs to deactivate the [[Moonstone]] before the [[Temple of Sehanine Moonbow]], then learned that the city itself must judge them through further trials.
+
+## The High Mage Quarter
+
+In Session 8 the escort travelled north past the Hall of Knights and the overgrown Noble Quarter into the devastated [[High Mage Quarter]]. At its centre lies the [[Heartstone of the Mythal]], the wounded heart of the city's Mythal, where the fiends' first gates opened when the city fell. The escort's answers to the Heartstone slowed its decline and eased the city's wild magic, and it named Pug the Keeper of Memory. A star stone at [[The Shattered Observatory]] showed that the pool of radiance lies beneath the Temple of Sehanine Moonbow.
+
+**Districts visited or passed:** [[Grand Avenue]], [[Garden of Long Memory]], [[Coronals Way|Coronal's Way]], [[Moon Plaza]], [[High Mage Quarter]]. Also named by the GM: the Hall of Knights, the [[House of Song]], the Market of Many Peoples, the [[Hall of Scrolls]] and the Noble Quarter.

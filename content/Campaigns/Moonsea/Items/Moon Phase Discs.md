@@ -23,5 +23,7 @@ During the continuing fight, the escort recovered and fitted the first-quarter, 
 
 Session 6 recorded nine sockets around the fountain. In Session 7 the GM counted eight including the full moon, and the mechanism completed once eight discs were fitted. Treat the socket count as eight unless later sessions say otherwise.
 
-**Status:** All eight lunar phases fitted. Removing one disc to reactivate the ward is a proposed next action, not yet completed.
+Before Session 8's journey north, one disc was removed (by [[Ocreata]], per the table) to reactivate the Moonstone while the escort is away. Which phase was removed, and who now carries it, was not recorded.
+
+**Status:** Seven of eight fitted; one removed to keep the Moonstone's ward active
 **First appears:** [[Session 6 - Beneath the Same Moon]]
