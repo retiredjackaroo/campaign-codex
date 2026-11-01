@@ -61,8 +61,8 @@ tags:
       <span class="resume-card__art" role="img" aria-label="The Born Under a Dark Sun adventuring party"></span>
       <span class="resume-card__body">
         <span class="resume-grid__campaign">Dark Sun</span>
-        <strong>A Summons from the Master</strong>
-        <span>Out of the collapsing hive and back at the Hidden Spring, the party has vowed to free Korno before Raam sacrifices him to Dregoth, and Master Avariah has summoned them.</span>
+        <strong>The Master's Bargain</strong>
+        <span>Master Avariah wants the Gulbadan secret before Korno. Salt has stayed below, and the party is back in Raam with Korno's last captain ready to stage a diversion.</span>
       </span>
     </a>
     <a class="resume-card resume-card--pug" href="./campaigns/moonsea/sessions/chapter-11/pugs-side-quest/" aria-label="Continue Pug's Side Quest">

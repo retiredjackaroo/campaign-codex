@@ -18,6 +18,10 @@ tags:
 - [[Derfel]]: companion
 - [[Brave]]: predecessor, killed in Act II, Session 10
 
+## Notable moments
+
+- **Act II, Session 12:** Padded into [[Master Avariah]]'s chamber and was left with [[Salt]] for his private audience, then followed Derfel through Raam's streets undisguised.
+
 ## Notes
 
 Name as spoken at the table ("This is Grave"). No portrait yet.

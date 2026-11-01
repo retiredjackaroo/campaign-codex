@@ -17,7 +17,7 @@ A Psion and, in truth, a Water Genasi, though for a long time he presented himse
 
 That secret broke in Act II, Session 5. During the cloaker fight over the aquifer lake in [[The Cisterns]], a cloaker dragged Salt out over the water and his hood came away. [[Kit-Chac]] and [[Babs|Her]] saw his blue-tinged hair, finned ears and the faint glistening ripple of his skin, and understood at once that he was not human, though not precisely what he was. [[Tchk Tchk Gulbadani|Tchk'Tchk Gulbadani]], drawing on old study, recognised him as an elemental being of water and afterwards sought him out to compare notes. [[Pterrence]] had known for some time and said nothing. Salt still passes as human to strangers and NPCs.
 
-**Status:** Alive
+**Status:** Alive; staying with [[Master Avariah]] beneath Raam (Act II, Session 12)
 **First appears:** <!-- link to Episode 1 once built -->
 
 ## Relationships
@@ -32,6 +32,7 @@ That secret broke in Act II, Session 5. During the cloaker fight over the aquife
 - **Act II, Session 9:** Reached two levels of hive strain but broke [[The Voice]]'s mass suggestion through psionic discipline. Helped restrain the compelled [[Anselem]], recovered [[The Voices Amulet|The Voice's Amulet]] with Mage Hand, then landed a telekinetic strike that freed [[Kit-Chac]] from a Neogi mind hook and pushed the [[Hook Horror]] away from the party. His prior exhaustion remained unresolved.
 - **Act II, Session 10:** Spent his last Cure Wounds on [[Babs]] from range with an extended psionic limb and resisted [[The Hive Mother]]'s Command to grovel. Was half-buried by a rockfall alongside [[Anselem]] and stayed pinned for the rest of the fight. Proposed trading the freed captives for Babs, broke Mother's mass suggestion with psionic discipline, and stabilised Babs with Spare the Dying. Ended still trapped, with broodlings burrowing into him, as [[Derfel]] reached him.
 - **Act II, Session 11:** Freed himself from the rubble and, with his rolls made by Pterrence's player, ran point through the collapsing [[The Colony|colony]]: he flung debris aside telekinetically, picked the safest passages, stretched his limbs with psionic energy to outpace the others, and crossed the final chasm on telekinetically placed stepping stones, spending both Luck Points and his heroic inspiration. Made the group persuasion pitch to [[Tarek Cricket Silvertwig|Tarek]] for help with a distraction.
+- **Act II, Session 12:** Singled out by [[Master Avariah]], who called him "one of [this world's] rarest beings" and did not believe his arrival was an accident. Argued that Korno matters because the people and the Templars both treat him as important. Met Avariah alone, with [[Grave]] at his side, and agreed to stay behind to help the Alliance with its work on the springs and water. He judged her sincere and much older than she looks. Gave most of his ceramic to [[Pterrence]] before the party left. His time with the Alliance continues off-screen.
 
 ## Notes
 

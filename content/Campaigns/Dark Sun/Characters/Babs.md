@@ -34,6 +34,7 @@ A mute Mul gladiator and the party's tank. Cannot speak but communicates through
 - **Act II, Session 9:** Gained one level of hive strain in the resonant chamber but resisted a Neogi mind hook. Repeatedly grappled the compelled [[Kit-Chac]] and [[Anselem]], fought the servants of [[The Hive Mother]], and used Second Wind to keep herself moving through two consecutive battles.
 - **Act II, Session 10:** Opened on the [[Hook Horror]] with a feinting attack, was frightened out of Mother's chamber and swarmed twice by broodlings, and came back to recover her sword. Cut [[The Hive Mother]] across the neck and took off one of her legs, rising once on sheer endurance before an attendant [[Neogi]] dropped her and left her two failures from death. Mother offered to spare the party in exchange for her; the party refused. [[Salt]] stabilised her, but she ended the session unconscious beside Mother's body as the chamber began to collapse.
 - **Act II, Session 11:** Unconscious throughout the escape from [[The Colony]]; [[Anselem]] carried her out and later revived her with an improvised poultice. Her player was absent.
+- **Act II, Session 12:** Recalled the Gulbadan tapestry whose aqueduct lines to the estate ran off the map, which became the heart of [[Master Avariah]]'s request. Sized Avariah up as a faction leader seeking power, and stood nodding beside [[Derfel]] as he argued with her. Took a simple glaive from the Hidden Spring stores.
 
 ## Notes
 

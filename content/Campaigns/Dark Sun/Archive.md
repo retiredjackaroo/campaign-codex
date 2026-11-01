@@ -29,13 +29,15 @@ The complete cumulative record for the campaign: every session, every NPC, every
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 10/Session 10 - Notes|Session 10 - Notes]]
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Narrative|Session 11 - Narrative]]
 - [[Campaigns/Dark Sun/Sessions/Act II/Session 11/Session 11 - Notes|Session 11 - Notes]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 12/Session 12 - Narrative|Session 12 - Narrative]]
+- [[Campaigns/Dark Sun/Sessions/Act II/Session 12/Session 12 - Notes|Session 12 - Notes]]
 
 ## All NPCs
 
 ### Persistent
 
 - [[The Padshah]] - deceased, Inundation of Raam
-- [[Neith]]
+- [[Neith]] - found as a forced labourer in the slums, Act II, Session 12
 - [[Eswar]] and [[Anjali]] - farmers
 
 ### Valthar's Edge
@@ -56,8 +58,9 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Slums
 
-- [[Korno]] - captured, Act II, Session 4; alive and marked for sacrifice, Act II, Session 11
-- [[Grainseed]], [[Aravak]], [[Sura the Clay-singer]]
+- [[Korno]] - captured, Act II, Session 4; alive and marked for sacrifice, Act II, Session 11; Restoration Day named, Act II, Session 12
+- [[Jalen Marek]] - Korno's last captain, Act II, Session 12
+- [[Grainseed|Ammat Grainseed]], [[Aravak]], [[Sura the Clay-singer]]
 
 ### The Thaberos Fields
 
@@ -81,7 +84,7 @@ The complete cumulative record for the campaign: every session, every NPC, every
 
 ### The Hidden Spring
 
-- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar), [[Master Avariah]] (heard, not yet met), [[Grave]] (Derfel's companion)
+- [[Sarath]], [[Nisat of the Cavern Moss]], [[Koresh Ironblood]], [[Tarek Cricket Silvertwig|Tarek "Cricket" Silvertwig]], [[Narek]] (rescued; hive-conditioned), [[Scylla]] (rescued; hive-conditioned), [[Squeaky]] (Pterrence's familiar), [[Master Avariah]] (met, Act II, Session 12), [[Grave]] (Derfel's companion)
 - [[Neogi]], [[Umber Hulk]], [[Hook Horror]], [[The Voice]] (deceased), [[The Hive Mother]] (deceased, Act II, Session 10); the colony collapsed in Act II, Session 11
 
 ## All Locations

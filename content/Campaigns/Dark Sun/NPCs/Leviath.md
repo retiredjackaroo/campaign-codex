@@ -14,7 +14,7 @@ tags:
 # Leviath
 
 ![[Campaigns/Dark Sun/Assets/Pasted image 20260628013925.png]]
-A half-giant and representative of [[The Alliance]], the hidden resistance operating beneath the city in the cisterns and aqueduct channels. Wife of [[Korno]], head of the Slums faction. Was guiding the party and approximately fifteen peasants, including children and elderly, through the occupied plaza during Act II, Session 4.
+A half-giant and representative of [[The Alliance]], the hidden resistance operating beneath the city in the cisterns and aqueduct channels. An ally of [[Korno]], head of the Slums faction, and once one of the two rival prophets in Raam's slums, preaching equality and self-determination. Was guiding the party and approximately fifteen peasants, including children and elderly, through the occupied plaza during Act II, Session 4.
 
 **Status:** Alive
 **Affiliation:** [[The Alliance]]
@@ -22,7 +22,7 @@ A half-giant and representative of [[The Alliance]], the hidden resistance opera
 
 ## Relationships
 
-- [[Korno]]: husband; head of the Slums faction
+- [[Korno]]: ally; head of the Slums faction
 - [[The Alliance]]: representative or member
 - [[Sarath]]: old friend; leader of the [[The Hidden Spring]] cell that shelters her
 
@@ -31,6 +31,8 @@ A half-giant and representative of [[The Alliance]], the hidden resistance opera
 - Act II, Session 5: led the party and a column of refugees deeper through [[The Cisterns]] to the concealed [[The Hidden Spring]] sanctuary. During the cloaker ambush on the aquifer ledge she was grappled and dragged over the water (she counts as Large for grappling despite a medium token) and had to be hauled free by [[Kit-Chac]] while drowning. She then ended the fight with a calming psionic pulse in a thirty-foot radius, causing the four cloakers within reach to release their captives and retreat; the table credited her as the encounter's MVP.
 
 - Act II, Session 11: brought the party news from [[Raam]] each evening at [[The Hidden Spring]]: absolute Templar rule, the rise of the clerics of Dregoth, and that [[Korno]] lives and is to be sacrificed. "We must try to free him." She helped plan the rescue but warned that, as a known enemy of the Templars, her direct involvement would add risk, and she insisted that civilians be kept clear of any explosion. [[Master Avariah]] then instructed her to bring the party to her; Leviath knows the place and urged the party to treat the summons as a courtesy, not a trap.
+
+- Act II, Session 12: led the party most of a day deeper beneath Raam to [[Master Avariah]]'s pool. She has a way of reaching Avariah that does not reveal the Master's location, and will be the party's link to her after the rescue. Told the party that [[Jalen Marek]] now leads the slums resistance, and knew where to find [[Neith]]. She brought them to the surface at night through a dead well in the arena markets, but could go no further with them without being recognised by the patrols.
 
 ## Notes
 
